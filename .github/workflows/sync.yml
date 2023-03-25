@@ -33,5 +33,5 @@ jobs:
           git add ./content
           git commit -m "Syncing content $(date -I)"
 
-          git fetch origin master
-          git push origin HEAD:master
+          git fetch origin main
+          git push origin HEAD:main
