@@ -1,5 +1,6 @@
 generate:
 	python build/generate.py
+	cp -r assets/* static
 
 deps:
 	pip install -r build/requirements.txt
