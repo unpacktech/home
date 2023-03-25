@@ -5,6 +5,7 @@ generate:
 deps:
 	pip install -r build/requirements.txt
 	mkdir -p static
+	mkdir -p content
 
 env:
 	python3 -m virtualenv env
