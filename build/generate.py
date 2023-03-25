@@ -40,10 +40,18 @@ for file in files:
         content = f.read()
     parsed = json.loads(content)
     path = parsed.get("date").replace("/", "-") + ".html"
+    permalink = "https://unpack.tech/"+path.replace(".html", "")
+    # write the regular version for browsing
     with open(BASE_FOLDER + "/" + path, "w") as f:
         template = env.get_template("daily.html")
-        f.write(template.render(page=page, content=parsed, **context))
+        f.write(template.render(page=page, content=parsed, permalink=permalink, **context))
         SITEMAP_URLS.append((path, 0.7))
+        print("Generated", path)
+    # write the simple version for email
+    path = parsed.get("date").replace("/", "-") + "-email.html"
+    with open(BASE_FOLDER + "/" + path, "w") as f:
+        template = env.get_template("email.html")
+        f.write(template.render(page=page, content=parsed, permalink=permalink, **context))
         print("Generated", path)
 
 # SITEMAP
