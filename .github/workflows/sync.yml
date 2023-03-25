@@ -22,6 +22,7 @@ jobs:
       - name: Sync 🔧
         run: |
           make clean
+          rm -rf ./content/*.json
           SHEET=${{ github.event.inputs.sheet }} make sync
 
       - name: Deploy 🚀
