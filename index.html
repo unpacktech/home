@@ -6,6 +6,20 @@
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io/favicon-16x16.png">
     <link rel="manifest" href="./favicon_io/site.webmanifest">
+    <script>
+        (function (s, e, n, d, er) {
+            s['Sender'] = er;
+            s[er] = s[er] || function () {
+            (s[er].q = s[er].q || []).push(arguments)
+            }, s[er].l = 1 * new Date();
+            var a = e.createElement(n),
+                m = e.getElementsByTagName(n)[0];
+            a.async = 1;
+            a.src = d;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+        sender('ec1e5e1aef7433')
+      </script>
 </head>
 <style>
 body{
@@ -20,9 +34,8 @@ body{
     height: 100vh;
     justify-content: center;
 }
-
-.item{
-	 align-self: center;
+.box{
+    align-self: center;
 }
 .header{
   text-align: center;
@@ -30,7 +43,7 @@ body{
 </style>
 <body>
   <div class="container">
-    <div class="item">
+    <div class="box">
       <h1 class="header">📦 unpack.tech</h1>
       <h3>
         <span id="punchline">
