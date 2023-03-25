@@ -2,6 +2,9 @@ generate:
 	python build/generate.py
 	cp -r assets/* static
 
+sync:
+	python build/sync.py
+
 deps:
 	pip install -r build/requirements.txt
 	mkdir -p static
