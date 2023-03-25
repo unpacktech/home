@@ -1,0 +1,33 @@
+name: Sync
+on:
+  workflow_dispatch:
+    inputs:
+      sheet:
+        description: 'Sheet name'
+        required: true
+        default: '2023Q1'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Deps
+        run: |
+          make deps
+
+      - name: Sync 🔧
+        run: |
+          make clean
+          SHEET=${{ github.event.inputs.sheet }} make sync
+
+      - name: Deploy 🚀
+        run: |
+          git add ./content
+          git commit -m "Syncing content $(date -I)"
+
+          git fetch origin master
+          git push origin HEAD:master
