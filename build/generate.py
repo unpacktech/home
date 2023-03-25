@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 
 import datetime
-import re
-import os
-import string
+import json
 import yaml
+import glob
 from jinja2 import Environment, FileSystemLoader
 from jinja_markdown import MarkdownExtension
 
@@ -35,6 +34,18 @@ for page in pages:
         print("Generating page:", page)
         template = env.get_template(page)
         f.write(template.render(page=page, **context))
+
+# DAILY ITEMS
+print(DIVIDER)
+files = glob.glob("./content/*.json")
+for file in files:
+    with open(file, "r") as f:
+        content = f.read()
+    parsed = json.loads(content)
+    print(parsed)
+    with open(BASE_FOLDER + "/" + parsed.get("date").replace("/", "-") + ".html", "w") as f:
+        template = env.get_template("daily.html")
+        f.write(template.render(page=page, content=parsed, **context))
 
 # SITEMAP
 print(DIVIDER)

@@ -1,26 +1,39 @@
 {
-    "items": [
+    "content": [
         {
-            "Date": "2023/03/25",
-            "Category": "Electric cars \ud83d\ude97",
-            "Title": "Tesla car prices drop",
-            "Link": "https://arstechnica.com/cars/2023/01/tesla-drops-prices-up-to-20-percent-in-attempt-to-drive-sales/",
-            "Description": "Tesla drops prices up to 20%, prices now start at $43,990."
+            "category": "Programming",
+            "stories": [
+                {
+                    "Title": "The Art of Command Line",
+                    "Link": "https://github.com/jlevy/the-art-of-command-line",
+                    "Description": "Everything you need to use command line like a seasoned pro in a single page.",
+                    "Time": "15"
+                }
+            ]
         },
         {
-            "Date": "2023/03/25",
-            "Category": "Programming",
-            "Title": "The Art of Command Line",
-            "Link": "https://github.com/jlevy/the-art-of-command-line",
-            "Description": "Everything you need to use command line like a seasoned pro in a single page."
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Falcon Heavy lands again",
+                    "Link": "https://www.spacex.com/launches/mission/?missionId=ussf-67-pl",
+                    "Description": "Second launch and landing of these Falcon Heavy boosters",
+                    "Time": "2"
+                }
+            ]
         },
         {
-            "Date": "2023/03/25",
-            "Category": "Rocket science \ud83d\ude80",
-            "Title": "Falcon Heavy lands again",
-            "Link": "https://www.spacex.com/launches/mission/?missionId=ussf-67-pl",
-            "Description": "Second launch and landing of these Falcon Heavy boosters"
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla car prices drop",
+                    "Link": "https://arstechnica.com/cars/2023/01/tesla-drops-prices-up-to-20-percent-in-attempt-to-drive-sales/",
+                    "Description": "Tesla drops prices up to 20%, prices now start at $43,990.",
+                    "Time": "3"
+                }
+            ]
         }
     ],
-    "title": "SpaceX lands again, Tesla cuts prices, command line magic"
+    "title": "SpaceX lands again, Tesla cuts prices, command line magic",
+    "date": "2023/03/25"
 }

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="container">
+        <div class="box">
+            <h1 class="header">{{ headline }}</h1>
+            <h3 class="header">{{ content.date }}</h3>
+
+            <h2 class="header">{{ content.title }}</h2>
+            {% for item in content.content %}
+            <div>
+                <h3 class="category">{{ item.category }}</h3>
+                {% for story in item.stories %}
+                <div>
+                    <h4><a target="_blank" href="{{ story.Link }}">{{ story.Title }}</a> ({{ story.Time }} min)</h4>
+                    <p>
+                        {{ story.Description }}
+                    </p>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

@@ -24,21 +24,27 @@ for item in parsed:
 
 
 for key, value in MAP_BY_DATE.items():
-    filtered = []
+    filtered = collections.defaultdict(list)
     title = ""
     for item in value:
         if item.get("Category").lower() == "newsletter title":
-            title = item.get("Title")
+            title = item
             continue
-        filtered.append({
+        filtered[item.get("Category", "")].append({
             k :v
             for k, v in item.items()
-            if k not in ["Characters"]
+            if k not in ["Characters", "Date", "Category"]
         })
-    filtered.sort(key=lambda x: x.get("Category"))
     output = json.dumps(dict(
-        items=filtered,
-        title=title,
+        content=[
+            {
+                "category": cat,
+                "stories": items,
+            }
+            for cat, items in filtered.items()
+        ],
+        title=title.get("Title"),
+        date=title.get("Date"),
     ), indent=4)
     path = "./content/" + key.replace("/","-") + ".json"
     with open(path, "w") as out:
