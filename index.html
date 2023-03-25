@@ -36,24 +36,37 @@ body{
 }
 .box{
     align-self: center;
+    text-align: center;
 }
 .header{
-  text-align: center;
+    text-align: center;
+}
+.punchline{
+    padding-bottom: 20px;
+}
+.btn{
+    font-size: 1.17em;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f55d64;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.btn:hover{
+    background-color: RGB(48, 19, 36);
+    border: solid 1px #f55d64;
 }
 </style>
 <body>
-  <div class="container">
-    <div class="box">
-      <h1 class="header">📦 unpack.tech</h1>
-      <h3>
-        <span id="punchline">
-            Free daily update on technology, startups & science
-        </span>
-        </h3>
+    <div class="container">
+        <div class="box">
+            <h1 class="header">📦 unpack.tech</h1>
+            <h3 class="punchline"><span id="punchline">Free daily update on technology, startups & science</span></h3>
+            <btn id="subscribe-button" class="btn">subscribe</btn>
+        </div>
     </div>
-  </div>
-  <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
-  <script>
+    <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
+    <script>
     // Wow, you read sources!
     // Say hi to https://mattboldt.com/ when you meet him - the below is his brain child
     setTimeout(function() {
@@ -72,6 +85,6 @@ body{
         backSpeed: 5,
         //startDelay: 3000,
     })}, 2000);
-  </script>
+    </script>
 </body>
 </html>
