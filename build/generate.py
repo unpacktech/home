@@ -39,10 +39,12 @@ for file in files:
     with open(file, "r") as f:
         content = f.read()
     parsed = json.loads(content)
-    print(parsed)
-    with open(BASE_FOLDER + "/" + parsed.get("date").replace("/", "-") + ".html", "w") as f:
+    path = parsed.get("date").replace("/", "-") + ".html"
+    with open(BASE_FOLDER + "/" + path, "w") as f:
         template = env.get_template("daily.html")
         f.write(template.render(page=page, content=parsed, **context))
+        SITEMAP_URLS.append((path, 0.7))
+        print("Generated", path)
 
 # SITEMAP
 print(DIVIDER)
