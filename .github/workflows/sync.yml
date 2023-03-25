@@ -27,6 +27,9 @@ jobs:
 
       - name: Deploy 🚀
         run: |
+          git config --global user.name "Unpack.tech bot"
+          git config --global user.email "mark@unpack.tech"
+
           git add ./content
           git commit -m "Syncing content $(date -I)"
 
