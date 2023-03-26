@@ -15,10 +15,9 @@ for page in ["index.html"]:
         template = ENV.get_template(page)
         f.write(template.render(**CONTEXT))
 
-for file in glob.glob(f"./{CONTENT_FOLDER}/*.json"):
-    with open(file, "r") as f:
-        content = f.read()
-    parsed = json.loads(content)
+for daily_file in glob.glob(f"./{CONTENT_FOLDER}/*.json"):
+    with open(daily_file, "r") as f:
+        parsed = json.loads(f.read())
     date = parsed.get("date").replace("/", "-")
     permalink = f"https://unpack.tech/{date}"
     for path, template, publish in [
