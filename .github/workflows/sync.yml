@@ -20,10 +20,12 @@ jobs:
           make deps
 
       - name: Sync 🔧
+        env:
+          SHEET: ${{ github.event.inputs.sheet }}
         run: |
           make clean
           rm -rf ./content/*.json
-          SHEET=${{ github.event.inputs.sheet }} make sync
+          make sync
 
       - name: Deploy 🚀
         run: |
