@@ -25,7 +25,7 @@ for item in parsed:
 
 for key, value in MAP_BY_DATE.items():
     filtered = collections.defaultdict(list)
-    title = ""
+    title = dict()
     for item in value:
         if item.get("Category").lower() == "newsletter title":
             title = item
