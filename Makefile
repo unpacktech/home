@@ -5,6 +5,9 @@ generate:
 sync:
 	python build/sync.py
 
+sync:
+	python build/schedule.py
+
 deps:
 	pip install -r build/requirements.txt
 	mkdir -p static

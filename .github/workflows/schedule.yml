@@ -1,0 +1,25 @@
+name: Schedule
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date'
+        required: true
+        default: '2023-03-25'
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Deps
+        run: |
+          make deps
+
+      - name: Schedule 🚀
+        env:
+          API_TOKEN: ${{ secrets.SENDER_API_TOKEN }}
+          DATE: ${{ github.event.inputs.date }}
+        run: |
+          make schedule
