@@ -2,7 +2,7 @@ import os
 import json
 import collections
 import requests
-from shared import read_csv
+from shared import read_csv, CONTENT_FOLDER
 
 
 SHEET_ID = '1yDEbtkPYLHMuIvC07B1fdvtmt-iM9SPsnhwkqWqG7dE'
@@ -20,6 +20,7 @@ for item in parsed:
 
 
 for key, value in MAP_BY_DATE.items():
+    date = key.replace("/","-")
     filtered = collections.defaultdict(list)
     title = dict()
     for item in value:
@@ -42,7 +43,7 @@ for key, value in MAP_BY_DATE.items():
         title=title.get("Title"),
         date=title.get("Date"),
     ), indent=4)
-    path = "./content/" + key.replace("/","-") + ".json"
+    path = f"./{CONTENT_FOLDER}/{date}.json"
     with open(path, "w") as out:
         out.write(output)
     print(f"Wrote {key} to {path} with {len(value)} items")
