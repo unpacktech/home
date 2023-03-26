@@ -40,7 +40,7 @@ payload = {
     "subject": "📦 " + parsed.get("title"),
     "reply_to": "mark@unpack.tech",
     "google_analytics": 1,
-    "segments": ["dN8l8a"],
+    "groups": ["bDQPwB"],
     "content_type": "html",
     "content": CONTENT,
 }
