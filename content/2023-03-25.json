@@ -32,6 +32,17 @@
                     "Time": "3"
                 }
             ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "ChatGPT can now see and hear",
+                    "Link": "https://arstechnica.com/information-technology/2023/03/chatgpt-gets-eyes-and-ears-with-plugins-that-can-interface-ai-with-the-world/",
+                    "Description": "ChatGPT gets plugins to do a whole bunch of interactions (bookings, emails, code, images, etc)",
+                    "Time": "8"
+                }
+            ]
         }
     ],
     "title": "SpaceX lands again, Tesla cuts prices, command line magic",
