@@ -1,13 +1,9 @@
-import csv
 import os
-import io
 import json
 import collections
 import requests
+from shared import read_csv
 
-def read_csv(content):
-    reader = csv.DictReader(io.StringIO(content))
-    return list(reader)
 
 SHEET_ID = '1yDEbtkPYLHMuIvC07B1fdvtmt-iM9SPsnhwkqWqG7dE'
 SHEET_NAME = os.environ.get("SHEET", "")
