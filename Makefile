@@ -5,7 +5,7 @@ generate:
 sync:
 	python build/sync.py
 
-sync:
+schedule:
 	python build/schedule.py
 
 deps:
