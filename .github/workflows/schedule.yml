@@ -1,6 +1,4 @@
 name: Schedule
-concurrency:
-  group: ${{ github.workflow }}
 on:
   workflow_dispatch:
     inputs:
@@ -9,7 +7,10 @@ on:
         required: true
         default: '2023-03-25'
 jobs:
-  sync:
+  schedule:
+    concurrency:
+      group: ${{ github.workflow }}
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️

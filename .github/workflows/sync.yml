@@ -1,6 +1,4 @@
 name: Sync
-concurrency:
-  group: ${{ github.workflow }}
 on:
   workflow_dispatch:
     inputs:
@@ -12,6 +10,9 @@ permissions:
   contents: write
 jobs:
   sync:
+    concurrency:
+      group: ${{ github.workflow }}
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
