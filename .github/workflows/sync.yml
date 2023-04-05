@@ -1,7 +1,6 @@
 name: Sync
 concurrency:
   group: ${{ github.workflow }}
-  cancel-in-progress: false
 on:
   workflow_dispatch:
     inputs:
