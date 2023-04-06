@@ -1,2 +1,2 @@
 # home
-Public pages for unpack.tech
+Public pages for https://unpack.tech
