@@ -1,0 +1,102 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Everything you need to know about GPT",
+                    "Link": "https://confusedbit.dev/posts/how_does_gpt_work/",
+                    "Description": "It's still possible to learn about how artificial intelligence works, whether it's capable of replacing humans, or if it's simply a useful tool.",
+                    "Time": "11"
+                },
+                {
+                    "Title": "Microsoft's 365 Copilot is coming to OneNote",
+                    "Link": "https://www.theverge.com/2023/4/6/23672357/microsoft-onenote-copilot-ai-feature",
+                    "Description": "Their AI-powered assistant is set to become your ultimate partner in generating ideas, taking notes, organizing information, and more.",
+                    "Time": "1"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous",
+            "stories": [
+                {
+                    "Title": "Motorola's new budget phone promises great upgrades",
+                    "Link": "https://www.theverge.com/2023/4/6/23671471/motorola-moto-g-power-5g-screen-battery-price-specs",
+                    "Description": "Although its reputation was built on exceptional battery life, they have now opted to sacrifice it in favor of incorporating new features such as 5G, a better screen, and a more powerful processor.",
+                    "Time": "2"
+                },
+                {
+                    "Title": "The state of security 2023",
+                    "Link": "https://www.cxotoday.com/press-release/state-of-security-2023-report-reveals-increase-in-data-breaches-and-outages-due-to-cybersecurity-incidents/",
+                    "Description": "Splunk Inc. latest release announces that over half of organizations suffered a Data Breach in the past two years as well as several unplanned downtimes due to Cybersecurity incidents.",
+                    "Time": "4"
+                }
+            ]
+        },
+        {
+            "category": "Big tech",
+            "stories": [
+                {
+                    "Title": "Amazon keeps pushing forward in the AI race",
+                    "Link": "https://decrypt.co/125558/amazon-ai-artificial-intelligence-aws-accelerator",
+                    "Description": "Their latest move to boost AI development is the AWS Generative AI Accelerator program, a 10-week program that offers mentorship and $300K in AWS credits.",
+                    "Time": "4"
+                },
+                {
+                    "Title": "Is not the best time for Apple's mixed-reality headset",
+                    "Link": "https://www.theverge.com/2023/4/5/23671673/apple-vr-ar-mixed-reality-headset-worst-possible-time",
+                    "Description": "Concerns are being raised amongst Apple employees as they prepare for the Worldwide Developers Conference on June 5th, due to the low demand for high-end VR.",
+                    "Time": "2"
+                }
+            ]
+        },
+        {
+            "category": "Programming",
+            "stories": [
+                {
+                    "Title": "The Chrome team welcomes WebGPU",
+                    "Link": "https://developer.chrome.com/blog/webgpu-release/",
+                    "Description": "This revolutionary new API for the web offers flexible GPU programming, access to advanced capabilities, and significant benefits such as reduced JavaScript workload and machine learning improvements.",
+                    "Time": "3"
+                },
+                {
+                    "Title": "Tips for selecting a new programming language",
+                    "Link": "https://www.itprotoday.com/programming-languages/how-choose-secondary-programming-language",
+                    "Description": "When it comes to learning a second programming language don't just follow the crowd, try to consider what interests you and what sets you apart.",
+                    "Time": "4"
+                }
+            ]
+        },
+        {
+            "category": "Startups",
+            "stories": [
+                {
+                    "Title": "Climate startup Levidian starts installations in Europe",
+                    "Link": "https://www.uktech.news/climate-tech/levidian-europe-20230406",
+                    "Description": "Luxembourg has been chosen as the first European location for the deployment of its decarbonization devices that transform methane into hydrogen and carbon.",
+                    "Time": "1"
+                },
+                {
+                    "Title": "Essential communication tools that every Startup should consider",
+                    "Link": "https://techfundingnews.com/internal-communication-tools-every-startup-should-implement-at-growth-stage/",
+                    "Description": "In order to provide a cohesive company culture in your Startup, you must take into consideration the importance of internal communication tools.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A Beginner's Guide to Electric Cars",
+                    "Link": "https://www.topgear.com/car-news/electric/what-electric-car-how-do-electric-cars-work",
+                    "Description": "Thinking about upgrading your car to an EV? Here's everything you need to know about the exciting world of emissions-free driving.",
+                    "Time": "5"
+                }
+            ]
+        }
+    ],
+    "title": "Chrome launches WebGPU, Cybersecurity reports for 2023, Amazon's new AI program",
+    "date": "2023/04/06"
+}
