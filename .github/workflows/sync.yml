@@ -5,7 +5,7 @@ on:
       sheet:
         description: 'Sheet name'
         required: true
-        default: '2023Q1'
+        default: '2023Q2'
 permissions:
   contents: write
 jobs:
