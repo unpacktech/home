@@ -6,25 +6,25 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.conf42.com/</loc>
-  <lastmod>2023-04-06T20:12:58.375100+00:00</lastmod>
+  <lastmod>2023-04-06T20:14:42.636631+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/./static/2023-03-25.html</loc>
-  <lastmod>2023-04-06T20:12:58.375100+00:00</lastmod>
+  <lastmod>2023-04-06T20:14:42.636631+00:00</lastmod>
   <priority>0.7</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/./static/2023-04-06.html</loc>
-  <lastmod>2023-04-06T20:12:58.375100+00:00</lastmod>
+  <lastmod>2023-04-06T20:14:42.636631+00:00</lastmod>
   <priority>0.7</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/./static/2023-04-05.html</loc>
-  <lastmod>2023-04-06T20:12:58.375100+00:00</lastmod>
+  <lastmod>2023-04-06T20:14:42.636631+00:00</lastmod>
   <priority>0.7</priority>
 </url>
 
