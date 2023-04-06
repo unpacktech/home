@@ -7,8 +7,7 @@
                     "Title": "Apple joins the Big Tech layoff",
                     "Link": "https://arstechnica.com/gadgets/2023/04/apple-joins-amazon-google-and-microsoft-in-tech-industry-layoffs/",
                     "Description": "Despite trying to avoid following its Big Tech peers, Apple has eliminated some corporate retail team roles.",
-                    "Time": "2",
-                    "": ""
+                    "Time": "2"
                 }
             ]
         },
@@ -19,15 +18,13 @@
                     "Title": "Meta is developing a new artificial intelligence model",
                     "Link": "https://www.reuters.com/technology/meta-releases-ai-model-that-can-identify-items-within-images-2023-04-05/",
                     "Description": "This new model counts with the largest dataset of image annotations and it\u2019s capable of identifying any kind of object in images and videos.",
-                    "Time": "2",
-                    "": ""
+                    "Time": "2"
                 },
                 {
                     "Title": "Google\u2019s AI supercomputer is Nvidia A100 Chip new competitor",
                     "Link": "https://www.reuters.com/technology/google-says-its-ai-supercomputer-is-faster-greener-than-nvidia-2023-04-05/",
                     "Description": "New details released by the company revealed that their supercomputer systems are 1.7 times faster and 1.9 times more power-efficient.",
-                    "Time": "2",
-                    "": ""
+                    "Time": "2"
                 }
             ]
         },
@@ -38,22 +35,19 @@
                     "Title": "Virgin Orbit is now filling for bankruptcy",
                     "Link": "https://www.spacedaily.com/reports/Virgin_Orbit_files_for_bankruptcy_seeks_buyer_999.html",
                     "Description": "After suffering a major setback, the California-based company founded by Richard Branson is seeking buyers.",
-                    "Time": "1",
-                    "": ""
+                    "Time": "1"
                 },
                 {
                     "Title": "SpaceX's Starship Mars rocket is getting ready to lift off",
                     "Link": "https://www.space.com/spacex-starship-orbital-test-flight-april-2023",
                     "Description": "SpaceX's massive Starship Mars rocket is preparing for its first-ever orbital attempt as early as next week, as they continue on their journey to reach the moon, Mars, and beyond.",
-                    "Time": "3",
-                    "": ""
+                    "Time": "3"
                 },
                 {
                     "Title": "Dawn Aerospace is launching a rocket-powered spaceplane",
                     "Link": "https://arstechnica.com/science/2023/04/a-new-zealand-company-has-started-flying-a-rocket-powered-spaceplane/",
                     "Description": "New Zealand's Dawn Aerospace has achieved an exciting development in space technology with the successful completion of the first three test flights of the Mk-II Aurora, a rocket-powered spaceplane",
-                    "Time": "4",
-                    "": ""
+                    "Time": "4"
                 }
             ]
         },
@@ -64,8 +58,7 @@
                     "Title": "Artemis 2 crew is finally revealed by NASA",
                     "Link": "https://www.space.com/nasa-names-artemis-2-moon-crew",
                     "Description": "As we get ready for the first lunar mission since the Apollo program, NASA is finally announcing the four astronauts who will make history.",
-                    "Time": "9",
-                    "": ""
+                    "Time": "9"
                 }
             ]
         },
@@ -76,8 +69,7 @@
                     "Title": "Kia is looking to expand their production in Europe",
                     "Link": "https://www.autocar.co.uk/car-news/new-cars/kia-build-small-electric-cars-europe",
                     "Description": "The firm has stated that its future EV production will expand beyond Gyeonggi, South Korea to core markets in Europe, China, US & India.",
-                    "Time": "3",
-                    "": ""
+                    "Time": "3"
                 }
             ]
         },
@@ -88,8 +80,7 @@
                     "Title": "Bad news for developers with the new Safari 16.4",
                     "Link": "https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616",
                     "Description": "While a new Safari release may bring great news for standard Apple users, it can become a constant struggle for developers due to certain bugs.",
-                    "Time": "18",
-                    "": ""
+                    "Time": "18"
                 }
             ]
         },
@@ -100,8 +91,7 @@
                     "Title": "Dogecoin reachs a new peak thanks to Twitter",
                     "Link": "https://finance.yahoo.com/news/dogecoin-futures-set-record-twitter-094924196.html?fr=sycsrp_catchall",
                     "Description": "The app's recent decision to replace its iconic blue bird logo with the viral Shiba Inu dog picture resulted in a sudden spike in its prices.",
-                    "Time": "3",
-                    "": ""
+                    "Time": "3"
                 }
             ]
         },
@@ -112,8 +102,7 @@
                     "Title": "This french Startup is a great complement for Web3 and Web2 communities",
                     "Link": "https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/",
                     "Description": "To enhance engagement with their most passionate community members, companies can use Zealy's achievement system, which provides a more meaningful way to connect by implementing gamified tasks.",
-                    "Time": "2",
-                    "": ""
+                    "Time": "2"
                 }
             ]
         }
