@@ -7,7 +7,8 @@
                     "Title": "The Art of Command Line",
                     "Link": "https://github.com/jlevy/the-art-of-command-line",
                     "Description": "Everything you need to use command line like a seasoned pro in a single page.",
-                    "Time": "15"
+                    "Time": "15",
+                    "": ""
                 }
             ]
         },
@@ -18,7 +19,8 @@
                     "Title": "Falcon Heavy lands again",
                     "Link": "https://www.spacex.com/launches/mission/?missionId=ussf-67-pl",
                     "Description": "Second launch and landing of these Falcon Heavy boosters",
-                    "Time": "2"
+                    "Time": "2",
+                    "": ""
                 }
             ]
         },
@@ -29,7 +31,8 @@
                     "Title": "Tesla car prices drop",
                     "Link": "https://arstechnica.com/cars/2023/01/tesla-drops-prices-up-to-20-percent-in-attempt-to-drive-sales/",
                     "Description": "Tesla drops prices up to 20%, prices now start at $43,990.",
-                    "Time": "3"
+                    "Time": "3",
+                    "": ""
                 }
             ]
         },
@@ -40,7 +43,8 @@
                     "Title": "ChatGPT can now see and hear",
                     "Link": "https://arstechnica.com/information-technology/2023/03/chatgpt-gets-eyes-and-ears-with-plugins-that-can-interface-ai-with-the-world/",
                     "Description": "ChatGPT gets plugins to do a whole bunch of interactions (bookings, emails, code, images, etc)",
-                    "Time": "8"
+                    "Time": "8",
+                    "": ""
                 }
             ]
         }
