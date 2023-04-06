@@ -17,6 +17,10 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
+        # without the token, it won't trigger the main branch build
+        # see https://github.com/stefanzweifel/git-auto-commit-action#commits-made-by-this-action-do-not-trigger-new-workflow-runs
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Deps
         run: |
