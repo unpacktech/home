@@ -1,0 +1,102 @@
+{
+    "content": [
+        {
+            "category": "Big tech",
+            "stories": [
+                {
+                    "Title": "Big tech companies may still need to cut jobs",
+                    "Link": "https://www.businessinsider.com/google-and-amazon-should-cut-more-jobs-analysts-say-2023-4",
+                    "Description": "The current contraction of the technology sector has already taken its toll on major companies, but analysts predict more layoffs will be necessary for the near future.",
+                    "Time": "4"
+                },
+                {
+                    "Title": "PC industry slump affects Apple's Mac revenue",
+                    "Link": "https://arstechnica.com/gadgets/2023/04/analysts-say-mac-sales-are-down-40-as-post-pandemic-pc-sales-slump-continues/",
+                    "Description": "Mac sales drop by 40% as post-pandemic struggles in the PC industry continue, analysts at IDC report.",
+                    "Time": "2"
+                },
+                {
+                    "Title": "Alibaba introduces new AI-powered language model",
+                    "Link": "https://edition.cnn.com/2023/04/11/tech/china-alibaba-ai-chatbot-announcement-intl-hnk/index.html",
+                    "Description": "An official large language model called 'Tongyi Qianwen' has been announced by the Chinese tech giant as a response to ChatGPT's popularity.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The future of news is here and now",
+                    "Link": "https://www.aljazeera.com/news/2023/4/10/ai-generated-news-presenter-appears-in-kuwait",
+                    "Description": "A new AI-generated virtual news presenter, called Fedha, has been introduced by a Kuwaiti media outlet.",
+                    "Time": "2"
+                },
+                {
+                    "Title": "Is your password vulnerable to AI attacks?",
+                    "Link": "https://tech.co/news/ai-can-guess-your-password",
+                    "Description": "Researchers confirm that a special artificial intelligence program can crack 7-character passwords in less than 6 minutes.",
+                    "Time": "3"
+                },
+                {
+                    "Title": "Which AI is more useful?",
+                    "Link": "https://www.cnet.com/tech/services-and-software/chatgpt-vs-bing-vs-google-bard-which-ai-is-the-most-helpful/",
+                    "Description": "Using ChatGPT, Bing, and Google Bard as examples, here's how to figure out which chatbot is the best.",
+                    "Time": "9"
+                }
+            ]
+        },
+        {
+            "category": "Programming",
+            "stories": [
+                {
+                    "Title": "An Overview of Large Language Models",
+                    "Link": "https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/",
+                    "Description": "Here\u2019s how you can maximize the potential of LLMs, by using prompt engineering strategies.",
+                    "Time": "22"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "EVs are a new problem to decaying infrastructure",
+                    "Link": "https://www.thedrive.com/news/heavy-evs-could-collapse-old-parking-garages-report",
+                    "Description": "Authorities in the UK are worried about the susceptibility of old parking garages to collapse due to the weight of electric vehicles.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Startups",
+            "stories": [
+                {
+                    "Title": "Sateliot's Mission: Bring mobile connectivity to everyone... Everywhere",
+                    "Link": "https://www.cnet.com/home/internet/spacex-launch-begins-startups-plan-cell-towers-in-space/",
+                    "Description": "This Spanish startup plans to launch low-earth orbit satellites to provide text messaging services at remote locations.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous",
+            "stories": [
+                {
+                    "Title": "San Francisco's traffic nightmare",
+                    "Link": "https://www.businessinsider.com/driverless-cars-san-francisco-waymo-cruise-block-buses-train-delays-2023-4",
+                    "Description": "Driverless vehicles blocking buses and trains in San Francisco cause disruption in traffic, as shown in new footage obtained by Wired.",
+                    "Time": "3"
+                },
+                {
+                    "Title": "Be careful of what you're tweeting",
+                    "Link": "https://techcrunch.com/2023/04/10/twitter-circle-bug-not-private/",
+                    "Description": "Twitter users are concerned as \u2018Circle Tweets\u2019, intended for a private audience, are now surfacing on the algorithmically generated 'For You' timeline.",
+                    "Time": "3"
+                }
+            ]
+        }
+    ],
+    "title": "Meet 'Fedha' the first AI-generated news anchor, Apple's Mac sales drop, Alibaba welcomes new LLM",
+    "date": "2023/04/11"
+}
