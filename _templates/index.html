@@ -8,6 +8,13 @@
             <btn id="subscribe-button" class="btn">subscribe</btn>
         </div>
     </div>
+    <div class="latest-box">
+        {% for story in stories %}
+        <div>
+            <h4><a href="{{ story.permalink }}">{{ story.date }}</a>: {{ story.title }}</h4>
+        </div>
+        {% endfor %}
+    </div>
     <script src="https://unpkg.com/typed.js@2.0.132/dist/typed.umd.js"></script>
     <script>
     // Wow, you read sources!
