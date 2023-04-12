@@ -15,22 +15,27 @@ for page in ["index.html"]:
         template = ENV.get_template(page)
         f.write(template.render(**CONTEXT))
 
-for daily_file in glob.glob(f"./{CONTENT_FOLDER}/*.json"):
+source_files = sorted(glob.glob(f"./{CONTENT_FOLDER}/*.json"))
+dailies = []
+for i, daily_file in enumerate(source_files):
     with open(daily_file, "r") as f:
         parsed = json.loads(f.read())
     date = parsed.get("date").replace("/", "-")
     permalink = f"https://unpack.tech/{date}"
+    freshness = 0.25 + 0.75*i/len(source_files)
+    dailies.append(parsed)
     for destination, template, publish in [
         [f"{date}.html", "daily.html", True],
         [f"{date}-email.html", "email.html", False],
     ]:
         path = f"{BASE_FOLDER}/{destination}"
-        print("Generating daily:", destination, "->", path)
+        print("Generating:", destination, "->", path, freshness)
         with open(path, "w") as f:
             template = ENV.get_template(template)
             f.write(template.render(content=parsed, permalink=permalink, **CONTEXT))
             if publish:
-                SITEMAP_URLS.append((destination, 0.7))
+                SITEMAP_URLS.append((destination, freshness))
+print("Parsed", len(dailies), "days")
 
 # SITEMAP
 print("Generating sitemap.xml with %d items" % len(SITEMAP_URLS))
