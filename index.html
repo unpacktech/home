@@ -45,7 +45,7 @@ body{
     justify-content: center;
 }
 .vcenter{
-    height: 100vh;
+    height: 90vh;
 }
 .box{
     align-self: center;
@@ -77,11 +77,16 @@ a {
     margin-top: 30px;
 }
 .latest-box {
-    position: fixed;
-    bottom:0%;
-    width:80%;
-    margin-left:10%;
-    padding: 5px;
+    z-index: -1;
+}
+@media (min-height: 750px) {
+    .latest-box {
+        position: fixed;
+        bottom:0%;
+        width:80%;
+        margin-left:10%;
+        padding: 5px;
+    }
 }
 </style>
 <body>
