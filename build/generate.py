@@ -20,16 +20,17 @@ for daily_file in glob.glob(f"./{CONTENT_FOLDER}/*.json"):
         parsed = json.loads(f.read())
     date = parsed.get("date").replace("/", "-")
     permalink = f"https://unpack.tech/{date}"
-    for path, template, publish in [
-        [f"{BASE_FOLDER}/{date}.html", "daily.html", True],
-        [f"{BASE_FOLDER}/{date}-email.html", "email.html", False],
+    for destination, template, publish in [
+        [f"{date}.html", "daily.html", True],
+        [f"{date}-email.html", "email.html", False],
     ]:
-        print("Generating daily:", path)
+        path = f"{BASE_FOLDER}/{destination}"
+        print("Generating daily:", destination, "->", path)
         with open(path, "w") as f:
             template = ENV.get_template(template)
             f.write(template.render(content=parsed, permalink=permalink, **CONTEXT))
             if publish:
-                SITEMAP_URLS.append((path, 0.7))
+                SITEMAP_URLS.append((destination, 0.7))
 
 # SITEMAP
 print("Generating sitemap.xml with %d items" % len(SITEMAP_URLS))
