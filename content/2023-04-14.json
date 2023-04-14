@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "JUICE mission just launched!",
+                    "Link": "https://edition.cnn.com/2023/04/14/world/esa-juice-mission-launch-scn/index.html",
+                    "Description": "ESA's Jupiter Icy Moons Explorer mission, which will explore three of Jupiter's largest moons in 2031, has finally launched today after delays caused by bad weather.",
+                    "Time": "7"
+                },
+                {
+                    "Title": "SpaceX approaches its seventh rideshare mission",
+                    "Link": "https://gizmodo.com/watch-spacex-launch-small-satellites-transporter-7-1850324483",
+                    "Description": "The Falcon 9 rocket is ready to launch on April 15th with over 50 payloads, after unfavorable weather delayed the launch.",
+                    "Time": "2"
+                }
+            ]
+        },
+        {
+            "category": "Design",
+            "stories": [
+                {
+                    "Title": "Tesla\u2019s Model 3 gets a refresh",
+                    "Link": "https://techcrunch.com/2023/04/13/internet-abuzz-over-suspected-redesigned-tesla-model-3/",
+                    "Description": "Users on Reddit are currently buzzing about a leaked photo that suggests a possible update to Tesla's Model 3, with the sedan finally receiving its long-awaited redesign.",
+                    "Time": "2"
+                },
+                {
+                    "Title": "Apple's future wearables",
+                    "Link": "https://www.techtimes.com/articles/290334/20230413/apple-glasses-hit-shelves-early-2026-2027-per-kuo.htm",
+                    "Description": "Insiders claim that the upcoming AR/VR headset could work independently without an iPhone or iPad, and it might be unveiled at this year's Worldwide Developers Conference.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Programming",
+            "stories": [
+                {
+                    "Title": "FAIR team at Meta AI announces Animated Drawings",
+                    "Link": "https://github.com/facebookresearch/AnimatedDrawings",
+                    "Description": "As a result of this revolutionary open-source initiative, animating your drawings is now easier and more accessible than ever before.",
+                    "Time": "8"
+                }
+            ]
+        },
+        {
+            "category": "Startups",
+            "stories": [
+                {
+                    "Title": "A startup founded by three brothers has big space ambitions",
+                    "Link": "https://techcrunch.com/2023/04/13/spacex-to-build-spacecraft-powered-by-moon-water/",
+                    "Description": "Argo Space Corporation, founded by former SpaceX employees, aims to create a transportation network of reusable spacecraft powered by water harvested from the moon.",
+                    "Time": "5"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Stability AI releases Stable Diffusion XL",
+                    "Link": "https://venturebeat.com/ai/stability-ai-announces-stable-diffusion-xl-beta-for-api-and-dreamstudio/",
+                    "Description": "With the launch of this new text-to-image AI system,  the startup seeks to enhance the \"richness\" of image generation and improve upon its previous model.",
+                    "Time": "3"
+                },
+                {
+                    "Title": "Microsoft\u2019s Bing chatbot is now available on iOS",
+                    "Link": "https://www.theverge.com/2023/4/13/23681493/microsoft-bing-ios-integration-swiftkey-ios-android-availability",
+                    "Description": "By adding the AI-powered chatbot to its SwiftKey keyboard app, Microsoft is aiming to overtake competitors such as Google and Apple in the AI race.",
+                    "Time": "2"
+                },
+                {
+                    "Title": "Adobe's video software will include AI-powered editing tools",
+                    "Link": "https://www.techtimes.com/articles/290376/20230414/adobe-introduces-ai-powered-editing-tools-premiere-pro-after-effects.htm",
+                    "Description": "The company plans to enhance post-production efficiency for video editors by integrating AI technology into their Premiere Pro and After Effects software.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Science",
+            "stories": [
+                {
+                    "Title": "Museum offers $25,000 reward for meteorite",
+                    "Link": "https://gizmodo.com/maine-space-rock-meteorite-nasa-1850334207",
+                    "Description": "The first person to retrieve at least one kilogram of a fireball that fell over Maine (US) in April will be rewarded by a geology museum in the state.",
+                    "Time": "3"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous",
+            "stories": [
+                {
+                    "Title": "Write all you want with 10,000-character tweets",
+                    "Link": "https://techcrunch.com/2023/04/13/twitter-introduces-10000-character-long-tweets-for-blue-subscribers/",
+                    "Description": "Apparently, in an effort to compete with Substack, Twitter has announced a new feature for Blue subscribers that allows them to post tweets up to 10,000 characters long.",
+                    "Time": "2"
+                }
+            ]
+        }
+    ],
+    "title": "Tesla Model 3 gets redesigned, Swiftkey brings chatGPT to iOS, Stability AI new release",
+    "date": "2023/04/14"
+}
