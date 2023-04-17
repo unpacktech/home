@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Bad news! The Starship launch is canceled",
+                    "Link": "https://www.npr.org/2023/04/17/1170355237/watch-live-spacex-launch-starship-rocket",
+                    "Description": "The highly-anticipated test flight of the Starship, SpaceX's largest and most powerful rocket, has been postponed due to a frozen valve, disappointing space enthusiasts around the world.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Everything you need to know about Starship",
+                    "Link": "https://www.bbc.com/news/science-environment-55564448",
+                    "Description": "Become a part of the hype surrounding SpaceX's most ambitious project by learning all the facts about the transport system that could take humans to Mars.",
+                    "Time": "10",
+                    "Hashtag": "",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Google responds to the AI race with their new project, \"Magi\u201d",
+                    "Link": "https://www.businessinsider.com/google-sundar-pichai-generative-ai-ethicists-philosophers-chatgpt-bard-moral-2023-4",
+                    "Description": "Following reports that Samsung was considering a switch to Bing as its default search engine, the company quickly decided to develop its own AI-powered search tools.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Sundar Pichai's perspective on the development of AI",
+                    "Link": "https://www.businessinsider.com/google-sundar-pichai-generative-ai-ethicists-philosophers-chatgpt-bard-moral-2023-4",
+                    "Description": "As Google's CEO Sundar Pichai reflected on the development of AI, he discussed how ethics and philosophy were critical in ensuring its moral foundation.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Elon Musk's new company is called X.AI",
+                    "Link": "https://www.techtimes.com/articles/290451/20230416/elon-musk-creates-new-company-called-x-ai-business-records.htm",
+                    "Description": "As a result of the recent recruitment of AI experts and rumors about the purchase of thousands of GPUs, business records now confirm Musk's commitment to AI.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Adobe welcomes Firefly",
+                    "Link": "https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/",
+                    "Description": "With this announcement, creatives can now access powerful AI tools at their fingertips, allowing them to edit videos and color grade by using just a few words.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Programming",
+            "stories": [
+                {
+                    "Title": "Having trouble with links?",
+                    "Link": "https://animaomnium.github.io/keep-stuff-linkable/",
+                    "Description": "Meet Linkoln, the Python script that makes linking easy.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Science",
+            "stories": [
+                {
+                    "Title": "Moderna's experimental cancer vaccine shows promising results",
+                    "Link": "https://www.cnbc.com/2023/04/16/moderna-cancer-vaccine-with-mercks-keytruda-delays-return-of-deadly-skin-cancer.html",
+                    "Description": "Combined with Merck's Keytruda, this experimental mRNA vaccine may reduce the risk of skin cancer recurrence.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Skywatchers get ready! A solar eclipse is coming",
+                    "Link": "https://www.space.com/hybrid-solar-eclipse-april-2023-livestream",
+                    "Description": "An unusual hybrid solar eclipse will take place on April 20th in the Southern Hemisphere, but don't worry, it will be live-streamed.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous",
+            "stories": [
+                {
+                    "Title": "iOS 17 will allow users to sideload apps",
+                    "Link": "https://techcrunch.com/2023/04/17/ios-17-will-reportedly-set-the-stage-for-sideloading-apps-on-iphone/",
+                    "Description": "Apple may finally put an end to its closed app distribution system, as reports suggest that an announcement related to sideloading might be made at the upcoming Worldwide Developer Conference.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Controversy sparks at a prestigious photography competition",
+                    "Link": "https://www.engadget.com/german-artist-refuses-award-after-his-ai-image-wins-prestigious-photography-prize-071322551.html",
+                    "Description": "Photographer Boris Eldagsen proved that photography competitions are not yet ready for AI-generated images after his submission won first prize at the Sony World Photography Awards.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": ""
+                }
+            ]
+        }
+    ],
+    "title": "Starship launch is canceled, Google announces \"Magi\", Elon Musk is still committed to AI",
+    "date": "2023/04/17"
+}

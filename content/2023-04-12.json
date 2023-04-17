@@ -7,25 +7,33 @@
                     "Title": "Find bugs in ChatGPT and get $20,000",
                     "Link": "https://openai.com/blog/bug-bounty-program",
                     "Description": "A commitment to safety is evident through OpenAI's new \"Bug Bounty program\", which rewards people for finding bugs with amounts ranging from $200 to $20,000.",
-                    "Time": "2"
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Find bugs in ChatGPT and get $20,000 \ud83d\udce6 A commitment to safety is evident through OpenAI's new \"Bug Bounty program\", which rewards people for finding bugs with amounts ranging from $200 to $20,000. # https://openai.com/blog/bug-bounty-program"
                 },
                 {
                     "Title": "AI-Generated music is a threat to copyright",
                     "Link": "https://arstechnica.com/information-technology/2023/04/streaming-services-urged-to-clamp-down-on-ai-generated-music/",
                     "Description": "As developers train AI technology with artists' music catalogs, streaming services receive takedown requests from Universal Music Group.",
-                    "Time": "3"
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "AI-Generated music is a threat to copyright \ud83d\udce6 As developers train AI technology with artists' music catalogs, streaming services receive takedown requests from Universal Music Group. # https://arstechnica.com/information-technology/2023/04/streaming-services-urged-to-clamp-down-on-ai-generated-music/"
                 },
                 {
                     "Title": "Twitter is coming up with an AI project",
                     "Link": "https://www.engadget.com/elon-musk-reportedly-bought-thousands-of-gpus-for-a-twitter-ai-project-214535382.html",
                     "Description": "According to reports, Elon Musk purchased 10,000 GPUs for Twitter's data centers, signaling his commitment to the company's in-house AI project.",
-                    "Time": "2"
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Twitter is coming up with an AI project \ud83d\udce6 According to reports, Elon Musk purchased 10,000 GPUs for Twitter's data centers, signaling his commitment to the company's in-house AI project. # https://www.engadget.com/elon-musk-reportedly-bought-thousands-of-gpus-for-a-twitter-ai-project-214535382.html"
                 },
                 {
                     "Title": "Chatbots have a thirst for water",
                     "Link": "https://gizmodo.com/chatgpt-ai-water-185000-gallons-training-nuclear-1850324249",
                     "Description": "A new study has revealed that chatbot training has a significant impact on the environment, as it requires an unexpectedly high amount of water, raising concerns about sustainability.",
-                    "Time": "6"
+                    "Time": "6",
+                    "Hashtag": "",
+                    "Tweet": "Chatbots have a thirst for water \ud83d\udce6 A new study has revealed that chatbot training has a significant impact on the environment, as it requires an unexpectedly high amount of water, raising concerns about sustainability. # https://gizmodo.com/chatgpt-ai-water-185000-gallons-training-nuclear-1850324249"
                 }
             ]
         },
@@ -36,7 +44,9 @@
                     "Title": "Meta's new challenges",
                     "Link": "https://www.globalvillagespace.com/tech/morale-crisis-at-meta-due-to-layoffs-and-absent-bosses/",
                     "Description": "On the so-called \"year of efficiency\" declared by CEO Mark Zuckerberg, the company has been dealing with significant layoffs, concerns about the potential of the metaverse, and other struggles.",
-                    "Time": "3"
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "Meta's new challenges \ud83d\udce6 On the so-called \"year of efficiency\" declared by CEO Mark Zuckerberg, the company has been dealing with significant layoffs, concerns about the potential of the metaverse, and other struggles. # https://www.globalvillagespace.com/tech/morale-crisis-at-meta-due-to-layoffs-and-absent-bosses/"
                 }
             ]
         },
@@ -47,19 +57,25 @@
                     "Title": "The benefits of PowerShell ",
                     "Link": "https://buttondown.email/hillelwayne/archive/i-really-like-powershell/",
                     "Description": "In case you're thinking about using PowerShell, here's everything you need to know.",
-                    "Time": "8"
+                    "Time": "8",
+                    "Hashtag": "",
+                    "Tweet": "The benefits of PowerShell  \ud83d\udce6 In case you're thinking about using PowerShell, here's everything you need to know. # https://buttondown.email/hillelwayne/archive/i-really-like-powershell/"
                 },
                 {
                     "Title": "Databricks unveils Dolly 2.0",
                     "Link": "https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm",
                     "Description": "Dolly 2.0 it's the first open-source, instruction-following LLM. And the best part? It's now available for commercial use without any payment or data-sharing requirements.",
-                    "Time": "11"
+                    "Time": "11",
+                    "Hashtag": "",
+                    "Tweet": "Databricks unveils Dolly 2.0 \ud83d\udce6 Dolly 2.0 it's the first open-source, instruction-following LLM. And the best part? It's now available for commercial use without any payment or data-sharing requirements. # https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm"
                 },
                 {
                     "Title": "Wolverine: The \u201cregenerative\u201d AI program",
                     "Link": "https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4/",
                     "Description": "Until you get it right, this program will keep running and fixing errors in your code while explaining what went wrong.",
-                    "Time": "2"
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Wolverine: The \u201cregenerative\u201d AI program \ud83d\udce6 Until you get it right, this program will keep running and fixing errors in your code while explaining what went wrong. # https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4/"
                 }
             ]
         },
@@ -70,7 +86,9 @@
                     "Title": "Hyundai Motor Group announces investment in EV Industry",
                     "Link": "https://techcrunch.com/2023/04/11/hyundai-motor-to-invest-18b-in-south-koreas-evs-by-2030/",
                     "Description": "In a similar move to Kia, Hyundai plans to invest $18 billion in South Korea's electric vehicle industry through 2030.",
-                    "Time": "2"
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Hyundai Motor Group announces investment in EV Industry \ud83d\udce6 In a similar move to Kia, Hyundai plans to invest $18 billion in South Korea's electric vehicle industry through 2030. # https://techcrunch.com/2023/04/11/hyundai-motor-to-invest-18b-in-south-koreas-evs-by-2030/"
                 }
             ]
         },
@@ -81,7 +99,9 @@
                     "Title": "Artemis 2 upper stage is ready for tests",
                     "Link": "https://gizmodo.com/upper-stage-nasa-artemis-sls-megarocket-ready-tests-1850324870",
                     "Description": "NASA's Artemis 2 mission is getting closer to its goal of reaching the moon, with pre-flight testing currently underway for the upper stage of the Space Launch System in Cape Canaveral.",
-                    "Time": "2"
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Artemis 2 upper stage is ready for tests \ud83d\udce6 NASA's Artemis 2 mission is getting closer to its goal of reaching the moon, with pre-flight testing currently underway for the upper stage of the Space Launch System in Cape Canaveral. # https://gizmodo.com/upper-stage-nasa-artemis-sls-megarocket-ready-tests-1850324870"
                 }
             ]
         },
@@ -92,7 +112,9 @@
                     "Title": "Twitter is no longer a company",
                     "Link": "https://www.businessinsider.com/elon-musk-x-everything-app-twitter-details-2022-10",
                     "Description": "A document has revealed that Twitter merged into a company named X Corp, as Elon Musk works on creating his own \"everything\" app, similar to China's WeChat.",
-                    "Time": "6"
+                    "Time": "6",
+                    "Hashtag": "",
+                    "Tweet": "Twitter is no longer a company \ud83d\udce6 A document has revealed that Twitter merged into a company named X Corp, as Elon Musk works on creating his own \"everything\" app, similar to China's WeChat. # https://www.businessinsider.com/elon-musk-x-everything-app-twitter-details-2022-10"
                 }
             ]
         }
