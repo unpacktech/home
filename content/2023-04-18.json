@@ -48,7 +48,7 @@
             ]
         },
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "The metaverse is no longer Meta\u2019s priority",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "ChatGPT's potential in building self-testing code",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "category": "Science",
+            "category": "Science \u2697\ufe0f",
             "stories": [
                 {
                     "Title": "Aliens? Portals? No, keep guessing",
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "Mac users are facing a new threat",

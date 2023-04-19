@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "Big tech companies may still need to cut jobs",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "An Overview of Large Language Models",
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "category": "Startups",
+            "category": "Startups \ud83d\udcc8",
             "stories": [
                 {
                     "Title": "Sateliot's Mission: Bring mobile connectivity to everyone... Everywhere",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "San Francisco's traffic nightmare",

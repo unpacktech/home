@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "Tesla announces new Megapack factory in China",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "category": "Startups",
+            "category": "Startups \ud83d\udcc8",
             "stories": [
                 {
                     "Title": "Can bricks help revolutionize renewable energy?",
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "Awesome Python on GitHub",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "category": "Science",
+            "category": "Science \u2697\ufe0f",
             "stories": [
                 {
                     "Title": "Get ready! A new Solar Eclipse is approaching",
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "Top reasons to pursue a career in technology",

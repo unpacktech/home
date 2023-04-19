@@ -59,7 +59,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "Having trouble with links?",
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "category": "Science",
+            "category": "Science \u2697\ufe0f",
             "stories": [
                 {
                     "Title": "Moderna's experimental cancer vaccine shows promising results",
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "iOS 17 will allow users to sideload apps",

@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "category": "Science",
+            "category": "Science \u2697\ufe0f",
             "stories": [
                 {
                     "Title": "NASA's Hubble Space Telescope captures fascinating Black Hole Phenomenon ",
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "Meta's Buck2 is now publicly available",
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "Samsung is lowering the production of memory chips",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "category": "Startups",
+            "category": "Startups \ud83d\udcc8",
             "stories": [
                 {
                     "Title": "Anthropic's long-term goal is to develop the most powerful AI",
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "Google Pay could be giving you free money",

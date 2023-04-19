@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "Apple joins the Big Tech layoff",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "category": "Science",
+            "category": "Science \u2697\ufe0f",
             "stories": [
                 {
                     "Title": "Artemis 2 crew is finally revealed by NASA",
@@ -90,7 +90,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "Bad news for developers with the new Safari 16.4",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "Dogecoin reaches a new peak thanks to Twitter",
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "category": "Startups",
+            "category": "Startups \ud83d\udcc8",
             "stories": [
                 {
                     "Title": "This french Startup is a great complement for Web3 and Web2 communities",

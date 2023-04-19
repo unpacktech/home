@@ -1,0 +1,127 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Reddit announces: \"Our data is not free\"",
+                    "Link": "https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai",
+                    "Description": "With its new developer API terms, the company seeks to capitalize on its role as a key resource for data used to train AI chatbots.",
+                    "Time": "3",
+                    "Hashtag": "reddit",
+                    "Tweet": "Reddit announces: \"Our data is not free\" \ud83d\udce6 With its new developer API terms, the company seeks to capitalize on its role as a key resource for data used to train AI chatbots. #reddit https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai"
+                },
+                {
+                    "Title": "Tim Cook is optimistic about AI",
+                    "Link": "https://www.businesstoday.in/technology/news/story/tim-cook-exclusive-im-very-bullish-on-says-apple-ceo-from-new-bkc-store-377880-2023-04-18",
+                    "Description": "During a recent interview following the opening of the new Apple store in Mumbai, the CEO said that AI is the root of many of their products today.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Tim Cook is optimistic about AI \ud83d\udce6 During a recent interview following the opening of the new Apple store in Mumbai, the CEO said that AI is the root of many of their products today. #apple https://www.businesstoday.in/technology/news/story/tim-cook-exclusive-im-very-bullish-on-says-apple-ceo-from-new-bkc-store-377880-2023-04-18"
+                },
+                {
+                    "Title": "Salesforce announces generative AI-driven workflow tools",
+                    "Link": "https://techcrunch.com/2023/04/19/salesforce-is-working-on-a-pair-of-new-generative-ai-driven-workflow-tools/",
+                    "Description": "The future of tooling is coming, as the company is currently developing a generative AI that allows code to be created based on written requests.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Salesforce announces generative AI-driven workflow tools \ud83d\udce6 The future of tooling is coming, as the company is currently developing a generative AI that allows code to be created based on written requests. #ai https://techcrunch.com/2023/04/19/salesforce-is-working-on-a-pair-of-new-generative-ai-driven-workflow-tools/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Telescopes on the Moon? Yes, it might be possible",
+                    "Link": "https://arstechnica.com/science/2023/04/building-telescopes-on-the-moon-is-becoming-an-achievable-goal/",
+                    "Description": "The renaissance in lunar exploration has opened up new possibilities for space missions, including the development of infrared astronomy made possible by the Moon's low gravity.",
+                    "Time": "6",
+                    "Hashtag": "space",
+                    "Tweet": "Telescopes on the Moon? Yes, it might be possible \ud83d\udce6 The renaissance in lunar exploration has opened up new possibilities for space missions, including the development of infrared astronomy made possible by the Moon's low gravity. #space https://arstechnica.com/science/2023/04/building-telescopes-on-the-moon-is-becoming-an-achievable-goal/"
+                },
+                {
+                    "Title": "Sateliot gets \"The GroundBreaker\" to orbit",
+                    "Link": "https://gizmodo.com/sateliot-first-5g-satellite-quash-iot-dead-zones-1850350158",
+                    "Description": "In a shared mission with SpaceX's Falcon 9, the Spanish company launched a satellite that aims to provide 5G coverage in remote areas.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "Sateliot gets \"The GroundBreaker\" to orbit \ud83d\udce6 In a shared mission with SpaceX's Falcon 9, the Spanish company launched a satellite that aims to provide 5G coverage in remote areas. #space https://gizmodo.com/sateliot-first-5g-satellite-quash-iot-dead-zones-1850350158"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Microsoft AI is coming to the healthcare system",
+                    "Link": "https://www.techradar.com/news/microsoft-and-epic-are-bringing-gpt-4-to-hunt-for-trends-in-medical-records",
+                    "Description": "Through its partnership with Epic Systems and the implementation of the GPT-4 optimization, the company plans to reduce a significant amount of pressure faced by medical professionals.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft AI is coming to the healthcare system \ud83d\udce6 Through its partnership with Epic Systems and the implementation of the GPT-4 optimization, the company plans to reduce a significant amount of pressure faced by medical professionals. #microsoft https://www.techradar.com/news/microsoft-and-epic-are-bringing-gpt-4-to-hunt-for-trends-in-medical-records"
+                },
+                {
+                    "Title": "Meta\u2019s layoffs continue",
+                    "Link": "https://www.cnbc.com/2023/04/19/meta-started-latest-round-of-layoffs-focusing-on-technical-employees.html",
+                    "Description": "The company just announced its latest round of job cuts, impacting employees with backgrounds in user experience, software engineering, graphics programming, and other roles.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta\u2019s layoffs continue \ud83d\udce6 The company just announced its latest round of job cuts, impacting employees with backgrounds in user experience, software engineering, graphics programming, and other roles. #meta https://www.cnbc.com/2023/04/19/meta-started-latest-round-of-layoffs-focusing-on-technical-employees.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Take your EV to Tesla's charging station",
+                    "Link": "https://www.theverge.com/2023/4/19/23689247/tesla-v4-supercharger-ev-first-specs-rollout",
+                    "Description": "The automaker's first V4 Supercharger is now open for all kinds of electric vehicles in the Netherlands.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Take your EV to Tesla's charging station \ud83d\udce6 The automaker's first V4 Supercharger is now open for all kinds of electric vehicles in the Netherlands. #tesla https://www.theverge.com/2023/4/19/23689247/tesla-v4-supercharger-ev-first-specs-rollout"
+                },
+                {
+                    "Title": "Volkswagen's big move in China",
+                    "Link": "https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/",
+                    "Description": "In an effort to better meet China's consumer needs, the German auto giant revealed that it will invest one billion euros in a new center for the development of electric cars.",
+                    "Time": "2",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Volkswagen's big move in China \ud83d\udce6 In an effort to better meet China's consumer needs, the German auto giant revealed that it will invest one billion euros in a new center for the development of electric cars. #volkswagen https://techcrunch.com/2023/04/19/volkswagen-1-billion-euros-ev-innovation-center-in-china/"
+                },
+                {
+                    "Title": "Tesla cuts prices in the U.S.",
+                    "Link": "https://www.cnbc.com/2023/04/19/tesla-cuts-us-prices-for-sixth-time-this-year-ahead-of-q1-results.html",
+                    "Description": "This is the sixth time this year the company has lowered prices on its Model Y and Model 3 electric vehicles. Is this a move to drive sales or a sign of concerns about profit margins?",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla cuts prices in the U.S. \ud83d\udce6 This is the sixth time this year the company has lowered prices on its Model Y and Model 3 electric vehicles. Is this a move to drive sales or a sign of concerns about profit margins? #tesla https://www.cnbc.com/2023/04/19/tesla-cuts-us-prices-for-sixth-time-this-year-ahead-of-q1-results.html"
+                },
+                {
+                    "Title": "The new Model 3 is here! ",
+                    "Link": "https://electrek.co/2023/04/18/tesla-launches-new-model-3-400-miles-range-for-businesses/",
+                    "Description": "The long-awaited announcement from Tesla has arrived, there's a new Model 3 in the works. The trick? It's only available for businesses in the UK.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "The new Model 3 is here!  \ud83d\udce6 The long-awaited announcement from Tesla has arrived, there's a new Model 3 in the works. The trick? It's only available for businesses in the UK. #tesla https://electrek.co/2023/04/18/tesla-launches-new-model-3-400-miles-range-for-businesses/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Human neurons could be powering AI",
+                    "Link": "https://techcrunch.com/2023/04/19/cortical-labs-raises-10m-for-its-pong-playing-stem-cells-which-eventually-could-power-ai/",
+                    "Description": "This Australian startup is currently exploring the use of stem cells to create biocomputers, combining synthetic biology and human neurons to develop a very special class of AI.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Human neurons could be powering AI \ud83d\udce6 This Australian startup is currently exploring the use of stem cells to create biocomputers, combining synthetic biology and human neurons to develop a very special class of AI. #ai https://techcrunch.com/2023/04/19/cortical-labs-raises-10m-for-its-pong-playing-stem-cells-which-eventually-could-power-ai/"
+                }
+            ]
+        }
+    ],
+    "title": "Reddit is monetizing its data, Volkswagen invests in China, Tesla reduces prices again",
+    "date": "2023/04/19"
+}

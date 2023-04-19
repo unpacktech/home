@@ -35,7 +35,7 @@
             ]
         },
         {
-            "category": "Big tech",
+            "category": "Big tech \ud83c\udf1f",
             "stories": [
                 {
                     "Title": "Apple's latest sustainability goals",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "category": "Programming",
+            "category": "Programming \ud83d\udcbb",
             "stories": [
                 {
                     "Title": "GitHub Accelerator's first cohort",
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "category": "Startups",
+            "category": "Startups \ud83d\udcc8",
             "stories": [
                 {
                     "Title": "HyperWrite reveals an AI agent that \u201csurfs\u201d the web",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "category": "Design",
+            "category": "Design \ud83c\udfa8",
             "stories": [
                 {
                     "Title": "What's happening with the iPhone 15?",
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "category": "Miscellaneous",
+            "category": "Miscellaneous \ud83c\udf10",
             "stories": [
                 {
                     "Title": "Twitter will get real-time stock and crypto information",
