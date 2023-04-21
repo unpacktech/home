@@ -1,0 +1,134 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Google's latest move in AI research",
+                    "Link": "https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger",
+                    "Description": "With the goal of transforming industries and improving lives, DeepMind merges with Google's Brain team to accelerate AI progress.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Google's latest move in AI research \ud83d\udce6 With the goal of transforming industries and improving lives, DeepMind merges with Google's Brain team to accelerate AI progress. #google https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger"
+                },
+                {
+                    "Title": "Bard is your new coding companion",
+                    "Link": "https://www.theverge.com/2023/4/21/23692517/google-ai-bard-chatbot-code-support-functions-google-sheets",
+                    "Description": "Developers can now generate code, debug it, and even write functions for Google Sheets using Google's AI chatbot.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Bard is your new coding companion \ud83d\udce6 Developers can now generate code, debug it, and even write functions for Google Sheets using Google's AI chatbot. #google https://www.theverge.com/2023/4/21/23692517/google-ai-bard-chatbot-code-support-functions-google-sheets"
+                },
+                {
+                    "Title": "ChatGPT is actually expensive",
+                    "Link": "https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4",
+                    "Description": "Writing a poem or a funny story for your co-workers using OpenAI's chatbot could cost the company up to $700,000 per day.",
+                    "Time": "3",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "ChatGPT is actually expensive \ud83d\udce6 Writing a poem or a funny story for your co-workers using OpenAI's chatbot could cost the company up to $700,000 per day. #chatgpt https://www.businessinsider.com/how-much-chatgpt-costs-openai-to-run-estimate-report-2023-4"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Humane\u2019s AI-powered personal assistant",
+                    "Link": "https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen",
+                    "Description": "Unveiling the most innovative wearable gadget with AI-powered features, this startup founded by former Apple employees is creating a buzz in the tech industry.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Humane\u2019s AI-powered personal assistant \ud83d\udce6 Unveiling the most innovative wearable gadget with AI-powered features, this startup founded by former Apple employees is creating a buzz in the tech industry. #ai https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Hit the road with Tesla's new update",
+                    "Link": "https://electrek.co/2023/04/20/tesla-trip-planner-mobile-app/",
+                    "Description": "Tesla owners can now plan their trips straight from their mobile app, thanks to the long-awaited addition of a trip planner feature.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Hit the road with Tesla's new update \ud83d\udce6 Tesla owners can now plan their trips straight from their mobile app, thanks to the long-awaited addition of a trip planner feature. #tesla https://electrek.co/2023/04/20/tesla-trip-planner-mobile-app/"
+                },
+                {
+                    "Title": "Volkswagen keeps expanding outside of Europe",
+                    "Link": "https://www.techtimes.com/articles/290642/20230420/volkswagen-receive-9-7-billion-battery-plant-investment-canada.htm",
+                    "Description": "Canada is providing substantial funding to the automaker for the construction of its first North American battery plant.",
+                    "Time": "3",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Volkswagen keeps expanding outside of Europe \ud83d\udce6 Canada is providing substantial funding to the automaker for the construction of its first North American battery plant. #volkswagen https://www.techtimes.com/articles/290642/20230420/volkswagen-receive-9-7-billion-battery-plant-investment-canada.htm"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Hyundai is aiming for the moon",
+                    "Link": "https://electrek.co/2023/04/20/hyundai-motor-group-autonomous-rover-designed-to-explore-the-moon/",
+                    "Description": "An autonomous lunar exploration rover is being designed by the company in collaboration with Korean aerospace partners, with the goal of navigating the moon's surface by 2027.",
+                    "Time": "3",
+                    "Hashtag": "hyundai",
+                    "Tweet": "Hyundai is aiming for the moon \ud83d\udce6 An autonomous lunar exploration rover is being designed by the company in collaboration with Korean aerospace partners, with the goal of navigating the moon's surface by 2027. #hyundai https://electrek.co/2023/04/20/hyundai-motor-group-autonomous-rover-designed-to-explore-the-moon/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The excitement for Apple's wearables keeps growing",
+                    "Link": "https://9to5mac.com/2023/04/20/apple-headset-impressions-reality-pro-leak/",
+                    "Description": "According to reports, early testers of Apple's new Reality Pro headset, which is rumored to be announced in June, are \"blown away.\"",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "The excitement for Apple's wearables keeps growing \ud83d\udce6 According to reports, early testers of Apple's new Reality Pro headset, which is rumored to be announced in June, are \"blown away.\" #apple https://9to5mac.com/2023/04/20/apple-headset-impressions-reality-pro-leak/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Here's how to run your own LLM",
+                    "Link": "https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html",
+                    "Description": "Properly learning to run large language models on your own can help you unleash your potential and reach the goals you really want.",
+                    "Time": "29",
+                    "Hashtag": "programming",
+                    "Tweet": "Here's how to run your own LLM \ud83d\udce6 Properly learning to run large language models on your own can help you unleash your potential and reach the goals you really want. #programming https://blog.rfox.eu/en/Programming/How_to_run_your_own_LLM_GPT.html"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "A new app is coming with iOS 17",
+                    "Link": "https://www.macworld.com/article/1794207/ios-17-journaling-app-services-day-one.html",
+                    "Description": "Apple is reportedly working on an app codenamed \"Jurassic\" designed to help users keep track of their activities through journaling.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "A new app is coming with iOS 17 \ud83d\udce6 Apple is reportedly working on an app codenamed \"Jurassic\" designed to help users keep track of their activities through journaling. #apple https://www.macworld.com/article/1794207/ios-17-journaling-app-services-day-one.html"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "A world without checkmarks",
+                    "Link": "https://www.engadget.com/twitter-starts-pulling-legacy-blue-verification-checkmarks-205010576.html",
+                    "Description": "With verified checkmarks from legacy accounts being removed, \"verification\" is now only available to subscribers of Twitter Blue.",
+                    "Time": "1",
+                    "Hashtag": "twitter",
+                    "Tweet": "A world without checkmarks \ud83d\udce6 With verified checkmarks from legacy accounts being removed, \"verification\" is now only available to subscribers of Twitter Blue. #twitter https://www.engadget.com/twitter-starts-pulling-legacy-blue-verification-checkmarks-205010576.html"
+                }
+            ]
+        }
+    ],
+    "title": "Bard can help you with your code, Tesla's new update, Anticipation for Apple's wearables grows",
+    "date": "2023/04/21"
+}
