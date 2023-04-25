@@ -120,6 +120,14 @@
                     "Time": "3",
                     "Hashtag": "",
                     "Tweet": "Dogecoin reaches a new peak thanks to Twitter \ud83d\udce6 The app's recent decision to replace its iconic blue bird logo with the viral Shiba Inu dog picture resulted in a sudden spike in its prices. # https://finance.yahoo.com/news/dogecoin-futures-set-record-twitter-094924196.html?fr=sycsrp_catchall"
+                },
+                {
+                    "Title": "No more phone-switching!",
+                    "Link": "https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support",
+                    "Description": "WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices.",
+                    "Time": "2",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "No more phone-switching! \ud83d\udce6 WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices. #whatsapp https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support"
                 }
             ]
         },
@@ -133,19 +141,6 @@
                     "Time": "2",
                     "Hashtag": "",
                     "Tweet": "This french Startup is a great complement for Web3 and Web2 communities \ud83d\udce6 To enhance engagement with their most passionate community members, companies can use Zealy's achievement system, which provides a more meaningful way to connect by implementing gamified tasks. # https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/"
-                }
-            ]
-        },
-        {
-            "category": "Design \ud83c\udfa8",
-            "stories": [
-                {
-                    "Title": "No more phone-switching!",
-                    "Link": "https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support",
-                    "Description": "WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices.",
-                    "Time": "2",
-                    "Hashtag": "whatsapp",
-                    "Tweet": "No more phone-switching! \ud83d\udce6 WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices. #whatsapp https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support"
                 }
             ]
         }
