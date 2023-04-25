@@ -31,6 +31,14 @@
                     "Time": "3",
                     "Hashtag": "google",
                     "Tweet": "Cybersecurity and generative AI are now connected \ud83d\udce6 Google\u2019s latest announcement is a cybersecurity suite powered by Sec-PaLM, their specialized AI language model, which aims to assist users facing security threats. #google https://techcrunch.com/2023/04/24/google-brings-generative-ai-to-cybersecurity/"
+                },
+                {
+                    "Title": "Best AI products for 2023",
+                    "Link": "https://www.producthunt.com/collections/10-ai-products-to-watch-in-2023?ref=hpfeed",
+                    "Description": "Want to make the most of the year of artificial intelligence? Check out this compilation of the most relevant AI products that can help you stay on top of the latest trends.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Best AI products for 2023 \ud83d\udce6 Want to make the most of the year of artificial intelligence? Check out this compilation of the most relevant AI products that can help you stay on top of the latest trends. #ai https://www.producthunt.com/collections/10-ai-products-to-watch-in-2023?ref=hpfeed"
                 }
             ]
         },
@@ -94,6 +102,19 @@
                     "Time": "2",
                     "Hashtag": "space",
                     "Tweet": "A call from Texas to Japan \ud83d\udce6 The future of communication is here with space-based voice calls as AST SpaceMobile and AT&T make history with the first two-way audio call using satellites and a smartphone. #space https://www.engadget.com/att-completes-the-first-space-based-voice-call-using-a-standard-smartphone-120012437.html"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "No more phone-switching!",
+                    "Link": "https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support",
+                    "Description": "WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices.",
+                    "Time": "2",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "No more phone-switching! \ud83d\udce6 WhatsApp has recently introduced a new feature that allows its users to link multiple smartphones to a single account, bringing easy access across all devices. #whatsapp https://www.theverge.com/2023/4/25/23695914/whatsapp-one-account-multiple-phones-multi-device-support"
                 }
             ]
         }
