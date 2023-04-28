@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "EU steps forward in AI regulation",
+                    "Link": "https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/",
+                    "Description": "Lawmakers have passed the first draft of the comprehensive AI Act with stricter obligations on foundation models and copyright rules for generative AI.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "EU steps forward in AI regulation \ud83d\udce6 Lawmakers have passed the first draft of the comprehensive AI Act with stricter obligations on foundation models and copyright rules for generative AI. #ai https://venturebeat.com/ai/eu-lawmakers-pass-draft-of-ai-act-includes-last-minute-change-on-generative-ai-models/"
+                },
+                {
+                    "Title": "Microsoft Designer just got better!",
+                    "Link": "https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools",
+                    "Description": "The graphic design tool is now natively built into Edge, enabling easy social media sharing and AI-powered text generation that can take your projects to the next level.",
+                    "Time": "3",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft Designer just got better! \ud83d\udce6 The graphic design tool is now natively built into Edge, enabling easy social media sharing and AI-powered text generation that can take your projects to the next level. #microsoft https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools"
+                },
+                {
+                    "Title": "Walmart is getting the best of AI",
+                    "Link": "https://gizmodo.com/walmart-ai-chatbot-inflation-gpt-1850385783",
+                    "Description": "The retail company is reportedly using an AI chatbot to negotiate deals with suppliers, and most of them seem to be satisfied with the experience.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Walmart is getting the best of AI \ud83d\udce6 The retail company is reportedly using an AI chatbot to negotiate deals with suppliers, and most of them seem to be satisfied with the experience. #ai https://gizmodo.com/walmart-ai-chatbot-inflation-gpt-1850385783"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Microsoft\u2019s bet on cloud gaming",
+                    "Link": "https://www.cnbc.com/2023/04/28/microsofts-big-bet-on-cloud-gaming-is-what-tripped-up-activision-deal.html",
+                    "Description": "With its sights set on cloud gaming as the future of the industry, the big tech giant's ambitions have been put on hold by the UK's decision to block its bid for Activision Blizzard.",
+                    "Time": "6",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft\u2019s bet on cloud gaming \ud83d\udce6 With its sights set on cloud gaming as the future of the industry, the big tech giant's ambitions have been put on hold by the UK's decision to block its bid for Activision Blizzard. #microsoft https://www.cnbc.com/2023/04/28/microsofts-big-bet-on-cloud-gaming-is-what-tripped-up-activision-deal.html"
+                },
+                {
+                    "Title": "Siri keeps lacking behind",
+                    "Link": "https://www.businessinsider.com/apple-engineers-shirk-siri-to-jump-to-google-report-says-2023-4",
+                    "Description": "Reports indicate that Apple is losing top engineers to Google due to Siri's limitations, an indication of the company's struggle to keep up with the AI race.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Siri keeps lacking behind \ud83d\udce6 Reports indicate that Apple is losing top engineers to Google due to Siri's limitations, an indication of the company's struggle to keep up with the AI race. #apple https://www.businessinsider.com/apple-engineers-shirk-siri-to-jump-to-google-report-says-2023-4"
+                },
+                {
+                    "Title": "Windows 10 is on its way out",
+                    "Link": "https://www.techtimes.com/articles/290900/20230427/microsoft-saying-goodbye-windows-10-end-support-2025-already-runs.htm",
+                    "Description": "After eight years of service, Microsoft has announced that it will be ending support for its operating system in 2025.",
+                    "Time": "3",
+                    "Hashtag": "windows",
+                    "Tweet": "Windows 10 is on its way out \ud83d\udce6 After eight years of service, Microsoft has announced that it will be ending support for its operating system in 2025. #windows https://www.techtimes.com/articles/290900/20230427/microsoft-saying-goodbye-windows-10-end-support-2025-already-runs.htm"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Falcon Heavy gets ready to launch",
+                    "Link": "https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas",
+                    "Description": "Following several weather delays, SpaceX is aiming to launch its Falcon Heavy rocket carrying three satellites today.",
+                    "Time": "3",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Falcon Heavy gets ready to launch \ud83d\udce6 Following several weather delays, SpaceX is aiming to launch its Falcon Heavy rocket carrying three satellites today. #spaceX https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas"
+                },
+                {
+                    "Title": "SpaceX continues to grow its mission count",
+                    "Link": "https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023",
+                    "Description": "Launching today from Cape Canaveral, a Falcon 9 rocket will carry satellites for the telecom company SES.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "SpaceX continues to grow its mission count \ud83d\udce6 Launching today from Cape Canaveral, a Falcon 9 rocket will carry satellites for the telecom company SES. #spaceX https://www.space.com/spacex-ses-o3b-mpower-3-4-launch-2023"
+                },
+                {
+                    "Title": "Big problems for ESA\u2019s JUICE mission",
+                    "Link": "https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/",
+                    "Description": "The deployment of Juice's ice-penetrating RIME antenna is facing troubles as it is currently stuck and only partially extended. Engineers are working to solve the issue. ",
+                    "Time": "2",
+                    "Hashtag": "JUICE",
+                    "Tweet": "Big problems for ESA\u2019s JUICE mission \ud83d\udce6 The deployment of Juice's ice-penetrating RIME antenna is facing troubles as it is currently stuck and only partially extended. Engineers are working to solve the issue.  #JUICE https://arstechnica.com/science/2023/04/europes-major-new-interplanetary-spacecraft-has-a-slight-problem/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Voyager 2's mission extended",
+                    "Link": "https://www.techtimes.com/articles/290873/20230427/voyager-2s-science-mission-extended-2026-thanks-backup-power-reservoir.htm",
+                    "Description": "Thanks to a backup power source, NASA's Voyager 2 will continue its science mission until 2026, defying the test of time.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Voyager 2's mission extended \ud83d\udce6 Thanks to a backup power source, NASA's Voyager 2 will continue its science mission until 2026, defying the test of time. #NASA https://www.techtimes.com/articles/290873/20230427/voyager-2s-science-mission-extended-2026-thanks-backup-power-reservoir.htm"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "CLI tricks for developers",
+                    "Link": "https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/",
+                    "Description": "If you're planning to level up your skills, this blog post is filled with CLI tricks and commands that will help you no matter how experienced you are.",
+                    "Time": "8",
+                    "Hashtag": "programming",
+                    "Tweet": "CLI tricks for developers \ud83d\udce6 If you're planning to level up your skills, this blog post is filled with CLI tricks and commands that will help you no matter how experienced you are. #programming https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/"
+                }
+            ]
+        }
+    ],
+    "title": "EU regulations for AI, ESA\u2019s Juice mission faces trouble, Apple struggles with Siri",
+    "date": "2023/04/28"
+}
