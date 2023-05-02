@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Samsung limits the use of generative AI by workers",
+                    "Link": "https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/",
+                    "Description": "Following an accidental internal data leak, the company is planning to temporarily ban the use of generative AI on company-owned devices and devices running on internal networks.",
+                    "Time": "3",
+                    "Hashtag": "samsung",
+                    "Tweet": "Samsung limits the use of generative AI by workers \ud83d\udce6 Following an accidental internal data leak, the company is planning to temporarily ban the use of generative AI on company-owned devices and devices running on internal networks. #samsung https://techcrunch.com/2023/05/02/samsung-bans-use-of-generative-ai-tools-like-chatgpt-after-april-internal-data-leak/"
+                },
+                {
+                    "Title": "ChatGPT's empathy is what healthcare needs",
+                    "Link": "https://www.businessinsider.com/chatgpt-more-empathetic-than-doctors-study-save-time-bedside-manner-2023-5",
+                    "Description": "OpenAI's chatbot is a promising tool for answering medical questions since it provides more valuable and compassionate guidance.",
+                    "Time": "4",
+                    "Hashtag": "chatGPT",
+                    "Tweet": "ChatGPT's empathy is what healthcare needs \ud83d\udce6 OpenAI's chatbot is a promising tool for answering medical questions since it provides more valuable and compassionate guidance. #chatGPT https://www.businessinsider.com/chatgpt-more-empathetic-than-doctors-study-save-time-bedside-manner-2023-5"
+                },
+                {
+                    "Title": "Hollywood writers are concerned about AI",
+                    "Link": "https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107",
+                    "Description": "A strike has been called by the Writers Guild of America over issues such as better payment, working conditions, and AI protections.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Hollywood writers are concerned about AI \ud83d\udce6 A strike has been called by the Writers Guild of America over issues such as better payment, working conditions, and AI protections. #ai https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107"
+                },
+                {
+                    "Title": "AI can now turn thoughts into text",
+                    "Link": "https://www.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text",
+                    "Description": "Researchers at the University of Texas developed an AI decoder that translates brain activity into text, this achievement brings new hope for patients with neurological diseases.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI can now turn thoughts into text \ud83d\udce6 Researchers at the University of Texas developed an AI decoder that translates brain activity into text, this achievement brings new hope for patients with neurological diseases. #ai https://www.theguardian.com/technology/2023/may/01/ai-makes-non-invasive-mind-reading-possible-by-turning-thoughts-into-text"
+                },
+                {
+                    "Title": "IBM wants to replace job positions with AI",
+                    "Link": "https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html",
+                    "Description": "Due to the possibility of AI replacing 30% of non-customer-facing roles and back-office functions in the next 5 years, the company's CEO Arvind Krishna announced a pause in hiring.",
+                    "Time": "1",
+                    "Hashtag": "ibm",
+                    "Tweet": "IBM wants to replace job positions with AI \ud83d\udce6 Due to the possibility of AI replacing 30% of non-customer-facing roles and back-office functions in the next 5 years, the company's CEO Arvind Krishna announced a pause in hiring. #ibm https://finance.yahoo.com/news/ibm-pause-hiring-plans-replace-212747073.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Environmental groups are unhappy with SpaceX",
+                    "Link": "https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/",
+                    "Description": "A lawsuit has been filed against the Federal Aviation Administration, alleging inadequate regulation of the Starship rocket launch and negative impacts on surrounding habitats and communities.",
+                    "Time": "3",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Environmental groups are unhappy with SpaceX \ud83d\udce6 A lawsuit has been filed against the Federal Aviation Administration, alleging inadequate regulation of the Starship rocket launch and negative impacts on surrounding habitats and communities. #spaceX https://arstechnica.com/science/2023/05/environmental-groups-sue-the-faa-over-spacex-launch-from-texas/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Get a Tesla while the deal lasts",
+                    "Link": "https://www.cnbc.com/2023/05/02/tesla-raises-car-prices-in-us-china-and-other-markets-after-cuts.html",
+                    "Description": "The automaker has increased Model 3 and Model Y prices in key markets after earlier cuts, but prices still remain lower than at the start of the year.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Get a Tesla while the deal lasts \ud83d\udce6 The automaker has increased Model 3 and Model Y prices in key markets after earlier cuts, but prices still remain lower than at the start of the year. #tesla https://www.cnbc.com/2023/05/02/tesla-raises-car-prices-in-us-china-and-other-markets-after-cuts.html"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple and Google care about your privacy",
+                    "Link": "https://www.cnbc.com/2023/05/02/apple-and-google-team-up-to-stop-unwanted-airtag-tracking.html",
+                    "Description": "Both companies are teaming up to prevent lost item trackers, like the AirTag, from being used to track people without their consent.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple and Google care about your privacy \ud83d\udce6 Both companies are teaming up to prevent lost item trackers, like the AirTag, from being used to track people without their consent. #apple https://www.cnbc.com/2023/05/02/apple-and-google-team-up-to-stop-unwanted-airtag-tracking.html"
+                },
+                {
+                    "Title": "Microsoft plans for a more private ChatGPT",
+                    "Link": "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/",
+                    "Description": "Looking to appeal to businesses such as banks, financial services, and healthcare institutions, the company wants to offer a version of the chatbot that brings more privacy to confidential data.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft plans for a more private ChatGPT \ud83d\udce6 Looking to appeal to businesses such as banks, financial services, and healthcare institutions, the company wants to offer a version of the chatbot that brings more privacy to confidential data. #microsoft https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Analyze your data with Quadratic",
+                    "Link": "https://www.producthunt.com/posts/quadratic",
+                    "Description": "This infinite canvas spreadsheet with built-in Python, SQL, and Formulas, allows you to work with data from multiple sources and collaborate with ease.",
+                    "Time": "2",
+                    "Hashtag": "programming",
+                    "Tweet": "Analyze your data with Quadratic \ud83d\udce6 This infinite canvas spreadsheet with built-in Python, SQL, and Formulas, allows you to work with data from multiple sources and collaborate with ease. #programming https://www.producthunt.com/posts/quadratic"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Don\u2019t be alarmed by layoffs",
+                    "Link": "https://thenextweb.com/news/tech-job-opportunities-strong-despite-layoffs",
+                    "Description": "Employers are still hiring in the tech industry despite significant layoffs this year, which means there are plenty of career opportunities available for those interested in the field.",
+                    "Time": "4",
+                    "Hashtag": "tech",
+                    "Tweet": "Don\u2019t be alarmed by layoffs \ud83d\udce6 Employers are still hiring in the tech industry despite significant layoffs this year, which means there are plenty of career opportunities available for those interested in the field. #tech https://thenextweb.com/news/tech-job-opportunities-strong-despite-layoffs"
+                }
+            ]
+        }
+    ],
+    "title": "Samsung bans ChatGPT, Apple and Google team up, AI translates thoughts into text",
+    "date": "2023/05/02"
+}
