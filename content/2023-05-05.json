@@ -1,0 +1,114 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "If there's a race, Google and OpenAI aren't winning",
+                    "Link": "https://simonwillison.net/2023/May/4/no-moat/",
+                    "Description": "A leaked Google document shared anonymously on a Discord server, has exposed that the open-source community is currently ahead in the race to build the most powerful AI.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "If there's a race, Google and OpenAI aren't winning \ud83d\udce6 A leaked Google document shared anonymously on a Discord server, has exposed that the open-source community is currently ahead in the race to build the most powerful AI. #ai https://simonwillison.net/2023/May/4/no-moat/"
+                },
+                {
+                    "Title": "The story of Large Language Models",
+                    "Link": "https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/",
+                    "Description": "This comprehensive guide covers the journey of large language models, from foundational ideas to the latest advancements, and how RLHF aligns them with human values.",
+                    "Time": "29",
+                    "Hashtag": "ai",
+                    "Tweet": "The story of Large Language Models \ud83d\udce6 This comprehensive guide covers the journey of large language models, from foundational ideas to the latest advancements, and how RLHF aligns them with human values. #ai https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/"
+                },
+                {
+                    "Title": "Get personal with Pi",
+                    "Link": "https://www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5",
+                    "Description": "The co-founders of DeepMind and LinkedIn have launched Pi, an AI chatbot that is designed to be a friendly and neutral listener, offering advice and support to users in need.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Get personal with Pi \ud83d\udce6 The co-founders of DeepMind and LinkedIn have launched Pi, an AI chatbot that is designed to be a friendly and neutral listener, offering advice and support to users in need. #ai https://www.businessinsider.com/ai-chatbot-pi-offers-personal-assistant-advice-how-it-works-2023-5"
+                },
+                {
+                    "Title": "Text is no longer a weakness for generative AI",
+                    "Link": "https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/",
+                    "Description": "DeepFloyd IF, created by the research group DeepFloyd and backed by Stability AI, is a new text-to-image model that can create stunningly realistic art.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Text is no longer a weakness for generative AI \ud83d\udce6 DeepFloyd IF, created by the research group DeepFloyd and backed by Stability AI, is a new text-to-image model that can create stunningly realistic art. #ai https://techcrunch.com/2023/05/05/with-deepfloyd-generative-ai-art-gets-a-text-upgrade/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A powerful tool for neuroscience research",
+                    "Link": "https://cebra.ai/",
+                    "Description": "A machine-learning method called CEBRA has been developed by scientists to decode the activity from a mouse brain's visual cortex, enabling it to reconstruct a viewed video.",
+                    "Time": "3",
+                    "Hashtag": "neuroscience",
+                    "Tweet": "A powerful tool for neuroscience research \ud83d\udce6 A machine-learning method called CEBRA has been developed by scientists to decode the activity from a mouse brain's visual cortex, enabling it to reconstruct a viewed video. #neuroscience https://cebra.ai/"
+                },
+                {
+                    "Title": "A lunar eclipse is happening today",
+                    "Link": "https://www.space.com/lunar-eclipse-may-2023-what-time",
+                    "Description": "Don't miss your chance to witness the moon passing through the Earth's outermost shadow during the penumbral lunar eclipse. Tune in for the live stream and be part of this cosmic event.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "A lunar eclipse is happening today \ud83d\udce6 Don't miss your chance to witness the moon passing through the Earth's outermost shadow during the penumbral lunar eclipse. Tune in for the live stream and be part of this cosmic event. #space https://www.space.com/lunar-eclipse-may-2023-what-time"
+                },
+                {
+                    "Title": "Stunning discovery about Uranus' moons",
+                    "Link": "https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water",
+                    "Description": "New research from NASA's Voyager spacecraft suggests that four of Uranus' largest moons could be hiding deep oceans beneath their icy exteriors.",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "Stunning discovery about Uranus' moons \ud83d\udce6 New research from NASA's Voyager spacecraft suggests that four of Uranus' largest moons could be hiding deep oceans beneath their icy exteriors. #NASA https://www.nasa.gov/feature/jpl/new-study-of-uranus-large-moons-shows-4-may-hold-water"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple's thoughtful approach to AI",
+                    "Link": "https://www.businessinsider.com/apple-ceo-tim-cook-ai-needs-to-be-carefully-deployed-2023-5",
+                    "Description": "Despite the buzz surrounding artificial intelligence, Apple CEO Tim Cook remains cautious about how it's deployed at the company.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple's thoughtful approach to AI \ud83d\udce6 Despite the buzz surrounding artificial intelligence, Apple CEO Tim Cook remains cautious about how it's deployed at the company. #apple https://www.businessinsider.com/apple-ceo-tim-cook-ai-needs-to-be-carefully-deployed-2023-5"
+                },
+                {
+                    "Title": "Google\u2019s latest addition to Pixel phones",
+                    "Link": "https://9to5google.com/2023/05/04/google-bard-ai-pixel-widget/",
+                    "Description": "Reportedly, Android devices will soon be equipped with a homescreen widget featuring Bard, the AI-powered conversational chatbot.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Google\u2019s latest addition to Pixel phones \ud83d\udce6 Reportedly, Android devices will soon be equipped with a homescreen widget featuring Bard, the AI-powered conversational chatbot. #google https://9to5google.com/2023/05/04/google-bard-ai-pixel-widget/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Get your long-range Model 3 now!",
+                    "Link": "https://www.engadget.com/tesla-reopens-long-range-model-3-orders-after-almost-nine-months-164744109.html",
+                    "Description": "After being put on hold last August, orders for Tesla\u2019s long-range Model 3 have been reopened in the US with a price reduction, and delivery is expected in June.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Get your long-range Model 3 now! \ud83d\udce6 After being put on hold last August, orders for Tesla\u2019s long-range Model 3 have been reopened in the US with a price reduction, and delivery is expected in June. #tesla https://www.engadget.com/tesla-reopens-long-range-model-3-orders-after-almost-nine-months-164744109.html"
+                },
+                {
+                    "Title": "Tesla unveils new Model S Plaid track package",
+                    "Link": "https://electrek.co/2023/05/04/tesla-model-s-plaid-track-package-top-speed/",
+                    "Description": "The new package, which includes performance wheels and tires, is now available for purchase online at $6,000. Could this be the boost that finally brings the promised 200 mph top speed to life?",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla unveils new Model S Plaid track package \ud83d\udce6 The new package, which includes performance wheels and tires, is now available for purchase online at $6,000. Could this be the boost that finally brings the promised 200 mph top speed to life? #tesla https://electrek.co/2023/05/04/tesla-model-s-plaid-track-package-top-speed/"
+                }
+            ]
+        }
+    ],
+    "title": "Google and OpenAI aren't winning this time, Get ready for the lunar eclipse, Tim Cook is cautious about AI",
+    "date": "2023/05/05"
+}
