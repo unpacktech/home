@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "IBM is helping businesses with its latest innovation",
+                    "Link": "https://www.techtimes.com/articles/291298/20230509/ibm-launches-new-ai-platform-watsonx-help-businesses-integrate-artificial.htm",
+                    "Description": "Integrate AI into your business operations with IBM's Watsonx platform, featuring powerful tools like natural language code production and AI model training and deployment.",
+                    "Time": "2",
+                    "Hashtag": "IBM",
+                    "Tweet": "IBM is helping businesses with its latest innovation \ud83d\udce6 Integrate AI into your business operations with IBM's Watsonx platform, featuring powerful tools like natural language code production and AI model training and deployment. #IBM https://www.techtimes.com/articles/291298/20230509/ibm-launches-new-ai-platform-watsonx-help-businesses-integrate-artificial.htm"
+                },
+                {
+                    "Title": "Spotify says no to AI-made songs",
+                    "Link": "https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/",
+                    "Description": "The audio streaming business has removed tens of thousands of songs from an AI music start-up called Boomy, as part of its efforts to crack down on fraudulent activity on its platform.",
+                    "Time": "3",
+                    "Hashtag": "spotify",
+                    "Tweet": "Spotify says no to AI-made songs \ud83d\udce6 The audio streaming business has removed tens of thousands of songs from an AI music start-up called Boomy, as part of its efforts to crack down on fraudulent activity on its platform. #spotify https://arstechnica.com/information-technology/2023/05/spotify-ejects-thousands-of-ai-made-songs-in-purge-of-fake-streams/"
+                },
+                {
+                    "Title": "Google is set to make big announcements around AI",
+                    "Link": "https://www.cnbc.com/2023/05/08/google-io-to-feature-ai-updates-showing-off-palm-2-llm.html",
+                    "Description": "As part of its annual developer conference, the company plans to launch a general-use large language model, as well as unveil PaLM 2, its most advanced LLM to date.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Google is set to make big announcements around AI \ud83d\udce6 As part of its annual developer conference, the company plans to launch a general-use large language model, as well as unveil PaLM 2, its most advanced LLM to date. #google https://www.cnbc.com/2023/05/08/google-io-to-feature-ai-updates-showing-off-palm-2-llm.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla is going for the \"lithium\" medal",
+                    "Link": "https://techcrunch.com/2023/05/08/teslas-new-texas-lithium-refinery-to-support-1m-electric-vehicles-by-2025/",
+                    "Description": "As Tesla breaks ground on its Texas lithium refinery, the company is setting ambitious goals to produce enough lithium for 1 million electric vehicles by 2025.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla is going for the \"lithium\" medal \ud83d\udce6 As Tesla breaks ground on its Texas lithium refinery, the company is setting ambitious goals to produce enough lithium for 1 million electric vehicles by 2025. #tesla https://techcrunch.com/2023/05/08/teslas-new-texas-lithium-refinery-to-support-1m-electric-vehicles-by-2025/"
+                },
+                {
+                    "Title": "Cybertruck enthusiasts rejoice!",
+                    "Link": "https://electrek.co/2023/05/08/tesla-teases-cybertruck-accessory-tool-rack/",
+                    "Description": "During the groundbreaking ceremony for Tesla's lithium refinery, the automaker surprised everyone with a new tool rack accessory for the electric pickup truck.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Cybertruck enthusiasts rejoice! \ud83d\udce6 During the groundbreaking ceremony for Tesla's lithium refinery, the automaker surprised everyone with a new tool rack accessory for the electric pickup truck. #tesla https://electrek.co/2023/05/08/tesla-teases-cybertruck-accessory-tool-rack/"
+                },
+                {
+                    "Title": "Volvo aims to take on MINI's EVs",
+                    "Link": "https://www.engadget.com/volvos-compact-electric-suv-will-be-called-the-ex30-090534679.html",
+                    "Description": "Known as the EX30, Volvo's latest compact electric SUV, with its design elements taken from the EX90, is set to be unveiled on June 7th and will be available for pre-order in select markets.",
+                    "Time": "1",
+                    "Hashtag": "volvo",
+                    "Tweet": "Volvo aims to take on MINI's EVs \ud83d\udce6 Known as the EX30, Volvo's latest compact electric SUV, with its design elements taken from the EX90, is set to be unveiled on June 7th and will be available for pre-order in select markets. #volvo https://www.engadget.com/volvos-compact-electric-suv-will-be-called-the-ex30-090534679.html"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "A great source of LLMs",
+                    "Link": "https://github.com/eugeneyan/open-llms",
+                    "Description": "Take your LLM knowledge to the next level with this curated list of large language models for commercial use!",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "A great source of LLMs \ud83d\udce6 Take your LLM knowledge to the next level with this curated list of large language models for commercial use! #programming https://github.com/eugeneyan/open-llms"
+                },
+                {
+                    "Title": "More productivity and efficiency for developers",
+                    "Link": "https://arstechnica.com/gadgets/2023/05/after-18-months-githubs-big-code-search-overhaul-is-generally-available/",
+                    "Description": "GitHub has announced a new code search, offering faster and more functional search capabilities, as part of its initiative to bring more intelligence to its products.",
+                    "Time": "2",
+                    "Hashtag": "github",
+                    "Tweet": "More productivity and efficiency for developers \ud83d\udce6 GitHub has announced a new code search, offering faster and more functional search capabilities, as part of its initiative to bring more intelligence to its products. #github https://arstechnica.com/gadgets/2023/05/after-18-months-githubs-big-code-search-overhaul-is-generally-available/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Space tourism is getting closer",
+                    "Link": "https://www.theverge.com/2023/5/8/23715809/virgin-galactic-crewed-flight-unity-25",
+                    "Description": "Virgin Galactic's crewed flight, Unity 25, will launch later this month to provide the final assessment of its spaceflight system and astronaut experience.",
+                    "Time": "1",
+                    "Hashtag": "space",
+                    "Tweet": "Space tourism is getting closer \ud83d\udce6 Virgin Galactic's crewed flight, Unity 25, will launch later this month to provide the final assessment of its spaceflight system and astronaut experience. #space https://www.theverge.com/2023/5/8/23715809/virgin-galactic-crewed-flight-unity-25"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "This nearby star hides a big surprise",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/webb-looks-for-fomalhaut-s-asteroid-belt-and-finds-much-more",
+                    "Description": "Astronomers have discovered the first-ever asteroid belt seen outside of our solar system in infrared light around the young star, Fomalhaut.",
+                    "Time": "5",
+                    "Hashtag": "space",
+                    "Tweet": "This nearby star hides a big surprise \ud83d\udce6 Astronomers have discovered the first-ever asteroid belt seen outside of our solar system in infrared light around the young star, Fomalhaut. #space https://www.nasa.gov/feature/goddard/2023/webb-looks-for-fomalhaut-s-asteroid-belt-and-finds-much-more"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Introducing: Final Cut Pro and Logic Pro for iPad",
+                    "Link": "https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/",
+                    "Description": "Creatives everywhere are jumping in their seats with Apple's latest announcement: two of its powerful apps for recording, editing, and mixing are now available on iPad.",
+                    "Time": "8",
+                    "Hashtag": "apple",
+                    "Tweet": "Introducing: Final Cut Pro and Logic Pro for iPad \ud83d\udce6 Creatives everywhere are jumping in their seats with Apple's latest announcement: two of its powerful apps for recording, editing, and mixing are now available on iPad. #apple https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/"
+                }
+            ]
+        }
+    ],
+    "title": "IBM unveils Watsonx, Virgin Galactic aims for space tourism, Google has more plans for AI",
+    "date": "2023/05/09"
+}
