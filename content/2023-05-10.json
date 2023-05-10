@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "We are witnessing the future of space travel",
+                    "Link": "https://techcrunch.com/2023/05/10/vast-and-spacex-aim-to-put-the-first-commercial-space-station-in-orbit-in-2025/",
+                    "Description": "Vast and SpaceX will partner to launch the first commercial space station in August 2025 called Haven-1.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "We are witnessing the future of space travel \ud83d\udce6 Vast and SpaceX will partner to launch the first commercial space station in August 2025 called Haven-1. #space https://techcrunch.com/2023/05/10/vast-and-spacex-aim-to-put-the-first-commercial-space-station-in-orbit-in-2025/"
+                },
+                {
+                    "Title": "China\u2019s space program continues to grow",
+                    "Link": "https://www.space.com/china-launches-tianzhou-6-cargo-mission-tiangong",
+                    "Description": "Tianzhou 6, a robotic freighter, has embarked on its journey to resupply the Tiangong space station, this mission marks a great step forward for the country's space exploration.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "China\u2019s space program continues to grow \ud83d\udce6 Tianzhou 6, a robotic freighter, has embarked on its journey to resupply the Tiangong space station, this mission marks a great step forward for the country's space exploration. #space https://www.space.com/china-launches-tianzhou-6-cargo-mission-tiangong"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI will take your order",
+                    "Link": "https://www.businessinsider.com/wendys-ai-chatbot-drive-thru-service-jcb-biggie-bags-2023-5",
+                    "Description": "Next time you're at Wendy's drive-thru, a friendly AI chatbot may be the one to help you when you're ordering your favorite meal.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI will take your order \ud83d\udce6 Next time you're at Wendy's drive-thru, a friendly AI chatbot may be the one to help you when you're ordering your favorite meal. #ai https://www.businessinsider.com/wendys-ai-chatbot-drive-thru-service-jcb-biggie-bags-2023-5"
+                },
+                {
+                    "Title": "Principles and values are a must for AI",
+                    "Link": "https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/",
+                    "Description": "The AI startup, Anthropic, stresses the importance of providing responsible and \u201cconstitutional\u201d training to chatbots, setting its own \"Claude\" as an example.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Principles and values are a must for AI \ud83d\udce6 The AI startup, Anthropic, stresses the importance of providing responsible and \u201cconstitutional\u201d training to chatbots, setting its own \"Claude\" as an example. #ai https://arstechnica.com/information-technology/2023/05/ai-with-a-moral-compass-anthropic-outlines-constitutional-ai-in-its-claude-chatbot/"
+                },
+                {
+                    "Title": "Salesforce brings generative AI to Tableau",
+                    "Link": "https://www.techrepublic.com/article/salesforce-generative-ai-tableau/",
+                    "Description": "Tableau GPT and Tableau Pulse enable users to explore and analyze data effortlessly, simplifying complex processes with natural language interactions.",
+                    "Time": "4",
+                    "Hashtag": "salesforce",
+                    "Tweet": "Salesforce brings generative AI to Tableau \ud83d\udce6 Tableau GPT and Tableau Pulse enable users to explore and analyze data effortlessly, simplifying complex processes with natural language interactions. #salesforce https://www.techrepublic.com/article/salesforce-generative-ai-tableau/"
+                },
+                {
+                    "Title": "OpenAI wants you to understand language models",
+                    "Link": "https://openai.com/research/language-models-can-explain-neurons-in-language-models",
+                    "Description": "The company's latest initiative targets AI interpretability and transparency by using GPT-4 to generate natural language explanations of neuron behavior.",
+                    "Time": "9",
+                    "Hashtag": "openai",
+                    "Tweet": "OpenAI wants you to understand language models \ud83d\udce6 The company's latest initiative targets AI interpretability and transparency by using GPT-4 to generate natural language explanations of neuron behavior. #openai https://openai.com/research/language-models-can-explain-neurons-in-language-models"
+                },
+                {
+                    "Title": "Generative AI is key for developers and companies",
+                    "Link": "https://github.blog/2023-05-09-how-companies-are-boosting-productivity-with-generative-ai/",
+                    "Description": "Automating tasks, improving collaboration, and making data-driven decisions are just a few of the benefits of incorporating generative AI into your workflow.",
+                    "Time": "8",
+                    "Hashtag": "ai",
+                    "Tweet": "Generative AI is key for developers and companies \ud83d\udce6 Automating tasks, improving collaboration, and making data-driven decisions are just a few of the benefits of incorporating generative AI into your workflow. #ai https://github.blog/2023-05-09-how-companies-are-boosting-productivity-with-generative-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A successful week for Tesla",
+                    "Link": "https://electrek.co/2023/05/09/tesla-achieves-goal-5000-model-y-week-giga-texas/",
+                    "Description": "The automaker's ambitious expansion plans are coming to fruition as the Gigafactory Texas achieves the impressive feat of producing 5,000 Model Y vehicles in a single week.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "A successful week for Tesla \ud83d\udce6 The automaker's ambitious expansion plans are coming to fruition as the Gigafactory Texas achieves the impressive feat of producing 5,000 Model Y vehicles in a single week. #tesla https://electrek.co/2023/05/09/tesla-achieves-goal-5000-model-y-week-giga-texas/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Having unlimited clean energy may be a reality",
+                    "Link": "https://www.technologyreview.com/2023/05/10/1072812/this-startup-says-its-first-fusion-plant-is-five-years-away-experts-doubt-it/",
+                    "Description": "Helion Energy, a startup backed by OpenAI's Sam Altman, has set a five-year target to unveil the world's first fusion power plant, paving the way for a carbon-free future.",
+                    "Time": "10",
+                    "Hashtag": "startups",
+                    "Tweet": "Having unlimited clean energy may be a reality \ud83d\udce6 Helion Energy, a startup backed by OpenAI's Sam Altman, has set a five-year target to unveil the world's first fusion power plant, paving the way for a carbon-free future. #startups https://www.technologyreview.com/2023/05/10/1072812/this-startup-says-its-first-fusion-plant-is-five-years-away-experts-doubt-it/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Developer conference season is here!",
+                    "Link": "https://techcrunch.com/2023/05/10/watch-the-google-i-o-2023-keynote-live/",
+                    "Description": "Keep an eye open for all the breaking news at Google I/O! There will be lots of AI advancements, hardware surprises, and the highly anticipated unveiling of Android 14.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Developer conference season is here! \ud83d\udce6 Keep an eye open for all the breaking news at Google I/O! There will be lots of AI advancements, hardware surprises, and the highly anticipated unveiling of Android 14. #google https://techcrunch.com/2023/05/10/watch-the-google-i-o-2023-keynote-live/"
+                },
+                {
+                    "Title": "Meta announces ImageBind",
+                    "Link": "https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research",
+                    "Description": "The company keeps pushing boundaries in AI research with its new open-source AI model that seamlessly integrates multiple data streams, including text, audio, visuals, temperature, and movement.",
+                    "Time": "4",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta announces ImageBind \ud83d\udce6 The company keeps pushing boundaries in AI research with its new open-source AI model that seamlessly integrates multiple data streams, including text, audio, visuals, temperature, and movement. #meta https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research"
+                }
+            ]
+        }
+    ],
+    "title": "Vast sets the ground for commercial space stations, Tesla\u2019s amazing week, AI is approaching fast-food chains",
+    "date": "2023/05/10"
+}
