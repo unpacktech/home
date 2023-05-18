@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Etched: The hardware for superintelligence",
+                    "Link": "https://etched.ai/",
+                    "Description": "This San Francisco-based startup aims to achieve 100x the performance at a fraction of the cost with their specialized chips solely dedicated to running large language models.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Etched: The hardware for superintelligence \ud83d\udce6 This San Francisco-based startup aims to achieve 100x the performance at a fraction of the cost with their specialized chips solely dedicated to running large language models. #ai https://etched.ai/"
+                },
+                {
+                    "Title": "AI is the must-have condiment in Google's menu",
+                    "Link": "https://www.cnbc.com/2023/05/17/google-to-use-new-ai-models-for-ads-and-to-help-youtube-creators.html",
+                    "Description": "With the help of generative AI, the company hopes to integrate artificial intelligence into advertising, automate ad processes, and provide personalized suggestions to creators.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "AI is the must-have condiment in Google's menu \ud83d\udce6 With the help of generative AI, the company hopes to integrate artificial intelligence into advertising, automate ad processes, and provide personalized suggestions to creators. #google https://www.cnbc.com/2023/05/17/google-to-use-new-ai-models-for-ads-and-to-help-youtube-creators.html"
+                },
+                {
+                    "Title": "ServiceNow teams up with Nvidia",
+                    "Link": "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/",
+                    "Description": "Both companies have plans to collaborate and build super-specialized generative AI models for enterprise functions, beginning with IT workflows.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "ServiceNow teams up with Nvidia \ud83d\udce6 Both companies have plans to collaborate and build super-specialized generative AI models for enterprise functions, beginning with IT workflows. #ai https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The future of food delivery",
+                    "Link": "https://www.theverge.com/2023/5/17/23727631/wendys-robots-tunnels-underground-food-delivery",
+                    "Description": "Brace yourselves for a high-tech experience at your nearest fast-food chain as Wendy's currently pilots an underground delivery system powered by autonomous robots.",
+                    "Time": "1",
+                    "Hashtag": "robotics",
+                    "Tweet": "The future of food delivery \ud83d\udce6 Brace yourselves for a high-tech experience at your nearest fast-food chain as Wendy's currently pilots an underground delivery system powered by autonomous robots. #robotics https://www.theverge.com/2023/5/17/23727631/wendys-robots-tunnels-underground-food-delivery"
+                },
+                {
+                    "Title": "A breakthrough for neurotechnology",
+                    "Link": "https://www.cnbc.com/2023/05/18/brain-implant-company-paradromics-one-step-closer-to-fda-approval.html",
+                    "Description": "Bringing the future to our daily lives, neurotech startup Paradromics is developing a groundbreaking brain implant to restore communication for individuals with severe paralysis.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "A breakthrough for neurotechnology \ud83d\udce6 Bringing the future to our daily lives, neurotech startup Paradromics is developing a groundbreaking brain implant to restore communication for individuals with severe paralysis. #science https://www.cnbc.com/2023/05/18/brain-implant-company-paradromics-one-step-closer-to-fda-approval.html"
+                },
+                {
+                    "Title": "Latest news from the cosmos!",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/nasa-s-spitzer-tess-find-potentially-volcano-covered-earth-size-world",
+                    "Description": "Astronomers have stumbled upon an extraordinary exoplanet, LP 791-18 d, which may have volcanic activity similar to Jupiter's moon Io.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Latest news from the cosmos! \ud83d\udce6 Astronomers have stumbled upon an extraordinary exoplanet, LP 791-18 d, which may have volcanic activity similar to Jupiter's moon Io. #NASA https://www.nasa.gov/feature/goddard/2023/nasa-s-spitzer-tess-find-potentially-volcano-covered-earth-size-world"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Carbon removal meets innovation",
+                    "Link": "https://www.fastcompany.com/90897922/carbon-removal-startup-sends-oil-back-undergroundand-just-got-53-million-in-contracts",
+                    "Description": "Frontier-backed startup, Charm Industrial, is revolutionizing carbon removal with its groundbreaking \"bio-oil\" technology, converting agricultural waste into a sustainable solution.",
+                    "Time": "4",
+                    "Hashtag": "startups",
+                    "Tweet": "Carbon removal meets innovation \ud83d\udce6 Frontier-backed startup, Charm Industrial, is revolutionizing carbon removal with its groundbreaking \"bio-oil\" technology, converting agricultural waste into a sustainable solution. #startups https://www.fastcompany.com/90897922/carbon-removal-startup-sends-oil-back-undergroundand-just-got-53-million-in-contracts"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "More bumps in the road for Apple\u2019s Reality Pro",
+                    "Link": "https://9to5mac.com/2023/05/18/reality-pro-headset/",
+                    "Description": "According to reports, the device falls short of the company's initial vision, raising concerns among top executives. Will Apple carry on with the announcement at next month\u2019s WWDC?",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": "More bumps in the road for Apple\u2019s Reality Pro \ud83d\udce6 According to reports, the device falls short of the company's initial vision, raising concerns among top executives. Will Apple carry on with the announcement at next month\u2019s WWDC? #apple https://9to5mac.com/2023/05/18/reality-pro-headset/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Copilot is better than ever",
+                    "Link": "https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/",
+                    "Description": "GitHub's machine learning experts continually work to improve how Copilot contextualizes your code, enabling seamless collaboration between developers and the AI pair programmer.",
+                    "Time": "9",
+                    "Hashtag": "GitHub",
+                    "Tweet": "Copilot is better than ever \ud83d\udce6 GitHub's machine learning experts continually work to improve how Copilot contextualizes your code, enabling seamless collaboration between developers and the AI pair programmer. #GitHub https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/"
+                },
+                {
+                    "Title": "Langdock: Effortless plugins",
+                    "Link": "https://www.producthunt.com/posts/langdock",
+                    "Description": "This open-source platform is ready to be your go-to partner for developing, testing, and monitoring Large Language Model (LLM) plugins.",
+                    "Time": "4",
+                    "Hashtag": "programming",
+                    "Tweet": "Langdock: Effortless plugins \ud83d\udce6 This open-source platform is ready to be your go-to partner for developing, testing, and monitoring Large Language Model (LLM) plugins. #programming https://www.producthunt.com/posts/langdock"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "No more cookies for you!",
+                    "Link": "https://techcrunch.com/2023/05/18/google-will-disable-third-party-cookies-for-1-of-chrome-users-in-q1-2024/",
+                    "Description": "Google is now saying goodbye to third-party cookies, starting in early 2024. 1% of Chrome users will experience the new privacy-conscious approach.",
+                    "Time": "4",
+                    "Hashtag": "google",
+                    "Tweet": "No more cookies for you! \ud83d\udce6 Google is now saying goodbye to third-party cookies, starting in early 2024. 1% of Chrome users will experience the new privacy-conscious approach. #google https://techcrunch.com/2023/05/18/google-will-disable-third-party-cookies-for-1-of-chrome-users-in-q1-2024/"
+                }
+            ]
+        }
+    ],
+    "title": "Google brings AI to ads, Mixed feelings around Apple's headset, ServiceNow partners with Nvidia",
+    "date": "2023/05/18"
+}
