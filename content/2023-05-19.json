@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "ChatGPT at the palm of your hands",
+                    "Link": "https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/",
+                    "Description": "Finally, iPhone users in the US can experience OpenAI's chatbot with the ChatGPT mobile app. Stay tuned as the company plans to extend its availability to more countries in the upcoming weeks.",
+                    "Time": "2",
+                    "Hashtag": "chatGPT",
+                    "Tweet": "ChatGPT at the palm of your hands \ud83d\udce6 Finally, iPhone users in the US can experience OpenAI's chatbot with the ChatGPT mobile app. Stay tuned as the company plans to extend its availability to more countries in the upcoming weeks. #chatGPT https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/"
+                },
+                {
+                    "Title": "Meta goes all-in for AI",
+                    "Link": "https://about.fb.com/news/2023/05/metas-infrastructure-for-ai/",
+                    "Description": "The company has outlined its exciting roadmap for AI infrastructure. The highlights include the development of silicon chips, an AI-optimized data center, and their new coding assistant CodeCompose.",
+                    "Time": "4",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta goes all-in for AI \ud83d\udce6 The company has outlined its exciting roadmap for AI infrastructure. The highlights include the development of silicon chips, an AI-optimized data center, and their new coding assistant CodeCompose. #meta https://about.fb.com/news/2023/05/metas-infrastructure-for-ai/"
+                },
+                {
+                    "Title": "AI disruption in telecommunications",
+                    "Link": "https://www.businessinsider.com/british-telecom-ceo-ai-replace-jobs-chatgpt-bt-2023-5",
+                    "Description": "BT Group, a British telecommunications giant, is planning to reshape its workforce with artificial intelligence taking over approximately 10,000 job positions.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI disruption in telecommunications \ud83d\udce6 BT Group, a British telecommunications giant, is planning to reshape its workforce with artificial intelligence taking over approximately 10,000 job positions. #ai https://www.businessinsider.com/british-telecom-ceo-ai-replace-jobs-chatgpt-bt-2023-5"
+                },
+                {
+                    "Title": "ClearGPT wants to transform your business",
+                    "Link": "https://venturebeat.com/ai/clearml-unveils-cleargpt-a-generative-ai-platform-overcoming-chatgpt-challenges/",
+                    "Description": "With a focus on security, performance, cost, and data governance, ClearML has launched a customizable generative AI platform designed for enterprise use.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "ClearGPT wants to transform your business \ud83d\udce6 With a focus on security, performance, cost, and data governance, ClearML has launched a customizable generative AI platform designed for enterprise use. #ai https://venturebeat.com/ai/clearml-unveils-cleargpt-a-generative-ai-platform-overcoming-chatgpt-challenges/"
+                },
+                {
+                    "Title": "Apple is looking for AI talent",
+                    "Link": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
+                    "Description": "Recently, Apple posted job openings for passionate machine learning specialists. Could this be a sign of a shift in its approach to generative AI?",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple is looking for AI talent \ud83d\udce6 Recently, Apple posted job openings for passionate machine learning specialists. Could this be a sign of a shift in its approach to generative AI? #apple https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Meet Figure 01",
+                    "Link": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/",
+                    "Description": "The spotlight is on Figure, the AI robotics company, as they unveil a humanoid robot designed to excel at manual labor and take on the jobs people don't want.",
+                    "Time": "16",
+                    "Hashtag": "robotics",
+                    "Tweet": "Meet Figure 01 \ud83d\udce6 The spotlight is on Figure, the AI robotics company, as they unveil a humanoid robot designed to excel at manual labor and take on the jobs people don't want. #robotics https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "No more AI for employees, says Apple",
+                    "Link": "https://9to5mac.com/2023/05/18/apple-bans-employees-from-using-chatgpt/",
+                    "Description": "Due to multiple concerns surrounding AI platforms collecting confidential data from employees, Apple has made the decision to ban assistants such as ChatGPT and GitHub's Copilot.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "No more AI for employees, says Apple \ud83d\udce6 Due to multiple concerns surrounding AI platforms collecting confidential data from employees, Apple has made the decision to ban assistants such as ChatGPT and GitHub's Copilot. #apple https://9to5mac.com/2023/05/18/apple-bans-employees-from-using-chatgpt/"
+                },
+                {
+                    "Title": "Samsung is sticking with Google after all",
+                    "Link": "https://www.androidauthority.com/samsung-stay-google-default-search-bing-3326988/",
+                    "Description": "After thoughtful consideration, and concerns over market perception and Google relations, Samsung has decided to hold back from switching to Bing as its default search engine.",
+                    "Time": "1",
+                    "Hashtag": "samsung",
+                    "Tweet": "Samsung is sticking with Google after all \ud83d\udce6 After thoughtful consideration, and concerns over market perception and Google relations, Samsung has decided to hold back from switching to Bing as its default search engine. #samsung https://www.androidauthority.com/samsung-stay-google-default-search-bing-3326988/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A new partner for the Artemis mission",
+                    "Link": "https://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider",
+                    "Description": "Blue Origin has been awarded by NASA with a $3.4 billion contract to design and develop a human landing system for the Artemis V mission.",
+                    "Time": "3",
+                    "Hashtag": "blueorigin",
+                    "Tweet": "A new partner for the Artemis mission \ud83d\udce6 Blue Origin has been awarded by NASA with a $3.4 billion contract to design and develop a human landing system for the Artemis V mission. #blueorigin https://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla has its sights set on India",
+                    "Link": "https://www.reuters.com/business/autos-transportation/tesla-serious-establishing-india-production-innovation-base-minister-says-2023-05-19/",
+                    "Description": "The country's deputy minister for technology has stated that the automaker is \"very seriously\" considering India as a production and innovation base. ",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla has its sights set on India \ud83d\udce6 The country's deputy minister for technology has stated that the automaker is \"very seriously\" considering India as a production and innovation base.  #tesla https://www.reuters.com/business/autos-transportation/tesla-serious-establishing-india-production-innovation-base-minister-says-2023-05-19/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Trible: App & Web building made easy",
+                    "Link": "https://www.producthunt.com/posts/trible",
+                    "Description": "This AI-powered, no-code platform is the ideal companion for content creators and experts, enabling you to effortlessly launch your own app and website in minutes.",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "Trible: App & Web building made easy \ud83d\udce6 This AI-powered, no-code platform is the ideal companion for content creators and experts, enabling you to effortlessly launch your own app and website in minutes. #programming https://www.producthunt.com/posts/trible"
+                }
+            ]
+        }
+    ],
+    "title": "ChatGPT comes to iOS, All about Meta's AI infrastructure, Blue Origin gets awarded by NASA",
+    "date": "2023/05/19"
+}
