@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Don't miss out on the Ax-2 mission!",
+                    "Link": "https://www.space.com/news/live/axiom-space-missions-updates",
+                    "Description": "Stay updated on every milestone of Axiom Space's groundbreaking Ax-2 mission during their 10-day adventure at the International Space Station.",
+                    "Time": "20",
+                    "Hashtag": "axiomspace",
+                    "Tweet": "Don't miss out on the Ax-2 mission! \ud83d\udce6 Stay updated on every milestone of Axiom Space's groundbreaking Ax-2 mission during their 10-day adventure at the International Space Station. #axiomspace https://www.space.com/news/live/axiom-space-missions-updates"
+                },
+                {
+                    "Title": "More satellites into celestial traffic",
+                    "Link": "https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/",
+                    "Description": "With a successful launch, SpaceX's Falcon 9 rocket deployed a technology demonstration satellite for OneWeb's broadband constellation, along with spares for them and Iridium Communications.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "More satellites into celestial traffic \ud83d\udce6 With a successful launch, SpaceX's Falcon 9 rocket deployed a technology demonstration satellite for OneWeb's broadband constellation, along with spares for them and Iridium Communications. #spaceX https://spacenews.com/spacex-launches-oneweb-gen-2-technology-demonstrator/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Is there an \u201cunintended acceleration\u201d in Tesla vehicles?",
+                    "Link": "https://electrek.co/2023/05/22/tesla-drivers-again-claiming-cars-accelerate-by-themselves/",
+                    "Description": "Many users have pointed out their EV may be accelerating itself. However, careful analysis shows that pedal misapplication incidents, not autonomous acceleration, are often the cause.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Is there an \u201cunintended acceleration\u201d in Tesla vehicles? \ud83d\udce6 Many users have pointed out their EV may be accelerating itself. However, careful analysis shows that pedal misapplication incidents, not autonomous acceleration, are often the cause. #tesla https://electrek.co/2023/05/22/tesla-drivers-again-claiming-cars-accelerate-by-themselves/"
+                },
+                {
+                    "Title": "A new Escalade is on the works",
+                    "Link": "https://electrek.co/2023/05/22/cadillac-escalade-iq/",
+                    "Description": "General Motors recently announced the Cadillac Escalade IQ EV. More information is yet to be revealed, but one thing is for sure, the automaker keeps making its way into the EV market.",
+                    "Time": "3",
+                    "Hashtag": "cadillac",
+                    "Tweet": "A new Escalade is on the works \ud83d\udce6 General Motors recently announced the Cadillac Escalade IQ EV. More information is yet to be revealed, but one thing is for sure, the automaker keeps making its way into the EV market. #cadillac https://electrek.co/2023/05/22/cadillac-escalade-iq/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Meta is cloning a certain app",
+                    "Link": "https://www.engadget.com/the-morning-after-meta-could-launch-a-twitter-competitor-next-month-111543954.html",
+                    "Description": "Social media experts are speculating that Meta will launch a platform that will directly rival Twitter, possibly in late June.",
+                    "Time": "1",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta is cloning a certain app \ud83d\udce6 Social media experts are speculating that Meta will launch a platform that will directly rival Twitter, possibly in late June. #meta https://www.engadget.com/the-morning-after-meta-could-launch-a-twitter-competitor-next-month-111543954.html"
+                },
+                {
+                    "Title": "Privacy matters for EU",
+                    "Link": "https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion",
+                    "Description": "Meta has made headlines recently after receiving a $1.3 billion fine by EU data regulators, and an order to cease the transfer of Facebook data of EU citizens to the US.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "Privacy matters for EU \ud83d\udce6 Meta has made headlines recently after receiving a $1.3 billion fine by EU data regulators, and an order to cease the transfer of Facebook data of EU citizens to the US. #meta https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "DragGAN: A powerful editing tool",
+                    "Link": "https://www.techradar.com/news/this-ai-powered-photoshop-rival-is-the-end-of-photography-as-we-know-it",
+                    "Description": "Image manipulation gets an AI boost. With DragGAN users are now able to precisely control the pose, shape, expression, and layout of generated objects.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "DragGAN: A powerful editing tool \ud83d\udce6 Image manipulation gets an AI boost. With DragGAN users are now able to precisely control the pose, shape, expression, and layout of generated objects. #ai https://www.techradar.com/news/this-ai-powered-photoshop-rival-is-the-end-of-photography-as-we-know-it"
+                },
+                {
+                    "Title": "Unsure about who\u2019s leading the LLM game?",
+                    "Link": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+                    "Description": "Stay at the forefront of LLMs and chatbots with the Open LLM Leaderboard. Get updates on the latest releases, explore rankings, and dive into the most insightful evaluations.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Unsure about who\u2019s leading the LLM game? \ud83d\udce6 Stay at the forefront of LLMs and chatbots with the Open LLM Leaderboard. Get updates on the latest releases, explore rankings, and dive into the most insightful evaluations. #ai https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Get to know Zeda.io 2.0",
+                    "Link": "https://www.producthunt.com/posts/zeda-io-2-0",
+                    "Description": "Can't come up with winning strategies? Not sure about what to build next? This AI-powered product discovery and strategy platform can solve it all for you.",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "Get to know Zeda.io 2.0 \ud83d\udce6 Can't come up with winning strategies? Not sure about what to build next? This AI-powered product discovery and strategy platform can solve it all for you. #programming https://www.producthunt.com/posts/zeda-io-2-0"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Neeva couldn't compete with Google",
+                    "Link": "https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/",
+                    "Description": "Neeva, a promising contender for Google's search engine, is winding down its consumer business after encountering challenges such as a lack of new users and a difficult economic environment.",
+                    "Time": "5",
+                    "Hashtag": "neeva",
+                    "Tweet": "Neeva couldn't compete with Google \ud83d\udce6 Neeva, a promising contender for Google's search engine, is winding down its consumer business after encountering challenges such as a lack of new users and a difficult economic environment. #neeva https://techcrunch.com/2023/05/21/google-challenger-neeva-gives-up-on-consumer-search-goes-all-in-on-ai-and-the-enterprise/"
+                },
+                {
+                    "Title": "AT&T is unsure about the satellite-to-cellular innovation",
+                    "Link": "https://www.theverge.com/2023/5/19/23730682/att-fcc-spacex-starlink-t-mobile-satellite-cellular-plans",
+                    "Description": "The company is concerned about potential interference risks as T-Mobile and SpaceX seek to connect mobile phones to Starlink satellites.",
+                    "Time": "1",
+                    "Hashtag": "at&t",
+                    "Tweet": "AT&T is unsure about the satellite-to-cellular innovation \ud83d\udce6 The company is concerned about potential interference risks as T-Mobile and SpaceX seek to connect mobile phones to Starlink satellites. #at&t https://www.theverge.com/2023/5/19/23730682/att-fcc-spacex-starlink-t-mobile-satellite-cellular-plans"
+                }
+            ]
+        }
+    ],
+    "title": "The Ax-2 mission gets to the ISS, EU's privacy concerns, Meta is working on their own Twitter",
+    "date": "2023/05/22"
+}
