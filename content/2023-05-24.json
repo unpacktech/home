@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Say hello to your new assistant!",
+                    "Link": "https://www.theverge.com/2023/5/23/23732454/microsoft-ai-windows-11-copilot-build",
+                    "Description": "Microsoft is integrating Copilot into Windows 11, allowing the AI-powered assistant to help you navigate, customize settings, and connect with your favorite apps directly from the taskbar.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Say hello to your new assistant! \ud83d\udce6 Microsoft is integrating Copilot into Windows 11, allowing the AI-powered assistant to help you navigate, customize settings, and connect with your favorite apps directly from the taskbar. #microsoft https://www.theverge.com/2023/5/23/23732454/microsoft-ai-windows-11-copilot-build"
+                },
+                {
+                    "Title": "Google makes merchant lives easier",
+                    "Link": "https://techcrunch.com/2023/05/23/google-product-studio-tool-lets-merchants-create-product-imagery-using-generative-ai/",
+                    "Description": "Announced at Google Marketing Live, Product Studio revolutionizes product imagery for brands. With the help of generative AI, it creates stunning visuals, avoiding the need for costly photoshoots.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Google makes merchant lives easier \ud83d\udce6 Announced at Google Marketing Live, Product Studio revolutionizes product imagery for brands. With the help of generative AI, it creates stunning visuals, avoiding the need for costly photoshoots. #google https://techcrunch.com/2023/05/23/google-product-studio-tool-lets-merchants-create-product-imagery-using-generative-ai/"
+                },
+                {
+                    "Title": "AI takes the mic in Spotify podcasts",
+                    "Link": "https://gizmodo.com/spotify-ai-bill-simmons-podcasts-1850466648",
+                    "Description": "According to reports, the platform is exploring the use of AI-generated voices to read podcast ads, offering a unique and immersive experience for listeners.",
+                    "Time": "2",
+                    "Hashtag": "spotify",
+                    "Tweet": "AI takes the mic in Spotify podcasts \ud83d\udce6 According to reports, the platform is exploring the use of AI-generated voices to read podcast ads, offering a unique and immersive experience for listeners. #spotify https://gizmodo.com/spotify-ai-bill-simmons-podcasts-1850466648"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Meta\u2019s year of efficiency continues\u2026 ",
+                    "Link": "https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html",
+                    "Description": "As part of its cost-saving strategy and aim to improve \"efficiency,\" the company has announced another round of layoffs, this time targeting business groups.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta\u2019s year of efficiency continues\u2026  \ud83d\udce6 As part of its cost-saving strategy and aim to improve \"efficiency,\" the company has announced another round of layoffs, this time targeting business groups. #meta https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html"
+                },
+                {
+                    "Title": "We're getting closer to Apple's Reality Pro",
+                    "Link": "https://9to5mac.com/2023/05/23/apple-vr-experts-wwdc-2023-headset/",
+                    "Description": "Apple keeps adding fuel to the speculations surrounding its mixed reality headset by inviting several virtual reality experts to this year's WWDC... Are we finally getting an announcement?",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "We're getting closer to Apple's Reality Pro \ud83d\udce6 Apple keeps adding fuel to the speculations surrounding its mixed reality headset by inviting several virtual reality experts to this year's WWDC... Are we finally getting an announcement? #apple https://9to5mac.com/2023/05/23/apple-vr-experts-wwdc-2023-headset/"
+                },
+                {
+                    "Title": "Everything about Microsoft Build 2023",
+                    "Link": "https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai",
+                    "Description": "Missed out on the tech giant's big news? Look no further! Get a quick recap of Microsoft's latest updates. And yes, you guessed it, they went all-in on AI features.",
+                    "Time": "14",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Everything about Microsoft Build 2023 \ud83d\udce6 Missed out on the tech giant's big news? Look no further! Get a quick recap of Microsoft's latest updates. And yes, you guessed it, they went all-in on AI features. #microsoft https://www.theverge.com/23732609/microsoft-build-2023-news-announcements-ai"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Gitai's vision for lunar exploration",
+                    "Link": "https://techcrunch.com/2023/05/24/gitai-wants-to-build-the-robotic-labor-force-for-the-moon-and-mars/",
+                    "Description": "The Japanese startup, with its mission of using autonomous robots for lunar activities, has successfully secured $30 million in funding.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "Gitai's vision for lunar exploration \ud83d\udce6 The Japanese startup, with its mission of using autonomous robots for lunar activities, has successfully secured $30 million in funding. #space https://techcrunch.com/2023/05/24/gitai-wants-to-build-the-robotic-labor-force-for-the-moon-and-mars/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Imagine building a home in outer space",
+                    "Link": "https://arstechnica.com/science/2023/05/how-nasa-plans-to-melt-the-moon-and-build-on-mars/",
+                    "Description": "NASA\u2019s MMPACT team is on a mission to turn lunar regolith into a dynamic paste, paving the way for limitless potential in 3D-printed habitats on the Moon and Mars.",
+                    "Time": "9",
+                    "Hashtag": "NASA",
+                    "Tweet": "Imagine building a home in outer space \ud83d\udce6 NASA\u2019s MMPACT team is on a mission to turn lunar regolith into a dynamic paste, paving the way for limitless potential in 3D-printed habitats on the Moon and Mars. #NASA https://arstechnica.com/science/2023/05/how-nasa-plans-to-melt-the-moon-and-build-on-mars/"
+                },
+                {
+                    "Title": "Figure is a leading force in robotics",
+                    "Link": "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/",
+                    "Description": "In a significant funding milestone, the company raised $70 million to propel the development and manufacturing of its general-purpose humanoid robots.",
+                    "Time": "2",
+                    "Hashtag": "robotics",
+                    "Tweet": "Figure is a leading force in robotics \ud83d\udce6 In a significant funding milestone, the company raised $70 million to propel the development and manufacturing of its general-purpose humanoid robots. #robotics https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Brace yourself for the next Gigafactory",
+                    "Link": "https://electrek.co/2023/05/24/tesla-to-announce-location-new-factory-where/",
+                    "Description": "Tesla's expansion plans take center stage as CEO Elon Musk hints at a new factory location announcement by year-end. Will it be Canada, India, France, or somewhere unexpected?",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Brace yourself for the next Gigafactory \ud83d\udce6 Tesla's expansion plans take center stage as CEO Elon Musk hints at a new factory location announcement by year-end. Will it be Canada, India, France, or somewhere unexpected? #tesla https://electrek.co/2023/05/24/tesla-to-announce-location-new-factory-where/"
+                },
+                {
+                    "Title": "Volvo\u2019s sustainable approach",
+                    "Link": "https://electrek.co/2023/05/24/ex30-suv-smaller-dimensions-volvo-lowest-carbon-footprint-ev/",
+                    "Description": "The upcoming EX30 small SUV from Volvo, with its compact and eco-friendly design, aims to cater to a younger demographic while offering the lowest-ever carbon footprint.",
+                    "Time": "3",
+                    "Hashtag": "volvo",
+                    "Tweet": "Volvo\u2019s sustainable approach \ud83d\udce6 The upcoming EX30 small SUV from Volvo, with its compact and eco-friendly design, aims to cater to a younger demographic while offering the lowest-ever carbon footprint. #volvo https://electrek.co/2023/05/24/ex30-suv-smaller-dimensions-volvo-lowest-carbon-footprint-ev/"
+                }
+            ]
+        }
+    ],
+    "title": "It's all about AI for Microsoft, Meta's new round of layoffs, Tesla hints at new Gigafactory",
+    "date": "2023/05/24"
+}
