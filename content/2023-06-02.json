@@ -1,0 +1,114 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Nvidia\u2019s latest work of art",
+                    "Link": "https://www.techtimes.com/articles/292163/20230601/nvidias-ai-model-neuralangelo-instantly-turn-2d-videos-3d-models.htm",
+                    "Description": "Derived from Instant NeRF, the company's Neuralangelo captures every detail from 2D clips and converts it into stunning 3D versions, just like Michelangelo in the Renaissance.",
+                    "Time": "3",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Nvidia\u2019s latest work of art \ud83d\udce6 Derived from Instant NeRF, the company's Neuralangelo captures every detail from 2D clips and converts it into stunning 3D versions, just like Michelangelo in the Renaissance. #nvidia https://www.techtimes.com/articles/292163/20230601/nvidias-ai-model-neuralangelo-instantly-turn-2d-videos-3d-models.htm"
+                },
+                {
+                    "Title": "OpenAI\u2019s $1M initiative",
+                    "Link": "https://openai.com/blog/openai-cybersecurity-grant-program",
+                    "Description": "Their grant program is seeking innovative projects that leverage generative AI to enhance defense, measure AI model security, and address evolving threats.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "OpenAI\u2019s $1M initiative \ud83d\udce6 Their grant program is seeking innovative projects that leverage generative AI to enhance defense, measure AI model security, and address evolving threats. #openai https://openai.com/blog/openai-cybersecurity-grant-program"
+                },
+                {
+                    "Title": "Are you tired of clickbait? Artifact too",
+                    "Link": "https://www.theverge.com/2023/6/2/23745927/artifact-fix-clickbait-headlines-rewriting-ai",
+                    "Description": "The news app created by Instagram co-founders introduces real-time clickbait headline rewrites, powered by OpenAI's GPT-4.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Are you tired of clickbait? Artifact too \ud83d\udce6 The news app created by Instagram co-founders introduces real-time clickbait headline rewrites, powered by OpenAI's GPT-4. #ai https://www.theverge.com/2023/6/2/23745927/artifact-fix-clickbait-headlines-rewriting-ai"
+                },
+                {
+                    "Title": "Microsoft signs deal with CoreWeave",
+                    "Link": "https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html",
+                    "Description": "Microsoft's quest for AI dominance continues with a significant investment in CoreWeave's cloud computing infrastructure, aimed at fortifying OpenAI's computing capabilities.",
+                    "Time": "3",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft signs deal with CoreWeave \ud83d\udce6 Microsoft's quest for AI dominance continues with a significant investment in CoreWeave's cloud computing infrastructure, aimed at fortifying OpenAI's computing capabilities. #microsoft https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html"
+                },
+                {
+                    "Title": "Apple keeps looking for AI talent",
+                    "Link": "https://9to5mac.com/2023/06/01/apple-engineers-generative-ai/",
+                    "Description": "New job openings reveal the company is actively seeking software engineers with expertise in generative AI and mixed reality.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple keeps looking for AI talent \ud83d\udce6 New job openings reveal the company is actively seeking software engineers with expertise in generative AI and mixed reality. #apple https://9to5mac.com/2023/06/01/apple-engineers-generative-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Broadcasting directly from the red planet",
+                    "Link": "https://petapixel.com/2023/06/01/the-first-ever-live-stream-from-mars-is-happening-this-week/",
+                    "Description": "The European Space Agency is bringing Mars to our screens with a first-of-its-kind live stream. Witness new images coming in every 50 seconds directly from the Mars Express spacecraft.",
+                    "Time": "2",
+                    "Hashtag": "ESA",
+                    "Tweet": "Broadcasting directly from the red planet \ud83d\udce6 The European Space Agency is bringing Mars to our screens with a first-of-its-kind live stream. Witness new images coming in every 50 seconds directly from the Mars Express spacecraft. #ESA https://petapixel.com/2023/06/01/the-first-ever-live-stream-from-mars-is-happening-this-week/"
+                },
+                {
+                    "Title": "Apparently\u2026 We are alone",
+                    "Link": "https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/",
+                    "Description": "NASA's advisory board on UAP convened for their inaugural public meeting, where they highlighted the lack of convincing evidence for extraterrestrial life.",
+                    "Time": "6",
+                    "Hashtag": "NASA",
+                    "Tweet": "Apparently\u2026 We are alone \ud83d\udce6 NASA's advisory board on UAP convened for their inaugural public meeting, where they highlighted the lack of convincing evidence for extraterrestrial life. #NASA https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Rocket Lab delays Venus mission",
+                    "Link": "https://www.engadget.com/rocket-lab-delays-its-venus-atmospheric-probe-mission-090847239.html",
+                    "Description": "Recently, the team has put off the search for organic molecules in the planet's atmosphere. However, they remain committed to this ambitious journey.",
+                    "Time": "1",
+                    "Hashtag": "rocketlab",
+                    "Tweet": "Rocket Lab delays Venus mission \ud83d\udce6 Recently, the team has put off the search for organic molecules in the planet's atmosphere. However, they remain committed to this ambitious journey. #rocketlab https://www.engadget.com/rocket-lab-delays-its-venus-atmospheric-probe-mission-090847239.html"
+                },
+                {
+                    "Title": "Starliner is not ready yet",
+                    "Link": "https://techcrunch.com/2023/06/01/nasa-boeing-delay-the-first-crewed-flight-test-of-the-starliner-capsuleagain/",
+                    "Description": "Boeing and NASA announced a delay in the first crewed flight test of the Starline due to technical challenges. Issues with parachute systems and flammable tape require attention and resolution.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Starliner is not ready yet \ud83d\udce6 Boeing and NASA announced a delay in the first crewed flight test of the Starline due to technical challenges. Issues with parachute systems and flammable tape require attention and resolution. #NASA https://techcrunch.com/2023/06/01/nasa-boeing-delay-the-first-crewed-flight-test-of-the-starliner-capsuleagain/"
+                },
+                {
+                    "Title": "Dream Chaser is getting closer to its goal",
+                    "Link": "https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/",
+                    "Description": "Sierra Space's spaceplane has undergone a significant test, with its systems successfully powered up for the very first time. Bringing us closer to its inaugural flight.",
+                    "Time": "3",
+                    "Hashtag": "sierraspace",
+                    "Tweet": "Dream Chaser is getting closer to its goal \ud83d\udce6 Sierra Space's spaceplane has undergone a significant test, with its systems successfully powered up for the very first time. Bringing us closer to its inaugural flight. #sierraspace https://spacenews.com/dream-chaser-moves-a-step-closer-to-first-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A classic revamped",
+                    "Link": "https://electrek.co/2022/09/07/vw-id-buzz-test-drive-ev-character-utility/",
+                    "Description": "VW's ID Buzz electric microbus is coming to North America with more power, larger battery capacity, and extra seating.",
+                    "Time": "6",
+                    "Hashtag": "VW",
+                    "Tweet": "A classic revamped \ud83d\udce6 VW's ID Buzz electric microbus is coming to North America with more power, larger battery capacity, and extra seating. #VW https://electrek.co/2022/09/07/vw-id-buzz-test-drive-ev-character-utility/"
+                }
+            ]
+        }
+    ],
+    "title": "Nvidia\u2019s own Michelangelo, OpenAI\u2019s grant program, Apple\u2019s hunt for AI talent continues",
+    "date": "2023/06/02"
+}
