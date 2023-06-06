@@ -1,0 +1,129 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "First look at Apple's Vision Pro",
+                    "Link": "https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/",
+                    "Description": "The air was filled with skepticism and doubt leading up to Apple's big announcement, but the arrival of the Vision Pro headset has already surpassed expectations.",
+                    "Time": "7",
+                    "Hashtag": "apple",
+                    "Tweet": "First look at Apple's Vision Pro \ud83d\udce6 The air was filled with skepticism and doubt leading up to Apple's big announcement, but the arrival of the Vision Pro headset has already surpassed expectations. #apple https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/"
+                },
+                {
+                    "Title": "Did Apple miss AI at their keynote?",
+                    "Link": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
+                    "Description": "Apple's WWDC 2023 unveiled several groundbreaking products, but \"AI\" was notably absent. Instead, they discreetly referred to it as \"machine learning\" and \"ML.\"",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "Did Apple miss AI at their keynote? \ud83d\udce6 Apple's WWDC 2023 unveiled several groundbreaking products, but \"AI\" was notably absent. Instead, they discreetly referred to it as \"machine learning\" and \"ML.\" #apple https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/"
+                },
+                {
+                    "Title": "In case you missed it: WWDC 2023",
+                    "Link": "https://www.fastcompany.com/90905189/everything-apple-introduced-wwdc-2023-vision-pro",
+                    "Description": "Don't miss out on the latest from Apple! Discover the highlights from their Worldwide Developers Conference, including the highly anticipated Vision Pro headset and new iOS.",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "In case you missed it: WWDC 2023 \ud83d\udce6 Don't miss out on the latest from Apple! Discover the highlights from their Worldwide Developers Conference, including the highly anticipated Vision Pro headset and new iOS. #apple https://www.fastcompany.com/90905189/everything-apple-introduced-wwdc-2023-vision-pro"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Make the most out of GPT",
+                    "Link": "https://platform.openai.com/docs/guides/gpt-best-practices/strategy-give-gpts-time-to-think",
+                    "Description": "OpenAI has provided a guide that outlines best practices for optimizing your outcomes, emphasizing experimentation as the key to discovering which methods work best for you.",
+                    "Time": "27",
+                    "Hashtag": "openai",
+                    "Tweet": "Make the most out of GPT \ud83d\udce6 OpenAI has provided a guide that outlines best practices for optimizing your outcomes, emphasizing experimentation as the key to discovering which methods work best for you. #openai https://platform.openai.com/docs/guides/gpt-best-practices/strategy-give-gpts-time-to-think"
+                },
+                {
+                    "Title": "Introducing: LlamaIndex",
+                    "Link": "https://techcrunch.com/2023/06/06/llamaindex-adds-private-data-to-large-language-models/",
+                    "Description": "This open-source project allows developers to overcome limitations by enabling LLMs to work with personal and organizational data.",
+                    "Time": "2",
+                    "Hashtag": "LLM",
+                    "Tweet": "Introducing: LlamaIndex \ud83d\udce6 This open-source project allows developers to overcome limitations by enabling LLMs to work with personal and organizational data. #LLM https://techcrunch.com/2023/06/06/llamaindex-adds-private-data-to-large-language-models/"
+                },
+                {
+                    "Title": "EU keeps fighting disinformation",
+                    "Link": "https://www.techtimes.com/articles/292304/20230606/eu-urges-signatories-label-deepfakes-ai-generated-content-prevent-disinformation.htm",
+                    "Description": "The need to identify and label AI content has been stressed by commissioner Vera Jourova, urging signatories of the Code of Practice on Online Disinformation to take action.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "EU keeps fighting disinformation \ud83d\udce6 The need to identify and label AI content has been stressed by commissioner Vera Jourova, urging signatories of the Code of Practice on Online Disinformation to take action. #ai https://www.techtimes.com/articles/292304/20230606/eu-urges-signatories-label-deepfakes-ai-generated-content-prevent-disinformation.htm"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA\u2019s Psyche is back on track",
+                    "Link": "https://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track",
+                    "Description": "Although earlier setbacks hindered the Psyche mission, it has now resolved issues and is scheduled for launch in October 2023.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA\u2019s Psyche is back on track \ud83d\udce6 Although earlier setbacks hindered the Psyche mission, it has now resolved issues and is scheduled for launch in October 2023. #NASA https://www.nasa.gov/press-release/review-board-nasa-jpl-psyche-progress-outstanding-launch-on-track"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Special delivery from SpaceX",
+                    "Link": "https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking",
+                    "Description": "The Dragon cargo capsule has reached its destination and is now docked at the International Space Station, unloading 7,000 pounds of supplies and scientific experiments.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Special delivery from SpaceX \ud83d\udce6 The Dragon cargo capsule has reached its destination and is now docked at the International Space Station, unloading 7,000 pounds of supplies and scientific experiments. #spacex https://www.space.com/spacex-dragon-crs-28-cargo-mission-docking"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Acura and Google hit the road",
+                    "Link": "https://electrek.co/2023/06/06/acura-first-ev-google-apps-built-in-optimize-routes-for-charging-zdx/",
+                    "Description": "Acura's upcoming electric SUV, the ZDX, harnesses Google's power through its built-in apps. Enjoy voice-activated controls with Google Assistant and navigate effortlessly with Maps.",
+                    "Time": "2",
+                    "Hashtag": "EV",
+                    "Tweet": "Acura and Google hit the road \ud83d\udce6 Acura's upcoming electric SUV, the ZDX, harnesses Google's power through its built-in apps. Enjoy voice-activated controls with Google Assistant and navigate effortlessly with Maps. #EV https://electrek.co/2023/06/06/acura-first-ev-google-apps-built-in-optimize-routes-for-charging-zdx/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Equatic: Sustainability from the sea",
+                    "Link": "https://www.theverge.com/2023/6/6/23749323/ocean-equatic-boeing-hydrogen-energy-carbon-capture",
+                    "Description": "This California-based startup is already backed up by Boeing for their innovative project that extracts carbon dioxide from the ocean and air while producing hydrogen as an alternative fuel.",
+                    "Time": "5",
+                    "Hashtag": "startups",
+                    "Tweet": "Equatic: Sustainability from the sea \ud83d\udce6 This California-based startup is already backed up by Boeing for their innovative project that extracts carbon dioxide from the ocean and air while producing hydrogen as an alternative fuel. #startups https://www.theverge.com/2023/6/6/23749323/ocean-equatic-boeing-hydrogen-energy-carbon-capture"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Fulfilling chipmaking promises",
+                    "Link": "https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing",
+                    "Description": "Intel aims for innovation in chipmaking with PowerVia, a new chip-building method that could lead to more efficient and powerful processors.",
+                    "Time": "2",
+                    "Hashtag": "intel",
+                    "Tweet": "Fulfilling chipmaking promises \ud83d\udce6 Intel aims for innovation in chipmaking with PowerVia, a new chip-building method that could lead to more efficient and powerful processors. #intel https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing"
+                }
+            ]
+        }
+    ],
+    "title": "All eyes on Apple, EU fights AI disinformation, Psyche mission is on track",
+    "date": "2023/06/06"
+}
