@@ -1,0 +1,114 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Everything gets a touch of AI",
+                    "Link": "https://www.techtimes.com/articles/292411/20230608/meta-ceo-mark-zuckerberg-reveals-plans-incorporate-generative-ai-product.htm",
+                    "Description": "Mark Zuckerberg discussed Meta's ambitious roadmap for generative AI during a meeting. Chatbots and AI-powered media editing are only a few ways the company invests in this technology.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Everything gets a touch of AI \ud83d\udce6 Mark Zuckerberg discussed Meta's ambitious roadmap for generative AI during a meeting. Chatbots and AI-powered media editing are only a few ways the company invests in this technology. #meta https://www.techtimes.com/articles/292411/20230608/meta-ceo-mark-zuckerberg-reveals-plans-incorporate-generative-ai-product.htm"
+                },
+                {
+                    "Title": "AI is taking over hiring and recruitment",
+                    "Link": "https://www.cnet.com/tech/features/the-new-age-of-hiring-ai-is-changing-the-game-for-job-seekers/",
+                    "Description": "The job market is undergoing a major transformation driven by digital technologies. Complex algorithms and machine learning drive the hiring process, creating new opportunities and challenges.",
+                    "Time": "10",
+                    "Hashtag": "ai",
+                    "Tweet": "AI is taking over hiring and recruitment \ud83d\udce6 The job market is undergoing a major transformation driven by digital technologies. Complex algorithms and machine learning drive the hiring process, creating new opportunities and challenges. #ai https://www.cnet.com/tech/features/the-new-age-of-hiring-ai-is-changing-the-game-for-job-seekers/"
+                },
+                {
+                    "Title": "Nvidia's latest investment",
+                    "Link": "https://www.cnbc.com/2023/06/08/nvidia-invests-in-google-linked-generative-ai-startup-cohere.html",
+                    "Description": "A $270 million investment has been secured for Cohere's enterprise-focused AI solutions, attracting industry leaders like Nvidia.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Nvidia's latest investment \ud83d\udce6 A $270 million investment has been secured for Cohere's enterprise-focused AI solutions, attracting industry leaders like Nvidia. #nvidia https://www.cnbc.com/2023/06/08/nvidia-invests-in-google-linked-generative-ai-startup-cohere.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A glimpse of the future, with Porsche",
+                    "Link": "https://www.engadget.com/porsches-mission-x-concept-offers-a-glimpse-at-its-electric-super-car-future-121518030.html",
+                    "Description": "The automaker has introduced the Mission X, an electric hypercar that perfectly embodies the spirit of the sports car of tomorrow, with its blend of retro aesthetics and modern innovation.",
+                    "Time": "1",
+                    "Hashtag": "porsche",
+                    "Tweet": "A glimpse of the future, with Porsche \ud83d\udce6 The automaker has introduced the Mission X, an electric hypercar that perfectly embodies the spirit of the sports car of tomorrow, with its blend of retro aesthetics and modern innovation. #porsche https://www.engadget.com/porsches-mission-x-concept-offers-a-glimpse-at-its-electric-super-car-future-121518030.html"
+                },
+                {
+                    "Title": "The rocky ride of the Cybertruck",
+                    "Link": "https://www.theverge.com/2023/6/9/23755074/tesla-cybertruck-development-difficulties-wired-report-prototype-delay-braking-suspension",
+                    "Description": "Leaked documents expose many of the challenges encountered during the development of the Cybertruck prototype, adding a dose of reality to the immense hype surrounding Tesla's upcoming production.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "The rocky ride of the Cybertruck \ud83d\udce6 Leaked documents expose many of the challenges encountered during the development of the Cybertruck prototype, adding a dose of reality to the immense hype surrounding Tesla's upcoming production. #tesla https://www.theverge.com/2023/6/9/23755074/tesla-cybertruck-development-difficulties-wired-report-prototype-delay-braking-suspension"
+                },
+                {
+                    "Title": "General Motors joins Tesla\u2019s network",
+                    "Link": "https://techcrunch.com/2023/06/08/gm-follows-fords-lead-and-adopts-tesla-chargers/",
+                    "Description": "GM plans to drive mass EV adoption and establish a unified charging standard in North America by incorporating Tesla\u2019s charge port in its upcoming vehicles.",
+                    "Time": "2",
+                    "Hashtag": "generalmotors",
+                    "Tweet": "General Motors joins Tesla\u2019s network \ud83d\udce6 GM plans to drive mass EV adoption and establish a unified charging standard in North America by incorporating Tesla\u2019s charge port in its upcoming vehicles. #generalmotors https://techcrunch.com/2023/06/08/gm-follows-fords-lead-and-adopts-tesla-chargers/"
+                },
+                {
+                    "Title": "Toyota takes the lead",
+                    "Link": "https://electrek.co/2023/06/08/toyota-unveils-future-us-battery-lab-fuel-ev-rollout/",
+                    "Description": "The Japanese automaker's $50 million investment in a new US battery lab amplifies its commitment to staying ahead in the rapidly evolving EV market.",
+                    "Time": "1",
+                    "Hashtag": "toyota",
+                    "Tweet": "Toyota takes the lead \ud83d\udce6 The Japanese automaker's $50 million investment in a new US battery lab amplifies its commitment to staying ahead in the rapidly evolving EV market. #toyota https://electrek.co/2023/06/08/toyota-unveils-future-us-battery-lab-fuel-ev-rollout/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The red planet and its names",
+                    "Link": "https://www.nasa.gov/feature/jpl/why-and-how-nasa-gives-a-name-to-every-spot-it-studies-on-mars",
+                    "Description": "NASA has a fascinating naming system for its Mars missions. From \u201cUbajara\u201d to \u201cBelva Crater,\u201d unique names are given to rocks and surfaces, enabling scientists to track and document discoveries.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "The red planet and its names \ud83d\udce6 NASA has a fascinating naming system for its Mars missions. From \u201cUbajara\u201d to \u201cBelva Crater,\u201d unique names are given to rocks and surfaces, enabling scientists to track and document discoveries. #NASA https://www.nasa.gov/feature/jpl/why-and-how-nasa-gives-a-name-to-every-spot-it-studies-on-mars"
+                },
+                {
+                    "Title": "With the energy of the stars",
+                    "Link": "https://www.cnbc.com/2023/06/08/commonwealth-fusion-systems-tour-and-ceo-interview.html",
+                    "Description": "Commonwealth Fusion is attracting major investors and industry giants, as they showcase the immense potential of fusion energy for a greener and cleaner future.",
+                    "Time": "6",
+                    "Hashtag": "science",
+                    "Tweet": "With the energy of the stars \ud83d\udce6 Commonwealth Fusion is attracting major investors and industry giants, as they showcase the immense potential of fusion energy for a greener and cleaner future. #science https://www.cnbc.com/2023/06/08/commonwealth-fusion-systems-tour-and-ceo-interview.html"
+                },
+                {
+                    "Title": "Bright revelations ahead",
+                    "Link": "https://arstechnica.com/science/2023/06/a-telescope-happened-to-be-pointing-at-the-brightest-supernova-yet-observed/",
+                    "Description": "The Large High Altitude Air Shower Observatory (LHAASO) may not be a traditional \"telescope,\" but it's proving to be an invaluable tool for studying cosmic phenomena like gamma-ray bursts.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Bright revelations ahead \ud83d\udce6 The Large High Altitude Air Shower Observatory (LHAASO) may not be a traditional \"telescope,\" but it's proving to be an invaluable tool for studying cosmic phenomena like gamma-ray bursts. #science https://arstechnica.com/science/2023/06/a-telescope-happened-to-be-pointing-at-the-brightest-supernova-yet-observed/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Mark Zuckerberg is not amused",
+                    "Link": "https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset",
+                    "Description": "In his words, there are no major breakthroughs with Apple's Vision Pro. He believes that Meta's headset, with its affordable price and practical approach, better captures the future of computing. ",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "Mark Zuckerberg is not amused \ud83d\udce6 In his words, there are no major breakthroughs with Apple's Vision Pro. He believes that Meta's headset, with its affordable price and practical approach, better captures the future of computing.  #meta https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset"
+                }
+            ]
+        }
+    ],
+    "title": "A bumpy road for the Cybertruck, GM adopts Tesla chargers, Meta\u2019s AI roadmap",
+    "date": "2023/06/09"
+}
