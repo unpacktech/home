@@ -1,0 +1,114 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "All you need is AI",
+                    "Link": "https://www.cnbc.com/2023/06/13/paul-mccartney-says-ai-got-john-lennons-voice-on-last-beatles-record.html",
+                    "Description": "Paul McCartney's recent interview with BBC reveals how AI technology successfully extracted and enhanced John Lennon's vocals from an old recording. Will we soon hear an unreleased Beatles track?",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "All you need is AI \ud83d\udce6 Paul McCartney's recent interview with BBC reveals how AI technology successfully extracted and enhanced John Lennon's vocals from an old recording. Will we soon hear an unreleased Beatles track? #ai https://www.cnbc.com/2023/06/13/paul-mccartney-says-ai-got-john-lennons-voice-on-last-beatles-record.html"
+                },
+                {
+                    "Title": "A bond between technology and spirituality",
+                    "Link": "https://arstechnica.com/information-technology/2023/06/chatgpt-takes-the-pulpit-ai-leads-experimental-church-service-in-germany/",
+                    "Description": "In a groundbreaking experiment, a church service in Germany featured an AI-powered sermon delivered by avatars on a screen. Over 300 people attended the event, and reactions were mixed.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "A bond between technology and spirituality \ud83d\udce6 In a groundbreaking experiment, a church service in Germany featured an AI-powered sermon delivered by avatars on a screen. Over 300 people attended the event, and reactions were mixed. #ai https://arstechnica.com/information-technology/2023/06/chatgpt-takes-the-pulpit-ai-leads-experimental-church-service-in-germany/"
+                },
+                {
+                    "Title": "MusicGen: Meta\u2019s take on AI-generated music",
+                    "Link": "https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/",
+                    "Description": "This powerful open-source tool can bring your text descriptions to life with its ability to compose 12-second audio clips.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "MusicGen: Meta\u2019s take on AI-generated music \ud83d\udce6 This powerful open-source tool can bring your text descriptions to life with its ability to compose 12-second audio clips. #meta https://techcrunch.com/2023/06/12/meta-open-sources-an-ai-powered-music-generator/"
+                },
+                {
+                    "Title": "Amazon's latest AI push",
+                    "Link": "https://www.businessinsider.com/amazon-testing-artificial-intelligence-ai-generated-product-review-feature-2023-6",
+                    "Description": "The company is using AI technology to summarize customer reviews, making purchasing decisions easier for users on its website.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "Amazon's latest AI push \ud83d\udce6 The company is using AI technology to summarize customer reviews, making purchasing decisions easier for users on its website. #amazon https://www.businessinsider.com/amazon-testing-artificial-intelligence-ai-generated-product-review-feature-2023-6"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA and Boeing bet for greener skies",
+                    "Link": "https://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane/",
+                    "Description": "Their joint endeavor brings us the X-66A, an experimental aircraft, that is set to lead the way in sustainable aviation, advancing energy-saving and emissions-reducing technologies.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA and Boeing bet for greener skies \ud83d\udce6 Their joint endeavor brings us the X-66A, an experimental aircraft, that is set to lead the way in sustainable aviation, advancing energy-saving and emissions-reducing technologies. #NASA https://www.nasa.gov/press-release/next-generation-experimental-aircraft-becomes-nasa-s-newest-x-plane/"
+                },
+                {
+                    "Title": "In a galaxy far, far away",
+                    "Link": "https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns",
+                    "Description": "Scientists have stumbled upon BEBOP-1c, a gas giant in a binary star system, that challenges our understanding of planet formation.",
+                    "Time": "5",
+                    "Hashtag": "space",
+                    "Tweet": "In a galaxy far, far away \ud83d\udce6 Scientists have stumbled upon BEBOP-1c, a gas giant in a binary star system, that challenges our understanding of planet formation. #space https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Toyota's commitment to climate change",
+                    "Link": "https://apnews.com/article/toyota-evs-hydrogen-battery-climate-cd7730dbb9c157cf1663d39a3b39778e",
+                    "Description": "By prioritizing solid-state battery technology, the automaker aims to deliver 1.5 million EVs by 2026, with faster charging times and an enhanced driving experience.",
+                    "Time": "2",
+                    "Hashtag": "toyota",
+                    "Tweet": "Toyota's commitment to climate change \ud83d\udce6 By prioritizing solid-state battery technology, the automaker aims to deliver 1.5 million EVs by 2026, with faster charging times and an enhanced driving experience. #toyota https://apnews.com/article/toyota-evs-hydrogen-battery-climate-cd7730dbb9c157cf1663d39a3b39778e"
+                },
+                {
+                    "Title": "The home of Ford\u2019s next-gen EVs",
+                    "Link": "https://electrek.co/2023/06/12/fords-first-carbon-neutral-assembly-plant-opens-next-gen-evs/",
+                    "Description": "Ford's Cologne assembly plant in Germany, with its impressive history of vehicle production, has transformed into the automaker's first carbon-neutral facility.",
+                    "Time": "3",
+                    "Hashtag": "ford",
+                    "Tweet": "The home of Ford\u2019s next-gen EVs \ud83d\udce6 Ford's Cologne assembly plant in Germany, with its impressive history of vehicle production, has transformed into the automaker's first carbon-neutral facility. #ford https://electrek.co/2023/06/12/fords-first-carbon-neutral-assembly-plant-opens-next-gen-evs/"
+                },
+                {
+                    "Title": "Big things come in small packages",
+                    "Link": "https://www.theverge.com/2023/6/13/23757902/telo-truck-electric-pickup-annoucement",
+                    "Description": "Say hello to Telo, the American EV company ready to challenge the giants, with its small modular truck that has nothing to envy from a Toyota Tacoma.",
+                    "Time": "3",
+                    "Hashtag": "EVs",
+                    "Tweet": "Big things come in small packages \ud83d\udce6 Say hello to Telo, the American EV company ready to challenge the giants, with its small modular truck that has nothing to envy from a Toyota Tacoma. #EVs https://www.theverge.com/2023/6/13/23757902/telo-truck-electric-pickup-annoucement"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Meet the STAT earpiece",
+                    "Link": "https://techcrunch.com/2023/06/13/this-little-wearable-is-designed-to-detect-blood-flow-to-the-brain/",
+                    "Description": "Invisible illness can be understood through STAT Health's innovative wearable, which measures cerebral blood flow. ",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Meet the STAT earpiece \ud83d\udce6 Invisible illness can be understood through STAT Health's innovative wearable, which measures cerebral blood flow.  #science https://techcrunch.com/2023/06/13/this-little-wearable-is-designed-to-detect-blood-flow-to-the-brain/"
+                },
+                {
+                    "Title": "This startup aims for a factory in space",
+                    "Link": "https://newatlas.com/space/worlds-first-space-factory-varda/",
+                    "Description": "Varda's space-based lab is revolutionizing pharmaceutical manufacturing by pioneering a new era. With its unique microgravity environment, the lab has the potential to produce high-value substances.",
+                    "Time": "5",
+                    "Hashtag": "science",
+                    "Tweet": "This startup aims for a factory in space \ud83d\udce6 Varda's space-based lab is revolutionizing pharmaceutical manufacturing by pioneering a new era. With its unique microgravity environment, the lab has the potential to produce high-value substances. #science https://newatlas.com/space/worlds-first-space-factory-varda/"
+                }
+            ]
+        }
+    ],
+    "title": "The Beatles \"get back\" with AI, Meta unveils MusicGen, NASA and Boeing join forces",
+    "date": "2023/06/13"
+}
