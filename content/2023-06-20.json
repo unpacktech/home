@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Microsoft\u2019s latest breakthrough",
+                    "Link": "https://www.marktechpost.com/2023/06/13/microsoft-ai-introduces-orca-a-13-billion-parameter-model-that-learns-to-imitate-the-reasoning-process-of-lfms-large-foundation-models/",
+                    "Description": "Meet Orca, a 13-billion parameter model developed by Microsoft researchers, that leverages GPT-4's explanation traces to enhance its training.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft\u2019s latest breakthrough \ud83d\udce6 Meet Orca, a 13-billion parameter model developed by Microsoft researchers, that leverages GPT-4's explanation traces to enhance its training. #microsoft https://www.marktechpost.com/2023/06/13/microsoft-ai-introduces-orca-a-13-billion-parameter-model-that-learns-to-imitate-the-reasoning-process-of-lfms-large-foundation-models/"
+                },
+                {
+                    "Title": "Vimeo is diving into the world of AI",
+                    "Link": "https://techcrunch.com/2023/06/19/vimeo-introduces-a-trio-of-ai-powered-editing-features/",
+                    "Description": "With AI-powered tools, you can now create scripts, record effortlessly with a teleprompter, and avoid editing headaches. Forget the hustle and just focus on unleashing your creativity!",
+                    "Time": "3",
+                    "Hashtag": "vimeo",
+                    "Tweet": "Vimeo is diving into the world of AI \ud83d\udce6 With AI-powered tools, you can now create scripts, record effortlessly with a teleprompter, and avoid editing headaches. Forget the hustle and just focus on unleashing your creativity! #vimeo https://techcrunch.com/2023/06/19/vimeo-introduces-a-trio-of-ai-powered-editing-features/"
+                },
+                {
+                    "Title": "Give a warm welcome to Opera One",
+                    "Link": "https://www.zdnet.com/article/opera-one-is-officially-out-of-testing/",
+                    "Description": "Upgrade your web browsing experience with the latest version of Opera browser. With native AI integration, you'll enjoy intelligent search results, code generation, and even customer support.",
+                    "Time": "2",
+                    "Hashtag": "opera",
+                    "Tweet": "Give a warm welcome to Opera One \ud83d\udce6 Upgrade your web browsing experience with the latest version of Opera browser. With native AI integration, you'll enjoy intelligent search results, code generation, and even customer support. #opera https://www.zdnet.com/article/opera-one-is-officially-out-of-testing/"
+                },
+                {
+                    "Title": "Is the AI label being used misguidedly?",
+                    "Link": "https://www.axios.com/2023/06/20/ai-everything-definition-label-hype",
+                    "Description": "Amid the AI mania, it's difficult to not get carried away with the buzz as tech companies are quick to label anything as \"artificial intelligence.\"",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Is the AI label being used misguidedly? \ud83d\udce6 Amid the AI mania, it's difficult to not get carried away with the buzz as tech companies are quick to label anything as \"artificial intelligence.\" #ai https://www.axios.com/2023/06/20/ai-everything-definition-label-hype"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "The Supercharger frenzy grows",
+                    "Link": "https://www.engadget.com/rivian-owners-will-be-able-to-use-tesla-superchargers-starting-in-2024-141546633.html",
+                    "Description": "Rivian joins the ranks of leading automakers in pursuit of a standardized charging infrastructure. By allowing owners access to Tesla's Supercharger network via an adapter.",
+                    "Time": "1",
+                    "Hashtag": "EVs",
+                    "Tweet": "The Supercharger frenzy grows \ud83d\udce6 Rivian joins the ranks of leading automakers in pursuit of a standardized charging infrastructure. By allowing owners access to Tesla's Supercharger network via an adapter. #EVs https://www.engadget.com/rivian-owners-will-be-able-to-use-tesla-superchargers-starting-in-2024-141546633.html"
+                },
+                {
+                    "Title": "Don't get lost in the NACS hype",
+                    "Link": "https://electrek.co/2023/06/19/everything-you-need-to-know-about-the-north-american-charging-standard-nacs/",
+                    "Description": "The North American Charging Standard, first introduced by Tesla, it's becoming the preferred choice for EV charging. Make sure to read all about this growing trend.",
+                    "Time": "7",
+                    "Hashtag": "tesla",
+                    "Tweet": "Don't get lost in the NACS hype \ud83d\udce6 The North American Charging Standard, first introduced by Tesla, it's becoming the preferred choice for EV charging. Make sure to read all about this growing trend. #tesla https://electrek.co/2023/06/19/everything-you-need-to-know-about-the-north-american-charging-standard-nacs/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "From the cosmos to rescue operations",
+                    "Link": "https://www.space.com/cosmic-ray-gps-system-that-tracks-underground-movement-could-change-the-way-we-respond-to-disasters",
+                    "Description": "Scientists push innovation boundaries with the MuWNS. A groundbreaking technology that utilizes ultrafast subatomic particles called muons to create an accurate positioning system.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "From the cosmos to rescue operations \ud83d\udce6 Scientists push innovation boundaries with the MuWNS. A groundbreaking technology that utilizes ultrafast subatomic particles called muons to create an accurate positioning system. #science https://www.space.com/cosmic-ray-gps-system-that-tracks-underground-movement-could-change-the-way-we-respond-to-disasters"
+                },
+                {
+                    "Title": "Webb Telescope's insights on exoplanet habitability",
+                    "Link": "https://www.nature.com/articles/d41586-023-01983-1",
+                    "Description": "Exploring the TRAPPIST-1 system for habitable conditions reveals a disappointing finding: TRAPPIST-1 c seems to lack a substantial atmosphere.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Webb Telescope's insights on exoplanet habitability \ud83d\udce6 Exploring the TRAPPIST-1 system for habitable conditions reveals a disappointing finding: TRAPPIST-1 c seems to lack a substantial atmosphere. #science https://www.nature.com/articles/d41586-023-01983-1"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Boeing hasn't given up on Starliner",
+                    "Link": "https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/",
+                    "Description": "The company's CEO acknowledges the challenges faced by the CST-100 Starliner program but remains optimistic, as they\u2019re determined to address the issues and deliver a reliable crew vehicle.",
+                    "Time": "3",
+                    "Hashtag": "starliner",
+                    "Tweet": "Boeing hasn't given up on Starliner \ud83d\udce6 The company's CEO acknowledges the challenges faced by the CST-100 Starliner program but remains optimistic, as they\u2019re determined to address the issues and deliver a reliable crew vehicle. #starliner https://spacenews.com/boeing-ceo-says-company-still-committed-to-starliner/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple's slight change in Europe",
+                    "Link": "https://9to5mac.com/2023/06/19/iphone-user-replaceable-batteries-law/",
+                    "Description": "New EU regulations call for Apple to ensure easy replacement of iPhone batteries, aligning with the growing need for more sustainable and long-lasting devices.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple's slight change in Europe \ud83d\udce6 New EU regulations call for Apple to ensure easy replacement of iPhone batteries, aligning with the growing need for more sustainable and long-lasting devices. #apple https://9to5mac.com/2023/06/19/iphone-user-replaceable-batteries-law/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "No more unwanted interruptions",
+                    "Link": "https://www.theverge.com/2023/6/20/23766787/whatsapp-silence-unknown-callers-privacy-feature-spam",
+                    "Description": "Worried about spam and scams? Stay calm. WhatsApp's new feature allows you to automatically mute calls from unknown numbers.",
+                    "Time": "1",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "No more unwanted interruptions \ud83d\udce6 Worried about spam and scams? Stay calm. WhatsApp's new feature allows you to automatically mute calls from unknown numbers. #whatsapp https://www.theverge.com/2023/6/20/23766787/whatsapp-silence-unknown-callers-privacy-feature-spam"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft AI unveils Orca, Tesla\u2019s Supercharger frenzy, Opera One is now available",
+    "date": "2023/06/20"
+}
