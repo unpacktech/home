@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Webb brings new discoveries",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/webb-makes-first-detection-of-crucial-carbon-molecule",
+                    "Description": "Observation with the telescope revealed that methyl cation (CH3+) is present in a young star system in the Orion Nebula, a key element in the formation of complex carbon-based molecules.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Webb brings new discoveries \ud83d\udce6 Observation with the telescope revealed that methyl cation (CH3+) is present in a young star system in the Orion Nebula, a key element in the formation of complex carbon-based molecules. #NASA https://www.nasa.gov/feature/goddard/2023/webb-makes-first-detection-of-crucial-carbon-molecule"
+                },
+                {
+                    "Title": "Explore the mysteries of the cosmos",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/nasas-roman-and-esas-euclid-will-team-up-to-investigate-dark-energy",
+                    "Description": "NASA and ESA venture on a journey into the unknown with Euclid and Roman. Together, these powerful space telescopes will unveil the enigma of dark energy and the universe's accelerated expansion.",
+                    "Time": "7",
+                    "Hashtag": "NASA",
+                    "Tweet": "Explore the mysteries of the cosmos \ud83d\udce6 NASA and ESA venture on a journey into the unknown with Euclid and Roman. Together, these powerful space telescopes will unveil the enigma of dark energy and the universe's accelerated expansion. #NASA https://www.nasa.gov/feature/goddard/2023/nasas-roman-and-esas-euclid-will-team-up-to-investigate-dark-energy"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The chatbot race continues",
+                    "Link": "https://www.techtimes.com/articles/293079/20230627/china-baidu-claims-ernie-ai-chatbot-outperforms-openai-chatgpt.htm",
+                    "Description": "China's advancements in the AI field continue to make waves as Baidu's AI chatbot, the Ernie Bot, has reportedly surpassed OpenAI's ChatGPT in several tests. Who's taking the prize home?",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "The chatbot race continues \ud83d\udce6 China's advancements in the AI field continue to make waves as Baidu's AI chatbot, the Ernie Bot, has reportedly surpassed OpenAI's ChatGPT in several tests. Who's taking the prize home? #ai https://www.techtimes.com/articles/293079/20230627/china-baidu-claims-ernie-ai-chatbot-outperforms-openai-chatgpt.htm"
+                },
+                {
+                    "Title": "All eyes set on Gemini",
+                    "Link": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/",
+                    "Description": "DeepMind's upcoming chatbot, built on AlphaGo techniques, promises game-changing problem-solving capabilities and advanced text analysis. ",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "All eyes set on Gemini \ud83d\udce6 DeepMind's upcoming chatbot, built on AlphaGo techniques, promises game-changing problem-solving capabilities and advanced text analysis.  #google https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/"
+                },
+                {
+                    "Title": "EU's commitment with safety",
+                    "Link": "https://thenextweb.com/news/eu-launches-new-testing-facilities-develop-responsible-ai",
+                    "Description": "In their pursuit of responsible AI, the EU and its partners have launched four new testing and experimentation facilities, to ensure the safe integration of AI technologies in society.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "EU's commitment with safety \ud83d\udce6 In their pursuit of responsible AI, the EU and its partners have launched four new testing and experimentation facilities, to ensure the safe integration of AI technologies in society. #ai https://thenextweb.com/news/eu-launches-new-testing-facilities-develop-responsible-ai"
+                },
+                {
+                    "Title": "AI: Open or closed?",
+                    "Link": "https://www.axios.com/2023/06/26/ais-next-battle-open-closed-chatgpt",
+                    "Description": "The rise of open-source AI brings exciting possibilities, but we must navigate the challenges responsibly by prioritizing strong management and ethical practices.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI: Open or closed? \ud83d\udce6 The rise of open-source AI brings exciting possibilities, but we must navigate the challenges responsibly by prioritizing strong management and ethical practices. #ai https://www.axios.com/2023/06/26/ais-next-battle-open-closed-chatgpt"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Starship lights its fire",
+                    "Link": "https://www.space.com/starship-ship-25-first-static-fire-video",
+                    "Description": "Ship 25, the upper-stage prototype for Starship, underwent a successful static fire test on Monday. Bringing us a step closer to the anticipated launch of the most powerful rocket.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Starship lights its fire \ud83d\udce6 Ship 25, the upper-stage prototype for Starship, underwent a successful static fire test on Monday. Bringing us a step closer to the anticipated launch of the most powerful rocket. #spacex https://www.space.com/starship-ship-25-first-static-fire-video"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla's plans take another turn",
+                    "Link": "https://electrek.co/2023/06/27/tesla-got-very-angry-leaked-valencia-project-reportedly-killed-factory/",
+                    "Description": "The leak of negotiations surrounding a potential factory in Valencia, Spain has caused the company's anger and subsequent abandonment of the project.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's plans take another turn \ud83d\udce6 The leak of negotiations surrounding a potential factory in Valencia, Spain has caused the company's anger and subsequent abandonment of the project. #tesla https://electrek.co/2023/06/27/tesla-got-very-angry-leaked-valencia-project-reportedly-killed-factory/"
+                },
+                {
+                    "Title": "Paving the way for greener mobility",
+                    "Link": "https://www.reuters.com/business/autos-transportation/stellantis-aims-relieve-charging-anxiety-with-new-service-ev-users-2023-06-27/",
+                    "Description": "Stellantis aims for hassle-free electric vehicle charging with its new \"Charging & Energy\" business, which will provide EV drivers with access to a wide range of charging points in Europe.",
+                    "Time": "2",
+                    "Hashtag": "stellantis",
+                    "Tweet": "Paving the way for greener mobility \ud83d\udce6 Stellantis aims for hassle-free electric vehicle charging with its new \"Charging & Energy\" business, which will provide EV drivers with access to a wide range of charging points in Europe. #stellantis https://www.reuters.com/business/autos-transportation/stellantis-aims-relieve-charging-anxiety-with-new-service-ev-users-2023-06-27/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "An eye-catching approach",
+                    "Link": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+                    "Description": "Brilliant Labs defies the norm of bulky headsets by introducing Monocle, a compact AR lens that is designed to be clipped onto any eyewear or held to the eye.",
+                    "Time": "6",
+                    "Hashtag": "startups",
+                    "Tweet": "An eye-catching approach \ud83d\udce6 Brilliant Labs defies the norm of bulky headsets by introducing Monocle, a compact AR lens that is designed to be clipped onto any eyewear or held to the eye. #startups https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "A light in the blackout",
+                    "Link": "https://www.cnbc.com/2023/06/26/google-execs-hope-new-search-feature-will-help-amid-reddit-blackouts.html",
+                    "Description": "During Reddit\u2019s blackout, Google\u2019s Perspectives covers the need for authentic answers by integrating discussion forums and videos from social media into search results.",
+                    "Time": "4",
+                    "Hashtag": "google",
+                    "Tweet": "A light in the blackout \ud83d\udce6 During Reddit\u2019s blackout, Google\u2019s Perspectives covers the need for authentic answers by integrating discussion forums and videos from social media into search results. #google https://www.cnbc.com/2023/06/26/google-execs-hope-new-search-feature-will-help-amid-reddit-blackouts.html"
+                }
+            ]
+        }
+    ],
+    "title": "Meet DeepMind\u2019s Gemini, China plans to win the AI race, EU\u2019s approach to responsible AI",
+    "date": "2023/06/27"
+}
