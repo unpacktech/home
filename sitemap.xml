@@ -6,374 +6,380 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.conf42.com/</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-03-25.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
   <priority>0.25</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-05.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.26229508196721313</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.2620967741935484</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-06.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.27459016393442626</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.27419354838709675</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-07.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.28688524590163933</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.2862903225806452</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-10.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.29918032786885246</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.29838709677419356</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-11.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.3114754098360656</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.31048387096774194</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-12.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.32377049180327866</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3225806451612903</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-13.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.3360655737704918</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3346774193548387</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-14.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.3483606557377049</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3467741935483871</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-17.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.36065573770491804</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3588709677419355</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-18.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.3729508196721312</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3709677419354839</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-19.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.38524590163934425</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.38306451612903225</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-20.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.3975409836065574</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.3951612903225806</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-21.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.4098360655737705</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.407258064516129</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-24.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.4221311475409836</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.4193548387096774</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-25.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.43442622950819676</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.4314516129032258</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-26.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.44672131147540983</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.4435483870967742</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-27.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.45901639344262296</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.4556451612903226</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-04-28.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.4713114754098361</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.467741935483871</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-01.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.48360655737704916</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.4798387096774194</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-02.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.4959016393442623</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.49193548387096775</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-03.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5081967213114754</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5040322580645161</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-04.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5204918032786885</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5161290322580645</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-05.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5327868852459017</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5282258064516129</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-08.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5450819672131147</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5403225806451613</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-09.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5573770491803278</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5524193548387097</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-10.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.569672131147541</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.564516129032258</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-11.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5819672131147541</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5766129032258065</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-12.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.5942622950819672</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.5887096774193548</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-15.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6065573770491803</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6008064516129032</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-16.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6188524590163935</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6129032258064516</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-17.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6311475409836065</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.625</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-18.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6434426229508197</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6370967741935484</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-19.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6557377049180328</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6491935483870968</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-22.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6680327868852459</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6612903225806452</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-23.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.680327868852459</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6733870967741935</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-24.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.6926229508196722</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.685483870967742</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-25.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7049180327868853</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.6975806451612903</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-26.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7172131147540983</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7096774193548387</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-29.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7295081967213115</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7217741935483871</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-30.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7418032786885246</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7338709677419355</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-05-31.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7540983606557377</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7459677419354839</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-01.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7663934426229508</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7580645161290323</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-02.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7786885245901639</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7701612903225806</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-05.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.7909836065573771</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.782258064516129</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-06.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8032786885245902</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.7943548387096774</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-07.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8155737704918032</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8064516129032258</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-08.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8278688524590164</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8185483870967742</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-09.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8401639344262295</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8306451612903226</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-12.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8524590163934426</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.842741935483871</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-13.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8647540983606558</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8548387096774194</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-14.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.8770491803278688</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8669354838709677</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-15.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.889344262295082</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8790322580645161</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-16.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9016393442622951</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.8911290322580645</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-19.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9139344262295082</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9032258064516129</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-20.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9262295081967213</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9153225806451613</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-21.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9385245901639344</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9274193548387096</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-22.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9508196721311475</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9395161290322581</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-23.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9631147540983607</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9516129032258065</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-26.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9754098360655737</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9637096774193549</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-27.html</loc>
-  <lastmod>2023-06-27T17:57:14.130715+00:00</lastmod>
-  <priority>0.9877049180327869</priority>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9758064516129032</priority>
+</url>
+
+<url>
+  <loc>https://www.conf42.com/2023-06-28.html</loc>
+  <lastmod>2023-06-28T17:57:45.460334+00:00</lastmod>
+  <priority>0.9879032258064516</priority>
 </url>
 
 </urlset>
