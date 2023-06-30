@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A successful flight for Virgin Galactic",
+                    "Link": "https://spacenews.com/virgin-galactic-completes-first-commercial-spaceshiptwo-suborbital-flight/",
+                    "Description": "Yesterday, a dream that took decades to materialize finally came true. The company's first commercial suborbital mission signals a groundbreaking shift in the landscape of private space travel.",
+                    "Time": "5",
+                    "Hashtag": "virgingalactic",
+                    "Tweet": "A successful flight for Virgin Galactic \ud83d\udce6 Yesterday, a dream that took decades to materialize finally came true. The company's first commercial suborbital mission signals a groundbreaking shift in the landscape of private space travel. #virgingalactic https://spacenews.com/virgin-galactic-completes-first-commercial-spaceshiptwo-suborbital-flight/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Windows Copilot is here for public testers",
+                    "Link": "https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/",
+                    "Description": "Copilot, Microsoft's AI assistant for Windows 11, is now available for preview. Enhance your experience with its AI-powered features. Chat, create images, and control your settings effortlessly.",
+                    "Time": "3",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Windows Copilot is here for public testers \ud83d\udce6 Copilot, Microsoft's AI assistant for Windows 11, is now available for preview. Enhance your experience with its AI-powered features. Chat, create images, and control your settings effortlessly. #microsoft https://arstechnica.com/gadgets/2023/06/windows-11s-copilot-brings-ai-chat-to-desktops-in-first-public-preview/"
+                },
+                {
+                    "Title": "Embracing the power of AI in medicine",
+                    "Link": "https://www.cnbc.com/2023/06/29/ai-generated-drug-begins-clinical-trials-in-human-patients.html",
+                    "Description": "Insilico Medicine makes history with the first fully generative AI drug to enter human clinical trials. Taking a significant step forward in treating idiopathic pulmonary fibrosis.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Embracing the power of AI in medicine \ud83d\udce6 Insilico Medicine makes history with the first fully generative AI drug to enter human clinical trials. Taking a significant step forward in treating idiopathic pulmonary fibrosis. #ai https://www.cnbc.com/2023/06/29/ai-generated-drug-begins-clinical-trials-in-human-patients.html"
+                },
+                {
+                    "Title": "EU's AI regulation sparks controversy",
+                    "Link": "https://edition.cnn.com/2023/06/30/tech/eu-companies-risks-ai-law-intl-hnk",
+                    "Description": "Leading figures from companies like Airbus and Meta raise concerns about the legislation's impact on Europe's competitiveness and investment.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "EU's AI regulation sparks controversy \ud83d\udce6 Leading figures from companies like Airbus and Meta raise concerns about the legislation's impact on Europe's competitiveness and investment. #ai https://edition.cnn.com/2023/06/30/tech/eu-companies-risks-ai-law-intl-hnk"
+                },
+                {
+                    "Title": "No more learning, it's time to unlearn",
+                    "Link": "https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html?",
+                    "Description": "Google has recently launched the Machine Unlearning Challenge, inspiring participants to develop efficient algorithms for removing specific training examples.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "No more learning, it's time to unlearn \ud83d\udce6 Google has recently launched the Machine Unlearning Challenge, inspiring participants to develop efficient algorithms for removing specific training examples. #ai https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html?"
+                },
+                {
+                    "Title": "Salesforce latest AI push",
+                    "Link": "https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/",
+                    "Description": "Sales GPT and Service GPT are AI-powered tools aimed at transforming sales and service workflows, by harnessing the power of Salesforce's own Einstein GPT.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Salesforce latest AI push \ud83d\udce6 Sales GPT and Service GPT are AI-powered tools aimed at transforming sales and service workflows, by harnessing the power of Salesforce's own Einstein GPT. #ai https://venturebeat.com/ai/salesforce-launches-sales-gpt-service-gpt-to-ease-customer-interactions-through-generative-ai/"
+                },
+                {
+                    "Title": "Tour de France gets a touch of AI",
+                    "Link": "https://www.zdnet.com/article/tour-de-france-adds-chatgpt-and-digital-twin-tech-heres-how-and-why/",
+                    "Description": "NTT, the official partner, is transforming the race with the integration of ChatGPT and AI-Powered solutions that will enhance the fan viewing experience.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Tour de France gets a touch of AI \ud83d\udce6 NTT, the official partner, is transforming the race with the integration of ChatGPT and AI-Powered solutions that will enhance the fan viewing experience. #ai https://www.zdnet.com/article/tour-de-france-adds-chatgpt-and-digital-twin-tech-heres-how-and-why/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Effortless API with Speakeasy",
+                    "Link": "https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/",
+                    "Description": "This innovative startup is on a mission to simplify your workflow with AI-driven solutions for faster API development and documentation.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Effortless API with Speakeasy \ud83d\udce6 This innovative startup is on a mission to simplify your workflow with AI-driven solutions for faster API development and documentation. #ai https://techcrunch.com/2023/06/29/speakeasy-is-using-ai-to-automate-api-creation-and-distribution/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "NACS revolution continues",
+                    "Link": "https://electrek.co/2023/06/29/electrify-america-blink-tesla-nacs-connector-ev-chargers/",
+                    "Description": "Electrify America and Blink have announced the integration of NACS connectors, enabling Tesla drivers and NACS-compatible EVs to charge at their stations without the need for an adapter.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "NACS revolution continues \ud83d\udce6 Electrify America and Blink have announced the integration of NACS connectors, enabling Tesla drivers and NACS-compatible EVs to charge at their stations without the need for an adapter. #tesla https://electrek.co/2023/06/29/electrify-america-blink-tesla-nacs-connector-ev-chargers/"
+                },
+                {
+                    "Title": "Tesla's winning quarter",
+                    "Link": "https://www.reuters.com/business/autos-transportation/tesla-set-report-record-quarterly-vehicle-deliveries-fueled-by-incentives-2023-06-30/",
+                    "Description": "The automaker is expected to announce a remarkable 445,000 global deliveries for the second quarter, signaling steady growth and strong market demand.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's winning quarter \ud83d\udce6 The automaker is expected to announce a remarkable 445,000 global deliveries for the second quarter, signaling steady growth and strong market demand. #tesla https://www.reuters.com/business/autos-transportation/tesla-set-report-record-quarterly-vehicle-deliveries-fueled-by-incentives-2023-06-30/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Euclid meets the dark universe",
+                    "Link": "https://www.space.com/euclid-solving-mystery-dark-universe",
+                    "Description": "A fascinating adventure into the unknown begins tomorrow aboard a SpaceX Falcon 9 rocket, as Europe's Euclid telescope takes on the cosmic quest to understand dark matter and dark energy.",
+                    "Time": "7",
+                    "Hashtag": "space",
+                    "Tweet": "Euclid meets the dark universe \ud83d\udce6 A fascinating adventure into the unknown begins tomorrow aboard a SpaceX Falcon 9 rocket, as Europe's Euclid telescope takes on the cosmic quest to understand dark matter and dark energy. #space https://www.space.com/euclid-solving-mystery-dark-universe"
+                }
+            ]
+        }
+    ],
+    "title": "Copilot is now public, EU's AI regulation faces rejection, Euclid's journey into the unknown",
+    "date": "2023/06/30"
+}
