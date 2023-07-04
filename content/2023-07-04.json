@@ -1,0 +1,129 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AMD: A potential threat to Nvidia's reign",
+                    "Link": "https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html",
+                    "Description": "While Nvidia's GPUs have been the go-to choice for AI training, MosaicML's tests show that AMD chips are a worthy contender, as they can deliver comparable performance to Nvidia's.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "AI vs. Public data",
+                    "Link": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
+                    "Description": "Google has recently updated its privacy policy, and it's stirring up a conversation about using publicly available data to train AI models.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Harvard\u2019s new teacher",
+                    "Link": "https://www.zdnet.com/article/harvard-is-using-chatgpt-to-teach-computer-science/",
+                    "Description": "Meet the CS50 Bot. This AI tool, powered by ChatGPT, offers personalized assistance to computer science students, enhancing their learning experience.",
+                    "Time": "2",
+                    "Hashtag": "chatGPT",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Luxury meets clean energy",
+                    "Link": "https://www.techtimes.com/articles/293374/20230704/2024-rolls-royce-spectre-king-luxury-ev-cars.htm",
+                    "Description": "Rolls Royce has just entered the world of electric vehicles with the 2024 Spectre EV. This electric coupe showcases the finest in craftsmanship and design in conjunction with powerful performance.",
+                    "Time": "3",
+                    "Hashtag": "rollsroyce",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Tesla has a summer job for you",
+                    "Link": "https://electrek.co/2023/07/04/tesla-wants-to-pay-you-to-drive-its-cars-this-summer/",
+                    "Description": "The company plans to hire a fleet of Seasonal Vehicle Operators across North America this summer. These operators will assist in capturing high-quality data to enhance vehicle performance.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Vision Pro faces new setbacks",
+                    "Link": "https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/",
+                    "Description": "Apple is currently facing production challenges with the Vision Pro headset. The complexity of design and manufacturing difficulties have impacted availability and launch plans.",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Ingenuity phones home!",
+                    "Link": "https://gizmodo.com/mars-ingenuity-helicopter-nasa-two-month-silence-1850601767",
+                    "Description": "Lost in the Martian hills, NASA's Ingenuity faced the challenge of losing communication with its rover companion Perseverance. After 63 long days, it's back in touch with mission control.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Onward to the Moon",
+                    "Link": "https://www.nasa.gov/exploration/systems/sls/nasa-rocket-flight-software-for-artemis-ii-meets-testing-checkpoint.html",
+                    "Description": "At NASA's Marshall Space Flight Center, a dedicated team is working tirelessly into crafting the flight software for the rocket that will carry the Artemis crew on their lunar journey.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "VSParticle: Breaking barriers in nanotech",
+                    "Link": "https://thenextweb.com/news/startup-nanotech-creating-new-materials-energy-transition",
+                    "Description": "This Dutch startup is revolutionizing material innovation for a sustainable future. With \u20ac14.5 million in funding, their nanoparticle technology opens up endless possibilities for saving our planet.",
+                    "Time": "4",
+                    "Hashtag": "startups",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Bye bye Lightning port",
+                    "Link": "https://9to5mac.com/2023/07/03/iphone-15-charging-port-change/",
+                    "Description": "Apple is making a bold move with the iPhone 15. The iconic Lightning port will be replaced with USB-C, bringing compatibility and connectivity across Apple devices.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Instagram unveils Threads",
+                    "Link": "https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/",
+                    "Description": "As Twitter faces rate-limit errors, Instagram's Threads enters the scene, offering a new space for community discussions and connections.",
+                    "Time": "2",
+                    "Hashtag": "instagram",
+                    "Tweet": ""
+                }
+            ]
+        }
+    ],
+    "title": "Vision Pro faces a major setback, iPhone moves from Lightning to USB-C, AMD comes for Nvidia's throne",
+    "date": "2023/07/04"
+}
