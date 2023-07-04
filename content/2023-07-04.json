@@ -9,7 +9,7 @@
                     "Description": "While Nvidia's GPUs have been the go-to choice for AI training, MosaicML's tests show that AMD chips are a worthy contender, as they can deliver comparable performance to Nvidia's.",
                     "Time": "2",
                     "Hashtag": "ai",
-                    "Tweet": ""
+                    "Tweet": "AMD: A potential threat to Nvidia's reign \ud83d\udce6 While Nvidia's GPUs have been the go-to choice for AI training, MosaicML's tests show that AMD chips are a worthy contender, as they can deliver comparable performance to Nvidia's. #ai https://www.techspot.com/news/99271-amd-ai-chips-punch-above-their-weight-mosaicml.html"
                 },
                 {
                     "Title": "AI vs. Public data",
@@ -17,7 +17,7 @@
                     "Description": "Google has recently updated its privacy policy, and it's stirring up a conversation about using publicly available data to train AI models.",
                     "Time": "1",
                     "Hashtag": "google",
-                    "Tweet": ""
+                    "Tweet": "AI vs. Public data \ud83d\udce6 Google has recently updated its privacy policy, and it's stirring up a conversation about using publicly available data to train AI models. #google https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html"
                 },
                 {
                     "Title": "Harvard\u2019s new teacher",
@@ -25,7 +25,7 @@
                     "Description": "Meet the CS50 Bot. This AI tool, powered by ChatGPT, offers personalized assistance to computer science students, enhancing their learning experience.",
                     "Time": "2",
                     "Hashtag": "chatGPT",
-                    "Tweet": ""
+                    "Tweet": "Harvard\u2019s new teacher \ud83d\udce6 Meet the CS50 Bot. This AI tool, powered by ChatGPT, offers personalized assistance to computer science students, enhancing their learning experience. #chatGPT https://www.zdnet.com/article/harvard-is-using-chatgpt-to-teach-computer-science/"
                 }
             ]
         },
@@ -38,7 +38,7 @@
                     "Description": "Rolls Royce has just entered the world of electric vehicles with the 2024 Spectre EV. This electric coupe showcases the finest in craftsmanship and design in conjunction with powerful performance.",
                     "Time": "3",
                     "Hashtag": "rollsroyce",
-                    "Tweet": ""
+                    "Tweet": "Luxury meets clean energy \ud83d\udce6 Rolls Royce has just entered the world of electric vehicles with the 2024 Spectre EV. This electric coupe showcases the finest in craftsmanship and design in conjunction with powerful performance. #rollsroyce https://www.techtimes.com/articles/293374/20230704/2024-rolls-royce-spectre-king-luxury-ev-cars.htm"
                 },
                 {
                     "Title": "Tesla has a summer job for you",
@@ -46,7 +46,7 @@
                     "Description": "The company plans to hire a fleet of Seasonal Vehicle Operators across North America this summer. These operators will assist in capturing high-quality data to enhance vehicle performance.",
                     "Time": "2",
                     "Hashtag": "tesla",
-                    "Tweet": ""
+                    "Tweet": "Tesla has a summer job for you \ud83d\udce6 The company plans to hire a fleet of Seasonal Vehicle Operators across North America this summer. These operators will assist in capturing high-quality data to enhance vehicle performance. #tesla https://electrek.co/2023/07/04/tesla-wants-to-pay-you-to-drive-its-cars-this-summer/"
                 }
             ]
         },
@@ -59,7 +59,7 @@
                     "Description": "Apple is currently facing production challenges with the Vision Pro headset. The complexity of design and manufacturing difficulties have impacted availability and launch plans.",
                     "Time": "5",
                     "Hashtag": "apple",
-                    "Tweet": ""
+                    "Tweet": "Vision Pro faces new setbacks \ud83d\udce6 Apple is currently facing production challenges with the Vision Pro headset. The complexity of design and manufacturing difficulties have impacted availability and launch plans. #apple https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/"
                 }
             ]
         },
@@ -72,7 +72,7 @@
                     "Description": "Lost in the Martian hills, NASA's Ingenuity faced the challenge of losing communication with its rover companion Perseverance. After 63 long days, it's back in touch with mission control.",
                     "Time": "2",
                     "Hashtag": "NASA",
-                    "Tweet": ""
+                    "Tweet": "Ingenuity phones home! \ud83d\udce6 Lost in the Martian hills, NASA's Ingenuity faced the challenge of losing communication with its rover companion Perseverance. After 63 long days, it's back in touch with mission control. #NASA https://gizmodo.com/mars-ingenuity-helicopter-nasa-two-month-silence-1850601767"
                 },
                 {
                     "Title": "Onward to the Moon",
@@ -80,7 +80,7 @@
                     "Description": "At NASA's Marshall Space Flight Center, a dedicated team is working tirelessly into crafting the flight software for the rocket that will carry the Artemis crew on their lunar journey.",
                     "Time": "3",
                     "Hashtag": "NASA",
-                    "Tweet": ""
+                    "Tweet": "Onward to the Moon \ud83d\udce6 At NASA's Marshall Space Flight Center, a dedicated team is working tirelessly into crafting the flight software for the rocket that will carry the Artemis crew on their lunar journey. #NASA https://www.nasa.gov/exploration/systems/sls/nasa-rocket-flight-software-for-artemis-ii-meets-testing-checkpoint.html"
                 }
             ]
         },
@@ -93,7 +93,7 @@
                     "Description": "This Dutch startup is revolutionizing material innovation for a sustainable future. With \u20ac14.5 million in funding, their nanoparticle technology opens up endless possibilities for saving our planet.",
                     "Time": "4",
                     "Hashtag": "startups",
-                    "Tweet": ""
+                    "Tweet": "VSParticle: Breaking barriers in nanotech \ud83d\udce6 This Dutch startup is revolutionizing material innovation for a sustainable future. With \u20ac14.5 million in funding, their nanoparticle technology opens up endless possibilities for saving our planet. #startups https://thenextweb.com/news/startup-nanotech-creating-new-materials-energy-transition"
                 }
             ]
         },
@@ -101,12 +101,12 @@
             "category": "Design \ud83c\udfa8",
             "stories": [
                 {
-                    "Title": "Bye bye Lightning port",
+                    "Title": "Bye-bye Lightning port",
                     "Link": "https://9to5mac.com/2023/07/03/iphone-15-charging-port-change/",
                     "Description": "Apple is making a bold move with the iPhone 15. The iconic Lightning port will be replaced with USB-C, bringing compatibility and connectivity across Apple devices.",
                     "Time": "4",
                     "Hashtag": "apple",
-                    "Tweet": ""
+                    "Tweet": "Bye-bye Lightning port \ud83d\udce6 Apple is making a bold move with the iPhone 15. The iconic Lightning port will be replaced with USB-C, bringing compatibility and connectivity across Apple devices. #apple https://9to5mac.com/2023/07/03/iphone-15-charging-port-change/"
                 }
             ]
         },
@@ -119,7 +119,7 @@
                     "Description": "As Twitter faces rate-limit errors, Instagram's Threads enters the scene, offering a new space for community discussions and connections.",
                     "Time": "2",
                     "Hashtag": "instagram",
-                    "Tweet": ""
+                    "Tweet": "Instagram unveils Threads \ud83d\udce6 As Twitter faces rate-limit errors, Instagram's Threads enters the scene, offering a new space for community discussions and connections. #instagram https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/"
                 }
             ]
         }
