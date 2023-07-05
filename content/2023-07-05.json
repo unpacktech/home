@@ -1,0 +1,124 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The role of AI in science",
+                    "Link": "https://www.technologyreview.com/2023/07/05/1075865/eric-schmidt-ai-will-transform-science/",
+                    "Description": "The future of scientific research unfolds before us with AI as an indispensable visionary companion. However, former Google CEO, Eric Schmidt, emphasizes the importance of human expertise.",
+                    "Time": "12",
+                    "Hashtag": "ai",
+                    "Tweet": "The role of AI in science \ud83d\udce6 The future of scientific research unfolds before us with AI as an indispensable visionary companion. However, former Google CEO, Eric Schmidt, emphasizes the importance of human expertise. #ai https://www.technologyreview.com/2023/07/05/1075865/eric-schmidt-ai-will-transform-science/"
+                },
+                {
+                    "Title": "ChatGPT\u2019s short-lived Bing integration",
+                    "Link": "https://www.digitaltrends.com/computing/chatgpts-bing-browsing-feature-disabled-over-paywall-flaw/",
+                    "Description": "OpenAI has temporarily disabled ChatGPT's \"Browse with Bing\" feature as it inadvertently bypassed paywalls, committing to fixing the issue while keeping content owners in mind.",
+                    "Time": "2",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "ChatGPT\u2019s short-lived Bing integration \ud83d\udce6 OpenAI has temporarily disabled ChatGPT's \"Browse with Bing\" feature as it inadvertently bypassed paywalls, committing to fixing the issue while keeping content owners in mind. #chatgpt https://www.digitaltrends.com/computing/chatgpts-bing-browsing-feature-disabled-over-paywall-flaw/"
+                },
+                {
+                    "Title": "AI\u2019s latest job: Firefighter",
+                    "Link": "https://www.techtimes.com/articles/293442/20230705/cal-fire-uses-ai-detect-wildfires-without-human-eyes.htm",
+                    "Description": "Cal Fire, California's firefighting agency, integrates advanced technology to combat wildfires. AI-driven cameras autonomously spot smoke, liberating firefighters from constant surveillance.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI\u2019s latest job: Firefighter \ud83d\udce6 Cal Fire, California's firefighting agency, integrates advanced technology to combat wildfires. AI-driven cameras autonomously spot smoke, liberating firefighters from constant surveillance. #ai https://www.techtimes.com/articles/293442/20230705/cal-fire-uses-ai-detect-wildfires-without-human-eyes.htm"
+                },
+                {
+                    "Title": "AI clashes with the public web",
+                    "Link": "https://www.axios.com/2023/07/05/public-web-twitter-open-access-reddit",
+                    "Description": "AI's impact on the public web raises concerns and debates. Companies seek to protect their data while users demand involvement and reward for their contributions.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI clashes with the public web \ud83d\udce6 AI's impact on the public web raises concerns and debates. Companies seek to protect their data while users demand involvement and reward for their contributions. #ai https://www.axios.com/2023/07/05/public-web-twitter-open-access-reddit"
+                },
+                {
+                    "Title": "Add a touch of AI to your next vacation",
+                    "Link": "https://time.com/6290940/ai-travel-industry/",
+                    "Description": "AI-powered chatbots like ChatGPT are changing the travel game by providing personalized trip suggestions for travelers based on their preferences and who they're traveling with.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Add a touch of AI to your next vacation \ud83d\udce6 AI-powered chatbots like ChatGPT are changing the travel game by providing personalized trip suggestions for travelers based on their preferences and who they're traveling with. #ai https://time.com/6290940/ai-travel-industry/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "In the blink of an eye\u2026",
+                    "Link": "https://interestingengineering.com/innovation/google-quantum-computer-supercomputers-47-years",
+                    "Description": "The computing field is buzzing with the latest advancements from Google's Sycamore quantum computer. What would normally take 47 years for the fastest supercomputers, is accomplished in mere seconds.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "In the blink of an eye\u2026 \ud83d\udce6 The computing field is buzzing with the latest advancements from Google's Sycamore quantum computer. What would normally take 47 years for the fastest supercomputers, is accomplished in mere seconds. #google https://interestingengineering.com/innovation/google-quantum-computer-supercomputers-47-years"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Spotify\u2019s CEO approach to preventive healthcare",
+                    "Link": "https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m",
+                    "Description": "Neko Health, the preventive healthcare startup he co-founded, has secured significant funding that provides the resources needed to expand beyond Sweden its revolutionary concept.",
+                    "Time": "3",
+                    "Hashtag": "startups",
+                    "Tweet": "Spotify\u2019s CEO approach to preventive healthcare \ud83d\udce6 Neko Health, the preventive healthcare startup he co-founded, has secured significant funding that provides the resources needed to expand beyond Sweden its revolutionary concept. #startups https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "The final countdown",
+                    "Link": "https://www.space.com/ariane-5-final-launch-webcast",
+                    "Description": "Ariane 5's last mission is about to begin. Don't miss the live webcast by Arianespace, and witness the culmination of decades of space exploration.",
+                    "Time": "3",
+                    "Hashtag": "arianespace",
+                    "Tweet": "The final countdown \ud83d\udce6 Ariane 5's last mission is about to begin. Don't miss the live webcast by Arianespace, and witness the culmination of decades of space exploration. #arianespace https://www.space.com/ariane-5-final-launch-webcast"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Smart, compact, and affordable",
+                    "Link": "https://electrek.co/2023/07/04/stellantis-reveals-new-volvo-ex30-rivaling-electric-suv/",
+                    "Description": "Stellantis has introduced the FIAT 600e. This compact electric SUV is perfect for urban living and outdoor adventures, with an affordable starting price that aims to rival the upcoming Volvo EX30.",
+                    "Time": "3",
+                    "Hashtag": "stellantis",
+                    "Tweet": "Smart, compact, and affordable \ud83d\udce6 Stellantis has introduced the FIAT 600e. This compact electric SUV is perfect for urban living and outdoor adventures, with an affordable starting price that aims to rival the upcoming Volvo EX30. #stellantis https://electrek.co/2023/07/04/stellantis-reveals-new-volvo-ex30-rivaling-electric-suv/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "What to expect from Nothing",
+                    "Link": "https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/",
+                    "Description": "With the success of the Phone 1, Nothing sets its sights on the future with the highly anticipated Phone 2. Find out everything that's known so far.",
+                    "Time": "10",
+                    "Hashtag": "phone2",
+                    "Tweet": "What to expect from Nothing \ud83d\udce6 With the success of the Phone 1, Nothing sets its sights on the future with the highly anticipated Phone 2. Find out everything that's known so far. #phone2 https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/"
+                },
+                {
+                    "Title": "Finally, improved battery life",
+                    "Link": "https://9to5mac.com/2023/07/04/iphone-15-battery-life-rumors/",
+                    "Description": "Reports indicate that the upcoming iPhone 15 and iPhone 15 Pro will receive a substantial battery upgrade, addressing one of the most important user demands.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Finally, improved battery life \ud83d\udce6 Reports indicate that the upcoming iPhone 15 and iPhone 15 Pro will receive a substantial battery upgrade, addressing one of the most important user demands. #apple https://9to5mac.com/2023/07/04/iphone-15-battery-life-rumors/"
+                }
+            ]
+        }
+    ],
+    "title": "OpenAI removes Bing integration, Ariane 5's final countdown, Stellantis unveils the FIAT 600e",
+    "date": "2023/07/05"
+}
