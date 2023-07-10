@@ -1,0 +1,129 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The reshaping force of AI",
+                    "Link": "https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/",
+                    "Description": "The evolving AI landscape calls for common ground among governments, businesses, and developers. Regulations are needed to uphold transparency and fairness as technology continues to advance.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "The reshaping force of AI \ud83d\udce6 The evolving AI landscape calls for common ground among governments, businesses, and developers. Regulations are needed to uphold transparency and fairness as technology continues to advance. #ai https://venturebeat.com/ai/how-ai-is-reshaping-the-rules-of-business/"
+                },
+                {
+                    "Title": "Google's approach to healthcare",
+                    "Link": "https://www.engadget.com/google-is-testing-its-medical-ai-chatbot-at-the-mayo-clinic-102055669.html",
+                    "Description": "Med-PaLM-2, Google's AI innovation, is undergoing testing at medical institutions like the Mayo Clinic. This advanced model addresses health-related questions and assists with time-consuming tasks.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Google's approach to healthcare \ud83d\udce6 Med-PaLM-2, Google's AI innovation, is undergoing testing at medical institutions like the Mayo Clinic. This advanced model addresses health-related questions and assists with time-consuming tasks. #google https://www.engadget.com/google-is-testing-its-medical-ai-chatbot-at-the-mayo-clinic-102055669.html"
+                },
+                {
+                    "Title": "AI-powered fire detection",
+                    "Link": "https://techcrunch.com/2023/07/10/pano-series-a-extension/",
+                    "Description": "The value of AI in emergency situations shines through with Pano AI's technology. With remote-controllable cameras and AI-powered analysis, they provide early warnings to emergency responders.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI-powered fire detection \ud83d\udce6 The value of AI in emergency situations shines through with Pano AI's technology. With remote-controllable cameras and AI-powered analysis, they provide early warnings to emergency responders. #ai https://techcrunch.com/2023/07/10/pano-series-a-extension/"
+                },
+                {
+                    "Title": "AI's troubling role in misinformation",
+                    "Link": "https://www.axios.com/2023/07/10/ai-misinformation-response-measures",
+                    "Description": "Misinformation takes many forms, from deepfake images to text-based articles and memes. As AI-generated content continues to flood the web, it is important to develop strategies to counter it.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "AI's troubling role in misinformation \ud83d\udce6 Misinformation takes many forms, from deepfake images to text-based articles and memes. As AI-generated content continues to flood the web, it is important to develop strategies to counter it. #ai https://www.axios.com/2023/07/10/ai-misinformation-response-measures"
+                },
+                {
+                    "Title": "Bored? Build your own chatbot",
+                    "Link": "https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/",
+                    "Description": "This article walks you through the process of utilizing HuggingChat to build a personalized chatbot. Unleash your imagination, explore the features, and design something that fits your needs.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Bored? Build your own chatbot \ud83d\udce6 This article walks you through the process of utilizing HuggingChat to build a personalized chatbot. Unleash your imagination, explore the features, and design something that fits your needs. #ai https://www.zdnet.com/article/want-to-build-your-own-ai-chatbot-meet-open-source-huggingchat/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Varda takes pharma to outer space",
+                    "Link": "https://interestingengineering.com/innovation/mini-space-factory-aces-first-in-orbit-experiment-of-drug-production",
+                    "Description": "Their mini space factory produces crystals of Ritonavir, a vital HIV treatment. By leveraging microgravity, the startup takes a remarkable step toward advanced pharmaceutical production beyond earth.",
+                    "Time": "3",
+                    "Hashtag": "vardaspace",
+                    "Tweet": "Varda takes pharma to outer space \ud83d\udce6 Their mini space factory produces crystals of Ritonavir, a vital HIV treatment. By leveraging microgravity, the startup takes a remarkable step toward advanced pharmaceutical production beyond earth. #vardaspace https://interestingengineering.com/innovation/mini-space-factory-aces-first-in-orbit-experiment-of-drug-production"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Hotter than the sun",
+                    "Link": "https://interestingengineering.com/innovation/nuclear-fusion-rocket-engine-hotter-than-sun",
+                    "Description": "Pulsar Fusion's ambitious project is a nuclear fusion-based rocket engine. Supported by the UK Space Agency, it aims to exceed the sun's temperature and reach new heights in space exploration.",
+                    "Time": "3",
+                    "Hashtag": "startups",
+                    "Tweet": "Hotter than the sun \ud83d\udce6 Pulsar Fusion's ambitious project is a nuclear fusion-based rocket engine. Supported by the UK Space Agency, it aims to exceed the sun's temperature and reach new heights in space exploration. #startups https://interestingengineering.com/innovation/nuclear-fusion-rocket-engine-hotter-than-sun"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Journeying close to home",
+                    "Link": "https://arstechnica.com/science/2023/07/get-comfortable-in-the-solar-system-well-be-here-for-a-while/",
+                    "Description": "Our ambition has led us to explore what lies millions of years ahead. However, only certain parts of our universe are reachable, and we should focus on rediscovering what's close.",
+                    "Time": "12",
+                    "Hashtag": "space",
+                    "Tweet": "Journeying close to home \ud83d\udce6 Our ambition has led us to explore what lies millions of years ahead. However, only certain parts of our universe are reachable, and we should focus on rediscovering what's close. #space https://arstechnica.com/science/2023/07/get-comfortable-in-the-solar-system-well-be-here-for-a-while/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Watch Nothing\u2019s launch live",
+                    "Link": "https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/",
+                    "Description": "Nothing is set to release the highly anticipated Phone 2 tomorrow. Don't miss the excitement surrounding this amazing smartphone, and join the live broadcast of the launch event.",
+                    "Time": "1",
+                    "Hashtag": "nothing",
+                    "Tweet": "Watch Nothing\u2019s launch live \ud83d\udce6 Nothing is set to release the highly anticipated Phone 2 tomorrow. Don't miss the excitement surrounding this amazing smartphone, and join the live broadcast of the launch event. #nothing https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Gigafactory moves forward in Mexico",
+                    "Link": "https://electrek.co/2023/07/10/tesla-gigafactory-mexico-could-get-final-permits-any-day-gov-official-says/",
+                    "Description": "The governor of Nuevo Le\u00f3n has revealed that all final permits are imminent, signaling the start of construction for Tesla's highly anticipated factory in the country.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Gigafactory moves forward in Mexico \ud83d\udce6 The governor of Nuevo Le\u00f3n has revealed that all final permits are imminent, signaling the start of construction for Tesla's highly anticipated factory in the country. #tesla https://electrek.co/2023/07/10/tesla-gigafactory-mexico-could-get-final-permits-any-day-gov-official-says/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "There's no stopping these Threads",
+                    "Link": "https://www.theverge.com/2023/7/10/23787453/meta-instagram-threads-100-million-users-milestone",
+                    "Description": "Instagram's answer to microblogging, Threads, has attracted over 100 million users in just a few days. Is the app ready to overthrow Twitter's reign?",
+                    "Time": "2",
+                    "Hashtag": "instagram",
+                    "Tweet": "There's no stopping these Threads \ud83d\udce6 Instagram's answer to microblogging, Threads, has attracted over 100 million users in just a few days. Is the app ready to overthrow Twitter's reign? #instagram https://www.theverge.com/2023/7/10/23787453/meta-instagram-threads-100-million-users-milestone"
+                }
+            ]
+        }
+    ],
+    "title": "Varda's outer space factory, Nothing's live launch, Google's AI-powered healthcare",
+    "date": "2023/07/10"
+}
