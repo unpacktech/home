@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Methane propulsion gets to orbit",
+                    "Link": "https://spacenews.com/chinas-landspace-reaches-orbit-with-methane-powered-zhuque-2-rocket/",
+                    "Description": "Zhuque-2 has reached its goal by becoming the first methane-fueled rocket to reach orbit. Showcasing China's dedication to pushing boundaries in space technology.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Methane propulsion gets to orbit \ud83d\udce6 Zhuque-2 has reached its goal by becoming the first methane-fueled rocket to reach orbit. Showcasing China's dedication to pushing boundaries in space technology. #rocketscience https://spacenews.com/chinas-landspace-reaches-orbit-with-methane-powered-zhuque-2-rocket/"
+                },
+                {
+                    "Title": "Janus stays grounded",
+                    "Link": "https://arstechnica.com/space/2023/07/nasa-decides-not-to-launch-two-already-built-asteroid-probes/",
+                    "Description": "NASA's Janus mission experiences a disappointing turn of events. Budget constraints and launch delays have left the spacecraft stranded in storage.",
+                    "Time": "6",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Janus stays grounded \ud83d\udce6 NASA's Janus mission experiences a disappointing turn of events. Budget constraints and launch delays have left the spacecraft stranded in storage. #rocketscience https://arstechnica.com/space/2023/07/nasa-decides-not-to-launch-two-already-built-asteroid-probes/"
+                },
+                {
+                    "Title": "An explosive setback",
+                    "Link": "https://www.engadget.com/blue-origin-is-investigating-why-a-rocket-engine-exploded-during-testing-210049055.html",
+                    "Description": "Technical challenges continue for Blue Origin as a BE-4 engine explodes during a firing test. While no one was harmed, the incident poses a setback for the company's engine production.",
+                    "Time": "1",
+                    "Hashtag": "blueorigin",
+                    "Tweet": "An explosive setback \ud83d\udce6 Technical challenges continue for Blue Origin as a BE-4 engine explodes during a firing test. While no one was harmed, the incident poses a setback for the company's engine production. #blueorigin https://www.engadget.com/blue-origin-is-investigating-why-a-rocket-engine-exploded-during-testing-210049055.html"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI is not a concern for Bill Gates",
+                    "Link": "https://www.techtimes.com/articles/293690/20230712/bill-gates-worried-ai-potential-risks.htm",
+                    "Description": "In a new blog post, Bill Gates stands firm on his support for AI development. Contrary to his peers, Gates believes that while AI poses risks, history has shown that we can effectively manage them.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI is not a concern for Bill Gates \ud83d\udce6 In a new blog post, Bill Gates stands firm on his support for AI development. Contrary to his peers, Gates believes that while AI poses risks, history has shown that we can effectively manage them. #ai https://www.techtimes.com/articles/293690/20230712/bill-gates-worried-ai-potential-risks.htm"
+                },
+                {
+                    "Title": "More creativity for DALL-E",
+                    "Link": "https://www.theverge.com/2023/7/11/23791528/openai-shutterstock-images-partnership",
+                    "Description": "Shutterstock and OpenAI have renewed their partnership for another six years. Granting the company access to Shutterstock's rich repository of content for training its models.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "More creativity for DALL-E \ud83d\udce6 Shutterstock and OpenAI have renewed their partnership for another six years. Granting the company access to Shutterstock's rich repository of content for training its models. #ai https://www.theverge.com/2023/7/11/23791528/openai-shutterstock-images-partnership"
+                },
+                {
+                    "Title": "OpenAI gets a Chinese contender",
+                    "Link": "https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/",
+                    "Description": "China's Baichuan-13B, a powerful LLM, has entered the arena. Trained on vast Chinese and English data, this open-source model plans to tackle OpenAI's GPT-3.5.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "OpenAI gets a Chinese contender \ud83d\udce6 China's Baichuan-13B, a powerful LLM, has entered the arena. Trained on vast Chinese and English data, this open-source model plans to tackle OpenAI's GPT-3.5. #ai https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/"
+                },
+                {
+                    "Title": "AI holds the key to workplace efficiency",
+                    "Link": "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/",
+                    "Description": "Generative AI is a technology that reshapes industries, as it holds big potential for simplifying collaboration, enhancing workflows, and improving innovative thinking.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI holds the key to workplace efficiency \ud83d\udce6 Generative AI is a technology that reshapes industries, as it holds big potential for simplifying collaboration, enhancing workflows, and improving innovative thinking. #ai https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
+                },
+                {
+                    "Title": "Introducing: Afforai",
+                    "Link": "https://www.producthunt.com/posts/afforai",
+                    "Description": "Effortlessly understand and interact with your documents using Afforai's AI technology. A chatbot that surpasses others in accuracy, coverage, and comprehension.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: Afforai \ud83d\udce6 Effortlessly understand and interact with your documents using Afforai's AI technology. A chatbot that surpasses others in accuracy, coverage, and comprehension. #ai https://www.producthunt.com/posts/afforai"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Nothing redefines the Android experience",
+                    "Link": "https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/",
+                    "Description": "All the hype was justified! The Phone 2 exceeds expectations with its remarkable camera sensors, Snapdragon 8 Plus Gen 1 chipset, and captivating LTPO OLED display.",
+                    "Time": "10",
+                    "Hashtag": "nothing",
+                    "Tweet": "Nothing redefines the Android experience \ud83d\udce6 All the hype was justified! The Phone 2 exceeds expectations with its remarkable camera sensors, Snapdragon 8 Plus Gen 1 chipset, and captivating LTPO OLED display. #nothing https://www.androidauthority.com/nothing-phone-2-release-date-rumors-specs-price-leaks-3271344/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "CLI command now available for GitHub projects",
+                    "Link": "https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/",
+                    "Description": "The new project command for CLI streamlines planning and collaboration, bringing efficiency to your developer teams.",
+                    "Time": "6",
+                    "Hashtag": "GitHub",
+                    "Tweet": "CLI command now available for GitHub projects \ud83d\udce6 The new project command for CLI streamlines planning and collaboration, bringing efficiency to your developer teams. #GitHub https://github.blog/2023-07-11-github-cli-project-command-is-now-generally-available/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A mesmerizing gift from Webb",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/webb-celebrates-first-year-of-science-with-new-image",
+                    "Description": "Celebrating its first year of science operations, Webb has unveiled a breathtaking image of a star-forming region in the Rho Ophiuchi cloud complex.",
+                    "Time": "6",
+                    "Hashtag": "NASA",
+                    "Tweet": "A mesmerizing gift from Webb \ud83d\udce6 Celebrating its first year of science operations, Webb has unveiled a breathtaking image of a star-forming region in the Rho Ophiuchi cloud complex. #NASA https://www.nasa.gov/feature/goddard/2023/webb-celebrates-first-year-of-science-with-new-image"
+                }
+            ]
+        }
+    ],
+    "title": "Bill Gates doesn't fear AI, Blue Origin faces challenges, All about: Nothing Phone (2)",
+    "date": "2023/07/12"
+}
