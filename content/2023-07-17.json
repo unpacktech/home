@@ -1,0 +1,119 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Nuclear energy pioneers",
+                    "Link": "https://interestingengineering.com/innovation/core-module-small-modular-reactor-completed-china",
+                    "Description": "China's ambitious nuclear project takes a leap forward with the successful installation of the core module for its small modular reactor.",
+                    "Time": "3",
+                    "Hashtag": "china",
+                    "Tweet": "Nuclear energy pioneers \ud83d\udce6 China's ambitious nuclear project takes a leap forward with the successful installation of the core module for its small modular reactor. #china https://interestingengineering.com/innovation/core-module-small-modular-reactor-completed-china"
+                },
+                {
+                    "Title": "Intel recognizes Figure's potential",
+                    "Link": "https://techcrunch.com/2023/07/17/intel-backs-figures-humanoid-robot-to-the-tune-of-9-million/",
+                    "Description": "Figure's humanoid development caught Intel Capital's attention, leading to a $9 million equity investment. A partnership that propels the company's journey to redefine robotics boundaries.",
+                    "Time": "2",
+                    "Hashtag": "robotics",
+                    "Tweet": "Intel recognizes Figure's potential \ud83d\udce6 Figure's humanoid development caught Intel Capital's attention, leading to a $9 million equity investment. A partnership that propels the company's journey to redefine robotics boundaries. #robotics https://techcrunch.com/2023/07/17/intel-backs-figures-humanoid-robot-to-the-tune-of-9-million/"
+                },
+                {
+                    "Title": "The promise of quantum computing",
+                    "Link": "https://www.nature.com/articles/d41586-023-02317-x",
+                    "Description": "Quantum computing's transformative power comes with uncertainties. How can we navigate the challenges and ensure a smooth transition to harnessing its full potential?",
+                    "Time": "11",
+                    "Hashtag": "science",
+                    "Tweet": "The promise of quantum computing \ud83d\udce6 Quantum computing's transformative power comes with uncertainties. How can we navigate the challenges and ensure a smooth transition to harnessing its full potential? #science https://www.nature.com/articles/d41586-023-02317-x"
+                },
+                {
+                    "Title": "Meet PIGINet",
+                    "Link": "https://piginet.github.io/",
+                    "Description": "MIT researchers have developed a machine learning system that helps household robots find feasible solutions faster, bringing efficiency and convenience to smart homes.",
+                    "Time": "9",
+                    "Hashtag": "robotics",
+                    "Tweet": "Meet PIGINet \ud83d\udce6 MIT researchers have developed a machine learning system that helps household robots find feasible solutions faster, bringing efficiency and convenience to smart homes. #robotics https://piginet.github.io/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Building trust in AI",
+                    "Link": "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/",
+                    "Description": "As AI technologies advance, the need for interpretability grows. Understanding the reasons behind its decisions promotes transparency, accountability, and ethical compliance.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Building trust in AI \ud83d\udce6 As AI technologies advance, the need for interpretability grows. Understanding the reasons behind its decisions promotes transparency, accountability, and ethical compliance. #ai https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
+                },
+                {
+                    "Title": "A new era in neurosurgery",
+                    "Link": "https://interestingengineering.com/innovation/chinas-ai-powered-robot-promises-minimally-invasive-brain-surgeries",
+                    "Description": "Hong Kong's Centre for AI and Robotics (CAIR) introduces MicroNeuro, an AI-powered robotic system for minimally invasive neurosurgery, that enhances surgical precision and reduces tissue damage.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A new era in neurosurgery \ud83d\udce6 Hong Kong's Centre for AI and Robotics (CAIR) introduces MicroNeuro, an AI-powered robotic system for minimally invasive neurosurgery, that enhances surgical precision and reduces tissue damage. #ai https://interestingengineering.com/innovation/chinas-ai-powered-robot-promises-minimally-invasive-brain-surgeries"
+                },
+                {
+                    "Title": "Humans are crucial to AI",
+                    "Link": "https://www.axios.com/2023/07/17/ai-revolution-human-decisions-chatgpt",
+                    "Description": "In the AI age, our choices shape the course of technology. From tech companies to regulators and consumers, we have the responsibility to set limits and ensure it benefits everyone.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Humans are crucial to AI \ud83d\udce6 In the AI age, our choices shape the course of technology. From tech companies to regulators and consumers, we have the responsibility to set limits and ensure it benefits everyone. #ai https://www.axios.com/2023/07/17/ai-revolution-human-decisions-chatgpt"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Destination: Space! ",
+                    "Link": "https://www.engadget.com/virgin-galactics-first-private-passenger-spaceflight-will-launch-as-soon-as-august-10th-151531488.html",
+                    "Description": "Virgin Galactic is gearing up for its first private passenger flight, launching on August 10th. The courageous crew includes an Olympian and a mother-daughter duo.",
+                    "Time": "2",
+                    "Hashtag": "virgingalactic",
+                    "Tweet": "Destination: Space!  \ud83d\udce6 Virgin Galactic is gearing up for its first private passenger flight, launching on August 10th. The courageous crew includes an Olympian and a mother-daughter duo. #virgingalactic https://www.engadget.com/virgin-galactics-first-private-passenger-spaceflight-will-launch-as-soon-as-august-10th-151531488.html"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Rolling into the next iPhone",
+                    "Link": "https://www.businessinsider.com/next-iphone-may-roll-into-a-cylinder-apple-patent-suggests-2023-7",
+                    "Description": "Apple's latest patent unveils a rollable device concept. With potential advancements in screen technology, it seems that the company aims to make rolling phones a reality.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Rolling into the next iPhone \ud83d\udce6 Apple's latest patent unveils a rollable device concept. With potential advancements in screen technology, it seems that the company aims to make rolling phones a reality. #apple https://www.businessinsider.com/next-iphone-may-roll-into-a-cylinder-apple-patent-suggests-2023-7"
+                },
+                {
+                    "Title": "Great news for Mac enthusiasts",
+                    "Link": "https://9to5mac.com/2023/07/16/m3-apple-silicon-mac-october/",
+                    "Description": "According to Mark Gurman's recent newsletter, Apple is reportedly set to launch its first M3 Apple Silicon Macs in October, showcasing cutting-edge technology and enhanced capabilities.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Great news for Mac enthusiasts \ud83d\udce6 According to Mark Gurman's recent newsletter, Apple is reportedly set to launch its first M3 Apple Silicon Macs in October, showcasing cutting-edge technology and enhanced capabilities. #apple https://9to5mac.com/2023/07/16/m3-apple-silicon-mac-october/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "From Texas to the world",
+                    "Link": "https://electrek.co/2023/07/15/tesla-has-built-first-cybertruck-at-giga-texas/",
+                    "Description": "The \"first Cybertruck\" has been officially built at Gigafactory Texas. The highly anticipated electric pickup is one step closer to hitting the roads.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "From Texas to the world \ud83d\udce6 The \"first Cybertruck\" has been officially built at Gigafactory Texas. The highly anticipated electric pickup is one step closer to hitting the roads. #tesla https://electrek.co/2023/07/15/tesla-has-built-first-cybertruck-at-giga-texas/"
+                }
+            ]
+        }
+    ],
+    "title": "Tesla's CyberSurprise, Apple's rolling future, Intel invests in Figure's potential",
+    "date": "2023/07/17"
+}
