@@ -4,12 +4,12 @@
             "category": "AI \ud83e\udd16",
             "stories": [
                 {
-                    "Title": "Meta's LLaMA 2 is here! ",
+                    "Title": "Meta's LLaMA 2 is here!",
                     "Link": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
                     "Description": "Now open-source and freely available for commercial use, this transformer-based language model offers enterprises an exciting alternative in the world of generative AI. ",
                     "Time": "4",
                     "Hashtag": "ai",
-                    "Tweet": "Meta's LLaMA 2 is here!  \ud83d\udce6 Now open-source and freely available for commercial use, this transformer-based language model offers enterprises an exciting alternative in the world of generative AI.  #ai https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+                    "Tweet": "Meta's LLaMA 2 is here! \ud83d\udce6 Now open-source and freely available for commercial use, this transformer-based language model offers enterprises an exciting alternative in the world of generative AI.  #ai https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
                 },
                 {
                     "Title": "Qualcomm teams up with Meta",
@@ -17,7 +17,7 @@
                     "Description": "Qualcomm is introducing on-device AI capabilities to high-end phones and PCs in 2024, powered by Meta's LLaMA 2. Offering advanced productivity and entertainment experiences to users.",
                     "Time": "2",
                     "Hashtag": "ai",
-                    "Tweet": ""
+                    "Tweet": "Qualcomm teams up with Meta \ud83d\udce6 Qualcomm is introducing on-device AI capabilities to high-end phones and PCs in 2024, powered by Meta's LLaMA 2. Offering advanced productivity and entertainment experiences to users. #ai https://www.androidauthority.com/qualcomm-meta-on-device-ai-phones-2024-3346204/"
                 },
                 {
                     "Title": "Big news from Microsoft Inspire",
@@ -25,7 +25,7 @@
                     "Description": "The company has revealed pricing for Microsoft 365 Copilot, their GPT-4-powered suite of tools. For just $30 per user, businesses will be able to generate Office content effortlessly.",
                     "Time": "2",
                     "Hashtag": "ai",
-                    "Tweet": ""
+                    "Tweet": "Big news from Microsoft Inspire \ud83d\udce6 The company has revealed pricing for Microsoft 365 Copilot, their GPT-4-powered suite of tools. For just $30 per user, businesses will be able to generate Office content effortlessly. #ai https://www.engadget.com/microsoft-will-charge-businesses-30-per-user-for-its-365-ai-copilot-153042654.html"
                 }
             ]
         },
@@ -59,7 +59,7 @@
                     "Description": "VIPER, a specialized rover, is getting ready to explore the dark polar craters of the moon. This mission aims to find ice deposits that could support future human exploration.",
                     "Time": "4",
                     "Hashtag": "NASA",
-                    "Tweet": ""
+                    "Tweet": "NASA's lunar shadow explorer \ud83d\udce6 VIPER, a specialized rover, is getting ready to explore the dark polar craters of the moon. This mission aims to find ice deposits that could support future human exploration. #NASA https://arstechnica.com/space/2023/07/nasa-starts-building-ice-hunting-moon-rover/"
                 }
             ]
         },
@@ -85,7 +85,7 @@
                     "Description": "The Nothing Phone 2 is here, and it's all about being a GOOD phone, according to Carl Pei. But his ambitions don't end with smartphones; he aims to revolutionize the tech industry itself.",
                     "Time": "18",
                     "Hashtag": "nothing",
-                    "Tweet": ""
+                    "Tweet": "Carl Pei\u2019s approach to gadgets \ud83d\udce6 The Nothing Phone 2 is here, and it's all about being a GOOD phone, according to Carl Pei. But his ambitions don't end with smartphones; he aims to revolutionize the tech industry itself. #nothing https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds"
                 },
                 {
                     "Title": "Apple\u2019s Vision Pro meets Unity",
@@ -93,7 +93,7 @@
                     "Description": "With the beta version of its development platform for visionOS, PolySpatial, developers can build captivating 3D experiences.",
                     "Time": "3",
                     "Hashtag": "apple",
-                    "Tweet": ""
+                    "Tweet": "Apple\u2019s Vision Pro meets Unity \ud83d\udce6 With the beta version of its development platform for visionOS, PolySpatial, developers can build captivating 3D experiences. #apple https://techcrunch.com/2023/07/19/unitys-apple-vision-pro-game-development-tool-opens-in-beta/"
                 }
             ]
         },
@@ -106,7 +106,7 @@
                     "Description": "By becoming the first Japanese automaker to adopt Tesla's North American Charging Standard (NACS) starting in 2025. Nissan proves its commitment to making electric mobility more accessible.",
                     "Time": "3",
                     "Hashtag": "nissan",
-                    "Tweet": ""
+                    "Tweet": "Nissan joins the NACS revolution \ud83d\udce6 By becoming the first Japanese automaker to adopt Tesla's North American Charging Standard (NACS) starting in 2025. Nissan proves its commitment to making electric mobility more accessible. #nissan https://electrek.co/2023/07/19/nissan-first-japanese-automaker-teslas-nacs/"
                 }
             ]
         },
@@ -119,7 +119,7 @@
                     "Description": "Struggling with Git's complexity? With Lazygit, it becomes user-friendly, allowing you to focus on your work without hassle.",
                     "Time": "5",
                     "Hashtag": "programming",
-                    "Tweet": ""
+                    "Tweet": "Introducing: Lazygit \ud83d\udce6 Struggling with Git's complexity? With Lazygit, it becomes user-friendly, allowing you to focus on your work without hassle. #programming https://github.com/jesseduffield/lazygit"
                 }
             ]
         }
