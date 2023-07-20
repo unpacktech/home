@@ -1,0 +1,114 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Apple dives into AI territory",
+                    "Link": "https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/",
+                    "Description": "The company is developing an AI chatbot project to rival OpenAI and Google. Although it is currently limited to internal use, it has already proven beneficial in product prototyping and data analysis.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple dives into AI territory \ud83d\udce6 The company is developing an AI chatbot project to rival OpenAI and Google. Although it is currently limited to internal use, it has already proven beneficial in product prototyping and data analysis. #apple https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/"
+                },
+                {
+                    "Title": "Cerebras AI breakthrough",
+                    "Link": "https://venturebeat.com/ai/cerebras-unveils-worlds-larges-ai-training-supercomputer-with-54m-cores/",
+                    "Description": "Condor Galaxy, the world's largest supercomputer for AI training, is here. Developed by Cerebras Systems and G42, it promises results twice as fast while being energy-efficient.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Cerebras AI breakthrough \ud83d\udce6 Condor Galaxy, the world's largest supercomputer for AI training, is here. Developed by Cerebras Systems and G42, it promises results twice as fast while being energy-efficient. #ai https://venturebeat.com/ai/cerebras-unveils-worlds-larges-ai-training-supercomputer-with-54m-cores/"
+                },
+                {
+                    "Title": "Has ChatGPT lost its power?",
+                    "Link": "https://arstechnica.com/information-technology/2023/07/is-chatgpt-getting-worse-over-time-study-claims-yes-but-others-arent-sure/",
+                    "Description": "A new study suggests so, claiming the AI language model's outputs have changed over time. However, not everyone agrees. OpenAI stands firm, assuring that each version gets smarter.",
+                    "Time": "6",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "Has ChatGPT lost its power? \ud83d\udce6 A new study suggests so, claiming the AI language model's outputs have changed over time. However, not everyone agrees. OpenAI stands firm, assuring that each version gets smarter. #chatgpt https://arstechnica.com/information-technology/2023/07/is-chatgpt-getting-worse-over-time-study-claims-yes-but-others-arent-sure/"
+                },
+                {
+                    "Title": "Genesis: The news article generator",
+                    "Link": "https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html",
+                    "Description": "Google is reportedly testing a tool that generates news articles. Nonetheless, while it promises to assist journalists, concerns arise about its accuracy and the risk of spreading misinformation.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Genesis: The news article generator \ud83d\udce6 Google is reportedly testing a tool that generates news articles. Nonetheless, while it promises to assist journalists, concerns arise about its accuracy and the risk of spreading misinformation. #google https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html"
+                },
+                {
+                    "Title": "The role of AI in filmmaking",
+                    "Link": "https://interestingengineering.com/culture/artificial-intelligence-in-filmmaking-ai-visual-effects-cgi",
+                    "Description": "As AI technology gains ground in filmmaking, it's saving precious production costs, time, and resources. But let's not forget, AI must complement, not overshadow, the human element in movies.",
+                    "Time": "9",
+                    "Hashtag": "ai",
+                    "Tweet": "The role of AI in filmmaking \ud83d\udce6 As AI technology gains ground in filmmaking, it's saving precious production costs, time, and resources. But let's not forget, AI must complement, not overshadow, the human element in movies. #ai https://interestingengineering.com/culture/artificial-intelligence-in-filmmaking-ai-visual-effects-cgi"
+                },
+                {
+                    "Title": "Introducing: LangSmith",
+                    "Link": "https://www.producthunt.com/posts/langsmith",
+                    "Description": " This platform is your ultimate ally for building, debugging, and evaluating LLM applications.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: LangSmith \ud83d\udce6  This platform is your ultimate ally for building, debugging, and evaluating LLM applications. #ai https://www.producthunt.com/posts/langsmith"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla's autonomous ambitions continue",
+                    "Link": "https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production",
+                    "Description": "The automaker's Dojo supercomputer is now in production, signaling a big step toward faster and more affordable neural net training for their autonomous vehicle fleet.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's autonomous ambitions continue \ud83d\udce6 The automaker's Dojo supercomputer is now in production, signaling a big step toward faster and more affordable neural net training for their autonomous vehicle fleet. #tesla https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production"
+                },
+                {
+                    "Title": "Self-driving for all",
+                    "Link": "https://electrek.co/2023/07/19/elon-musk-tesla-early-talk-license-self-driving-tech-major-automaker/",
+                    "Description": "Elon Musk has confirmed Tesla's willingness to collaborate with other automakers by licensing its self-driving technology. A strategic step that could transform the automotive landscape.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Self-driving for all \ud83d\udce6 Elon Musk has confirmed Tesla's willingness to collaborate with other automakers by licensing its self-driving technology. A strategic step that could transform the automotive landscape. #tesla https://electrek.co/2023/07/19/elon-musk-tesla-early-talk-license-self-driving-tech-major-automaker/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The mystery of rogue planets",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/new-study-reveals-nasa-s-roman-could-find-400-rogue-earths/",
+                    "Description": "A joint study by NASA and Osaka University found that trillions of rogue planets may be drifting through our galaxy. The Roman Space Telescope, launching in 2027, could help discover them.",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "The mystery of rogue planets \ud83d\udce6 A joint study by NASA and Osaka University found that trillions of rogue planets may be drifting through our galaxy. The Roman Space Telescope, launching in 2027, could help discover them. #NASA https://www.nasa.gov/feature/goddard/2023/new-study-reveals-nasa-s-roman-could-find-400-rogue-earths/"
+                },
+                {
+                    "Title": "Peering through cosmic dust",
+                    "Link": "https://www.digitaltrends.com/space/jwst-dust-early-supernovas/",
+                    "Description": "Researchers using NASA's James Webb Telescope have uncovered fascinating carbon-rich dust grains from the early Universe. These tiny particles hold significant secrets about the cosmos' past.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Peering through cosmic dust \ud83d\udce6 Researchers using NASA's James Webb Telescope have uncovered fascinating carbon-rich dust grains from the early Universe. These tiny particles hold significant secrets about the cosmos' past. #NASA https://www.digitaltrends.com/space/jwst-dust-early-supernovas/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Aeolus journey back home",
+                    "Link": "https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/",
+                    "Description": "In a daring mission, the European Space Agency (ESA) is preparing for an \"assisted reentry\" of the Aeolus spacecraft, ensuring it safely descends over the Atlantic Ocean on July 28. ",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Aeolus journey back home \ud83d\udce6 In a daring mission, the European Space Agency (ESA) is preparing for an \"assisted reentry\" of the Aeolus spacecraft, ensuring it safely descends over the Atlantic Ocean on July 28.  #rocketscience https://spacenews.com/esa-preparing-for-assisted-reentry-of-aeolus-spacecraft/"
+                }
+            ]
+        }
+    ],
+    "title": "Apple's GPT is coming, Tesla's self-driving commitment, Google announces \"Genesis\"",
+    "date": "2023/07/20"
+}
