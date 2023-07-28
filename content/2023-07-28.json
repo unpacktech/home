@@ -1,0 +1,137 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Experience the ultimate SRE event in London on 14-15 September! With two days packed with over 50+ talks from industry-leading professionals. Book your early bird tickets before they're gone!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Experience the ultimate SRE event in London on 14-15 September! With two days packed with over 50+ talks from industry-leading professionals. Book your early bird tickets before they're gone! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "gravityLab: No Gravity, no problem",
+                    "Link": "https://techcrunch.com/2023/07/28/gravitylab-wants-to-tackle-the-artificial-gravity-problem/",
+                    "Description": "The startup keeps making progress in space research with the development of a spacecraft equipped with \"programmable gravity.\" The project plans to ensure humanity's long-term presence in space.",
+                    "Time": "5",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "gravityLab: No Gravity, no problem \ud83d\udce6 The startup keeps making progress in space research with the development of a spacecraft equipped with \"programmable gravity.\" The project plans to ensure humanity's long-term presence in space. #rocketscience https://techcrunch.com/2023/07/28/gravitylab-wants-to-tackle-the-artificial-gravity-problem/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Competing for the AI throne",
+                    "Link": "https://www.techtimes.com/articles/294390/20230728/intel-ceo-reveals-ambitious-plan-integrate-ai-across-platforms.htm",
+                    "Description": "Intel's CEO Pat Gelsinger has shared an ambitious vision for AI integration, aiming to make it a key element of everything the company offers. Can they thrive amidst intense competition?",
+                    "Time": "3",
+                    "Hashtag": "intel",
+                    "Tweet": "Competing for the AI throne \ud83d\udce6 Intel's CEO Pat Gelsinger has shared an ambitious vision for AI integration, aiming to make it a key element of everything the company offers. Can they thrive amidst intense competition? #intel https://www.techtimes.com/articles/294390/20230728/intel-ceo-reveals-ambitious-plan-integrate-ai-across-platforms.htm"
+                },
+                {
+                    "Title": "From data to robotic action",
+                    "Link": "https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action?utm_source=keywordblog&utm_medium=referral&utm_campaign=rt2",
+                    "Description": "Google DeepMind has unveiled RT-2, a groundbreaking vision-language-action model that enables robots to learn from web data and directly output robotic actions.",
+                    "Time": "6",
+                    "Hashtag": "google",
+                    "Tweet": "From data to robotic action \ud83d\udce6 Google DeepMind has unveiled RT-2, a groundbreaking vision-language-action model that enables robots to learn from web data and directly output robotic actions. #google https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action?utm_source=keywordblog&utm_medium=referral&utm_campaign=rt2"
+                },
+                {
+                    "Title": "AWS doubles down on generative AI",
+                    "Link": "https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/",
+                    "Description": "Bedrock's new native agent capabilities enhance generative AI applications. Developers can now complete tasks with ease, using a simple API to connect foundation models to data sources securely.",
+                    "Time": "4",
+                    "Hashtag": "amazon",
+                    "Tweet": "AWS doubles down on generative AI \ud83d\udce6 Bedrock's new native agent capabilities enhance generative AI applications. Developers can now complete tasks with ease, using a simple API to connect foundation models to data sources securely. #amazon https://venturebeat.com/ai/amazon-grows-generative-ai-efforts-with-bedrock-expansion-for-aws/"
+                },
+                {
+                    "Title": "Experience news in a new way",
+                    "Link": "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify",
+                    "Description": "Artifact, created by Instagram's co-founders, now offers an AI text-to-speech feature. Over 30 English voices, including celebrity ones, can read news articles for you.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Experience news in a new way \ud83d\udce6 Artifact, created by Instagram's co-founders, now offers an AI text-to-speech feature. Over 30 English voices, including celebrity ones, can read news articles for you. #ai https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "No more range anxiety",
+                    "Link": "https://www.fastcompany.com/90928813/low-cost-electric-vehicle-extra-batteries-plug-into-a-regular-outlet",
+                    "Description": "Swiss startup Tera Technologies brings innovation to the electric car market with the MiracleONE. Extra batteries in the trunk provide an ingenious solution to on-the-go charging.",
+                    "Time": "2",
+                    "Hashtag": "EVs",
+                    "Tweet": "No more range anxiety \ud83d\udce6 Swiss startup Tera Technologies brings innovation to the electric car market with the MiracleONE. Extra batteries in the trunk provide an ingenious solution to on-the-go charging. #EVs https://www.fastcompany.com/90928813/low-cost-electric-vehicle-extra-batteries-plug-into-a-regular-outlet"
+                },
+                {
+                    "Title": "Tesla plays dress up",
+                    "Link": "https://electrek.co/2023/07/27/closer-look-tesla-strange-cybertruck-ford-f-150-wrap/",
+                    "Description": "Cybertruck's latest prototype sports an intriguing Ford F-150 disguise. Is Tesla hiding the final design or is it just a creative move to spark discussion?",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla plays dress up \ud83d\udce6 Cybertruck's latest prototype sports an intriguing Ford F-150 disguise. Is Tesla hiding the final design or is it just a creative move to spark discussion? #tesla https://electrek.co/2023/07/27/closer-look-tesla-strange-cybertruck-ford-f-150-wrap/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Watch out, Vision Pro!",
+                    "Link": "https://www.zdnet.com/article/samsungs-answer-to-apple-vision-pro-is-on-track-to-be-announced-soon/",
+                    "Description": "Samsung's upcoming XR headset and ecosystem are set to challenge Apple's Vision Pro. President TM Roh confirms that an announcement is just around the corner.",
+                    "Time": "3",
+                    "Hashtag": "samsung",
+                    "Tweet": "Watch out, Vision Pro! \ud83d\udce6 Samsung's upcoming XR headset and ecosystem are set to challenge Apple's Vision Pro. President TM Roh confirms that an announcement is just around the corner. #samsung https://www.zdnet.com/article/samsungs-answer-to-apple-vision-pro-is-on-track-to-be-announced-soon/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Great news for space enthusiasts!",
+                    "Link": "https://www.digitaltrends.com/space/nasa-trailer-for-streaming-service/",
+                    "Description": "NASA is introducing its new streaming service, NASA+, which promises ad-free access to live coverage and original space-related content. Early access to the beta website is now open!",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Great news for space enthusiasts! \ud83d\udce6 NASA is introducing its new streaming service, NASA+, which promises ad-free access to live coverage and original space-related content. Early access to the beta website is now open! #NASA https://www.digitaltrends.com/space/nasa-trailer-for-streaming-service/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Strengthening user privacy",
+                    "Link": "https://arstechnica.com/gadgets/2023/07/android-phones-can-now-tell-you-if-theres-an-airtag-following-you/",
+                    "Description": "Google enhances privacy features with \"Unknown Tracker Alerts\" for Android, which protects users against potential tracking devices like Apple AirTags.",
+                    "Time": "3",
+                    "Hashtag": "android",
+                    "Tweet": "Strengthening user privacy \ud83d\udce6 Google enhances privacy features with \"Unknown Tracker Alerts\" for Android, which protects users against potential tracking devices like Apple AirTags. #android https://arstechnica.com/gadgets/2023/07/android-phones-can-now-tell-you-if-theres-an-airtag-following-you/"
+                },
+                {
+                    "Title": "Goodbye texting, hello videos",
+                    "Link": "https://www.engadget.com/whatsapp-adds-telegram-style-video-messages-141005605.html",
+                    "Description": "WhatsApp adds a new dimension to chat with its latest feature: instant video messages. Share up to 1-minute video clips effortlessly, similar to Telegram.",
+                    "Time": "1",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "Goodbye texting, hello videos \ud83d\udce6 WhatsApp adds a new dimension to chat with its latest feature: instant video messages. Share up to 1-minute video clips effortlessly, similar to Telegram. #whatsapp https://www.engadget.com/whatsapp-adds-telegram-style-video-messages-141005605.html"
+                }
+            ]
+        }
+    ],
+    "title": "AI everywhere for Intel, DeepMind announces RT-2, Cybertruck gets a disguise",
+    "date": "2023/07/28"
+}
