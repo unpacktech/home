@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A breakthrough in embryology",
+                    "Link": "https://www.theguardian.com/science/2023/jun/14/synthetic-human-embryos-created-in-groundbreaking-advance",
+                    "Description": "Synthetic human embryos resembling early developmental stages have been fabricated through the use of stem cells. Miscarriages and genetic disorders could benefit from this research.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "A breakthrough in embryology \ud83d\udce6 Synthetic human embryos resembling early developmental stages have been fabricated through the use of stem cells. Miscarriages and genetic disorders could benefit from this research. #science https://www.theguardian.com/science/2023/jun/14/synthetic-human-embryos-created-in-groundbreaking-advance"
+                },
+                {
+                    "Title": "A home in Saturn",
+                    "Link": "https://www.nasa.gov/feature/jpl/nasa-cassini-data-reveals-building-block-for-life-in-enceladus-ocean",
+                    "Description": "Phosphorus, an essential element for life, was discovered on icy particles of Saturn's moon Enceladus. Is this a sign of potential habitability?",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "A home in Saturn \ud83d\udce6 Phosphorus, an essential element for life, was discovered on icy particles of Saturn's moon Enceladus. Is this a sign of potential habitability? #NASA https://www.nasa.gov/feature/jpl/nasa-cassini-data-reveals-building-block-for-life-in-enceladus-ocean"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "What to expect from Tesla?",
+                    "Link": "https://www.businessinsider.com/tesla-future-models",
+                    "Description": "The highly anticipated Cybertruck is finally reaching mass production in late 2023, but that's just the beginning. Elon Musk's visionary plans include an extraordinary lineup of models.",
+                    "Time": "5",
+                    "Hashtag": "tesla",
+                    "Tweet": "What to expect from Tesla? \ud83d\udce6 The highly anticipated Cybertruck is finally reaching mass production in late 2023, but that's just the beginning. Elon Musk's visionary plans include an extraordinary lineup of models. #tesla https://www.businessinsider.com/tesla-future-models"
+                },
+                {
+                    "Title": "A vision in orange",
+                    "Link": "https://electrek.co/2023/06/15/mercedes-benz-vision-one-eleven-concept-axial-flux-motors-ev-electric/",
+                    "Description": "Mercedes pays homage to the iconic C111 with the debut of Vision One Eleven. This all-electric concept showcases groundbreaking technology, including axial flux motors.",
+                    "Time": "10",
+                    "Hashtag": "mercedesbenz",
+                    "Tweet": "A vision in orange \ud83d\udce6 Mercedes pays homage to the iconic C111 with the debut of Vision One Eleven. This all-electric concept showcases groundbreaking technology, including axial flux motors. #mercedesbenz https://electrek.co/2023/06/15/mercedes-benz-vision-one-eleven-concept-axial-flux-motors-ev-electric/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Google Lens unveils its inner dermatologist",
+                    "Link": "https://techcrunch.com/2023/06/14/google-lens-can-now-search-for-skin-conditions/",
+                    "Description": "The app's latest upgrade enables it to identify and provide information on skin conditions like moles, rashes, and more. However, it shouldn't replace professional medical advice.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Google Lens unveils its inner dermatologist \ud83d\udce6 The app's latest upgrade enables it to identify and provide information on skin conditions like moles, rashes, and more. However, it shouldn't replace professional medical advice. #ai https://techcrunch.com/2023/06/14/google-lens-can-now-search-for-skin-conditions/"
+                },
+                {
+                    "Title": "Bard must wait for EU",
+                    "Link": "https://www.theverge.com/2023/6/15/23761893/google-ai-chatbot-bard-eu-launch-delayed-privacy",
+                    "Description": "The launch of Bard in European Union countries has been postponed. Google's failure to address concerns raised by the Irish Data Protection Commission is the reason behind the setback.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Bard must wait for EU \ud83d\udce6 The launch of Bard in European Union countries has been postponed. Google's failure to address concerns raised by the Irish Data Protection Commission is the reason behind the setback. #ai https://www.theverge.com/2023/6/15/23761893/google-ai-chatbot-bard-eu-launch-delayed-privacy"
+                },
+                {
+                    "Title": "Your dog may be smarter than AI",
+                    "Link": "https://www.cnbc.com/2023/06/15/ai-is-not-even-at-dog-level-intelligence-yet-meta-ai-chief.html",
+                    "Description": "According to Meta's AI chief, current AI systems, while impressive, are still far from matching the complex understanding of the real world.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Your dog may be smarter than AI \ud83d\udce6 According to Meta's AI chief, current AI systems, while impressive, are still far from matching the complex understanding of the real world. #ai https://www.cnbc.com/2023/06/15/ai-is-not-even-at-dog-level-intelligence-yet-meta-ai-chief.html"
+                },
+                {
+                    "Title": "ChatGPT is the bearer of bad news",
+                    "Link": "https://www.businessinsider.com/doctors-chatgpt-bad-news-patients-ai-openai-2023-6",
+                    "Description": "A recent report by The New York Times reveals that doctors are using OpenAI's ChatGPT to deliver difficult news with empathy. An example of how chatbots improve patient-doctor relationships.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "ChatGPT is the bearer of bad news \ud83d\udce6 A recent report by The New York Times reveals that doctors are using OpenAI's ChatGPT to deliver difficult news with empathy. An example of how chatbots improve patient-doctor relationships. #ai https://www.businessinsider.com/doctors-chatgpt-bad-news-patients-ai-openai-2023-6"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Rocket Lab's top-secret mission",
+                    "Link": "https://www.space.com/rocket-lab-mystery-mission-virginia-june-2023",
+                    "Description": "With no livestream planned and NASA's Wallops Visitor Center closed, this launch is surrounded by secrecy. Could it be the inaugural flight of Rocket Lab's new suborbital rocket, HASTE?",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Rocket Lab's top-secret mission \ud83d\udce6 With no livestream planned and NASA's Wallops Visitor Center closed, this launch is surrounded by secrecy. Could it be the inaugural flight of Rocket Lab's new suborbital rocket, HASTE? #rocketscience https://www.space.com/rocket-lab-mystery-mission-virginia-june-2023"
+                },
+                {
+                    "Title": "Space is the new destination",
+                    "Link": "https://www.space.com/axiom-space-private-station-iss-2026",
+                    "Description": "Axiom Space is making significant progress toward its vision of a private space station. With each crewed mission to the ISS, Axiom learns and refines its plans for the future.",
+                    "Time": "5",
+                    "Hashtag": "axiomspace",
+                    "Tweet": "Space is the new destination \ud83d\udce6 Axiom Space is making significant progress toward its vision of a private space station. With each crewed mission to the ISS, Axiom learns and refines its plans for the future. #axiomspace https://www.space.com/axiom-space-private-station-iss-2026"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Intel gets a makeover",
+                    "Link": "https://www.engadget.com/intel-drops-i-processor-branding-after-15-years-introduces-ultra-for-higher-end-chips-130100277.html",
+                    "Description": "Say goodbye to the \"i\" series and welcome the \"Core 3/5/7/9\" concept. With this move, Intel plans to make it easier for customers to understand and choose the right processor. ",
+                    "Time": "1",
+                    "Hashtag": "intel",
+                    "Tweet": "Intel gets a makeover \ud83d\udce6 Say goodbye to the \"i\" series and welcome the \"Core 3/5/7/9\" concept. With this move, Intel plans to make it easier for customers to understand and choose the right processor.  #intel https://www.engadget.com/intel-drops-i-processor-branding-after-15-years-introduces-ultra-for-higher-end-chips-130100277.html"
+                }
+            ]
+        }
+    ],
+    "title": "Scientists create synthetic human embryos, Bard faces delays, A revelation from Saturn",
+    "date": "2023/06/15",
+    "description": ""
+}

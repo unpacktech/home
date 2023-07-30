@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Claude 2: Friendly and safe",
+                    "Link": "https://www.forbes.com/sites/alexkonrad/2023/07/11/anthropic-ai-claude-2-release/?sh=61f12535146f",
+                    "Description": "Anthropic's new release, Claude 2, is proving to be a major contender alongside chatbots like ChatGPT and Pi. With enhanced performance and reduced harmful outputs.",
+                    "Time": "3",
+                    "Hashtag": "anthropic",
+                    "Tweet": "Claude 2: Friendly and safe \ud83d\udce6 Anthropic's new release, Claude 2, is proving to be a major contender alongside chatbots like ChatGPT and Pi. With enhanced performance and reduced harmful outputs. #anthropic https://www.forbes.com/sites/alexkonrad/2023/07/11/anthropic-ai-claude-2-release/?sh=61f12535146f"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Launching made simple",
+                    "Link": "https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/",
+                    "Description": "Longshot Space aims for a simpler, more affordable space launch solution. Using a kinetic launch system that's cheaper to build and operate, they hope to reach hypersonic speeds.",
+                    "Time": "5",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Launching made simple \ud83d\udce6 Longshot Space aims for a simpler, more affordable space launch solution. Using a kinetic launch system that's cheaper to build and operate, they hope to reach hypersonic speeds. #rocketscience https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/"
+                },
+                {
+                    "Title": "Big progress for JUICE!",
+                    "Link": "https://gizmodo.com/starry-swoosh-jupiter-probe-encouraging-sign-1850621250",
+                    "Description": "ESA's JUICE mission shared captivating ultraviolet views from its UVS instrument, revealing a dazzling Milky Way adorned with shimmering stars from the southern sky.",
+                    "Time": "2",
+                    "Hashtag": "JUICE",
+                    "Tweet": "Big progress for JUICE! \ud83d\udce6 ESA's JUICE mission shared captivating ultraviolet views from its UVS instrument, revealing a dazzling Milky Way adorned with shimmering stars from the southern sky. #JUICE https://gizmodo.com/starry-swoosh-jupiter-probe-encouraging-sign-1850621250"
+                },
+                {
+                    "Title": "SpaceX keeps breaking records",
+                    "Link": "https://interestingengineering.com/innovation/spacex-breaks-record-falcon-9-16th-launch",
+                    "Description": "With the successful launch and landing of Falcon 9 on July 9th, the B1058 booster achieved an incredible milestone of 16 flights. Setting new reusability standards in the industry.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "SpaceX keeps breaking records \ud83d\udce6 With the successful launch and landing of Falcon 9 on July 9th, the B1058 booster achieved an incredible milestone of 16 flights. Setting new reusability standards in the industry. #rocketscience https://interestingengineering.com/innovation/spacex-breaks-record-falcon-9-16th-launch"
+                },
+                {
+                    "Title": "China's methane-fueled ambitions",
+                    "Link": "https://gizmodo.com/landspace-methane-rocket-could-orbit-for-first-time-1850621557",
+                    "Description": "Landspace's Zhuque-2 rocket prepares for its second test flight, aiming to reach orbit with its methane-powered engines. A launch that could mark a significant milestone in rocket propulsion.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "China's methane-fueled ambitions \ud83d\udce6 Landspace's Zhuque-2 rocket prepares for its second test flight, aiming to reach orbit with its methane-powered engines. A launch that could mark a significant milestone in rocket propulsion. #rocketscience https://gizmodo.com/landspace-methane-rocket-could-orbit-for-first-time-1850621557"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Struggles in Google's AR journey",
+                    "Link": "https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris",
+                    "Description": "As the AR landscape grows more competitive, Google's AR team keeps facing challenges. This time, Mark Lucovsky, former head of operating systems, bids farewell, citing unstable commitment and vision.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Struggles in Google's AR journey \ud83d\udce6 As the AR landscape grows more competitive, Google's AR team keeps facing challenges. This time, Mark Lucovsky, former head of operating systems, bids farewell, citing unstable commitment and vision. #google https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris"
+                },
+                {
+                    "Title": "Microsoft announces more layoffs",
+                    "Link": "https://www.cnbc.com/2023/07/10/microsoft-confirms-more-job-cuts-on-top-of-10000-layoffs-in-january.html",
+                    "Description": "Following previous downsizing efforts, Microsoft has announced additional job cuts as part of ongoing restructuring, focusing on salespeople and customer success representatives.",
+                    "Time": "1",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft announces more layoffs \ud83d\udce6 Following previous downsizing efforts, Microsoft has announced additional job cuts as part of ongoing restructuring, focusing on salespeople and customer success representatives. #microsoft https://www.cnbc.com/2023/07/10/microsoft-confirms-more-job-cuts-on-top-of-10000-layoffs-in-january.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Enhancing astronaut style",
+                    "Link": "https://www.engadget.com/nasa-expands-developers-contracts-for-its-next-gen-spacesuits-054254263.html",
+                    "Description": "NASA has expanded its contracts with Axiom Space and Collins Aerospace, providing $5 million to each to develop advanced spacesuits, for both spacewalks outside the ISS and lunar surface missions.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Enhancing astronaut style \ud83d\udce6 NASA has expanded its contracts with Axiom Space and Collins Aerospace, providing $5 million to each to develop advanced spacesuits, for both spacewalks outside the ISS and lunar surface missions. #NASA https://www.engadget.com/nasa-expands-developers-contracts-for-its-next-gen-spacesuits-054254263.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A flying car earns FAA approval",
+                    "Link": "https://edition.cnn.com/2023/07/03/tech/flying-car-faa/index.html",
+                    "Description": "The futuristic vision portrayed in movies may soon become a reality with Alef Automotive's Model A. This remarkable fully electric vehicle combines the ability to fly and travel on public roads.",
+                    "Time": "2",
+                    "Hashtag": "innovation",
+                    "Tweet": "A flying car earns FAA approval \ud83d\udce6 The futuristic vision portrayed in movies may soon become a reality with Alef Automotive's Model A. This remarkable fully electric vehicle combines the ability to fly and travel on public roads. #innovation https://edition.cnn.com/2023/07/03/tech/flying-car-faa/index.html"
+                },
+                {
+                    "Title": "Audi sets sights on China's EV market",
+                    "Link": "https://electrek.co/2023/07/11/audi-rumored-shopping-china-next-platform-expedite-ev-development/",
+                    "Description": "Audi is reportedly exploring partnerships in China to acquire its next-gen EV platform. A strategic move that signals its commitment to electrification.",
+                    "Time": "2",
+                    "Hashtag": "audi",
+                    "Tweet": "Audi sets sights on China's EV market \ud83d\udce6 Audi is reportedly exploring partnerships in China to acquire its next-gen EV platform. A strategic move that signals its commitment to electrification. #audi https://electrek.co/2023/07/11/audi-rumored-shopping-china-next-platform-expedite-ev-development/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Apple\u2019s approach to folding",
+                    "Link": "https://www.t3.com/news/apple-s-first-foldable-will-be-a-macbook-says-report",
+                    "Description": "Reports suggests a potential foldable MacBook Pro is on the horizon. With a tablet-like display, and a foldable lower section serving as a keyboard.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple\u2019s approach to folding \ud83d\udce6 Reports suggests a potential foldable MacBook Pro is on the horizon. With a tablet-like display, and a foldable lower section serving as a keyboard. #apple https://www.t3.com/news/apple-s-first-foldable-will-be-a-macbook-says-report"
+                }
+            ]
+        }
+    ],
+    "title": "Anthropic unveils Claude 2, SpaceX breaks record, Setbacks for Google's AR team",
+    "date": "2023/07/11",
+    "description": ""
+}

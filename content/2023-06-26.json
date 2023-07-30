@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Databricks: Advancing the democratization of AI",
+                    "Link": "https://venturebeat.com/data-infrastructure/databricks-is-acquiring-mosaicml-for-a-jaw-dropping-1-3-billion/",
+                    "Description": "The company recently announced the acquisition of MosaicML, with the aim of creating a unified platform for enterprises and bringing more control over their data.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Databricks: Advancing the democratization of AI \ud83d\udce6 The company recently announced the acquisition of MosaicML, with the aim of creating a unified platform for enterprises and bringing more control over their data. #ai https://venturebeat.com/data-infrastructure/databricks-is-acquiring-mosaicml-for-a-jaw-dropping-1-3-billion/"
+                },
+                {
+                    "Title": "The role of AI in medicine",
+                    "Link": "https://www.fastcompany.com/90913935/how-generative-ai-could-help-to-cure-untreatable-diseases",
+                    "Description": "AI brings hope for treating and potentially curing genetic diseases. Scientists worldwide are harnessing the power of AI tools to develop new drugs that are both effective and affordable.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "The role of AI in medicine \ud83d\udce6 AI brings hope for treating and potentially curing genetic diseases. Scientists worldwide are harnessing the power of AI tools to develop new drugs that are both effective and affordable. #ai https://www.fastcompany.com/90913935/how-generative-ai-could-help-to-cure-untreatable-diseases"
+                },
+                {
+                    "Title": "Expand your perspective with Midjourney",
+                    "Link": "https://www.techspot.com/news/99191-midjourney-52-introduces-zoom-out-feature-generates-scenes.html",
+                    "Description": "Midjourney's latest update brings limitless creativity to users. The new \"Zoom Out\" function generates captivating scenes that extend beyond the central image.",
+                    "Time": "2",
+                    "Hashtag": "midjourney",
+                    "Tweet": "Expand your perspective with Midjourney \ud83d\udce6 Midjourney's latest update brings limitless creativity to users. The new \"Zoom Out\" function generates captivating scenes that extend beyond the central image. #midjourney https://www.techspot.com/news/99191-midjourney-52-introduces-zoom-out-feature-generates-scenes.html"
+                },
+                {
+                    "Title": "GPT to outer space",
+                    "Link": "https://www.engadget.com/nasa-is-creating-a-chatgpt-like-assistant-for-astronauts-081903604.html",
+                    "Description": "NASA is working on a conversational AI system, similar to ChatGPT, that enables astronauts to interact with space vehicles in order to seek advice, receive alerts, or perform maneuvers easily.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "GPT to outer space \ud83d\udce6 NASA is working on a conversational AI system, similar to ChatGPT, that enables astronauts to interact with space vehicles in order to seek advice, receive alerts, or perform maneuvers easily. #NASA https://www.engadget.com/nasa-is-creating-a-chatgpt-like-assistant-for-astronauts-081903604.html"
+                },
+                {
+                    "Title": "ChatGPT gets a vintage touch",
+                    "Link": "https://www.theverge.com/2023/6/26/23773756/wingpt-chat-gpt-app-windows-3-1",
+                    "Description": "WinGPT is an app that brings AI to Windows 3.1 PCs, proving that even old-school machines can stay up to date with the chatbot frenzy.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "ChatGPT gets a vintage touch \ud83d\udce6 WinGPT is an app that brings AI to Windows 3.1 PCs, proving that even old-school machines can stay up to date with the chatbot frenzy. #ai https://www.theverge.com/2023/6/26/23773756/wingpt-chat-gpt-app-windows-3-1"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Starship is being renewed",
+                    "Link": "https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/",
+                    "Description": "As it gears up for its upcoming launch. Elon Musk has announced the adoption of hot-staging for stage separation, a technique that increases payload performance.",
+                    "Time": "4",
+                    "Hashtag": "spacex",
+                    "Tweet": "Starship is being renewed \ud83d\udce6 As it gears up for its upcoming launch. Elon Musk has announced the adoption of hot-staging for stage separation, a technique that increases payload performance. #spacex https://spacenews.com/spacex-changing-starship-stage-separation-ahead-of-next-launch/"
+                },
+                {
+                    "Title": "History in the making for Virgin Galactic",
+                    "Link": "https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/",
+                    "Description": "The company's inaugural commercial flight, on June 29, marks a significant milestone for commercial spaceflight, carrying a team of Italian payload specialists for a research mission.",
+                    "Time": "4",
+                    "Hashtag": "virgingalactic",
+                    "Tweet": "History in the making for Virgin Galactic \ud83d\udce6 The company's inaugural commercial flight, on June 29, marks a significant milestone for commercial spaceflight, carrying a team of Italian payload specialists for a research mission. #virgingalactic https://spacenews.com/virgin-galactic-sets-date-and-announces-crew-for-first-commercial-spaceshiptwo-flight/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A year on Mars\u2026 Well, sort of",
+                    "Link": "https://www.independent.co.uk/tech/nasa-mars-simulation-experiment-chapea-b2364217.html",
+                    "Description": "NASA\u2019s CHAPEA mission begins with four volunteers entering isolation in a simulated Mars habitat. This research aims to obtain valuable data for successful human missions to the red planet.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "A year on Mars\u2026 Well, sort of \ud83d\udce6 NASA\u2019s CHAPEA mission begins with four volunteers entering isolation in a simulated Mars habitat. This research aims to obtain valuable data for successful human missions to the red planet. #NASA https://www.independent.co.uk/tech/nasa-mars-simulation-experiment-chapea-b2364217.html"
+                },
+                {
+                    "Title": "Mars in ultraviolet",
+                    "Link": "https://gizmodo.com/nasa-maven-spacecraft-images-mars-seasons-north-south-1850571845",
+                    "Description": "Recent photos from NASA's MAVEN reveal the stunning seasonal transformation of Mars, with its southern and northern hemispheres in vibrant new shades.",
+                    "Time": "2",
+                    "Hashtag": "mars",
+                    "Tweet": "Mars in ultraviolet \ud83d\udce6 Recent photos from NASA's MAVEN reveal the stunning seasonal transformation of Mars, with its southern and northern hemispheres in vibrant new shades. #mars https://gizmodo.com/nasa-maven-spacecraft-images-mars-seasons-north-south-1850571845"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Cybertruck\u2019s latest sighting",
+                    "Link": "https://electrek.co/2023/06/26/tesla-cybertruck-showcases-rear-wheel-steering-inside-parking-garage/",
+                    "Description": "The electric truck impresses with its rear-wheel steering capabilities in a new video. A technology that brings control and precision, especially when parking.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Cybertruck\u2019s latest sighting \ud83d\udce6 The electric truck impresses with its rear-wheel steering capabilities in a new video. A technology that brings control and precision, especially when parking. #tesla https://electrek.co/2023/06/26/tesla-cybertruck-showcases-rear-wheel-steering-inside-parking-garage/"
+                },
+                {
+                    "Title": "Aston Martin's electrifying endeavors",
+                    "Link": "https://arstechnica.com/cars/2023/06/lucid-will-supply-aston-martin-with-leading-edge-electric-powertrains/",
+                    "Description": "The automaker has joined forces with Lucid, a US-based EV startup, to bring their state-of-the-art powertrain and battery systems technology to Aston Martin EVs.",
+                    "Time": "2",
+                    "Hashtag": "astonmartin",
+                    "Tweet": "Aston Martin's electrifying endeavors \ud83d\udce6 The automaker has joined forces with Lucid, a US-based EV startup, to bring their state-of-the-art powertrain and battery systems technology to Aston Martin EVs. #astonmartin https://arstechnica.com/cars/2023/06/lucid-will-supply-aston-martin-with-leading-edge-electric-powertrains/"
+                }
+            ]
+        }
+    ],
+    "title": "Databricks acquires MosaicML, Starship tries a new approach, Midjourney's latest feature",
+    "date": "2023/06/26",
+    "description": ""
+}
