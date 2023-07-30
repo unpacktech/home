@@ -23,9 +23,13 @@ for key, value in MAP_BY_DATE.items():
     date = key.replace("/","-")
     filtered = collections.defaultdict(list)
     title = dict()
+    description = dict()
     for item in value:
         if item.get("Category").lower() == "newsletter title":
             title = item
+            continue
+        if item.get("Category").lower() ==  "newsletter summary":
+            description = item
             continue
         filtered[item.get("Category", "")].append({
             k :v
@@ -42,6 +46,7 @@ for key, value in MAP_BY_DATE.items():
         ],
         title=title.get("Title"),
         date=title.get("Date"),
+        description=description.get("Description", description.get("Title", "")),
     ), indent=4)
     path = f"./{CONTENT_FOLDER}/{date}.json"
     with open(path, "w") as out:
