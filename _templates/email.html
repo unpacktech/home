@@ -11,10 +11,10 @@
     </style>
   </head>
   <body>
-    <h1 class="header">{{ headline }}</h1>
-    <h3 class="header">{{ content.date }}</h3>
-
-    <h2 class="header">{{ content.title }}</h2>
+    <h1 class="header">📦 {{ content.title }}</h1>
+    {% if content.description %}
+    <h3>{{ content.description }}</h3>
+    {% endif %}
     {% for item in content.content %}
     <div>
         <hr/>
@@ -29,11 +29,5 @@
         {% endfor %}
     </div>
     {% endfor %}
-    <br />
-    <a href="{{ content.permalink }}">permalink</a>
-    <a href="https://unpack.tech">home</a>
-    <p>
-        <a href="{$unsubscribe_link}" style="color: #000000; font-size: 12px; text-decoration: underline;">Unsubscribe</a>
-    </p>
   </body>
 </html>
