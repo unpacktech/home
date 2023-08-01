@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Geoffrey Hinton is concerned about the future of AI",
+                    "Link": "https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings",
+                    "Description": "Following his resignation from Google, the acclaimed \"Godfather of AI\" spoke with The New York Times about the misuse of AI by bad actors and the potential risks.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Geoffrey Hinton is concerned about the future of AI \ud83d\udce6 Following his resignation from Google, the acclaimed \"Godfather of AI\" spoke with The New York Times about the misuse of AI by bad actors and the potential risks. #ai https://www.theverge.com/2023/5/1/23706311/hinton-godfather-of-ai-threats-fears-warnings"
+                },
+                {
+                    "Title": "Italy welcomes back ChatGPT",
+                    "Link": "https://apnews.com/article/chatgpt-openai-data-privacy-italy-b9ab3d12f2b2cfe493237fd2b9675e21",
+                    "Description": "OpenAI's chatbot is available again in the country after meeting privacy demands by regulators. The company reassures users of its dedication to protecting their privacy.",
+                    "Time": "3",
+                    "Hashtag": "chatGPT",
+                    "Tweet": "Italy welcomes back ChatGPT \ud83d\udce6 OpenAI's chatbot is available again in the country after meeting privacy demands by regulators. The company reassures users of its dedication to protecting their privacy. #chatGPT https://apnews.com/article/chatgpt-openai-data-privacy-italy-b9ab3d12f2b2cfe493237fd2b9675e21"
+                },
+                {
+                    "Title": "Can AI displace supermodels?",
+                    "Link": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
+                    "Description": "Real-life models and workers in the fashion industry are concerned about the use of AI technology to cut costs, stating it will affect their jobs in the long run.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Can AI displace supermodels? \ud83d\udce6 Real-life models and workers in the fashion industry are concerned about the use of AI technology to cut costs, stating it will affect their jobs in the long run. #ai https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple stays behind in the AI race",
+                    "Link": "https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/",
+                    "Description": "The company's inability to keep up with the latest features and innovations in a rapidly-changing artificial intelligence market leaves it unprepared to compete with Big Tech rivals.",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple stays behind in the AI race \ud83d\udce6 The company's inability to keep up with the latest features and innovations in a rapidly-changing artificial intelligence market leaves it unprepared to compete with Big Tech rivals. #apple https://arstechnica.com/gadgets/2023/04/report-describes-apples-organizational-dysfunction-and-lack-of-ambition-in-ai/"
+                },
+                {
+                    "Title": "Meta's ad platform overcharges customers",
+                    "Link": "https://www.techtimes.com/articles/290976/20230501/meta-ad-platform-experiences-glitch-causing-ad-campaigns-overspend.htm",
+                    "Description": "A glitch caused chaos among businesses using Meta's advertising system, as they were charged more than double what they initially agreed to pay. The company is now offering refunds.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta's ad platform overcharges customers \ud83d\udce6 A glitch caused chaos among businesses using Meta's advertising system, as they were charged more than double what they initially agreed to pay. The company is now offering refunds. #meta https://www.techtimes.com/articles/290976/20230501/meta-ad-platform-experiences-glitch-causing-ad-campaigns-overspend.htm"
+                },
+                {
+                    "Title": "Amazon's plans for Alexa",
+                    "Link": "https://techcrunch.com/2023/04/28/amazon-working-improved-llm-to-power-alexa/",
+                    "Description": "With the aim of creating the world's best personal assistant, the big tech giant is developing a powerful language model to enhance Alexa's capabilities.",
+                    "Time": "3",
+                    "Hashtag": "amazon",
+                    "Tweet": "Amazon's plans for Alexa \ud83d\udce6 With the aim of creating the world's best personal assistant, the big tech giant is developing a powerful language model to enhance Alexa's capabilities. #amazon https://techcrunch.com/2023/04/28/amazon-working-improved-llm-to-power-alexa/"
+                },
+                {
+                    "Title": "Apple finds a new audience for the Reality Pro",
+                    "Link": "https://www.techtimes.com/articles/290975/20230430/apple-ar-vr-headset-leaning-heavily-sports-featuring-immersive-streaming.htm",
+                    "Description": "Reports indicate that the company's AR/VR headset is aimed at sports streaming, enabling viewers to get a truly immersive experience.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple finds a new audience for the Reality Pro \ud83d\udce6 Reports indicate that the company's AR/VR headset is aimed at sports streaming, enabling viewers to get a truly immersive experience. #apple https://www.techtimes.com/articles/290975/20230430/apple-ar-vr-headset-leaning-heavily-sports-featuring-immersive-streaming.htm"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Falcon Heavy finally lifts off",
+                    "Link": "https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas",
+                    "Description": "SpaceX's famous rocket successfully deployed three satellites on Sunday despite weather delays and a last-minute abort.",
+                    "Time": "4",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Falcon Heavy finally lifts off \ud83d\udce6 SpaceX's famous rocket successfully deployed three satellites on Sunday despite weather delays and a last-minute abort. #spaceX https://www.space.com/spacex-falcon-heavy-sixth-mission-launch-viasat-3-americas"
+                },
+                {
+                    "Title": "Elon Musk revealed details about the Starship test flight",
+                    "Link": "https://techcrunch.com/2023/05/01/spacexs-starship-didnt-self-destruct-immediately-as-planned-during-test-launch/",
+                    "Description": "According to SpaceX's CEO, the self-destruct command didn't work immediately, resulting in a 40-second delay before the explosion.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Elon Musk revealed details about the Starship test flight \ud83d\udce6 According to SpaceX's CEO, the self-destruct command didn't work immediately, resulting in a 40-second delay before the explosion. #spaceX https://techcrunch.com/2023/05/01/spacexs-starship-didnt-self-destruct-immediately-as-planned-during-test-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Webb Telescope reveals water vapor signal",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/webb-finds-water-vapor-but-from-a-rocky-planet-or-its-star",
+                    "Description": "Potential atmospheric details of a rocky exoplanet were uncovered by NASA's James Webb Space Telescope during its research.",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "Webb Telescope reveals water vapor signal \ud83d\udce6 Potential atmospheric details of a rocky exoplanet were uncovered by NASA's James Webb Space Telescope during its research. #NASA https://www.nasa.gov/feature/goddard/2023/webb-finds-water-vapor-but-from-a-rocky-planet-or-its-star"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "toddle: A great tool for web apps",
+                    "Link": "https://www.producthunt.com/posts/toddle",
+                    "Description": "Want to build professional web apps without coding? Check out toddle, the no-code platform that's accessible to everyone.",
+                    "Time": "5",
+                    "Hashtag": "programming",
+                    "Tweet": "toddle: A great tool for web apps \ud83d\udce6 Want to build professional web apps without coding? Check out toddle, the no-code platform that's accessible to everyone. #programming https://www.producthunt.com/posts/toddle"
+                }
+            ]
+        }
+    ],
+    "title": "Apple can't keep up with rivals, ChatGPT is back in Italy, Geoffrey Hinton shares AI concerns",
+    "date": "2023/05/01",
+    "description": ""
+}

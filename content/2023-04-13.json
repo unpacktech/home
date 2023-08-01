@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Bad weather delays ESA's Jupiter mission",
+                    "Link": "https://www.space.com/weather-halts-juice-mission-first-launch-attempt",
+                    "Description": "Due to lightning risk, the European Space Agency's launch of their groundbreaking \u201cJUICE\u201d mission, which aims to explore the icy moons of Jupiter, has been postponed by a day.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "Bad weather delays ESA's Jupiter mission \ud83d\udce6 Due to lightning risk, the European Space Agency's launch of their groundbreaking \u201cJUICE\u201d mission, which aims to explore the icy moons of Jupiter, has been postponed by a day. # https://www.space.com/weather-halts-juice-mission-first-launch-attempt"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "This black hole gets the fullest resolution thanks to AI",
+                    "Link": "https://www.livescience.com/space/astronomy/black-holes/first-ever-close-up-of-a-supermassive-black-hole-sharpened-to-full-resolution-by-ai-and-the-results-are-stunning",
+                    "Description": "New machine-learning technique PRIMO enhances and sharpens M87 black hole image to full resolution, as published by researchers.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "This black hole gets the fullest resolution thanks to AI \ud83d\udce6 New machine-learning technique PRIMO enhances and sharpens M87 black hole image to full resolution, as published by researchers. # https://www.livescience.com/space/astronomy/black-holes/first-ever-close-up-of-a-supermassive-black-hole-sharpened-to-full-resolution-by-ai-and-the-results-are-stunning"
+                },
+                {
+                    "Title": "Amazon unveils Bedrock",
+                    "Link": "https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html",
+                    "Description": "Developers will now have access to artificial intelligence systems which can generate text to enhance their software as the company plans to keep up with the competition.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": "Amazon unveils Bedrock \ud83d\udce6 Developers will now have access to artificial intelligence systems which can generate text to enhance their software as the company plans to keep up with the competition. # https://www.cnbc.com/2023/04/13/aws-launches-bedrock-generative-ai-service-titan-llms.html"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple's latest sustainability goals",
+                    "Link": "https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/",
+                    "Description": "By 2025, the company plans to use 100% recycled cobalt in batteries as part of a larger effort towards renewable materials and carbon neutrality.",
+                    "Time": "9",
+                    "Hashtag": "",
+                    "Tweet": "Apple's latest sustainability goals \ud83d\udce6 By 2025, the company plans to use 100% recycled cobalt in batteries as part of a larger effort towards renewable materials and carbon neutrality. # https://www.apple.com/newsroom/2023/04/apple-will-use-100-percent-recycled-cobalt-in-batteries-by-2025/"
+                },
+                {
+                    "Title": "India could build your new iPhone",
+                    "Link": "https://9to5mac.com/2023/04/13/made-in-india-iphones/",
+                    "Description": "It appears India may become Apple's main iPhone supplier as the company strives to reduce its dependence on China.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "India could build your new iPhone \ud83d\udce6 It appears India may become Apple's main iPhone supplier as the company strives to reduce its dependence on China. # https://9to5mac.com/2023/04/13/made-in-india-iphones/"
+                },
+                {
+                    "Title": "Intel and Arm join forces",
+                    "Link": "https://www.techradar.com/news/a-new-arm-deal-means-your-next-mobile-device-could-use-a-next-gen-intel-soc",
+                    "Description": "It looks like chip design is heading for a bright future as Intel Foundry Services and ARM are partnering to design next-generation chips based on Intel's 18A process and ARM's technology.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "Intel and Arm join forces \ud83d\udce6 It looks like chip design is heading for a bright future as Intel Foundry Services and ARM are partnering to design next-generation chips based on Intel's 18A process and ARM's technology. # https://www.techradar.com/news/a-new-arm-deal-means-your-next-mobile-device-could-use-a-next-gen-intel-soc"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "GitHub Accelerator's first cohort",
+                    "Link": "https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/",
+                    "Description": "Starting in winter 2023, the selected projects will receive a $20K sponsorship and guidance from open source leaders through the company's 10-week program.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": "GitHub Accelerator's first cohort \ud83d\udce6 Starting in winter 2023, the selected projects will receive a $20K sponsorship and guidance from open source leaders through the company's 10-week program. # https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/"
+                },
+                {
+                    "Title": "CodeWhisperer is now generally available",
+                    "Link": "https://aws.amazon.com/es/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/",
+                    "Description": "With Amazon's free AI coding companion, developers can now write code quickly and securely without needing to break their flow.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": "CodeWhisperer is now generally available \ud83d\udce6 With Amazon's free AI coding companion, developers can now write code quickly and securely without needing to break their flow. # https://aws.amazon.com/es/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "HyperWrite reveals an AI agent that \u201csurfs\u201d the web",
+                    "Link": "https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/",
+                    "Description": "Through a Google Chrome extension, this new experimental agent revolutionizes web browsing by interacting with websites like a human.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": "HyperWrite reveals an AI agent that \u201csurfs\u201d the web \ud83d\udce6 Through a Google Chrome extension, this new experimental agent revolutionizes web browsing by interacting with websites like a human. # https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "What's happening with the iPhone 15?",
+                    "Link": "https://gizmodo.com/apple-iphone-15-taptic-touch-buttons-kuo-leak-stocks-1850329674",
+                    "Description": "It seems Apple keeps dispelling rumors regarding the new iPhone, which might not include solid-state buttons as expected.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "What's happening with the iPhone 15? \ud83d\udce6 It seems Apple keeps dispelling rumors regarding the new iPhone, which might not include solid-state buttons as expected. # https://gizmodo.com/apple-iphone-15-taptic-touch-buttons-kuo-leak-stocks-1850329674"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Twitter will get real-time stock and crypto information",
+                    "Link": "https://techcrunch.com/2023/04/13/twitter-partners-with-etoro-to-show-real-time-stock-and-crypto-information/",
+                    "Description": "Following Musk's plan to become the world's largest financial institution, the app has partnered with the investment platform eToro.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Twitter will get real-time stock and crypto information \ud83d\udce6 Following Musk's plan to become the world's largest financial institution, the app has partnered with the investment platform eToro. # https://techcrunch.com/2023/04/13/twitter-partners-with-etoro-to-show-real-time-stock-and-crypto-information/"
+                }
+            ]
+        }
+    ],
+    "title": "Amazon announces Bedrock, ESA's Jupiter mission is delayed, Apple's path to sustainability",
+    "date": "2023/04/13",
+    "description": ""
+}

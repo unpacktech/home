@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Great day for space enthusiasts as Starship makes history",
+                    "Link": "https://www.space.com/spacex-starship-first-space-launch",
+                    "Description": "Despite the explosion four minutes after launch, SpaceX has demonstrated its commitment to keep challenging limits in space exploration with its powerful Starship.",
+                    "Time": "9",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Great day for space enthusiasts as Starship makes history \ud83d\udce6 Despite the explosion four minutes after launch, SpaceX has demonstrated its commitment to keep challenging limits in space exploration with its powerful Starship. #spaceX https://www.space.com/spacex-starship-first-space-launch"
+                },
+                {
+                    "Title": "Another successful launch for SpaceX",
+                    "Link": "https://www.space.com/spacex-starlink-satellite-launch-group-6-2",
+                    "Description": "As the company continues to help bring broadband internet to remote locations, a Falcon 9 rocket carrying 21 of SpaceX's new Starlink \"V2 mini\" satellites lifted off this Wednesday.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Another successful launch for SpaceX \ud83d\udce6 As the company continues to help bring broadband internet to remote locations, a Falcon 9 rocket carrying 21 of SpaceX's new Starlink \"V2 mini\" satellites lifted off this Wednesday. #spaceX https://www.space.com/spacex-starlink-satellite-launch-group-6-2"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Meet the latest \u201cautonomous\u201d AI agents",
+                    "Link": "https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/",
+                    "Description": "Agentic AI models like Auto-GPT and BabyAGI are designed to minimize the amount of time humans spend intervening in multi-step processes.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "Meet the latest \u201cautonomous\u201d AI agents \ud83d\udce6 Agentic AI models like Auto-GPT and BabyAGI are designed to minimize the amount of time humans spend intervening in multi-step processes. #ai https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/"
+                },
+                {
+                    "Title": "Stability AI launches StableLM",
+                    "Link": "https://www.theverge.com/2023/4/19/23689883/stability-ai-open-source-large-language-model-stablelm",
+                    "Description": "Continuing their efforts toward AI technology that is transparent, accessible, and supportive. The company has launched a suite of open-source large language models.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Stability AI launches StableLM \ud83d\udce6 Continuing their efforts toward AI technology that is transparent, accessible, and supportive. The company has launched a suite of open-source large language models. #ai https://www.theverge.com/2023/4/19/23689883/stability-ai-open-source-large-language-model-stablelm"
+                },
+                {
+                    "Title": "Snapchat is rolling out AI tools",
+                    "Link": "https://www.engadget.com/snapchat-is-expanding-chatgpt-powered-my-ai-service-to-all-users-180017142.html",
+                    "Description": "After initially being available only to Snapchat+ subscribers, the ChatGPT-powered chatbot \"My AI\" has become a hit with users, handling over 2 million chats per day.",
+                    "Time": "2",
+                    "Hashtag": "snapchat",
+                    "Tweet": "Snapchat is rolling out AI tools \ud83d\udce6 After initially being available only to Snapchat+ subscribers, the ChatGPT-powered chatbot \"My AI\" has become a hit with users, handling over 2 million chats per day. #snapchat https://www.engadget.com/snapchat-is-expanding-chatgpt-powered-my-ai-service-to-all-users-180017142.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "The wait is over! Tesla's Cybertruck delivery event is coming",
+                    "Link": "https://electrek.co/2023/04/19/elon-musk-announces-tesla-cybertruck-delivery-event/",
+                    "Description": "According to Elon Musk's latest announcement, the \"handover event\" for the highly anticipated Cybertruck will be held at the end of the third quarter.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "The wait is over! Tesla's Cybertruck delivery event is coming \ud83d\udce6 According to Elon Musk's latest announcement, the \"handover event\" for the highly anticipated Cybertruck will be held at the end of the third quarter. #tesla https://electrek.co/2023/04/19/elon-musk-announces-tesla-cybertruck-delivery-event/"
+                },
+                {
+                    "Title": "The demand for electric trucks keeps rising",
+                    "Link": "https://electrek.co/2023/04/20/volvo-group-electric-truck-deliveries-soar-254-in-the-first-quarter/",
+                    "Description": "With a delivery of 683 electric trucks in the first quarter of this year, Volvo Group is expanding the possibilities for a sustainable future and leading the way toward cleaner transportation.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "The demand for electric trucks keeps rising \ud83d\udce6 With a delivery of 683 electric trucks in the first quarter of this year, Volvo Group is expanding the possibilities for a sustainable future and leading the way toward cleaner transportation. #volvo https://electrek.co/2023/04/20/volvo-group-electric-truck-deliveries-soar-254-in-the-first-quarter/"
+                },
+                {
+                    "Title": "China is the place to be for automobile enthusiasts",
+                    "Link": "https://www.businessinsider.com/shanghai-auto-show-coolest-cars-byd-yangwang-xpeng-polestar-toyota-2023-4",
+                    "Description": "The Shanghai auto show is the ultimate showcase for the latest in EVs and concept cars. Take a look at their exhibition, there's definitely something for everyone!",
+                    "Time": "6",
+                    "Hashtag": "autoshanghai2023",
+                    "Tweet": "China is the place to be for automobile enthusiasts \ud83d\udce6 The Shanghai auto show is the ultimate showcase for the latest in EVs and concept cars. Take a look at their exhibition, there's definitely something for everyone! #autoshanghai2023 https://www.businessinsider.com/shanghai-auto-show-coolest-cars-byd-yangwang-xpeng-polestar-toyota-2023-4"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA joins forces with Japan for Mars mission",
+                    "Link": "https://gizmodo.com/nasa-japan-team-up-unprecedented-martian-moon-mission-1850352525",
+                    "Description": "A team of scientists and two of NASA\u2019s instruments will accompany Japan\u2019s space agency on its mission to the Martian moons, Phobos and Deimos.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA joins forces with Japan for Mars mission \ud83d\udce6 A team of scientists and two of NASA\u2019s instruments will accompany Japan\u2019s space agency on its mission to the Martian moons, Phobos and Deimos. #NASA https://gizmodo.com/nasa-japan-team-up-unprecedented-martian-moon-mission-1850352525"
+                },
+                {
+                    "Title": "Moderna announces partnership with IBM",
+                    "Link": "https://www.forbes.com/sites/roberthart/2023/04/20/moderna-partners-with-ibm-hoping-ai-can-help-develop-more-mrna-medicine/?sh=6477043329f8",
+                    "Description": "The biotech company and computing giant are teaming up to explore the future of mRNA medicines with AI and quantum computing.",
+                    "Time": "2",
+                    "Hashtag": "moderna",
+                    "Tweet": "Moderna announces partnership with IBM \ud83d\udce6 The biotech company and computing giant are teaming up to explore the future of mRNA medicines with AI and quantum computing. #moderna https://www.forbes.com/sites/roberthart/2023/04/20/moderna-partners-with-ibm-hoping-ai-can-help-develop-more-mrna-medicine/?sh=6477043329f8"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The future of advertising: AI-powered ads",
+                    "Link": "https://arstechnica.com/information-technology/2023/04/google-to-deploy-generative-ai-to-create-sophisticated-ad-campaigns/",
+                    "Description": "Google's newest advertising project will use generative AI to remix creative material and create ads targeted at specific audiences.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "The future of advertising: AI-powered ads \ud83d\udce6 Google's newest advertising project will use generative AI to remix creative material and create ads targeted at specific audiences. #google https://arstechnica.com/information-technology/2023/04/google-to-deploy-generative-ai-to-create-sophisticated-ad-campaigns/"
+                }
+            ]
+        }
+    ],
+    "title": "Starship finally launched!, Stability AI announces StableLM, Moderna teams up with IBM",
+    "date": "2023/04/20",
+    "description": ""
+}

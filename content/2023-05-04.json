@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Europe wants its own Starlink",
+                    "Link": "https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/",
+                    "Description": "A 2.4 billion euro investment will support the construction of Europe's own global communication constellation, with major satellite companies, including SES and Eutelsat.",
+                    "Time": "3",
+                    "Hashtag": "europe",
+                    "Tweet": "Europe wants its own Starlink \ud83d\udce6 A 2.4 billion euro investment will support the construction of Europe's own global communication constellation, with major satellite companies, including SES and Eutelsat. #europe https://arstechnica.com/science/2023/05/europes-major-satellite-players-line-up-to-build-starlink-competitor/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Try out Microsoft's Bing latest tools",
+                    "Link": "https://www.businessinsider.com/microsoft-bing-ai-features-introducing-new-search-with-images-2023-5",
+                    "Description": "Users can now access the new visual search and image-based answers features on Microsoft's AI-powered search engine without a waitlist.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Try out Microsoft's Bing latest tools \ud83d\udce6 Users can now access the new visual search and image-based answers features on Microsoft's AI-powered search engine without a waitlist. #microsoft https://www.businessinsider.com/microsoft-bing-ai-features-introducing-new-search-with-images-2023-5"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Alfa Romeo has its sights set on Tesla",
+                    "Link": "https://electrek.co/2023/05/03/alfa-romeo-introducing-larger-electric-suv-to-the-us/",
+                    "Description": "The Italian luxury automaker is planning to dethrone Tesla in North America by shifting its focus to an all-electric lineup and releasing its first electric car next year.",
+                    "Time": "3",
+                    "Hashtag": "alfaromeo",
+                    "Tweet": "Alfa Romeo has its sights set on Tesla \ud83d\udce6 The Italian luxury automaker is planning to dethrone Tesla in North America by shifting its focus to an all-electric lineup and releasing its first electric car next year. #alfaromeo https://electrek.co/2023/05/03/alfa-romeo-introducing-larger-electric-suv-to-the-us/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Salesforce brings AI to Slack",
+                    "Link": "https://www.cnbc.com/2023/05/04/slack-gpt-ai-chatbot-can-take-notes-summarize-messages-and-more.html",
+                    "Description": "SlackGPT, an AI-powered chatbot for the workplace messaging app, is now available, providing features such as message summaries and note-taking on calls.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Salesforce brings AI to Slack \ud83d\udce6 SlackGPT, an AI-powered chatbot for the workplace messaging app, is now available, providing features such as message summaries and note-taking on calls. #ai https://www.cnbc.com/2023/05/04/slack-gpt-ai-chatbot-can-take-notes-summarize-messages-and-more.html"
+                },
+                {
+                    "Title": "StarCoder: The alternative to Copilot",
+                    "Link": "https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/",
+                    "Description": "Hugging Face and ServiceNow have joined forces to develop a royalty-free alternative to code-generating AI systems. Trained in more than 80 programming languages.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "StarCoder: The alternative to Copilot \ud83d\udce6 Hugging Face and ServiceNow have joined forces to develop a royalty-free alternative to code-generating AI systems. Trained in more than 80 programming languages. #ai https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/"
+                },
+                {
+                    "Title": "Google's AI-powered privacy tool",
+                    "Link": "https://techcrunch.com/2023/05/03/checks-the-ai-powered-data-protection-project-incubated-in-area-120-officially-exits-to-google/",
+                    "Description": "The company\u2019s long-awaited product, Checks, is now available for mobile developers, allowing them to ensure their apps meet the latest privacy standards easily.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Google's AI-powered privacy tool \ud83d\udce6 The company\u2019s long-awaited product, Checks, is now available for mobile developers, allowing them to ensure their apps meet the latest privacy standards easily. #ai https://techcrunch.com/2023/05/03/checks-the-ai-powered-data-protection-project-incubated-in-area-120-officially-exits-to-google/"
+                },
+                {
+                    "Title": "Databricks latest move",
+                    "Link": "https://venturebeat.com/ai/databricks-acquires-okera-to-boost-its-ai-driven-data-governance-platform/",
+                    "Description": "With the goal of accelerating AI-powered functionality in its own data governance solution called Unity Catalog, the company has decided to acquire the platform Okera.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Databricks latest move \ud83d\udce6 With the goal of accelerating AI-powered functionality in its own data governance solution called Unity Catalog, the company has decided to acquire the platform Okera. #ai https://venturebeat.com/ai/databricks-acquires-okera-to-boost-its-ai-driven-data-governance-platform/"
+                },
+                {
+                    "Title": "Is AI a threat to the music industry?",
+                    "Link": "https://variety.com/2023/music/news/ai-vs-music-industry-fake-drake-eminem-who-gets-paid-1235601494/",
+                    "Description": "Professionals warn artists to stay one step ahead of machines due to concerns over copyrights, and transparency issues caused by AI's sudden rise.",
+                    "Time": "12",
+                    "Hashtag": "ai",
+                    "Tweet": "Is AI a threat to the music industry? \ud83d\udce6 Professionals warn artists to stay one step ahead of machines due to concerns over copyrights, and transparency issues caused by AI's sudden rise. #ai https://variety.com/2023/music/news/ai-vs-music-industry-fake-drake-eminem-who-gets-paid-1235601494/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The Earth's eventual fate",
+                    "Link": "https://www.washingtonpost.com/climate-environment/2023/05/03/dying-star-eats-planet-study/",
+                    "Description": "Scientists witnessed a planet get devoured by a dying star, and their observation reveals something about our own solar system's unavoidable fate.",
+                    "Time": "6",
+                    "Hashtag": "science",
+                    "Tweet": "The Earth's eventual fate \ud83d\udce6 Scientists witnessed a planet get devoured by a dying star, and their observation reveals something about our own solar system's unavoidable fate. #science https://www.washingtonpost.com/climate-environment/2023/05/03/dying-star-eats-planet-study/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Chrome's padlock icon gets redesigned",
+                    "Link": "https://www.theverge.com/2023/5/3/23709498/google-chrome-lock-icon-web-browser-https-security-update-redesign",
+                    "Description": "Google announces plans to replace the website security padlock icon in Chrome with a \"tune\" icon, after realizing people misunderstand its purpose.",
+                    "Time": "3",
+                    "Hashtag": "chrome",
+                    "Tweet": "Chrome's padlock icon gets redesigned \ud83d\udce6 Google announces plans to replace the website security padlock icon in Chrome with a \"tune\" icon, after realizing people misunderstand its purpose. #chrome https://www.theverge.com/2023/5/3/23709498/google-chrome-lock-icon-web-browser-https-security-update-redesign"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Verification comes to Gmail",
+                    "Link": "https://www.theverge.com/2023/5/3/23709734/gmail-verified-checkmark-trusted-senders-bimi-dmarc",
+                    "Description": "A blue checkmark will be added to the sender's name in Google's Gmail to protect users from scammers.",
+                    "Time": "2",
+                    "Hashtag": "gmail",
+                    "Tweet": "Verification comes to Gmail \ud83d\udce6 A blue checkmark will be added to the sender's name in Google's Gmail to protect users from scammers. #gmail https://www.theverge.com/2023/5/3/23709734/gmail-verified-checkmark-trusted-senders-bimi-dmarc"
+                }
+            ]
+        }
+    ],
+    "title": "Salesforce announces SlackGPT, Europe plans for its own Starlink, Alfa Romeo wants to dethrone Tesla",
+    "date": "2023/05/04",
+    "description": ""
+}

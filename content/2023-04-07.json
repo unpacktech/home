@@ -1,0 +1,135 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA's Hubble Space Telescope captures fascinating Black Hole Phenomenon ",
+                    "Link": "https://hubblesite.org/contents/news-releases/2023/news-2023-010",
+                    "Description": "An unprecedented trail of star formation is left behind by this speedy black hole, as the gas compressed along its wake condenses and forms stars.",
+                    "Time": "5",
+                    "Hashtag": "",
+                    "Tweet": "NASA's Hubble Space Telescope captures fascinating Black Hole Phenomenon  \ud83d\udce6 An unprecedented trail of star formation is left behind by this speedy black hole, as the gas compressed along its wake condenses and forms stars. # https://hubblesite.org/contents/news-releases/2023/news-2023-010"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Meta's Buck2 is now publicly available",
+                    "Link": "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/",
+                    "Description": "Engineers and developers are now able to boost their code production and cut build times in half thanks to this new open source large-scale build system.",
+                    "Time": "8",
+                    "Hashtag": "",
+                    "Tweet": "Meta's Buck2 is now publicly available \ud83d\udce6 Engineers and developers are now able to boost their code production and cut build times in half thanks to this new open source large-scale build system. # https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
+                },
+                {
+                    "Title": "Introducing Tabby: A Self-hosted AI coding assistant",
+                    "Link": "https://github.com/TabbyML/tabby",
+                    "Description": "This alternative to GitHub Copilot provides complete control over your data and can be integrated into your hardware.",
+                    "Time": "1",
+                    "Hashtag": "",
+                    "Tweet": "Introducing Tabby: A Self-hosted AI coding assistant \ud83d\udce6 This alternative to GitHub Copilot provides complete control over your data and can be integrated into your hardware. # https://github.com/TabbyML/tabby"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Live from Cape Canaveral! SpaceX launches its 23rd mission of 2023",
+                    "Link": "https://www.nasaspaceflight.com/2023/04/inteslat-40e-tempo/",
+                    "Description": "SpaceX's Falcon 9 rocket has lifted off again, this time carrying NASA's TEMPO instrument to orbit on an Intelsat 40e satellite.",
+                    "Time": "5",
+                    "Hashtag": "",
+                    "Tweet": "Live from Cape Canaveral! SpaceX launches its 23rd mission of 2023 \ud83d\udce6 SpaceX's Falcon 9 rocket has lifted off again, this time carrying NASA's TEMPO instrument to orbit on an Intelsat 40e satellite. # https://www.nasaspaceflight.com/2023/04/inteslat-40e-tempo/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Samsung is lowering the production of memory chips",
+                    "Link": "https://www.bbc.com/news/business-65210190",
+                    "Description": "Samsung Electronics, a chip-making giant, has decided to cut its production due to a slow global economy and less demand after Covid.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Samsung is lowering the production of memory chips \ud83d\udce6 Samsung Electronics, a chip-making giant, has decided to cut its production due to a slow global economy and less demand after Covid. # https://www.bbc.com/news/business-65210190"
+                },
+                {
+                    "Title": "Apple may be coming up with a new iPod",
+                    "Link": "https://techcrunch.com/2023/04/06/apple-reinvents-ipod-airpods-case-patent/",
+                    "Description": "Apple's latest patent for an AirPod case is likely to evoke millennial nostalgia, as it bears a striking resemblance to one of their most iconic devices.",
+                    "Time": "1",
+                    "Hashtag": "",
+                    "Tweet": "Apple may be coming up with a new iPod \ud83d\udce6 Apple's latest patent for an AirPod case is likely to evoke millennial nostalgia, as it bears a striking resemblance to one of their most iconic devices. # https://techcrunch.com/2023/04/06/apple-reinvents-ipod-airpods-case-patent/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Conversational AI is coming to Google\u2019s search engine",
+                    "Link": "https://www.searchenginejournal.com/google-plans-to-integrate-conversational-ai-into-search-engine/484223/#close",
+                    "Description": "In a recent interview, Google's CEO announced plans to incorporate conversational AI into its search engine in response to increasing competition from AI chatbots like ChatGPT.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Conversational AI is coming to Google\u2019s search engine \ud83d\udce6 In a recent interview, Google's CEO announced plans to incorporate conversational AI into its search engine in response to increasing competition from AI chatbots like ChatGPT. # https://www.searchenginejournal.com/google-plans-to-integrate-conversational-ai-into-search-engine/484223/#close"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Who's catching up to Tesla in the EV Race?",
+                    "Link": "https://arstechnica.com/cars/2023/04/we-all-know-tesla-leads-the-ev-sales-charts-hows-everyone-else-doing/",
+                    "Description": "As automakers report Q1 sales numbers, we take a look into who's coming for Tesla's leadership in the EV market.",
+                    "Time": "7",
+                    "Hashtag": "",
+                    "Tweet": "Who's catching up to Tesla in the EV Race? \ud83d\udce6 As automakers report Q1 sales numbers, we take a look into who's coming for Tesla's leadership in the EV market. # https://arstechnica.com/cars/2023/04/we-all-know-tesla-leads-the-ev-sales-charts-hows-everyone-else-doing/"
+                },
+                {
+                    "Title": "Tesla reduces prices again",
+                    "Link": "https://insideevs.com/news/661285/tesla-cuts-prices-on-all-us-models-again/",
+                    "Description": "The automaker has unveiled its fifth round of price cuts in the US, with reductions ranging from 2% to 6%.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Tesla reduces prices again \ud83d\udce6 The automaker has unveiled its fifth round of price cuts in the US, with reductions ranging from 2% to 6%. # https://insideevs.com/news/661285/tesla-cuts-prices-on-all-us-models-again/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Anthropic's long-term goal is to develop the most powerful AI",
+                    "Link": "https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/",
+                    "Description": "This startup founded by former OpenAI researchers is aiming to raise $5 billion to compete with its former employer.",
+                    "Time": "4",
+                    "Hashtag": "",
+                    "Tweet": "Anthropic's long-term goal is to develop the most powerful AI \ud83d\udce6 This startup founded by former OpenAI researchers is aiming to raise $5 billion to compete with its former employer. # https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Google Pay could be giving you free money",
+                    "Link": "https://arstechnica.com/gadgets/2023/04/bank-error-in-your-favor-google-pay-bug-accidentally-sends-users-free-money/",
+                    "Description": "Several Google Pay users got a surprise recently when a bug in the app caused cash to be deposited accidentally into their accounts.",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Google Pay could be giving you free money \ud83d\udce6 Several Google Pay users got a surprise recently when a bug in the app caused cash to be deposited accidentally into their accounts. # https://arstechnica.com/gadgets/2023/04/bank-error-in-your-favor-google-pay-bug-accidentally-sends-users-free-money/"
+                }
+            ]
+        }
+    ],
+    "title": "Conversational AI is coming to Google, SpaceX's Falcon 9 lifts off again, Samsung cuts memory chip production",
+    "date": "2023/04/07",
+    "description": ""
+}

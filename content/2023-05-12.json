@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Meta is making advertisers' lives easier",
+                    "Link": "https://techcrunch.com/2023/05/11/meta-announces-generative-ai-features-for-advertisers/",
+                    "Description": "Just presented by the company, the AI Sandbox is a platform that is set to transform your advertising strategies by providing powerful tools to enhance creativity.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta is making advertisers' lives easier \ud83d\udce6 Just presented by the company, the AI Sandbox is a platform that is set to transform your advertising strategies by providing powerful tools to enhance creativity. #meta https://techcrunch.com/2023/05/11/meta-announces-generative-ai-features-for-advertisers/"
+                },
+                {
+                    "Title": "Microsoft bets for fusion power",
+                    "Link": "https://www.businessinsider.com/microsoft-helion-first-ever-deal-for-fusion-energy-by-2028-2023-5",
+                    "Description": "The tech giant has announced a landmark deal with Helion, committing to purchase electricity from their upcoming fusion power plant.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft bets for fusion power \ud83d\udce6 The tech giant has announced a landmark deal with Helion, committing to purchase electricity from their upcoming fusion power plant. #microsoft https://www.businessinsider.com/microsoft-helion-first-ever-deal-for-fusion-energy-by-2028-2023-5"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Volvo delays EV production",
+                    "Link": "https://www.theverge.com/2023/5/11/23719686/volvo-ex90-delay-software-production-luminar",
+                    "Description": "Despite the exciting announcement of the EX90 for 2024, the automaker is now anticipating a delay in production due to extensive software testing and development.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "Volvo delays EV production \ud83d\udce6 Despite the exciting announcement of the EX90 for 2024, the automaker is now anticipating a delay in production due to extensive software testing and development. #volvo https://www.theverge.com/2023/5/11/23719686/volvo-ex90-delay-software-production-luminar"
+                },
+                {
+                    "Title": "BYD is coming for Tesla's reign",
+                    "Link": "https://electrek.co/2023/05/11/byd-to-take-on-teslas-autopilot-with-new-adas-report/",
+                    "Description": "The Chinese automaker is set to release a new advanced driver assistance system (ADAS), which is expected to compete fiercely with Tesla's autopilot.",
+                    "Time": "2",
+                    "Hashtag": "BYD",
+                    "Tweet": "BYD is coming for Tesla's reign \ud83d\udce6 The Chinese automaker is set to release a new advanced driver assistance system (ADAS), which is expected to compete fiercely with Tesla's autopilot. #BYD https://electrek.co/2023/05/11/byd-to-take-on-teslas-autopilot-with-new-adas-report/"
+                },
+                {
+                    "Title": "Tesla is facing a \u201cproduct recall\u201d in China",
+                    "Link": "https://www.theverge.com/2023/5/12/23721106/tesla-china-recall-regen-braking-vehicles-crash",
+                    "Description": "A seemingly daunting challenge turns into an easy fix for the automaker as a software update addresses the issue affecting 1.1 million vehicles.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla is facing a \u201cproduct recall\u201d in China \ud83d\udce6 A seemingly daunting challenge turns into an easy fix for the automaker as a software update addresses the issue affecting 1.1 million vehicles. #tesla https://www.theverge.com/2023/5/12/23721106/tesla-china-recall-regen-braking-vehicles-crash"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Perseverance keeps looking for signs of life",
+                    "Link": "https://www.nasa.gov/feature/jpl/images-from-nasa-s-perseverance-may-show-record-of-wild-martian-river/",
+                    "Description": "Stunning images taken by NASA's Mars explorer reveal a once powerful and lively river that may hold clues to ancient microbial life on the red planet.",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "Perseverance keeps looking for signs of life \ud83d\udce6 Stunning images taken by NASA's Mars explorer reveal a once powerful and lively river that may hold clues to ancient microbial life on the red planet. #NASA https://www.nasa.gov/feature/jpl/images-from-nasa-s-perseverance-may-show-record-of-wild-martian-river/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Axiom Space is ready to go!",
+                    "Link": "https://techcrunch.com/2023/05/11/axiom-space-gears-up-for-second-private-human-spaceflight-mission-to-iss/",
+                    "Description": "Scheduled to launch on May 21 from NASA's Kennedy Space Center, the company is gearing up for its second private crewed mission to the International Space Station (ISS).",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Axiom Space is ready to go! \ud83d\udce6 Scheduled to launch on May 21 from NASA's Kennedy Space Center, the company is gearing up for its second private crewed mission to the International Space Station (ISS). #space https://techcrunch.com/2023/05/11/axiom-space-gears-up-for-second-private-human-spaceflight-mission-to-iss/"
+                },
+                {
+                    "Title": "Extended wait for the Ariane 6 rocket debut",
+                    "Link": "https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/",
+                    "Description": "Insights from the European Space Agency regarding the development of the Ariane 6 rocket indicate a potential delay in its launch timeline.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Extended wait for the Ariane 6 rocket debut \ud83d\udce6 Insights from the European Space Agency regarding the development of the Ariane 6 rocket indicate a potential delay in its launch timeline. #rocketscience https://arstechnica.com/science/2023/05/the-ariane-6-rockets-debut-will-slip-into-2024-the-question-is-how-far/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Anthropic's AI chatbot just got better",
+                    "Link": "https://www.engadget.com/anthropic-says-its-claude-ai-can-now-read-a-whole-book-in-under-a-minute-120114018.html",
+                    "Description": "Claude is revolutionizing chatbot memory restrictions with a context window of 75,000 words. Is ChatGPT about to face a new rival?",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Anthropic's AI chatbot just got better \ud83d\udce6 Claude is revolutionizing chatbot memory restrictions with a context window of 75,000 words. Is ChatGPT about to face a new rival? #ai https://www.engadget.com/anthropic-says-its-claude-ai-can-now-read-a-whole-book-in-under-a-minute-120114018.html"
+                },
+                {
+                    "Title": "Battle of the bots: ChatGPT vs. HuggingChat",
+                    "Link": "https://www.makeuseof.com/chatgpt-vs-huggingchat/",
+                    "Description": "Even though both chatbots look very similar at first glance, there are huge differences in their performance. Make sure you read all about them before choosing your winner.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Battle of the bots: ChatGPT vs. HuggingChat \ud83d\udce6 Even though both chatbots look very similar at first glance, there are huge differences in their performance. Make sure you read all about them before choosing your winner. #ai https://www.makeuseof.com/chatgpt-vs-huggingchat/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "EVA: AI-relational database system",
+                    "Link": "https://evadb.readthedocs.io/en/stable/index.html",
+                    "Description": "Analyzing both structured and unstructured data is simple with EVA, the open-source AI-relational database fully implemented in Python.",
+                    "Time": "2",
+                    "Hashtag": "programming",
+                    "Tweet": "EVA: AI-relational database system \ud83d\udce6 Analyzing both structured and unstructured data is simple with EVA, the open-source AI-relational database fully implemented in Python. #programming https://evadb.readthedocs.io/en/stable/index.html"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft seals deal with Helion, Meta announces the AI Sandbox, Axiom Space gets ready to launch",
+    "date": "2023/05/12",
+    "description": ""
+}

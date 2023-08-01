@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "The electric vehicle market has a new contestant",
+                    "Link": "https://www.theverge.com/2023/4/17/23685327/vw-id-7-ev-sedan-photos-specs-range",
+                    "Description": "With the announcement of the ID.7, Volkswagen is planning to take Tesla's reign, offering a competitor for the acclaimed Model 3.",
+                    "Time": "3",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "The electric vehicle market has a new contestant \ud83d\udce6 With the announcement of the ID.7, Volkswagen is planning to take Tesla's reign, offering a competitor for the acclaimed Model 3. #volkswagen https://www.theverge.com/2023/4/17/23685327/vw-id-7-ev-sedan-photos-specs-range"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Elon Musk\u2019s TruthGPT, a more reliable chatbot",
+                    "Link": "https://gizmodo.com/elon-musk-tucker-carlson-ai-chatgpt-rival-truthgpt-1850347195",
+                    "Description": "According to the tech billionaire in a recent interview with Fox News, the world needs a third option in AI that is safer and more truth-seeking.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Elon Musk\u2019s TruthGPT, a more reliable chatbot \ud83d\udce6 According to the tech billionaire in a recent interview with Fox News, the world needs a third option in AI that is safer and more truth-seeking. #ai https://gizmodo.com/elon-musk-tucker-carlson-ai-chatgpt-rival-truthgpt-1850347195"
+                },
+                {
+                    "Title": "Warning: That viral song might be fake",
+                    "Link": "https://www.techtimes.com/articles/290486/20230418/heart-sleeve-drake-x-weeknd-song-trends-tiktok-made-deepfake.htm",
+                    "Description": "TikTok is flooded with The Weeknd and Drake's \"collaboration\" but the entire track was actually produced using DeepFake AI.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Warning: That viral song might be fake \ud83d\udce6 TikTok is flooded with The Weeknd and Drake's \"collaboration\" but the entire track was actually produced using DeepFake AI. #ai https://www.techtimes.com/articles/290486/20230418/heart-sleeve-drake-x-weeknd-song-trends-tiktok-made-deepfake.htm"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Take a look at ESA's JUICE farewell photo",
+                    "Link": "https://gizmodo.com/juice-spacecraft-farewell-photos-earth-jupiter-esa-1850343578",
+                    "Description": "The spacecraft shared a series of breathtaking images of its home planet just hours after embarking on its eight-year journey to Jupiter.",
+                    "Time": "2",
+                    "Hashtag": "JUICE",
+                    "Tweet": "Take a look at ESA's JUICE farewell photo \ud83d\udce6 The spacecraft shared a series of breathtaking images of its home planet just hours after embarking on its eight-year journey to Jupiter. #JUICE https://gizmodo.com/juice-spacecraft-farewell-photos-earth-jupiter-esa-1850343578"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The metaverse is no longer Meta\u2019s priority",
+                    "Link": "https://www.businessinsider.com/meta-zuckerberg-stopped-pitching-advertisers-metaverse-focus-reels-ai-report-2023-4",
+                    "Description": "It has been revealed that due to the company's ongoing cost-cutting efforts, Reels and AI tools are being prioritized over the metaverse.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "The metaverse is no longer Meta\u2019s priority \ud83d\udce6 It has been revealed that due to the company's ongoing cost-cutting efforts, Reels and AI tools are being prioritized over the metaverse. #meta https://www.businessinsider.com/meta-zuckerberg-stopped-pitching-advertisers-metaverse-focus-reels-ai-report-2023-4"
+                },
+                {
+                    "Title": "Microsoft's plans to take the lead in the AI race",
+                    "Link": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
+                    "Description": "Reportedly, the company is working to develop its own AI chips to train large language models, as it aims to reduce its costly dependence on Nvidia.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft's plans to take the lead in the AI race \ud83d\udce6 Reportedly, the company is working to develop its own AI chips to train large language models, as it aims to reduce its costly dependence on Nvidia. #microsoft https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia"
+                },
+                {
+                    "Title": "Apple's new financial move",
+                    "Link": "https://arstechnica.com/gadgets/2023/04/apple-launches-high-yield-savings-account-with-4-15-percent-apy/",
+                    "Description": "Through partner Goldman Sachs, this latest service allows Apple Card credit card owners to open a high-yield savings account with the company.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple's new financial move \ud83d\udce6 Through partner Goldman Sachs, this latest service allows Apple Card credit card owners to open a high-yield savings account with the company. #apple https://arstechnica.com/gadgets/2023/04/apple-launches-high-yield-savings-account-with-4-15-percent-apy/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "ChatGPT's potential in building self-testing code",
+                    "Link": "https://martinfowler.com/articles/2023-chatgpt-xu-hao.html",
+                    "Description": "Xu Hao, Head of Technology for ThoughtWorks in China, shares his exploration of the best prompting for programming.",
+                    "Time": "13",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "ChatGPT's potential in building self-testing code \ud83d\udce6 Xu Hao, Head of Technology for ThoughtWorks in China, shares his exploration of the best prompting for programming. #chatgpt https://martinfowler.com/articles/2023-chatgpt-xu-hao.html"
+                },
+                {
+                    "Title": "Together announces RedPajama",
+                    "Link": "https://www.together.xyz/blog/redpajama",
+                    "Description": "This groundbreaking project brings a new era for AI models, one that's fully open and accessible to all.",
+                    "Time": "5",
+                    "Hashtag": "programming",
+                    "Tweet": "Together announces RedPajama \ud83d\udce6 This groundbreaking project brings a new era for AI models, one that's fully open and accessible to all. #programming https://www.together.xyz/blog/redpajama"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Aliens? Portals? No, keep guessing",
+                    "Link": "https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/",
+                    "Description": "In Alaska, a photographer who was trying to capture the beauty of the northern lights was surprised by a spiral phenomenon. It turned out to be the Falcon 9 venting its unused fuel.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "Aliens? Portals? No, keep guessing \ud83d\udce6 In Alaska, a photographer who was trying to capture the beauty of the northern lights was surprised by a spiral phenomenon. It turned out to be the Falcon 9 venting its unused fuel. #spacex https://petapixel.com/2023/04/17/giant-spiral-appears-amid-the-aurora-lights-in-alaskas-night-sky/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Mac users are facing a new threat",
+                    "Link": "https://arstechnica.com/information-technology/2023/04/apples-macs-have-long-escaped-ransomware-but-that-may-be-changing/",
+                    "Description": "Security researchers are concerned about a recently discovered type of malware that targets macOS for the first time.",
+                    "Time": "3",
+                    "Hashtag": "mac",
+                    "Tweet": "Mac users are facing a new threat \ud83d\udce6 Security researchers are concerned about a recently discovered type of malware that targets macOS for the first time. #mac https://arstechnica.com/information-technology/2023/04/apples-macs-have-long-escaped-ransomware-but-that-may-be-changing/"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft is developing their own AI chips, Apple's new financial service, The metaverse is no longer relevant",
+    "date": "2023/04/18",
+    "description": ""
+}

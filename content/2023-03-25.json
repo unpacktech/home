@@ -1,0 +1,59 @@
+{
+    "content": [
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "The Art of Command Line",
+                    "Link": "https://github.com/jlevy/the-art-of-command-line",
+                    "Description": "Everything you need to use command line like a seasoned pro in a single page.",
+                    "Time": "15",
+                    "Hashtag": "",
+                    "Tweet": "The Art of Command Line \ud83d\udce6 Everything you need to use command line like a seasoned pro in a single page. # https://github.com/jlevy/the-art-of-command-line"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Falcon Heavy lands again",
+                    "Link": "https://www.spacex.com/launches/mission/?missionId=ussf-67-pl",
+                    "Description": "Second launch and landing of these Falcon Heavy boosters",
+                    "Time": "2",
+                    "Hashtag": "",
+                    "Tweet": "Falcon Heavy lands again \ud83d\udce6 Second launch and landing of these Falcon Heavy boosters # https://www.spacex.com/launches/mission/?missionId=ussf-67-pl"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla car prices drop",
+                    "Link": "https://arstechnica.com/cars/2023/01/tesla-drops-prices-up-to-20-percent-in-attempt-to-drive-sales/",
+                    "Description": "Tesla drops prices up to 20%, prices now start at $43,990.",
+                    "Time": "3",
+                    "Hashtag": "",
+                    "Tweet": "Tesla car prices drop \ud83d\udce6 Tesla drops prices up to 20%, prices now start at $43,990. # https://arstechnica.com/cars/2023/01/tesla-drops-prices-up-to-20-percent-in-attempt-to-drive-sales/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "ChatGPT can now see and hear",
+                    "Link": "https://arstechnica.com/information-technology/2023/03/chatgpt-gets-eyes-and-ears-with-plugins-that-can-interface-ai-with-the-world/",
+                    "Description": "ChatGPT gets plugins to do a whole bunch of interactions (bookings, emails, code, images, etc)",
+                    "Time": "8",
+                    "Hashtag": "",
+                    "Tweet": "ChatGPT can now see and hear \ud83d\udce6 ChatGPT gets plugins to do a whole bunch of interactions (bookings, emails, code, images, etc) # https://arstechnica.com/information-technology/2023/03/chatgpt-gets-eyes-and-ears-with-plugins-that-can-interface-ai-with-the-world/"
+                }
+            ]
+        }
+    ],
+    "title": "SpaceX lands again, Tesla cuts prices, command line magic",
+    "date": "2023/03/25",
+    "description": ""
+}
