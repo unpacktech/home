@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Monitoring hurricanes is now easier",
+                    "Link": "https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/",
+                    "Description": "After the loss of the first TROPICS satellites, Rocket Lab and NASA have launched a new pair of CubeSats to track tropical storms.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Monitoring hurricanes is now easier \ud83d\udce6 After the loss of the first TROPICS satellites, Rocket Lab and NASA have launched a new pair of CubeSats to track tropical storms. #NASA https://spacenews.com/rocket-lab-launches-nasa-tropics-cubesats/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Microsoft joins forces with AMD",
+                    "Link": "https://arstechnica.com/gadgets/2023/05/microsoft-and-amd-are-allegedly-teaming-up-to-combat-nvidias-ai-dominance/",
+                    "Description": "In an effort to reduce its reliance on Nvidia, the company is collaborating with AMD to enhance the AI capabilities of its GPUs.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft joins forces with AMD \ud83d\udce6 In an effort to reduce its reliance on Nvidia, the company is collaborating with AMD to enhance the AI capabilities of its GPUs. #microsoft https://arstechnica.com/gadgets/2023/05/microsoft-and-amd-are-allegedly-teaming-up-to-combat-nvidias-ai-dominance/"
+                },
+                {
+                    "Title": "Apple remains silent about AI",
+                    "Link": "https://9to5mac.com/2023/05/08/apple-ai-plans/",
+                    "Description": "The company's approach to AI remains a mystery as they have shown little interest in making significant moves in the field, despite constant speculation.",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple remains silent about AI \ud83d\udce6 The company's approach to AI remains a mystery as they have shown little interest in making significant moves in the field, despite constant speculation. #apple https://9to5mac.com/2023/05/08/apple-ai-plans/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla gets AI update",
+                    "Link": "https://electrek.co/2023/05/08/tesla-changes-course-full-self-driving-end-to-end-ai-v12-musk/",
+                    "Description": "Despite his initial reservations, Elon Musk has confirmed that the upcoming v12 update for Tesla's Full Self-Driving package will soon be equipped with end-to-end AI.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla gets AI update \ud83d\udce6 Despite his initial reservations, Elon Musk has confirmed that the upcoming v12 update for Tesla's Full Self-Driving package will soon be equipped with end-to-end AI. #tesla https://electrek.co/2023/05/08/tesla-changes-course-full-self-driving-end-to-end-ai-v12-musk/"
+                },
+                {
+                    "Title": "Tesla's new building in Texas",
+                    "Link": "https://electrek.co/2023/05/08/tesla-crash-test-lab-austin/",
+                    "Description": "As a sign of its commitment to improving the safety of its electric vehicles, Tesla has announced it will build a new crash test lab in Austin.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's new building in Texas \ud83d\udce6 As a sign of its commitment to improving the safety of its electric vehicles, Tesla has announced it will build a new crash test lab in Austin. #tesla https://electrek.co/2023/05/08/tesla-crash-test-lab-austin/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "All about RasaGPT",
+                    "Link": "https://github.com/paulpierre/RasaGPT",
+                    "Description": "Meet the first headless LLM chatbot platform built on top of Rasa and Langchain which offers indexing, retrieval, and context injection capabilities.",
+                    "Time": "15",
+                    "Hashtag": "programming",
+                    "Tweet": "All about RasaGPT \ud83d\udce6 Meet the first headless LLM chatbot platform built on top of Rasa and Langchain which offers indexing, retrieval, and context injection capabilities. #programming https://github.com/paulpierre/RasaGPT"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Screenwriters fear being replaced by AI",
+                    "Link": "https://apnews.com/article/ai-hollywood-writers-strike-artificial-intelligence-dc71c4cabcca0ee1b1afe0050d392a36",
+                    "Description": "In the midst of the Writers Guild of America strike, writers continue to express concern that AI may threaten the future of screenplays.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Screenwriters fear being replaced by AI \ud83d\udce6 In the midst of the Writers Guild of America strike, writers continue to express concern that AI may threaten the future of screenplays. #ai https://apnews.com/article/ai-hollywood-writers-strike-artificial-intelligence-dc71c4cabcca0ee1b1afe0050d392a36"
+                },
+                {
+                    "Title": "Bard just landed on Workspace",
+                    "Link": "https://9to5google.com/2023/05/05/google-bard-workspace-accounts-support/",
+                    "Description": "Workspace accounts now have access to Google's AI tool. While user access still requires admin approval, AI-powered assistance is just one click away.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Bard just landed on Workspace \ud83d\udce6 Workspace accounts now have access to Google's AI tool. While user access still requires admin approval, AI-powered assistance is just one click away. #google https://9to5google.com/2023/05/05/google-bard-workspace-accounts-support/"
+                },
+                {
+                    "Title": "Generative AI is improving antibody therapies",
+                    "Link": "https://www.nature.com/articles/d41586-023-01516-w",
+                    "Description": "A recent study published in Nature Biotechnology shows promising results in using AI to improve the potency of antibodies against viruses like SARS-CoV-2 and ebolavirus.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Generative AI is improving antibody therapies \ud83d\udce6 A recent study published in Nature Biotechnology shows promising results in using AI to improve the potency of antibodies against viruses like SARS-CoV-2 and ebolavirus. #ai https://www.nature.com/articles/d41586-023-01516-w"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Chemix is revolutionizing the EV battery market",
+                    "Link": "https://www.fastcompany.com/90892687/this-startup-uses-ai-to-design-better-ev-batteries",
+                    "Description": "The San Francisco-based startup is using AI to speed up EV battery development through their Mix software, which suggests new molecules for daily testing based on data.",
+                    "Time": "3",
+                    "Hashtag": "startups",
+                    "Tweet": "Chemix is revolutionizing the EV battery market \ud83d\udce6 The San Francisco-based startup is using AI to speed up EV battery development through their Mix software, which suggests new molecules for daily testing based on data. #startups https://www.fastcompany.com/90892687/this-startup-uses-ai-to-design-better-ev-batteries"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Bad news for your inbox",
+                    "Link": "https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads",
+                    "Description": "Google's latest move to embed ads in the middle of Gmail inboxes is causing concern for users, who fear it will make them more susceptible to clicking on deceptive content.",
+                    "Time": "2",
+                    "Hashtag": "gmail",
+                    "Tweet": "Bad news for your inbox \ud83d\udce6 Google's latest move to embed ads in the middle of Gmail inboxes is causing concern for users, who fear it will make them more susceptible to clicking on deceptive content. #gmail https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads"
+                }
+            ]
+        }
+    ],
+    "title": "TROPICS successfully deployed, Microsoft teams up with AMD, Tesla's latest AI update",
+    "date": "2023/05/08",
+    "description": ""
+}

@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Everything to know about Google I/O 2023",
+                    "Link": "https://www.cnbc.com/2023/05/10/google-io-2023-live-updates.html",
+                    "Description": "Yesterday's developers conference was a glimpse into the exciting year ahead for Google. From AI to gadgets and software, here's a summary of the latest announcements made by the tech giant.",
+                    "Time": "18",
+                    "Hashtag": "google",
+                    "Tweet": "Everything to know about Google I/O 2023 \ud83d\udce6 Yesterday's developers conference was a glimpse into the exciting year ahead for Google. From AI to gadgets and software, here's a summary of the latest announcements made by the tech giant. #google https://www.cnbc.com/2023/05/10/google-io-2023-live-updates.html"
+                },
+                {
+                    "Title": "Microsoft invests in app-building startup",
+                    "Link": "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/",
+                    "Description": "Unlocking new possibilities for app development, Builder.ai seals a strategic collaboration with Microsoft. By bringing its \u201cNatasha\u201d AI to Teams.",
+                    "Time": "1",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft invests in app-building startup \ud83d\udce6 Unlocking new possibilities for app development, Builder.ai seals a strategic collaboration with Microsoft. By bringing its \u201cNatasha\u201d AI to Teams. #microsoft https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Hugging Face releases Transformers Agents",
+                    "Link": "https://threadreaderapp.com/thread/1656334778407297027.html",
+                    "Description": "This revolutionary API sets a new standard in natural language processing, emerging as the boldest feature from Hugging Face Transformers, with a visionary concept of tools and agents.",
+                    "Time": "1",
+                    "Hashtag": "huggingface",
+                    "Tweet": "Hugging Face releases Transformers Agents \ud83d\udce6 This revolutionary API sets a new standard in natural language processing, emerging as the boldest feature from Hugging Face Transformers, with a visionary concept of tools and agents. #huggingface https://threadreaderapp.com/thread/1656334778407297027.html"
+                },
+                {
+                    "Title": "Metabob: The AI code review tool",
+                    "Link": "https://www.producthunt.com/posts/metabob",
+                    "Description": "Revolutionize the way you tackle complex coding issues with this innovative product as your ultimate code debugging companion.",
+                    "Time": "2",
+                    "Hashtag": "programming",
+                    "Tweet": "Metabob: The AI code review tool \ud83d\udce6 Revolutionize the way you tackle complex coding issues with this innovative product as your ultimate code debugging companion. #programming https://www.producthunt.com/posts/metabob"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "GM's plugging back into Europe",
+                    "Link": "https://electrek.co/2023/05/10/gm-launching-first-evs-in-europe-this-fall-to-return/",
+                    "Description": "With the electric era in full swing, General Motors aims to establish itself as a leader in the European EV market by introducing fully electric cars this autumn.",
+                    "Time": "3",
+                    "Hashtag": "generalmotors",
+                    "Tweet": "GM's plugging back into Europe \ud83d\udce6 With the electric era in full swing, General Motors aims to establish itself as a leader in the European EV market by introducing fully electric cars this autumn. #generalmotors https://electrek.co/2023/05/10/gm-launching-first-evs-in-europe-this-fall-to-return/"
+                },
+                {
+                    "Title": "Panasonic hits the brakes on Tesla's battery cell production",
+                    "Link": "https://electrek.co/2023/05/10/panasonic-delays-tesla-4680-battery-cell-production/",
+                    "Description": "With a focus on improving performance, the automaker's longtime battery partner is taking a brief hiatus from volume production of the Tesla 4680 cell.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Panasonic hits the brakes on Tesla's battery cell production \ud83d\udce6 With a focus on improving performance, the automaker's longtime battery partner is taking a brief hiatus from volume production of the Tesla 4680 cell. #tesla https://electrek.co/2023/05/10/panasonic-delays-tesla-4680-battery-cell-production/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "No more AI hallucinations",
+                    "Link": "https://techcrunch.com/2023/05/11/writer-introduces-product-that-could-help-reduce-hallucinated-content-in-its-llms/",
+                    "Description": "Knowledge Graph, the content validation tool introduced by Writer AI, automatically identifies content that needs fact-checking and suggests replacements based on relevant data.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "No more AI hallucinations \ud83d\udce6 Knowledge Graph, the content validation tool introduced by Writer AI, automatically identifies content that needs fact-checking and suggests replacements based on relevant data. #ai https://techcrunch.com/2023/05/11/writer-introduces-product-that-could-help-reduce-hallucinated-content-in-its-llms/"
+                },
+                {
+                    "Title": "Europe's plan to tame artificial intelligence",
+                    "Link": "https://apnews.com/article/tech-ai-artificial-intelligence-europe-eu-15ac394679519084478e15217c156abc",
+                    "Description": "The European Union AI Act aims to strike the right balance between harnessing the capabilities of AI and safeguarding against its potential risks.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Europe's plan to tame artificial intelligence \ud83d\udce6 The European Union AI Act aims to strike the right balance between harnessing the capabilities of AI and safeguarding against its potential risks. #ai https://apnews.com/article/tech-ai-artificial-intelligence-europe-eu-15ac394679519084478e15217c156abc"
+                },
+                {
+                    "Title": "Google is exposing AI-generated content",
+                    "Link": "https://petapixel.com/2023/05/11/googles-mission-to-clearly-label-ai-generated-images/",
+                    "Description": "The \"About this image\" feature on Google Images, unveiled at yesterday\u2019s I/O developer conference, uncovers the origins of any image, including AI-generated ones.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Google is exposing AI-generated content \ud83d\udce6 The \"About this image\" feature on Google Images, unveiled at yesterday\u2019s I/O developer conference, uncovers the origins of any image, including AI-generated ones. #google https://petapixel.com/2023/05/11/googles-mission-to-clearly-label-ai-generated-images/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Starlink's cosmic web keeps growing",
+                    "Link": "https://www.space.com/spacex-starlink-launch-group-2-9",
+                    "Description": "Yesterday, a Falcon 9 rocket deployed 51 Starlink satellites into space, with its first stage returning as planned and gracefully landing on SpaceX's Of Course I Still Love You droneship.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "Starlink's cosmic web keeps growing \ud83d\udce6 Yesterday, a Falcon 9 rocket deployed 51 Starlink satellites into space, with its first stage returning as planned and gracefully landing on SpaceX's Of Course I Still Love You droneship. #spaceX https://www.space.com/spacex-starlink-launch-group-2-9"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Big news for Blue verified users",
+                    "Link": "https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature",
+                    "Description": "With encrypted direct messages now available as a paid feature, is Twitter's secure messaging worth the investment?",
+                    "Time": "2",
+                    "Hashtag": "twitter",
+                    "Tweet": "Big news for Blue verified users \ud83d\udce6 With encrypted direct messages now available as a paid feature, is Twitter's secure messaging worth the investment? #twitter https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature"
+                }
+            ]
+        }
+    ],
+    "title": "All about Google I/O 2023, Hugging Face's latest API, Microsoft keeps investing in AI",
+    "date": "2023/05/11",
+    "description": ""
+}

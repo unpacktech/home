@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA's ShadowCam is key for the Artemis missions",
+                    "Link": "https://gizmodo.com/moon-shadowed-craters-pockets-water-ice-shadowcam-1850396661",
+                    "Description": "The highly sensitive optical camera has captured breathtaking images of the Moon's permanently shadowed regions, discovering potential landing sites for future lunar missions.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA's ShadowCam is key for the Artemis missions \ud83d\udce6 The highly sensitive optical camera has captured breathtaking images of the Moon's permanently shadowed regions, discovering potential landing sites for future lunar missions. #NASA https://gizmodo.com/moon-shadowed-craters-pockets-water-ice-shadowcam-1850396661"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "The Starlink expansion continues\u2026",
+                    "Link": "https://www.space.com/spacex-starlink-launch-group-5-6",
+                    "Description": "On Thursday, SpaceX is scheduled to launch another Falcon 9 rocket from Cape Canaveral which will deploy 56 satellites into orbit.",
+                    "Time": "2",
+                    "Hashtag": "spaceX",
+                    "Tweet": "The Starlink expansion continues\u2026 \ud83d\udce6 On Thursday, SpaceX is scheduled to launch another Falcon 9 rocket from Cape Canaveral which will deploy 56 satellites into orbit. #spaceX https://www.space.com/spacex-starlink-launch-group-5-6"
+                },
+                {
+                    "Title": "Watch NASA's live coverage of the Dragon port relocation!",
+                    "Link": "https://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station",
+                    "Description": "SpaceX Dragon spacecraft's docking port is to be relocated on May 6th by four crew members aboard the International Space Station to make way for an upcoming cargo spacecraft.",
+                    "Time": "1",
+                    "Hashtag": "NASA",
+                    "Tweet": "Watch NASA's live coverage of the Dragon port relocation! \ud83d\udce6 SpaceX Dragon spacecraft's docking port is to be relocated on May 6th by four crew members aboard the International Space Station to make way for an upcoming cargo spacecraft. #NASA https://www.nasa.gov/press-release/nasa-sets-coverage-for-dragon-port-relocation-on-space-station"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla's presence in Nevada grows",
+                    "Link": "https://electrek.co/2023/05/03/tesla-lithium-lab-nevada/",
+                    "Description": "As part of its effort to scale up production capacity and expand its battery supply chain, the company is building a new \"Lithium Lab\" in Nevada.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's presence in Nevada grows \ud83d\udce6 As part of its effort to scale up production capacity and expand its battery supply chain, the company is building a new \"Lithium Lab\" in Nevada. #tesla https://electrek.co/2023/05/03/tesla-lithium-lab-nevada/"
+                },
+                {
+                    "Title": "Ford drops prices again",
+                    "Link": "https://arstechnica.com/cars/2023/05/ford-boosts-mustang-mach-e-range-and-drops-price-as-profits-grow-20/",
+                    "Description": "The automaker has cut prices for its Mustang Mach-E for the second time this year and announced a new battery technology for the standard-range models that aim to increase power and range.",
+                    "Time": "3",
+                    "Hashtag": "ford",
+                    "Tweet": "Ford drops prices again \ud83d\udce6 The automaker has cut prices for its Mustang Mach-E for the second time this year and announced a new battery technology for the standard-range models that aim to increase power and range. #ford https://arstechnica.com/cars/2023/05/ford-boosts-mustang-mach-e-range-and-drops-price-as-profits-grow-20/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "We are approaching a passwordless future",
+                    "Link": "https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/",
+                    "Description": "Making it easy and secure for users to sign in to apps and websites without having to remember difficult passwords, passkeys are now available for Google accounts.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "We are approaching a passwordless future \ud83d\udce6 Making it easy and secure for users to sign in to apps and websites without having to remember difficult passwords, passkeys are now available for Google accounts. #google https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/"
+                },
+                {
+                    "Title": "Google targets Ohio for its new data centers",
+                    "Link": "https://apnews.com/article/google-ohio-data-centers-technology-0fa42a92e4bb967afeba9c11070620ed",
+                    "Description": "The tech giant has announced plans to build two data centers in Columbus and Lancaster to support its AI technology.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Google targets Ohio for its new data centers \ud83d\udce6 The tech giant has announced plans to build two data centers in Columbus and Lancaster to support its AI technology. #google https://apnews.com/article/google-ohio-data-centers-technology-0fa42a92e4bb967afeba9c11070620ed"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Say hello to Mojo!",
+                    "Link": "https://www.modular.com/mojo",
+                    "Description": "A new programming language has arrived, and it is designed to combine the strengths of Python and systems programming in order to bridge the gap between research and production.",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "Say hello to Mojo! \ud83d\udce6 A new programming language has arrived, and it is designed to combine the strengths of Python and systems programming in order to bridge the gap between research and production. #programming https://www.modular.com/mojo"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "This startup is set to transform battery production",
+                    "Link": "https://www.thecooldown.com/green-tech/sakuu-3d-printing-solid-state-batteries/",
+                    "Description": "The creation of solid-state batteries using 3D printing by Sakuu is expected to revolutionize traditional battery manufacturing while reducing environmental impact.",
+                    "Time": "2",
+                    "Hashtag": "startups",
+                    "Tweet": "This startup is set to transform battery production \ud83d\udce6 The creation of solid-state batteries using 3D printing by Sakuu is expected to revolutionize traditional battery manufacturing while reducing environmental impact. #startups https://www.thecooldown.com/green-tech/sakuu-3d-printing-solid-state-batteries/"
+                },
+                {
+                    "Title": "Microsoft unveils the Pegasus program",
+                    "Link": "https://techcrunch.com/2023/05/03/microsoft-launches-pegasus-program-for-startups-awarding-up-to-350000-in-credits/",
+                    "Description": "The launch of this program expands the company's Startup Founders Hub and provides funding, resources, and expert advice to products that fill a market need.",
+                    "Time": "4",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft unveils the Pegasus program \ud83d\udce6 The launch of this program expands the company's Startup Founders Hub and provides funding, resources, and expert advice to products that fill a market need. #microsoft https://techcrunch.com/2023/05/03/microsoft-launches-pegasus-program-for-startups-awarding-up-to-350000-in-credits/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Midjourney 5.1 is now available",
+                    "Link": "https://the-decoder.com/midjourney-now-has-an-easy-mode-and-a-new-ai-moderation-system/",
+                    "Description": "Promising better results than ever before, the latest version of Midjourney features a new moderation system and high-quality images with simple prompts.",
+                    "Time": "2",
+                    "Hashtag": "midjourney",
+                    "Tweet": "Midjourney 5.1 is now available \ud83d\udce6 Promising better results than ever before, the latest version of Midjourney features a new moderation system and high-quality images with simple prompts. #midjourney https://the-decoder.com/midjourney-now-has-an-easy-mode-and-a-new-ai-moderation-system/"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft announces the Pegasus program, Passkeys are now available in Google, Midjourney 5.1 is here",
+    "date": "2023/05/03",
+    "description": ""
+}

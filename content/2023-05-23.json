@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Governance of superintelligence",
+                    "Link": "https://openai.com/blog/governance-of-superintelligence",
+                    "Description": "A recent post by OpenAI's founders emphasized the need for a global regulatory body to address the challenges ahead, given AI's rapid development and potential dangers.",
+                    "Time": "4",
+                    "Hashtag": "openai",
+                    "Tweet": "Governance of superintelligence \ud83d\udce6 A recent post by OpenAI's founders emphasized the need for a global regulatory body to address the challenges ahead, given AI's rapid development and potential dangers. #openai https://openai.com/blog/governance-of-superintelligence"
+                },
+                {
+                    "Title": "Anthropic sets new standards in AI innovation",
+                    "Link": "https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/",
+                    "Description": "With a $450 million funding boost, the San Francisco-based AI startup is prioritizing research on artificial intelligence ethics and safety, while also planning to improve its Claude chatbot.",
+                    "Time": "3",
+                    "Hashtag": "anthropic",
+                    "Tweet": "Anthropic sets new standards in AI innovation \ud83d\udce6 With a $450 million funding boost, the San Francisco-based AI startup is prioritizing research on artificial intelligence ethics and safety, while also planning to improve its Claude chatbot. #anthropic https://venturebeat.com/ai/anthropic-secures-450m-in-series-c-funding-from-google-salesforce-and-others/"
+                },
+                {
+                    "Title": "Meta's commitment to language diversity",
+                    "Link": "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/",
+                    "Description": "Language inclusivity and preservation are prioritized by the company through its Massively Multilingual Speech project. The open-source AI models can identify over 4,000 spoken languages.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta's commitment to language diversity \ud83d\udce6 Language inclusivity and preservation are prioritized by the company through its Massively Multilingual Speech project. The open-source AI models can identify over 4,000 spoken languages. #meta https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
+                },
+                {
+                    "Title": "Photoshop gets AI-powered",
+                    "Link": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/",
+                    "Description": "Adobe has introduced Firefly-based features to their photo editing software, offering users the power of generative AI to add objects, extend images, and remove elements with precision.",
+                    "Time": "3",
+                    "Hashtag": "adobe",
+                    "Tweet": "Photoshop gets AI-powered \ud83d\udce6 Adobe has introduced Firefly-based features to their photo editing software, offering users the power of generative AI to add objects, extend images, and remove elements with precision. #adobe https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/"
+                },
+                {
+                    "Title": "Bill Gates predicts the future of AI",
+                    "Link": "https://www.cnbc.com/2023/05/22/bill-gates-predicts-the-big-winner-in-ai-smart-assistants.html",
+                    "Description": "In a recent event, Microsoft's co-founder stated that the future of AI belongs to the company that comes up with a personal digital agent capable of performing tasks for users.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Bill Gates predicts the future of AI \ud83d\udce6 In a recent event, Microsoft's co-founder stated that the future of AI belongs to the company that comes up with a personal digital agent capable of performing tasks for users. #microsoft https://www.cnbc.com/2023/05/22/bill-gates-predicts-the-big-winner-in-ai-smart-assistants.html"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple seals multibillion-dollar deal",
+                    "Link": "https://www.cnbc.com/2023/05/23/apple-announces-multibillion-dollar-deal-with-broadcom-for-us-made-chips.html",
+                    "Description": "In partnership with Broadcom, the company is revolutionizing wireless connectivity and 5G advancements by developing high-quality radio frequency components.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple seals multibillion-dollar deal \ud83d\udce6 In partnership with Broadcom, the company is revolutionizing wireless connectivity and 5G advancements by developing high-quality radio frequency components. #apple https://www.cnbc.com/2023/05/23/apple-announces-multibillion-dollar-deal-with-broadcom-for-us-made-chips.html"
+                },
+                {
+                    "Title": "Stay tuned for Microsoft\u2019s developer conference!",
+                    "Link": "https://www.engadget.com/watch-the-microsoft-build-keynotes-here-starting-at-12pm-et-023009440.html?src=rss",
+                    "Description": "Build 2023 starts today, watch the keynotes live and be a part of the excitement as Microsoft unveils its plans for the future.",
+                    "Time": "1",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Stay tuned for Microsoft\u2019s developer conference! \ud83d\udce6 Build 2023 starts today, watch the keynotes live and be a part of the excitement as Microsoft unveils its plans for the future. #microsoft https://www.engadget.com/watch-the-microsoft-build-keynotes-here-starting-at-12pm-et-023009440.html?src=rss"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Ford's EV lineup keeps expanding",
+                    "Link": "https://electrek.co/2023/05/22/ford-details-new-electric-truck-three-row-suv/",
+                    "Description": "Focusing on its strengths, the automaker brings electric versions of customer favorites to the market. Their latest lineup includes a new full-size pickup and three-row SUV EVs.",
+                    "Time": "4",
+                    "Hashtag": "ford",
+                    "Tweet": "Ford's EV lineup keeps expanding \ud83d\udce6 Focusing on its strengths, the automaker brings electric versions of customer favorites to the market. Their latest lineup includes a new full-size pickup and three-row SUV EVs. #ford https://electrek.co/2023/05/22/ford-details-new-electric-truck-three-row-suv/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Introducing: Trogon",
+                    "Link": "https://github.com/Textualize/trogon",
+                    "Description": "With support for Click and future compatibility with other libraries/languages, Trogon extracts a schema from your app, builds a Textual UI, and makes editing and running commands easier.",
+                    "Time": "2",
+                    "Hashtag": "programming",
+                    "Tweet": "Introducing: Trogon \ud83d\udce6 With support for Click and future compatibility with other libraries/languages, Trogon extracts a schema from your app, builds a Textual UI, and makes editing and running commands easier. #programming https://github.com/Textualize/trogon"
+                },
+                {
+                    "Title": "Dify AI: Create apps in minutes",
+                    "Link": "https://www.producthunt.com/posts/dify-ai",
+                    "Description": "This open-source platform simplifies building, deploying, and optimizing language model applications.",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "Dify AI: Create apps in minutes \ud83d\udce6 This open-source platform simplifies building, deploying, and optimizing language model applications. #programming https://www.producthunt.com/posts/dify-ai"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "You have 15 minutes to change your mind",
+                    "Link": "https://www.businessinsider.com/whatsapp-will-allow-users-to-edit-messages-within-15-minutes-2023-5",
+                    "Description": "The highly anticipated editing feature has finally been added to WhatsApp. Users can now fix typos and add missing details within a 15-minute timeframe.",
+                    "Time": "1",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "You have 15 minutes to change your mind \ud83d\udce6 The highly anticipated editing feature has finally been added to WhatsApp. Users can now fix typos and add missing details within a 15-minute timeframe. #whatsapp https://www.businessinsider.com/whatsapp-will-allow-users-to-edit-messages-within-15-minutes-2023-5"
+                }
+            ]
+        }
+    ],
+    "title": "Apple partners with Broadcom, OpenAI reflects on AI regulation, Microsoft Build 2023 starts today",
+    "date": "2023/05/23",
+    "description": ""
+}

@@ -1,0 +1,128 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI could be our big asteroid impact",
+                    "Link": "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5",
+                    "Description": "The CEOs of leading AI companies such as OpenAI, Deepmind, and Anthropics have signed a public statement highlighting the risks AI poses to humanity, including extinction.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI could be our big asteroid impact \ud83d\udce6 The CEOs of leading AI companies such as OpenAI, Deepmind, and Anthropics have signed a public statement highlighting the risks AI poses to humanity, including extinction. #ai https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5"
+                },
+                {
+                    "Title": "Nvidia gets by with a little help from AI",
+                    "Link": "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value",
+                    "Description": "The company has reached a remarkable trillion-dollar valuation, propelled by the popularity of generative AI tools, as their chips become the preferred choice for most AI-driven projects.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Nvidia gets by with a little help from AI \ud83d\udce6 The company has reached a remarkable trillion-dollar valuation, propelled by the popularity of generative AI tools, as their chips become the preferred choice for most AI-driven projects. #nvidia https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+                },
+                {
+                    "Title": "Ride smarter with Nvidia and MediaTek",
+                    "Link": "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/",
+                    "Description": "By fusing Nvidia's AI and ADAS technology with MediaTek's Dimensity Auto Platform, both companies aim to deliver a new level of intelligence and connectivity to your daily commute.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Ride smarter with Nvidia and MediaTek \ud83d\udce6 By fusing Nvidia's AI and ADAS technology with MediaTek's Dimensity Auto Platform, both companies aim to deliver a new level of intelligence and connectivity to your daily commute. #nvidia https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
+                },
+                {
+                    "Title": "With AI you could be a programmer too",
+                    "Link": "https://www.cnbc.com/2023/05/30/everyone-is-a-programmer-with-generative-ai-nvidia-ceo-.html",
+                    "Description": "According to Jensen Huang, CEO of Nvidia, generative AI will enable people to create desired functions without ever having to write code.",
+                    "Time": "3",
+                    "Hashtag": "nvidia",
+                    "Tweet": "With AI you could be a programmer too \ud83d\udce6 According to Jensen Huang, CEO of Nvidia, generative AI will enable people to create desired functions without ever having to write code. #nvidia https://www.cnbc.com/2023/05/30/everyone-is-a-programmer-with-generative-ai-nvidia-ceo-.html"
+                },
+                {
+                    "Title": "CapeChat: Keep data private",
+                    "Link": "https://www.producthunt.com/posts/capechat",
+                    "Description": "This powerful tool automatically encrypts your documents and redacts sensitive data, all while utilizing the ChatGPT API.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "CapeChat: Keep data private \ud83d\udce6 This powerful tool automatically encrypts your documents and redacts sensitive data, all while utilizing the ChatGPT API. #ai https://www.producthunt.com/posts/capechat"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "India is reaching space",
+                    "Link": "https://spaceflightnow.com/2023/05/29/gslv-f12-nvs-01-coverage/",
+                    "Description": "The NVS 01 satellite, the first of a new generation, has been launched by the country. Aimed to boost India's navigation system, and work alongside global networks for improved positioning.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "India is reaching space \ud83d\udce6 The NVS 01 satellite, the first of a new generation, has been launched by the country. Aimed to boost India's navigation system, and work alongside global networks for improved positioning. #space https://spaceflightnow.com/2023/05/29/gslv-f12-nvs-01-coverage/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Let a robot do your housework",
+                    "Link": "https://sifted.eu/articles/robot-butler-openai-prosper-robotics",
+                    "Description": "Prosper Robotics is turning futuristic ideas into reality with \"Alfie\", a robot butler capable of tackling various tasks such as dishwashing, laundry, and cleaning.",
+                    "Time": "5",
+                    "Hashtag": "robotics",
+                    "Tweet": "Let a robot do your housework \ud83d\udce6 Prosper Robotics is turning futuristic ideas into reality with \"Alfie\", a robot butler capable of tackling various tasks such as dishwashing, laundry, and cleaning. #robotics https://sifted.eu/articles/robot-butler-openai-prosper-robotics"
+                },
+                {
+                    "Title": "The last view before darkness",
+                    "Link": "https://news.mit.edu/2023/telescopes-last-view-kepler-planets-0530",
+                    "Description": "Over nine and a half years, NASA's Kepler Space Telescope gazed for exoplanets. Now astronomers reveal what could be the telescope's final discoveries before fading into cosmic history.",
+                    "Time": "5",
+                    "Hashtag": "space",
+                    "Tweet": "The last view before darkness \ud83d\udce6 Over nine and a half years, NASA's Kepler Space Telescope gazed for exoplanets. Now astronomers reveal what could be the telescope's final discoveries before fading into cosmic history. #space https://news.mit.edu/2023/telescopes-last-view-kepler-planets-0530"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Elon Musk's latest trip sparks rumors",
+                    "Link": "https://electrek.co/2023/05/30/elon-musk-china-sparking-rumors-tesla-fsd-beta-new-model-3/",
+                    "Description": "The CEO's visit to China is generating anticipation among Tesla enthusiasts around a potential \"Full Self-Driving\" Beta release, and the launch of a new Model 3.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Elon Musk's latest trip sparks rumors \ud83d\udce6 The CEO's visit to China is generating anticipation among Tesla enthusiasts around a potential \"Full Self-Driving\" Beta release, and the launch of a new Model 3. #tesla https://electrek.co/2023/05/30/elon-musk-china-sparking-rumors-tesla-fsd-beta-new-model-3/"
+                },
+                {
+                    "Title": "Tesla says: Canada you\u2019re next!",
+                    "Link": "https://www.engadget.com/tesla-will-open-its-supercharger-network-to-other-evs-in-canada-150057481.html",
+                    "Description": "With the launch of a pilot route from Ottawa to Sudbury, Tesla's Supercharger network is expanding across the country, allowing other EVs to charge at some of its existing spots.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla says: Canada you\u2019re next! \ud83d\udce6 With the launch of a pilot route from Ottawa to Sudbury, Tesla's Supercharger network is expanding across the country, allowing other EVs to charge at some of its existing spots. #tesla https://www.engadget.com/tesla-will-open-its-supercharger-network-to-other-evs-in-canada-150057481.html"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Proxima Fusion presents \u201cStellarator\u201d",
+                    "Link": "https://thenextweb.com/news/german-startup-fusion-stellarator",
+                    "Description": "The German startup has secured funding for its revolutionary fusion machine, paving the way for a cleaner future provided through atom-fusing power.",
+                    "Time": "3",
+                    "Hashtag": "startups",
+                    "Tweet": "Proxima Fusion presents \u201cStellarator\u201d \ud83d\udce6 The German startup has secured funding for its revolutionary fusion machine, paving the way for a cleaner future provided through atom-fusing power. #startups https://thenextweb.com/news/german-startup-fusion-stellarator"
+                },
+                {
+                    "Title": "Meet the Battery Tanker X",
+                    "Link": "https://www.rivieramm.com/news-content-hub/japanese-startup-powerx-unveils-first-battery-tanker-design-76345",
+                    "Description": "PowerX, a Japanese startup, is all about sustainability with its groundbreaking ship designed to transport electricity using energy storage systems.",
+                    "Time": "2",
+                    "Hashtag": "startups",
+                    "Tweet": "Meet the Battery Tanker X \ud83d\udce6 PowerX, a Japanese startup, is all about sustainability with its groundbreaking ship designed to transport electricity using energy storage systems. #startups https://www.rivieramm.com/news-content-hub/japanese-startup-powerx-unveils-first-battery-tanker-design-76345"
+                }
+            ]
+        }
+    ],
+    "title": "AI may be part of our extinction, Nvidia reaches new heights, A robot could clean your dishes",
+    "date": "2023/05/30",
+    "description": ""
+}
