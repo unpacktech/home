@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla aims for a wireless future",
+                    "Link": "https://electrek.co/2023/06/21/tesla-looking-acquire-small-wireless-charging/",
+                    "Description": "The company\u2019s interest in Wiferion, a German startup known for its wireless charging solutions, hints at a new era of innovation in EV charging.",
+                    "Time": "4",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla aims for a wireless future \ud83d\udce6 The company\u2019s interest in Wiferion, a German startup known for its wireless charging solutions, hints at a new era of innovation in EV charging. #tesla https://electrek.co/2023/06/21/tesla-looking-acquire-small-wireless-charging/"
+                },
+                {
+                    "Title": "The better route for Rivian",
+                    "Link": "https://www.techtimes.com/articles/292902/20230621/rivian-acquires-iternio-maker-better-route-planner-app-integrate-navigation.htm",
+                    "Description": "The American automaker has made a strategic acquisition of Iternio, the minds behind A Better Route Planner app, with the goal of improving the driving experience in its EVs.",
+                    "Time": "3",
+                    "Hashtag": "rivian",
+                    "Tweet": "The better route for Rivian \ud83d\udce6 The American automaker has made a strategic acquisition of Iternio, the minds behind A Better Route Planner app, with the goal of improving the driving experience in its EVs. #rivian https://www.techtimes.com/articles/292902/20230621/rivian-acquires-iternio-maker-better-route-planner-app-integrate-navigation.htm"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Betelgeuse, Betelgeuse, Betelgeuse",
+                    "Link": "https://gizmodo.com/betelgeuse-won-t-go-supernova-decades-centuries-1850562077",
+                    "Description": "The destiny of this bright star sparks discussion among astronomers. While recent studies reveal an imminent grand finale, others argue for several hundred years before a potential supernova.",
+                    "Time": "6",
+                    "Hashtag": "space",
+                    "Tweet": "Betelgeuse, Betelgeuse, Betelgeuse \ud83d\udce6 The destiny of this bright star sparks discussion among astronomers. While recent studies reveal an imminent grand finale, others argue for several hundred years before a potential supernova. #space https://gizmodo.com/betelgeuse-won-t-go-supernova-decades-centuries-1850562077"
+                },
+                {
+                    "Title": "From the stars to your phone",
+                    "Link": "https://www.engadget.com/cellular-satellite-test-successfully-beams-4g-data-from-space-to-a-regular-phone-200318927.html",
+                    "Description": "AST SpaceMobile and AT&T are taking a step forward in satellite connectivity. Their recent tests in Hawaii delivered download speeds of 10Mbps from the BlueWalker 3 satellite to ground smartphones.",
+                    "Time": "1",
+                    "Hashtag": "space",
+                    "Tweet": "From the stars to your phone \ud83d\udce6 AST SpaceMobile and AT&T are taking a step forward in satellite connectivity. Their recent tests in Hawaii delivered download speeds of 10Mbps from the BlueWalker 3 satellite to ground smartphones. #space https://www.engadget.com/cellular-satellite-test-successfully-beams-4g-data-from-space-to-a-regular-phone-200318927.html"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI\u2019s degenerative process",
+                    "Link": "https://www.marktechpost.com/2023/06/21/ai-will-eat-itself-this-ai-paper-introduces-a-phenomenon-called-model-collapse-that-refers-to-a-degenerative-learning-process-where-models-start-forgetting-improbable-events-over-time/",
+                    "Description": "There's a disturbing reality in the world of machine learning: Models that solely learn from each other face severe performance challenges due to the lack of genuine data.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI\u2019s degenerative process \ud83d\udce6 There's a disturbing reality in the world of machine learning: Models that solely learn from each other face severe performance challenges due to the lack of genuine data. #ai https://www.marktechpost.com/2023/06/21/ai-will-eat-itself-this-ai-paper-introduces-a-phenomenon-called-model-collapse-that-refers-to-a-degenerative-learning-process-where-models-start-forgetting-improbable-events-over-time/"
+                },
+                {
+                    "Title": "A touch of AI for Toyota",
+                    "Link": "https://electrek.co/2023/06/21/toyota-use-ai-to-maximize-future-ev-range/",
+                    "Description": "Their latest breakthrough, a generative AI technique developed by the Toyota Research Institute, is aimed at revolutionizing the car design process.",
+                    "Time": "2",
+                    "Hashtag": "toyota",
+                    "Tweet": "A touch of AI for Toyota \ud83d\udce6 Their latest breakthrough, a generative AI technique developed by the Toyota Research Institute, is aimed at revolutionizing the car design process. #toyota https://electrek.co/2023/06/21/toyota-use-ai-to-maximize-future-ev-range/"
+                },
+                {
+                    "Title": "MosaicML comes for OpenAI\u2019s throne",
+                    "Link": "https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/",
+                    "Description": "The AI startup has introduced MPT-30B, a language model that showcases its commitment to accessibility. By reducing training costs, MosaicML is democratizing AI technology. ",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "MosaicML comes for OpenAI\u2019s throne \ud83d\udce6 The AI startup has introduced MPT-30B, a language model that showcases its commitment to accessibility. By reducing training costs, MosaicML is democratizing AI technology.  #ai https://venturebeat.com/ai/mosaicml-challenges-openai-with-its-new-open-source-language-model/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Attention app developers!",
+                    "Link": "https://arstechnica.com/gadgets/2023/06/apple-makes-visionos-sdk-available-to-developers-starting-today/",
+                    "Description": "Apple's visionOS software development kit is now available, loaded with the right tools to create immersive augmented and mixed reality apps for the anticipated Vision Pro headset.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Attention app developers! \ud83d\udce6 Apple's visionOS software development kit is now available, loaded with the right tools to create immersive augmented and mixed reality apps for the anticipated Vision Pro headset. #apple https://arstechnica.com/gadgets/2023/06/apple-makes-visionos-sdk-available-to-developers-starting-today/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "SpaceX's constellation is brighter than ever",
+                    "Link": "https://gizmodo.com/spacex-next-gen-starlink-satellites-sending-data-earth-1850561636",
+                    "Description": "The Starlink V2 Minis are now operational, transmitting data as part of SpaceX's vision for a more connected future.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "SpaceX's constellation is brighter than ever \ud83d\udce6 The Starlink V2 Minis are now operational, transmitting data as part of SpaceX's vision for a more connected future. #spacex https://gizmodo.com/spacex-next-gen-starlink-satellites-sending-data-earth-1850561636"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Code reading made easy",
+                    "Link": "https://github.blog/2023-06-21-crafting-a-better-faster-code-view/",
+                    "Description": "GitHub's commitment to developers shines through with its revolutionary Code View, designed to enhance your code reading and exploration experience.",
+                    "Time": "12",
+                    "Hashtag": "programming",
+                    "Tweet": "Code reading made easy \ud83d\udce6 GitHub's commitment to developers shines through with its revolutionary Code View, designed to enhance your code reading and exploration experience. #programming https://github.blog/2023-06-21-crafting-a-better-faster-code-view/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "This startup is defying gravity\u2019s boundaries",
+                    "Link": "https://thenextweb.com/news/defying-gravity-this-uk-based-startup-is-unlocking-the-potential-of-space-economy",
+                    "Description": "Gravitilab's advancements in microgravity hold immense potential for space hardware testing. Their UAV and suborbital launch vehicle plan to revolutionize the already crowded space market.",
+                    "Time": "8",
+                    "Hashtag": "startup",
+                    "Tweet": "This startup is defying gravity\u2019s boundaries \ud83d\udce6 Gravitilab's advancements in microgravity hold immense potential for space hardware testing. Their UAV and suborbital launch vehicle plan to revolutionize the already crowded space market. #startup https://thenextweb.com/news/defying-gravity-this-uk-based-startup-is-unlocking-the-potential-of-space-economy"
+                }
+            ]
+        }
+    ],
+    "title": "Tesla gets wireless, AI's degenerative chaos, Toyota's AI boost",
+    "date": "2023/06/22",
+    "description": ""
+}

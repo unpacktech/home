@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The chatbot frenzy is wearing off",
+                    "Link": "https://gizmodo.com/chatgpts-website-traffic-dipped-for-the-first-time-sinc-1850606984",
+                    "Description": "The initial hype surrounding AI chatbots appears to be fading. According to SimilarWeb, global traffic to the ChatGPT webpage fell by 9.7% in June, marking the first drop since its launch.",
+                    "Time": "2",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "The chatbot frenzy is wearing off \ud83d\udce6 The initial hype surrounding AI chatbots appears to be fading. According to SimilarWeb, global traffic to the ChatGPT webpage fell by 9.7% in June, marking the first drop since its launch. #chatgpt https://gizmodo.com/chatgpts-website-traffic-dipped-for-the-first-time-sinc-1850606984"
+                },
+                {
+                    "Title": "Today's forecast: Cloudy with a chance of AI",
+                    "Link": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts",
+                    "Description": "Climate change demands more accurate and timely weather forecasts. Recent research showcases the potential of AI models, such as Huawei's Pangu-Weather, to surpass conventional forecasting techniques.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Today's forecast: Cloudy with a chance of AI \ud83d\udce6 Climate change demands more accurate and timely weather forecasts. Recent research showcases the potential of AI models, such as Huawei's Pangu-Weather, to surpass conventional forecasting techniques. #ai https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts"
+                },
+                {
+                    "Title": "Choose the perfect GPT",
+                    "Link": "https://www.marktechpost.com/2023/07/05/from-gpt-1-to-gpt-4-a-comprehensive-analysis-and-comparison-of-openais-evolving-language-models/",
+                    "Description": "OpenAI's language models continue to evolve and redefine natural language processing. This comprehensive analysis helps you select the model that best aligns with your needs.",
+                    "Time": "7",
+                    "Hashtag": "openai",
+                    "Tweet": "Choose the perfect GPT \ud83d\udce6 OpenAI's language models continue to evolve and redefine natural language processing. This comprehensive analysis helps you select the model that best aligns with your needs. #openai https://www.marktechpost.com/2023/07/05/from-gpt-1-to-gpt-4-a-comprehensive-analysis-and-comparison-of-openais-evolving-language-models/"
+                },
+                {
+                    "Title": "Surveillance for superintelligence",
+                    "Link": "https://www.engadget.com/openai-is-forming-a-team-to-rein-in-superintelligent-ai-214333388.html",
+                    "Description": "With the rise of superintelligent AI on the horizon, OpenAI takes the lead in risk management. A new team, led by top researchers aims to ensure safety and alignment with human values.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "Surveillance for superintelligence \ud83d\udce6 With the rise of superintelligent AI on the horizon, OpenAI takes the lead in risk management. A new team, led by top researchers aims to ensure safety and alignment with human values. #openai https://www.engadget.com/openai-is-forming-a-team-to-rein-in-superintelligent-ai-214333388.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "In a far dusty galaxy",
+                    "Link": "https://webbtelescope.org/contents/news-releases/2023/news-2023-115",
+                    "Description": "Thanks to the James Webb Space Telescope's MIRI, researchers have discovered substantial amounts of dust within two supernovae, revealing their role in dust formation.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "In a far dusty galaxy \ud83d\udce6 Thanks to the James Webb Space Telescope's MIRI, researchers have discovered substantial amounts of dust within two supernovae, revealing their role in dust formation. #space https://webbtelescope.org/contents/news-releases/2023/news-2023-115"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A revolution in solid-state batteries",
+                    "Link": "https://interestingengineering.com/transportation/toyotas-solid-state-battery-breakthrough-reduce-costs-and-size-by-50-percent",
+                    "Description": "With plans to produce solid-state battery-equipped cars by 2027, Toyota's latest innovation promises to transform the EV market, delivering longer ranges and faster charging times.",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "A revolution in solid-state batteries \ud83d\udce6 With plans to produce solid-state battery-equipped cars by 2027, Toyota's latest innovation promises to transform the EV market, delivering longer ranges and faster charging times. #toyota https://interestingengineering.com/transportation/toyotas-solid-state-battery-breakthrough-reduce-costs-and-size-by-50-percent"
+                },
+                {
+                    "Title": "Volkswagen considers joining the NACS club",
+                    "Link": "https://www.techtimes.com/articles/293491/20230706/volkswagen-adopt-tesla-nacs-charger-vw-already-talks-follows-electrify.htm",
+                    "Description": "Reports suggest that the German automaker is exploring a partnership with Tesla to adopt the renowned NACS connector, prioritizing open standards and customer convenience.",
+                    "Time": "2",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Volkswagen considers joining the NACS club \ud83d\udce6 Reports suggest that the German automaker is exploring a partnership with Tesla to adopt the renowned NACS connector, prioritizing open standards and customer convenience. #volkswagen https://www.techtimes.com/articles/293491/20230706/volkswagen-adopt-tesla-nacs-charger-vw-already-talks-follows-electrify.htm"
+                },
+                {
+                    "Title": "Tesla's robot: The ultimate salesman",
+                    "Link": "https://electrek.co/2023/07/06/tesla-use-optimus-robot-stores-help-sales/",
+                    "Description": "Sources indicate that Optimus is making its way to Tesla stores in China to enhance the retail experience. This strategic move aims to create unique and engaging experiences for customers.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's robot: The ultimate salesman \ud83d\udce6 Sources indicate that Optimus is making its way to Tesla stores in China to enhance the retail experience. This strategic move aims to create unique and engaging experiences for customers. #tesla https://electrek.co/2023/07/06/tesla-use-optimus-robot-stores-help-sales/"
+                },
+                {
+                    "Title": "On the road to autonomy",
+                    "Link": "https://www.digitaltrends.com/cars/volkswagen-testing-self-driving-cars-in-us/",
+                    "Description": "In collaboration with MobileEye, Volkswagen embarks on its autonomous journey with a groundbreaking program in the US, outfitting 10 ID. Buzz vans with self-driving tech.",
+                    "Time": "2",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "On the road to autonomy \ud83d\udce6 In collaboration with MobileEye, Volkswagen embarks on its autonomous journey with a groundbreaking program in the US, outfitting 10 ID. Buzz vans with self-driving tech. #volkswagen https://www.digitaltrends.com/cars/volkswagen-testing-self-driving-cars-in-us/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Unfold the future",
+                    "Link": "https://arstechnica.com/gadgets/2023/07/official-renders-of-the-samsung-galaxy-z-fold-5-and-flip-5-leak/",
+                    "Description": "The world of foldable smartphones is expanding, and Samsung is upping its game with the Galaxy Z Fold 5 and Z Flip 5. These official renders give us a sneak peek of what's coming next.",
+                    "Time": "2",
+                    "Hashtag": "samsung",
+                    "Tweet": "Unfold the future \ud83d\udce6 The world of foldable smartphones is expanding, and Samsung is upping its game with the Galaxy Z Fold 5 and Z Flip 5. These official renders give us a sneak peek of what's coming next. #samsung https://arstechnica.com/gadgets/2023/07/official-renders-of-the-samsung-galaxy-z-fold-5-and-flip-5-leak/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Europe\u2019s space odyssey",
+                    "Link": "https://www.space.com/ariane-6-new-european-rocket-delays",
+                    "Description": "Ariane 6's timeline has been pushed back continuously due to development hurdles. Europe's ambitious heavy-lift rocket, slated for a late 2023 debut, could now see its first flight in 2024 or later.",
+                    "Time": "4",
+                    "Hashtag": "arianespace",
+                    "Tweet": "Europe\u2019s space odyssey \ud83d\udce6 Ariane 6's timeline has been pushed back continuously due to development hurdles. Europe's ambitious heavy-lift rocket, slated for a late 2023 debut, could now see its first flight in 2024 or later. #arianespace https://www.space.com/ariane-6-new-european-rocket-delays"
+                }
+            ]
+        }
+    ],
+    "title": "ChatGPT's hype is fading, OpenAI's risk management, Toyota's solid-state battery plans",
+    "date": "2023/07/06",
+    "description": ""
+}

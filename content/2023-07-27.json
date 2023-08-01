@@ -1,0 +1,133 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Don't miss SREday in London on 14-15 September! Experience the best of Site Reliability Engineering with over 50+ talks delivered by the best in the field. Secure your early bird tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Don't miss SREday in London on 14-15 September! Experience the best of Site Reliability Engineering with over 50+ talks delivered by the best in the field. Secure your early bird tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI advancements in healthcare",
+                    "Link": "https://www.cnbc.com/2023/07/26/aws-announces-generative-ai-tool-to-save-doctors-time-on-paperwork.html",
+                    "Description": "Amazon Web Services has announced AWS HealthScribe. A service that leverages generative AI and speech recognition to automate clinical documentation, reducing the administrative workload for doctors.",
+                    "Time": "3",
+                    "Hashtag": "amazon",
+                    "Tweet": "AI advancements in healthcare \ud83d\udce6 Amazon Web Services has announced AWS HealthScribe. A service that leverages generative AI and speech recognition to automate clinical documentation, reducing the administrative workload for doctors. #amazon https://www.cnbc.com/2023/07/26/aws-announces-generative-ai-tool-to-save-doctors-time-on-paperwork.html"
+                },
+                {
+                    "Title": "Shopify presents: Sidekick",
+                    "Link": "https://techcrunch.com/2023/07/26/shopify-sidekick-is-like-chatgpt-but-for-ecommerce-merchants/",
+                    "Description": "With Shopify's new conversational AI assistant, merchants can streamline tasks, generate content, and gain valuable insights. A feature expected to contribute to the growth of their businesses.",
+                    "Time": "3",
+                    "Hashtag": "shopify",
+                    "Tweet": "Shopify presents: Sidekick \ud83d\udce6 With Shopify's new conversational AI assistant, merchants can streamline tasks, generate content, and gain valuable insights. A feature expected to contribute to the growth of their businesses. #shopify https://techcrunch.com/2023/07/26/shopify-sidekick-is-like-chatgpt-but-for-ecommerce-merchants/"
+                },
+                {
+                    "Title": "Stability AI unveils SDXL 1.0",
+                    "Link": "https://venturebeat.com/ai/stability-ai-levels-up-image-generation-launch-new-stable-diffusion-base-model/",
+                    "Description": "The latest Stable Diffusion model is here. Enjoy improved image quality, vibrant colors, and a powerful fine-tuning feature for highly detailed images using a simple text prompt.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Stability AI unveils SDXL 1.0 \ud83d\udce6 The latest Stable Diffusion model is here. Enjoy improved image quality, vibrant colors, and a powerful fine-tuning feature for highly detailed images using a simple text prompt. #ai https://venturebeat.com/ai/stability-ai-levels-up-image-generation-launch-new-stable-diffusion-base-model/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Nuclear boost for space travel",
+                    "Link": "https://www.engadget.com/nasa-picks-lockheed-martin-to-build-the-nuclear-rocket-thatll-take-us-to-mars-170035659.html",
+                    "Description": "Lockheed Martin has joined forces with NASA and DARPA to create a spacecraft with nuclear thermal propulsion. An ambitious project with potential implications for faster and more agile space missions.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Nuclear boost for space travel \ud83d\udce6 Lockheed Martin has joined forces with NASA and DARPA to create a spacecraft with nuclear thermal propulsion. An ambitious project with potential implications for faster and more agile space missions. #NASA https://www.engadget.com/nasa-picks-lockheed-martin-to-build-the-nuclear-rocket-thatll-take-us-to-mars-170035659.html"
+                },
+                {
+                    "Title": "Another obstacle to Boeing's Starliner",
+                    "Link": "https://spacenews.com/boeing-records-more-losses-from-starliner-delays/",
+                    "Description": "Despite facing financial challenges with a $257M loss on the CST-100 Starliner program, Boeing stays firmly committed to safety as they resolve technical issues for a successful launch.",
+                    "Time": "3",
+                    "Hashtag": "boeing",
+                    "Tweet": "Another obstacle to Boeing's Starliner \ud83d\udce6 Despite facing financial challenges with a $257M loss on the CST-100 Starliner program, Boeing stays firmly committed to safety as they resolve technical issues for a successful launch. #boeing https://spacenews.com/boeing-records-more-losses-from-starliner-delays/"
+                },
+                {
+                    "Title": "Try again later Falcon Heavy",
+                    "Link": "https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26",
+                    "Description": "Falcon Heavy's seventh launch takes an unexpected turn as the countdown halts with 65 seconds to go. Stay tuned for the rescheduled liftoff tonight.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Try again later Falcon Heavy \ud83d\udce6 Falcon Heavy's seventh launch takes an unexpected turn as the countdown halts with 65 seconds to go. Stay tuned for the rescheduled liftoff tonight. #spacex https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26"
+                },
+                {
+                    "Title": "Bye-bye Aeolus",
+                    "Link": "https://interestingengineering.com/innovation/assisted-reentry-esas-satellite-likely-to-fall-over-atlantic-ocean-on-july-28",
+                    "Description": "On Friday, July 28, Aeolus is set to reenter Earth's atmosphere. ESA's Space Operations Centre in Germany is taking charge, closely monitoring and guiding the satellite throughout the process.",
+                    "Time": "2",
+                    "Hashtag": "ESA",
+                    "Tweet": "Bye-bye Aeolus \ud83d\udce6 On Friday, July 28, Aeolus is set to reenter Earth's atmosphere. ESA's Space Operations Centre in Germany is taking charge, closely monitoring and guiding the satellite throughout the process. #ESA https://interestingengineering.com/innovation/assisted-reentry-esas-satellite-likely-to-fall-over-atlantic-ocean-on-july-28"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Houston, we had a power outage!",
+                    "Link": "https://www.theguardian.com/science/2023/jul/26/iss-power-outage-nasa-contact-international-space-station-backup-systems",
+                    "Description": "NASA's Mission Control experienced a power outage in Houston, resulting in losing communication with the ISS. Backup control systems were promptly activated, resolving the issue in 90 minutes.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Houston, we had a power outage! \ud83d\udce6 NASA's Mission Control experienced a power outage in Houston, resulting in losing communication with the ISS. Backup control systems were promptly activated, resolving the issue in 90 minutes. #NASA https://www.theguardian.com/science/2023/jul/26/iss-power-outage-nasa-contact-international-space-station-backup-systems"
+                },
+                {
+                    "Title": "Into the depths of space",
+                    "Link": "https://www.nasa.gov/feature/goddard/2023/webb-snaps-highly-detailed-infrared-image-of-actively-forming-stars",
+                    "Description": "The James Webb Space Telescope showcases the marvelous spectacle of actively forming stars, Herbig-Haro 46/47, in the Vela Constellation, located 1,470 light-years away.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Into the depths of space \ud83d\udce6 The James Webb Space Telescope showcases the marvelous spectacle of actively forming stars, Herbig-Haro 46/47, in the Vela Constellation, located 1,470 light-years away. #NASA https://www.nasa.gov/feature/goddard/2023/webb-snaps-highly-detailed-infrared-image-of-actively-forming-stars"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A charging revolution",
+                    "Link": "https://electrek.co/2023/07/26/auto-giants-unite-build-universal-network-clean-energy-fast-charger-north-america/",
+                    "Description": "In a groundbreaking move, BMW Group, GM, Honda, Hyundai, Kia, Mercedes-Benz Group, and Stellantis NV have come together to establish a new charging network in North America.",
+                    "Time": "5",
+                    "Hashtag": "EVs",
+                    "Tweet": "A charging revolution \ud83d\udce6 In a groundbreaking move, BMW Group, GM, Honda, Hyundai, Kia, Mercedes-Benz Group, and Stellantis NV have come together to establish a new charging network in North America. #EVs https://electrek.co/2023/07/26/auto-giants-unite-build-universal-network-clean-energy-fast-charger-north-america/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Apple calls for action!",
+                    "Link": "https://www.macrumors.com/2023/07/26/ios-17-beta-action-button-iphone-15-pro/",
+                    "Description": "The fourth beta of iOS 17 reveals clues about the rumored \"Action\" button on iPhone 15 Pro and \u200ciPhone 15 Pro\u200c Max. Code snippets suggest potential customizable options.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple calls for action! \ud83d\udce6 The fourth beta of iOS 17 reveals clues about the rumored \"Action\" button on iPhone 15 Pro and \u200ciPhone 15 Pro\u200c Max. Code snippets suggest potential customizable options. #apple https://www.macrumors.com/2023/07/26/ios-17-beta-action-button-iphone-15-pro/"
+                }
+            ]
+        }
+    ],
+    "title": "AWS announces HealthScribe, Major automakers join forces, NASA partners with Lockheed Martin",
+    "date": "2023/07/27",
+    "description": ""
+}

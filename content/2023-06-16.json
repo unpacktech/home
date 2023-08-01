@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Book your trip to space!",
+                    "Link": "https://www.space.com/virgin-galactic-first-commercial-spaceflight-june-2023",
+                    "Description": "Virgin Galactic is all set for its first commercial spaceflight this month. If you're ready to explore the cosmos, secure your ticket for only $450,000.",
+                    "Time": "2",
+                    "Hashtag": "virgingalactic",
+                    "Tweet": "Book your trip to space! \ud83d\udce6 Virgin Galactic is all set for its first commercial spaceflight this month. If you're ready to explore the cosmos, secure your ticket for only $450,000. #virgingalactic https://www.space.com/virgin-galactic-first-commercial-spaceflight-june-2023"
+                },
+                {
+                    "Title": "Collaboration fuels progress",
+                    "Link": "https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/",
+                    "Description": "NASA's collaborations with seven US companies, including Blue Origin and SpaceX, will ignite a new era of space exploration and economic growth, by sharing knowledge and resources.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Collaboration fuels progress \ud83d\udce6 NASA's collaborations with seven US companies, including Blue Origin and SpaceX, will ignite a new era of space exploration and economic growth, by sharing knowledge and resources. #NASA https://spacenews.com/nasa-agreements-to-support-work-on-commercial-spacecraft-and-space-stations/"
+                },
+                {
+                    "Title": "A major setback for Ariane 5",
+                    "Link": "https://www.techtimes.com/articles/292695/20230616/europes-final-ariane-5-rocket-launch-delayed-setback-european-space.htm",
+                    "Description": "The Ariane 5 rocket launch is experiencing a delay due to a critical technical concern. Arianespace, the European space agency, is on the case by determining a new launch date.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A major setback for Ariane 5 \ud83d\udce6 The Ariane 5 rocket launch is experiencing a delay due to a critical technical concern. Arianespace, the European space agency, is on the case by determining a new launch date. #rocketscience https://www.techtimes.com/articles/292695/20230616/europes-final-ariane-5-rocket-launch-delayed-setback-european-space.htm"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla\u2019s accidental success",
+                    "Link": "https://time.com/6287589/tesla-ev-charging-business-model/",
+                    "Description": "Tesla's charging network is attracting major players in the industry. With GM and Ford onboard, the company's charging business is set to surge into a multi-billion dollar revenue stream.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla\u2019s accidental success \ud83d\udce6 Tesla's charging network is attracting major players in the industry. With GM and Ford onboard, the company's charging business is set to surge into a multi-billion dollar revenue stream. #tesla https://time.com/6287589/tesla-ev-charging-business-model/"
+                },
+                {
+                    "Title": "BYD gets ready to challenge Tesla's reign",
+                    "Link": "https://techcrunch.com/2023/06/15/byd-is-overtaking-tesla-but-its-ev-dream-skips-the-us-for-now/",
+                    "Description": "BYD, the rising star in the EV industry, is taking on Tesla's dominance. While America may not be on its current global roadmap, the automaker is making remarkable progress in other markets.",
+                    "Time": "3",
+                    "Hashtag": "BYD",
+                    "Tweet": "BYD gets ready to challenge Tesla's reign \ud83d\udce6 BYD, the rising star in the EV industry, is taking on Tesla's dominance. While America may not be on its current global roadmap, the automaker is making remarkable progress in other markets. #BYD https://techcrunch.com/2023/06/15/byd-is-overtaking-tesla-but-its-ev-dream-skips-the-us-for-now/"
+                },
+                {
+                    "Title": "The US thrives with EV adoption",
+                    "Link": "https://www.engadget.com/the-us-is-now-the-second-largest-ev-market-behind-china-140958789.html",
+                    "Description": "Surpassing Germany, the country has firmly established itself as the world's second-largest electric car market.",
+                    "Time": "2",
+                    "Hashtag": "EVs",
+                    "Tweet": "The US thrives with EV adoption \ud83d\udce6 Surpassing Germany, the country has firmly established itself as the world's second-largest electric car market. #EVs https://www.engadget.com/the-us-is-now-the-second-largest-ev-market-behind-china-140958789.html"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Have a chat with your Mercedes",
+                    "Link": "https://www.theverge.com/2023/6/16/23763208/mercedes-benz-chatgpt-voice-assistant-beta-test",
+                    "Description": "Get ready for a new conversation partner! The company is beta-testing ChatGPT as a voice assistant in its cars, providing drivers with a more intuitive and engaging experience.",
+                    "Time": "2",
+                    "Hashtag": "mercedesbenz",
+                    "Tweet": "Have a chat with your Mercedes \ud83d\udce6 Get ready for a new conversation partner! The company is beta-testing ChatGPT as a voice assistant in its cars, providing drivers with a more intuitive and engaging experience. #mercedesbenz https://www.theverge.com/2023/6/16/23763208/mercedes-benz-chatgpt-voice-assistant-beta-test"
+                },
+                {
+                    "Title": "Shopping is easier with AI",
+                    "Link": "https://www.businessinsider.com/google-new-ai-shopping-feature-try-items-on-different-models-2023-6",
+                    "Description": "Want to see how clothes look on real models before hitting that \"buy\" button? Google's new virtual try-on feature uses AI to make it possible.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Shopping is easier with AI \ud83d\udce6 Want to see how clothes look on real models before hitting that \"buy\" button? Google's new virtual try-on feature uses AI to make it possible. #ai https://www.businessinsider.com/google-new-ai-shopping-feature-try-items-on-different-models-2023-6"
+                },
+                {
+                    "Title": "Beware of leaky chatbots...",
+                    "Link": "https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824",
+                    "Description": "According to Reuters, Google has cautioned its employees against sharing confidential information with chatbots like Bard and ChatGPT. ",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Beware of leaky chatbots... \ud83d\udce6 According to Reuters, Google has cautioned its employees against sharing confidential information with chatbots like Bard and ChatGPT.  #ai https://gizmodo.com/google-tells-employees-to-stay-away-from-its-bard-chatb-1850542824"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A magnificent view from Juno ",
+                    "Link": "https://www.nasa.gov/image-feature/jpl/nasa-s-juno-mission-captures-lightning-on-jupiter",
+                    "Description": "NASA\u2019s Juno mission captures the beauty of a lightning bolt near Jupiter's north pole, shedding light on the planet's unique weather patterns.",
+                    "Time": "1",
+                    "Hashtag": "NASA",
+                    "Tweet": "A magnificent view from Juno  \ud83d\udce6 NASA\u2019s Juno mission captures the beauty of a lightning bolt near Jupiter's north pole, shedding light on the planet's unique weather patterns. #NASA https://www.nasa.gov/image-feature/jpl/nasa-s-juno-mission-captures-lightning-on-jupiter"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "The war on Reddit continues",
+                    "Link": "https://www.cnbc.com/2023/06/16/reddit-in-crisis-as-prominent-moderators-protest-api-price-increase.html",
+                    "Description": "The widespread shutdown of thousands of subreddits is a powerful reminder of the interdependence between a platform and its passionate community.",
+                    "Time": "13",
+                    "Hashtag": "reddit",
+                    "Tweet": "The war on Reddit continues \ud83d\udce6 The widespread shutdown of thousands of subreddits is a powerful reminder of the interdependence between a platform and its passionate community. #reddit https://www.cnbc.com/2023/06/16/reddit-in-crisis-as-prominent-moderators-protest-api-price-increase.html"
+                }
+            ]
+        }
+    ],
+    "title": "Virgin Galactic gears up for space, Tesla's charging success, ChatGPT joins your road trip",
+    "date": "2023/06/16",
+    "description": ""
+}

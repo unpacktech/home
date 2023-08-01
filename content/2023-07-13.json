@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Bard keeps expanding",
+                    "Link": "https://techcrunch.com/2023/07/13/googles-bard-finally-lands-in-the-eu-now-supports-more-than-40-languages/",
+                    "Description": "Google's AI chatbot reaches a broader audience. Available in over 40 languages, and filled with innovative features, Bard aims to optimize productivity and achieve new levels of interaction.",
+                    "Time": "4",
+                    "Hashtag": "google",
+                    "Tweet": "Bard keeps expanding \ud83d\udce6 Google's AI chatbot reaches a broader audience. Available in over 40 languages, and filled with innovative features, Bard aims to optimize productivity and achieve new levels of interaction. #google https://techcrunch.com/2023/07/13/googles-bard-finally-lands-in-the-eu-now-supports-more-than-40-languages/"
+                },
+                {
+                    "Title": "An old friend joins the AI community...",
+                    "Link": "https://arstechnica.com/information-technology/2023/07/musk-announces-new-ai-company-that-seeks-to-understand-the-universe/",
+                    "Description": "After months of speculation, Elon Musk is finally introducing xAI. The company plans to give a different outlook on AI research and find what the CEO calls \"the true nature of the universe.\"",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "An old friend joins the AI community... \ud83d\udce6 After months of speculation, Elon Musk is finally introducing xAI. The company plans to give a different outlook on AI research and find what the CEO calls \"the true nature of the universe.\" #ai https://arstechnica.com/information-technology/2023/07/musk-announces-new-ai-company-that-seeks-to-understand-the-universe/"
+                },
+                {
+                    "Title": "GPT-4: It's not what it used to be",
+                    "Link": "https://www.businessinsider.com/openai-gpt4-ai-model-got-lazier-dumber-chatgpt-2023-7",
+                    "Description": "Users relying on GPT-4 are currently complaining about its capabilities. The degraded performance is likely due to OpenAI's pursuit of a significant cost-effective redesign.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "GPT-4: It's not what it used to be \ud83d\udce6 Users relying on GPT-4 are currently complaining about its capabilities. The degraded performance is likely due to OpenAI's pursuit of a significant cost-effective redesign. #ai https://www.businessinsider.com/openai-gpt4-ai-model-got-lazier-dumber-chatgpt-2023-7"
+                },
+                {
+                    "Title": "From sketch to \u201creality\u201d",
+                    "Link": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
+                    "Description": "Stable Doodle, Stability AI's latest tool, brings your artwork to life like never before. With advanced AI algorithms that enable a seamless sketch-to-image transition.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "From sketch to \u201creality\u201d \ud83d\udce6 Stable Doodle, Stability AI's latest tool, brings your artwork to life like never before. With advanced AI algorithms that enable a seamless sketch-to-image transition. #ai https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Life on Mars?",
+                    "Link": "https://www.engadget.com/researchers-find-evidence-of-organic-matter-on-mars-174950850.html",
+                    "Description": "Organic compounds have been found by the Perseverance Rover. Although it's not conclusive proof that Mars once hosted life, researchers believe the discovery sheds light on the planet's origins.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Life on Mars? \ud83d\udce6 Organic compounds have been found by the Perseverance Rover. Although it's not conclusive proof that Mars once hosted life, researchers believe the discovery sheds light on the planet's origins. #space https://www.engadget.com/researchers-find-evidence-of-organic-matter-on-mars-174950850.html"
+                },
+                {
+                    "Title": "Innovation meets astronomy",
+                    "Link": "https://theconversation.com/a-new-thin-lensed-telescope-design-could-far-surpass-james-webb-goodbye-mirrors-hello-diffractive-lenses-206055",
+                    "Description": "The Nautilus Space Observatory is a visionary concept in telescope technology. Its ultra-thin lens design promises to gather massive amounts of light, surpassing NASA's Webb.",
+                    "Time": "6",
+                    "Hashtag": "space",
+                    "Tweet": "Innovation meets astronomy \ud83d\udce6 The Nautilus Space Observatory is a visionary concept in telescope technology. Its ultra-thin lens design promises to gather massive amounts of light, surpassing NASA's Webb. #space https://theconversation.com/a-new-thin-lensed-telescope-design-could-far-surpass-james-webb-goodbye-mirrors-hello-diffractive-lenses-206055"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "An overview of China's lunar plans",
+                    "Link": "https://interestingengineering.com/innovation/chinas-twin-rockets-for-crewed-lunar-landing",
+                    "Description": "Overcoming the lack of a super heavy-lift rocket with a two-launch strategy, China aims to achieve a crewed lunar surface mission by 2030.",
+                    "Time": "2",
+                    "Hashtag": "china",
+                    "Tweet": "An overview of China's lunar plans \ud83d\udce6 Overcoming the lack of a super heavy-lift rocket with a two-launch strategy, China aims to achieve a crewed lunar surface mission by 2030. #china https://interestingengineering.com/innovation/chinas-twin-rockets-for-crewed-lunar-landing"
+                },
+                {
+                    "Title": "Stay tuned for India's moon journey",
+                    "Link": "https://www.space.com/india-chandrayaan-3-moon-mission-launch-webcast",
+                    "Description": "Chandrayaan 3, the mission with the goal of landing on the lunar surface is scheduled for launch on July 14.",
+                    "Time": "2",
+                    "Hashtag": "india",
+                    "Tweet": "Stay tuned for India's moon journey \ud83d\udce6 Chandrayaan 3, the mission with the goal of landing on the lunar surface is scheduled for launch on July 14. #india https://www.space.com/india-chandrayaan-3-moon-mission-launch-webcast"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Find what\u2019s new on iOS 17",
+                    "Link": "https://www.cnbc.com/2023/07/12/apple-ios-17-public-beta-for-iphone-released.html",
+                    "Description": "Apple has released the public beta of iOS 17, giving users a chance to explore its latest features ahead of the official launch. Experience the new standby dock, bid farewell to \"Hey Siri,\" and more.",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": "Find what\u2019s new on iOS 17 \ud83d\udce6 Apple has released the public beta of iOS 17, giving users a chance to explore its latest features ahead of the official launch. Experience the new standby dock, bid farewell to \"Hey Siri,\" and more. #apple https://www.cnbc.com/2023/07/12/apple-ios-17-public-beta-for-iphone-released.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A sustainable ride to the moon",
+                    "Link": "https://www.digitaltrends.com/space/new-nasa-evs-will-drive-crew-part-way-to-the-moon/",
+                    "Description": "NASA has unveiled a new lineup of all-electric vehicles by Canoo Technologies, set to transport astronauts and essential equipment to the launchpad ahead of the Artemis mission.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "A sustainable ride to the moon \ud83d\udce6 NASA has unveiled a new lineup of all-electric vehicles by Canoo Technologies, set to transport astronauts and essential equipment to the launchpad ahead of the Artemis mission. #NASA https://www.digitaltrends.com/space/new-nasa-evs-will-drive-crew-part-way-to-the-moon/"
+                },
+                {
+                    "Title": "Behold, more Cyberleaks",
+                    "Link": "https://electrek.co/2023/07/12/tesla-cybertruck-bodies-in-white-picture-leaks-gigafactory-texas/",
+                    "Description": "A leaked image from Gigafactory Texas showcases a glimpse of Cybertruck's body-in-white, signaling progress in the manufacturing process of the parts that make this electric pickup unique.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Behold, more Cyberleaks \ud83d\udce6 A leaked image from Gigafactory Texas showcases a glimpse of Cybertruck's body-in-white, signaling progress in the manufacturing process of the parts that make this electric pickup unique. #tesla https://electrek.co/2023/07/12/tesla-cybertruck-bodies-in-white-picture-leaks-gigafactory-texas/"
+                }
+            ]
+        }
+    ],
+    "title": "Elon Musk announces xAI, Watch India's lunar journey, Stability AI unveils Stable Doodle",
+    "date": "2023/07/13",
+    "description": ""
+}

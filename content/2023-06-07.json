@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A brighter outlook for AI",
+                    "Link": "https://a16z.com/2023/06/06/ai-will-save-the-world/",
+                    "Description": "Looking beyond the doomsday lens, AI holds immense promise. Marc Andreessen encourages us to focus on the positive side and explore the abundant opportunities it presents.",
+                    "Time": "35",
+                    "Hashtag": "ai",
+                    "Tweet": "A brighter outlook for AI \ud83d\udce6 Looking beyond the doomsday lens, AI holds immense promise. Marc Andreessen encourages us to focus on the positive side and explore the abundant opportunities it presents. #ai https://a16z.com/2023/06/06/ai-will-save-the-world/"
+                },
+                {
+                    "Title": "Blueprint: Integrations made easy",
+                    "Link": "https://venturebeat.com/ai/merge-unveils-blueprint-an-ai-powered-tool-to-enable-easier-api-integrations/",
+                    "Description": "Merge's latest tool, Blueprint, allows developers and non-technical employees to simplify API integration with the help of OpenAI's GPT-3.5.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Blueprint: Integrations made easy \ud83d\udce6 Merge's latest tool, Blueprint, allows developers and non-technical employees to simplify API integration with the help of OpenAI's GPT-3.5. #ai https://venturebeat.com/ai/merge-unveils-blueprint-an-ai-powered-tool-to-enable-easier-api-integrations/"
+                },
+                {
+                    "Title": "Instagram joins the chatbot frenzy",
+                    "Link": "https://www.businessinsider.com/instagram-developing-ai-chatbot-multiple-personalities-report-2023-6",
+                    "Description": "The platform is reportedly developing an AI chatbot that aims to enhance user expression by offering assistance with questions, advice, and message composition.",
+                    "Time": "2",
+                    "Hashtag": "instagram",
+                    "Tweet": "Instagram joins the chatbot frenzy \ud83d\udce6 The platform is reportedly developing an AI chatbot that aims to enhance user expression by offering assistance with questions, advice, and message composition. #instagram https://www.businessinsider.com/instagram-developing-ai-chatbot-multiple-personalities-report-2023-6"
+                },
+                {
+                    "Title": "WordPress unveils Jetpack",
+                    "Link": "https://www.engadget.com/wordpress-jetpack-ai-will-write-your-blog-posts-for-you-121009297.html",
+                    "Description": "Blogging is now a breeze with Jetpack, the AI writing assistant for WordPress, that provides you with content ideas, grammar support, and even translation.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "WordPress unveils Jetpack \ud83d\udce6 Blogging is now a breeze with Jetpack, the AI writing assistant for WordPress, that provides you with content ideas, grammar support, and even translation. #ai https://www.engadget.com/wordpress-jetpack-ai-will-write-your-blog-posts-for-you-121009297.html"
+                },
+                {
+                    "Title": "Adobe Stock gets filled with AI",
+                    "Link": "https://petapixel.com/2023/06/06/ai-images-are-outperforming-photos-on-adobe-stock/",
+                    "Description": "Recent reports highlight a rise of AI in stock photography, as they're earning an average revenue per image per month (RPI/m) four and a half times higher than traditional photos.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Adobe Stock gets filled with AI \ud83d\udce6 Recent reports highlight a rise of AI in stock photography, as they're earning an average revenue per image per month (RPI/m) four and a half times higher than traditional photos. #ai https://petapixel.com/2023/06/06/ai-images-are-outperforming-photos-on-adobe-stock/"
+                },
+                {
+                    "Title": "Make your own chatbot with OpenChat",
+                    "Link": "https://github.com/openchatai/OpenChat",
+                    "Description": "This user-friendly chatbot console simplifies the use of large language models. Avoid overwhelming AI installations and optimize the process for creating your own comprehensive chatbot.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Make your own chatbot with OpenChat \ud83d\udce6 This user-friendly chatbot console simplifies the use of large language models. Avoid overwhelming AI installations and optimize the process for creating your own comprehensive chatbot. #ai https://github.com/openchatai/OpenChat"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "GM is redefining design",
+                    "Link": "https://electrek.co/2023/06/06/gm-reveals-proxima-future-ev-design-and-platform/",
+                    "Description": "With the Proxima EV design concept, the automaker seeks to appeal to Chinese electric vehicle customers by introducing a new level of cutting-edge architecture.",
+                    "Time": "3",
+                    "Hashtag": "generalmotors",
+                    "Tweet": "GM is redefining design \ud83d\udce6 With the Proxima EV design concept, the automaker seeks to appeal to Chinese electric vehicle customers by introducing a new level of cutting-edge architecture. #generalmotors https://electrek.co/2023/06/06/gm-reveals-proxima-future-ev-design-and-platform/"
+                },
+                {
+                    "Title": "Powering through the cold",
+                    "Link": "https://electrek.co/2023/06/07/chinese-unicorn-startup-ev-battery-operates-normal-in-winter/",
+                    "Description": "Greater Bay Technology, a battery startup in China, has developed an innovative cell technology that ensures consistent charging performance, regardless of the weather.",
+                    "Time": "3",
+                    "Hashtag": "startups",
+                    "Tweet": "Powering through the cold \ud83d\udce6 Greater Bay Technology, a battery startup in China, has developed an innovative cell technology that ensures consistent charging performance, regardless of the weather. #startups https://electrek.co/2023/06/07/chinese-unicorn-startup-ev-battery-operates-normal-in-winter/"
+                },
+                {
+                    "Title": "Meet the tiny giant",
+                    "Link": "https://arstechnica.com/cars/2023/06/volvos-next-ev-is-here-and-its-affordable-the-34950-ex30/",
+                    "Description": "Compact and wallet-friendly, Volvo's latest innovation, the EX30, is the perfect EV for eco-conscious drivers.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "Meet the tiny giant \ud83d\udce6 Compact and wallet-friendly, Volvo's latest innovation, the EX30, is the perfect EV for eco-conscious drivers. #volvo https://arstechnica.com/cars/2023/06/volvos-next-ev-is-here-and-its-affordable-the-34950-ex30/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Discover iOS 17",
+                    "Link": "https://techcrunch.com/2023/06/06/here-are-the-ios-17-features-apple-didnt-announce-on-stage/",
+                    "Description": "If you've missed out on the exciting new features coming to iOS 17, fear not! Here's a quick recap to keep you informed.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "Discover iOS 17 \ud83d\udce6 If you've missed out on the exciting new features coming to iOS 17, fear not! Here's a quick recap to keep you informed. #apple https://techcrunch.com/2023/06/06/here-are-the-ios-17-features-apple-didnt-announce-on-stage/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "An eventful summer for Firefly Aerospace",
+                    "Link": "https://techcrunch.com/2023/06/06/firefly-targets-august-for-nasa-cubesat-launch/",
+                    "Description": "With a shift in their launch schedule, they're now eyeing August to send a batch of CubeSats for NASA.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "An eventful summer for Firefly Aerospace \ud83d\udce6 With a shift in their launch schedule, they're now eyeing August to send a batch of CubeSats for NASA. #rocketscience https://techcrunch.com/2023/06/06/firefly-targets-august-for-nasa-cubesat-launch/"
+                }
+            ]
+        }
+    ],
+    "title": "The bright side of AI, Instagram joins the chatbot hype, WordPress announces Jetpack",
+    "date": "2023/06/07",
+    "description": ""
+}
