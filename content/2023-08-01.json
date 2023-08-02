@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "London awaits you on 14-15 September for the most exciting SRE event of the year! Be part of a two-day tech extravaganza with over 50+ talks. Don't miss your chance, book your early bird tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 London awaits you on 14-15 September for the most exciting SRE event of the year! Be part of a two-day tech extravaganza with over 50+ talks. Don't miss your chance, book your early bird tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Your chatbot isn't always right",
+                    "Link": "https://apnews.com/article/artificial-intelligence-hallucination-chatbots-chatgpt-falsehoods-ac4672c5b06e6f91050aa46ee731bcf4",
+                    "Description": "Hallucinations are a common headache for users trying to get work done with generative AI systems. The industry recognizes the need for improvements, but many doubt that they will suffice.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Your chatbot isn't always right \ud83d\udce6 Hallucinations are a common headache for users trying to get work done with generative AI systems. The industry recognizes the need for improvements, but many doubt that they will suffice. #ai https://apnews.com/article/artificial-intelligence-hallucination-chatbots-chatgpt-falsehoods-ac4672c5b06e6f91050aa46ee731bcf4"
+                },
+                {
+                    "Title": "The fight against image manipulation",
+                    "Link": "https://venturebeat.com/ai/mit-csail-unveils-photoguard-an-ai-defense-against-unauthorized-image-manipulation/",
+                    "Description": "Researchers at MIT CSAIL have developed \"PhotoGuard,\" an AI tool that detects invisible perturbations in images, aimed at protecting against malicious manipulation attempts.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "The fight against image manipulation \ud83d\udce6 Researchers at MIT CSAIL have developed \"PhotoGuard,\" an AI tool that detects invisible perturbations in images, aimed at protecting against malicious manipulation attempts. #ai https://venturebeat.com/ai/mit-csail-unveils-photoguard-an-ai-defense-against-unauthorized-image-manipulation/"
+                },
+                {
+                    "Title": "AI solutions from Dell",
+                    "Link": "https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/",
+                    "Description": "The company has introduced its generative AI solutions portfolio. In collaboration with Nvidia, Dell plans to assist enterprises in adopting advanced AI technologies for business benefits.",
+                    "Time": "4",
+                    "Hashtag": "dell",
+                    "Tweet": "AI solutions from Dell \ud83d\udce6 The company has introduced its generative AI solutions portfolio. In collaboration with Nvidia, Dell plans to assist enterprises in adopting advanced AI technologies for business benefits. #dell https://venturebeat.com/ai/dell-and-nvidia-join-forces-for-next-gen-generative-ai-solutions/"
+                },
+                {
+                    "Title": "Meta is launching AI \u201cpersonas\u201d",
+                    "Link": "https://www.theverge.com/2023/8/1/23815287/meta-ai-persona-generative-llama-instagram-facebook",
+                    "Description": "By introducing chatbots with distinct personalities on Facebook and Instagram, Meta aims to enhance user experiences and position itself against competitors in the AI landscape.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Meta is launching AI \u201cpersonas\u201d \ud83d\udce6 By introducing chatbots with distinct personalities on Facebook and Instagram, Meta aims to enhance user experiences and position itself against competitors in the AI landscape. #meta https://www.theverge.com/2023/8/1/23815287/meta-ai-persona-generative-llama-instagram-facebook"
+                },
+                {
+                    "Title": "Google's Assistant gets revamped",
+                    "Link": "https://www.axios.com/2023/07/31/google-assistant-artificial-intelligence-news",
+                    "Description": "With the goal of creating a more intuitive experience and reshaping its Assistant's functionality. Google is embracing generative AI technologies, as seen in ChatGPT and its own Bard chatbot.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Google's Assistant gets revamped \ud83d\udce6 With the goal of creating a more intuitive experience and reshaping its Assistant's functionality. Google is embracing generative AI technologies, as seen in ChatGPT and its own Bard chatbot. #google https://www.axios.com/2023/07/31/google-assistant-artificial-intelligence-news"
+                },
+                {
+                    "Title": "This is an AI-Generated post",
+                    "Link": "https://www.engadget.com/instagram-seems-to-be-working-on-labels-for-posts-generated-by-meta-ai-173427549.html",
+                    "Description": "Meta is currently developing generative AI features for Instagram that allow users to identify images created by Meta AI, representing a significant move toward promoting responsible AI practices.",
+                    "Time": "2",
+                    "Hashtag": "instagram",
+                    "Tweet": "This is an AI-Generated post \ud83d\udce6 Meta is currently developing generative AI features for Instagram that allow users to identify images created by Meta AI, representing a significant move toward promoting responsible AI practices. #instagram https://www.engadget.com/instagram-seems-to-be-working-on-labels-for-posts-generated-by-meta-ai-173427549.html"
+                },
+                {
+                    "Title": "Youtube\u2019s AI-powered insights",
+                    "Link": "https://www.androidpolice.com/youtube-experiment-ai-video-summary/",
+                    "Description": "The platform is now integrating AI-generated summaries into English videos, providing users with a brief but valuable insight into the content.",
+                    "Time": "2",
+                    "Hashtag": "youtube",
+                    "Tweet": "Youtube\u2019s AI-powered insights \ud83d\udce6 The platform is now integrating AI-generated summaries into English videos, providing users with a brief but valuable insight into the content. #youtube https://www.androidpolice.com/youtube-experiment-ai-video-summary/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The doctor will chat with you now",
+                    "Link": "https://www.cnbc.com/2023/08/01/amazon-rolls-out-its-virtual-health-clinic-nationwide.html",
+                    "Description": "Amazon's virtual health clinic, Amazon Clinic, has expanded its availability across the US, allowing users to connect with healthcare providers for common conditions through video or text message.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "The doctor will chat with you now \ud83d\udce6 Amazon's virtual health clinic, Amazon Clinic, has expanded its availability across the US, allowing users to connect with healthcare providers for common conditions through video or text message. #amazon https://www.cnbc.com/2023/08/01/amazon-rolls-out-its-virtual-health-clinic-nationwide.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Euclid begins its journey!",
+                    "Link": "https://interestingengineering.com/science/esas-euclid-space-telescope-first-test-images-cosmos",
+                    "Description": "The ESA's space telescope has embarked on its mission to explore dark matter and dark energy, sending back its initial test images that showcase the wonders of the night sky.",
+                    "Time": "3",
+                    "Hashtag": "ESA",
+                    "Tweet": "Euclid begins its journey! \ud83d\udce6 The ESA's space telescope has embarked on its mission to explore dark matter and dark energy, sending back its initial test images that showcase the wonders of the night sky. #ESA https://interestingengineering.com/science/esas-euclid-space-telescope-first-test-images-cosmos"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A watery defense against Starship's thrust",
+                    "Link": "https://www.digitaltrends.com/space/spacex-test-water-deluge-system-starship-launches/",
+                    "Description": "SpaceX has revealed stunning footage of their new water deluge system, designed to protect the launchpad from the immense heat and force of Starship.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "A watery defense against Starship's thrust \ud83d\udce6 SpaceX has revealed stunning footage of their new water deluge system, designed to protect the launchpad from the immense heat and force of Starship. #spacex https://www.digitaltrends.com/space/spacex-test-water-deluge-system-starship-launches/"
+                }
+            ]
+        }
+    ],
+    "title": "Google's Assistant gets a makeover, Dell's AI solutions, Meta's \"personas\" is coming soon",
+    "date": "2023/08/01",
+    "description": "We couldn\u2019t avoid having a mix of AI news for today. It seems that all the big names in the field are trying to keep up with the AI race. From Google to Meta and even Dell, there\u2019s not a place that doesn't get a bit of artificial intelligence's magical touch."
+}

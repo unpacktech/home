@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Surf the web with ChatGPT",
+                    "Link": "https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/",
+                    "Description": "ChatGPT's new \"Browsing\" feature is now available for mobile users, but there's a catch: it's exclusively powered by Bing. Does this compromise the quality of the results?",
+                    "Time": "2",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "Surf the web with ChatGPT \ud83d\udce6 ChatGPT's new \"Browsing\" feature is now available for mobile users, but there's a catch: it's exclusively powered by Bing. Does this compromise the quality of the results? #chatgpt https://techcrunch.com/2023/06/27/openais-chatgpt-app-can-now-search-the-web-but-only-via-bing/"
+                },
+                {
+                    "Title": "Nvidia join forces with Snowflake",
+                    "Link": "https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/",
+                    "Description": "With this partnership, businesses can leverage Nvidia's power to search and build applications on top of their data in Snowflake, without the hassle of copying or moving it elsewhere.",
+                    "Time": "4",
+                    "Hashtag": "NVIDIA",
+                    "Tweet": "Nvidia join forces with Snowflake \ud83d\udce6 With this partnership, businesses can leverage Nvidia's power to search and build applications on top of their data in Snowflake, without the hassle of copying or moving it elsewhere. #NVIDIA https://www.zdnet.com/article/nvidia-teams-up-with-snowflake-for-large-language-model-ai/"
+                },
+                {
+                    "Title": "Is the AI hype worth the investment?",
+                    "Link": "https://www.axios.com/2023/06/28/ai-buying-spree-acquisitions",
+                    "Description": "The race for AI dominance is fueling a surge in corporate acquisitions and investments. But as companies strive to stay ahead, maybe not everyone needs to get AI-powered.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Is the AI hype worth the investment? \ud83d\udce6 The race for AI dominance is fueling a surge in corporate acquisitions and investments. But as companies strive to stay ahead, maybe not everyone needs to get AI-powered. #ai https://www.axios.com/2023/06/28/ai-buying-spree-acquisitions"
+                },
+                {
+                    "Title": "Let AI plan your adventure",
+                    "Link": "https://thenextweb.com/news/next-trip-you-book-online-could-be-planned-with-chatgpt",
+                    "Description": "Booking has introduced its AI trip planner, powered by advanced machine learning and OpenAI's ChatGPT. An innovative tool that streamlines the planning process for users.",
+                    "Time": "2",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "Let AI plan your adventure \ud83d\udce6 Booking has introduced its AI trip planner, powered by advanced machine learning and OpenAI's ChatGPT. An innovative tool that streamlines the planning process for users. #chatgpt https://thenextweb.com/news/next-trip-you-book-online-could-be-planned-with-chatgpt"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Cleaning up the space",
+                    "Link": "https://gizmodo.com/odin-space-test-tracking-of-super-tiny-space-debris-1850583427",
+                    "Description": "ODIN Space's experimental sensor aims to track tiny dangers in the cosmos. A remarkable technology that fills a very important gap in the space sector: the fight against debris.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Cleaning up the space \ud83d\udce6 ODIN Space's experimental sensor aims to track tiny dangers in the cosmos. A remarkable technology that fills a very important gap in the space sector: the fight against debris. #space https://gizmodo.com/odin-space-test-tracking-of-super-tiny-space-debris-1850583427"
+                },
+                {
+                    "Title": "Don\u2019t miss Virgin Galatic\u2019s journey!",
+                    "Link": "https://www.space.com/virgin-galactic-1st-commercial-spaceflight-livestream",
+                    "Description": "The company's first-ever commercial spaceflight will be live-streamed on June 29. Tune in, as the spaceplane takes off from New Mexico's Spaceport America.",
+                    "Time": "2",
+                    "Hashtag": "virgingalactic",
+                    "Tweet": "Don\u2019t miss Virgin Galatic\u2019s journey! \ud83d\udce6 The company's first-ever commercial spaceflight will be live-streamed on June 29. Tune in, as the spaceplane takes off from New Mexico's Spaceport America. #virgingalactic https://www.space.com/virgin-galactic-1st-commercial-spaceflight-livestream"
+                },
+                {
+                    "Title": "Falcon 9 just got a competition",
+                    "Link": "https://spacenews.com/chinese-company-plans-to-launch-rocket-comparable-to-falcon-9-in-2024/",
+                    "Description": "China's Space Pioneer plans to launch a rocket similar to SpaceX's Falcon 9, called the Tianlong-3, equipped with a reusable first stage and a payload capacity of 17 tons to low Earth orbit.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "Falcon 9 just got a competition \ud83d\udce6 China's Space Pioneer plans to launch a rocket similar to SpaceX's Falcon 9, called the Tianlong-3, equipped with a reusable first stage and a payload capacity of 17 tons to low Earth orbit. #space https://spacenews.com/chinese-company-plans-to-launch-rocket-comparable-to-falcon-9-in-2024/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "NASA's all-electric dream comes to an end",
+                    "Link": "https://spaceexplored.com/2023/06/27/nasa-to-conclude-all-electric-x-57-maxwell-aircraft-program/",
+                    "Description": "The X-57 Maxwell, a project that aimed to revolutionize aviation's impact on the environment, concludes without taking flight as safety and budget challenges halted its journey.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA's all-electric dream comes to an end \ud83d\udce6 The X-57 Maxwell, a project that aimed to revolutionize aviation's impact on the environment, concludes without taking flight as safety and budget challenges halted its journey. #NASA https://spaceexplored.com/2023/06/27/nasa-to-conclude-all-electric-x-57-maxwell-aircraft-program/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "NACS is steadily progressing",
+                    "Link": "https://apnews.com/article/tesla-electric-vehicle-charging-plug-standard-01ed6050d8ddfbbe2d27b83ddf0b9943",
+                    "Description": "Tesla's charging connector continues its path to becoming the industry standard in the US. This momentum is further supported by SAE International's recent move to establish performance standards.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "NACS is steadily progressing \ud83d\udce6 Tesla's charging connector continues its path to becoming the industry standard in the US. This momentum is further supported by SAE International's recent move to establish performance standards. #tesla https://apnews.com/article/tesla-electric-vehicle-charging-plug-standard-01ed6050d8ddfbbe2d27b83ddf0b9943"
+                },
+                {
+                    "Title": "Tesla's charging frenzy gets a new member",
+                    "Link": "https://www.techtimes.com/articles/293102/20230627/volvo-confirms-adopting-tesla-nacs-charging-technology.htm",
+                    "Description": "Volvo takes the lead as the pioneer among European automakers by embracing Tesla's North American Charging Standard (NACS).",
+                    "Time": "3",
+                    "Hashtag": "volvo",
+                    "Tweet": "Tesla's charging frenzy gets a new member \ud83d\udce6 Volvo takes the lead as the pioneer among European automakers by embracing Tesla's North American Charging Standard (NACS). #volvo https://www.techtimes.com/articles/293102/20230627/volvo-confirms-adopting-tesla-nacs-charging-technology.htm"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A farewell to Iris",
+                    "Link": "https://www.engadget.com/google-is-no-longer-building-its-own-augmented-reality-glasses-062555498.html",
+                    "Description": "Google's augmented reality glasses, known as \"Iris,\" faced several setbacks that led to its shelving. However, with this unexpected turn, the company's focus now lies on AR software development.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "A farewell to Iris \ud83d\udce6 Google's augmented reality glasses, known as \"Iris,\" faced several setbacks that led to its shelving. However, with this unexpected turn, the company's focus now lies on AR software development. #google https://www.engadget.com/google-is-no-longer-building-its-own-augmented-reality-glasses-062555498.html"
+                }
+            ]
+        }
+    ],
+    "title": "Nvidia teams up with Snowflake, Tesla's NACS hype continues, AI is your next trip planner",
+    "date": "2023/06/28",
+    "description": ""
+}

@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Meta's LLaMA 2 is here!",
+                    "Link": "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/",
+                    "Description": "Now open-source and freely available for commercial use, this transformer-based language model offers enterprises an exciting alternative in the world of generative AI. ",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Meta's LLaMA 2 is here! \ud83d\udce6 Now open-source and freely available for commercial use, this transformer-based language model offers enterprises an exciting alternative in the world of generative AI.  #ai https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+                },
+                {
+                    "Title": "Qualcomm teams up with Meta",
+                    "Link": "https://www.androidauthority.com/qualcomm-meta-on-device-ai-phones-2024-3346204/",
+                    "Description": "Qualcomm is introducing on-device AI capabilities to high-end phones and PCs in 2024, powered by Meta's LLaMA 2. Offering advanced productivity and entertainment experiences to users.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Qualcomm teams up with Meta \ud83d\udce6 Qualcomm is introducing on-device AI capabilities to high-end phones and PCs in 2024, powered by Meta's LLaMA 2. Offering advanced productivity and entertainment experiences to users. #ai https://www.androidauthority.com/qualcomm-meta-on-device-ai-phones-2024-3346204/"
+                },
+                {
+                    "Title": "Big news from Microsoft Inspire",
+                    "Link": "https://www.engadget.com/microsoft-will-charge-businesses-30-per-user-for-its-365-ai-copilot-153042654.html",
+                    "Description": "The company has revealed pricing for Microsoft 365 Copilot, their GPT-4-powered suite of tools. For just $30 per user, businesses will be able to generate Office content effortlessly.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Big news from Microsoft Inspire \ud83d\udce6 The company has revealed pricing for Microsoft 365 Copilot, their GPT-4-powered suite of tools. For just $30 per user, businesses will be able to generate Office content effortlessly. #ai https://www.engadget.com/microsoft-will-charge-businesses-30-per-user-for-its-365-ai-copilot-153042654.html"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Microsoft moves forward",
+                    "Link": "https://www.digitaltrends.com/gaming/microsoft-activision-nlizzard-deadline-extension/",
+                    "Description": "The Microsoft-Activision Blizzard merger deadline has been extended to October 18. The companies are working diligently to finalize the deal, taking into account regulatory considerations.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Microsoft moves forward \ud83d\udce6 The Microsoft-Activision Blizzard merger deadline has been extended to October 18. The companies are working diligently to finalize the deal, taking into account regulatory considerations. #microsoft https://www.digitaltrends.com/gaming/microsoft-activision-nlizzard-deadline-extension/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "The countdown begins\u2026",
+                    "Link": "https://www.nasa.gov/feature/jpl/nasa-s-psyche-mission-enters-home-stretch-before-launch",
+                    "Description": "NASA's Psyche spacecraft is prepping for its epic journey to unravel the mysteries of a metal-rich asteroid and shed light on planetary evolution.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "The countdown begins\u2026 \ud83d\udce6 NASA's Psyche spacecraft is prepping for its epic journey to unravel the mysteries of a metal-rich asteroid and shed light on planetary evolution. #NASA https://www.nasa.gov/feature/jpl/nasa-s-psyche-mission-enters-home-stretch-before-launch"
+                },
+                {
+                    "Title": "NASA's lunar shadow explorer",
+                    "Link": "https://arstechnica.com/space/2023/07/nasa-starts-building-ice-hunting-moon-rover/",
+                    "Description": "VIPER, a specialized rover, is getting ready to explore the dark polar craters of the moon. This mission aims to find ice deposits that could support future human exploration.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA's lunar shadow explorer \ud83d\udce6 VIPER, a specialized rover, is getting ready to explore the dark polar craters of the moon. This mission aims to find ice deposits that could support future human exploration. #NASA https://arstechnica.com/space/2023/07/nasa-starts-building-ice-hunting-moon-rover/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "BepiColombo unveils a mystery",
+                    "Link": "https://interestingengineering.com/science/bepicolombo-probe-electron-precipitation-auroras-mercury",
+                    "Description": "Scientists have discovered that Mercury, with its minimal atmosphere, showcases magnificent auroras after all. Thanks to electron precipitation at the planet's surface.",
+                    "Time": "3",
+                    "Hashtag": "ESA",
+                    "Tweet": "BepiColombo unveils a mystery \ud83d\udce6 Scientists have discovered that Mercury, with its minimal atmosphere, showcases magnificent auroras after all. Thanks to electron precipitation at the planet's surface. #ESA https://interestingengineering.com/science/bepicolombo-probe-electron-precipitation-auroras-mercury"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Carl Pei\u2019s approach to gadgets",
+                    "Link": "https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds",
+                    "Description": "The Nothing Phone 2 is here, and it's all about being a GOOD phone, according to Carl Pei. But his ambitions don't end with smartphones; he aims to revolutionize the tech industry itself.",
+                    "Time": "18",
+                    "Hashtag": "nothing",
+                    "Tweet": "Carl Pei\u2019s approach to gadgets \ud83d\udce6 The Nothing Phone 2 is here, and it's all about being a GOOD phone, according to Carl Pei. But his ambitions don't end with smartphones; he aims to revolutionize the tech industry itself. #nothing https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds"
+                },
+                {
+                    "Title": "Apple\u2019s Vision Pro meets Unity",
+                    "Link": "https://techcrunch.com/2023/07/19/unitys-apple-vision-pro-game-development-tool-opens-in-beta/",
+                    "Description": "With the beta version of its development platform for visionOS, PolySpatial, developers can build captivating 3D experiences.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple\u2019s Vision Pro meets Unity \ud83d\udce6 With the beta version of its development platform for visionOS, PolySpatial, developers can build captivating 3D experiences. #apple https://techcrunch.com/2023/07/19/unitys-apple-vision-pro-game-development-tool-opens-in-beta/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Nissan joins the NACS revolution",
+                    "Link": "https://electrek.co/2023/07/19/nissan-first-japanese-automaker-teslas-nacs/",
+                    "Description": "By becoming the first Japanese automaker to adopt Tesla's North American Charging Standard (NACS) starting in 2025. Nissan proves its commitment to making electric mobility more accessible.",
+                    "Time": "3",
+                    "Hashtag": "nissan",
+                    "Tweet": "Nissan joins the NACS revolution \ud83d\udce6 By becoming the first Japanese automaker to adopt Tesla's North American Charging Standard (NACS) starting in 2025. Nissan proves its commitment to making electric mobility more accessible. #nissan https://electrek.co/2023/07/19/nissan-first-japanese-automaker-teslas-nacs/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Introducing: Lazygit",
+                    "Link": "https://github.com/jesseduffield/lazygit",
+                    "Description": "Struggling with Git's complexity? With Lazygit, it becomes user-friendly, allowing you to focus on your work without hassle.",
+                    "Time": "5",
+                    "Hashtag": "programming",
+                    "Tweet": "Introducing: Lazygit \ud83d\udce6 Struggling with Git's complexity? With Lazygit, it becomes user-friendly, allowing you to focus on your work without hassle. #programming https://github.com/jesseduffield/lazygit"
+                }
+            ]
+        }
+    ],
+    "title": "LLaMA 2 has arrived, Qualcomm and Meta join forces, Microsoft's deal steps forward",
+    "date": "2023/07/19",
+    "description": ""
+}

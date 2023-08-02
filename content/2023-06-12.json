@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Beware of AI pollution!",
+                    "Link": "https://venturebeat.com/ai/the-ai-feedback-loop-researchers-warn-of-model-collapse-as-ai-trains-on-ai-generated-content/",
+                    "Description": "As AI trains on machine-generated data, researchers uncover a concerning truth: irreversible defects can emerge. Human knowledge remains essential for maintaining response quality and variety.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "Beware of AI pollution! \ud83d\udce6 As AI trains on machine-generated data, researchers uncover a concerning truth: irreversible defects can emerge. Human knowledge remains essential for maintaining response quality and variety. #ai https://venturebeat.com/ai/the-ai-feedback-loop-researchers-warn-of-model-collapse-as-ai-trains-on-ai-generated-content/"
+                },
+                {
+                    "Title": "Safety comes first for the UK",
+                    "Link": "https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/",
+                    "Description": "In the pursuit of more responsible AI development, OpenAI, Google DeepMind, and Anthropic are collaborating with the UK government by granting early access to their AI models for research purposes.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Safety comes first for the UK \ud83d\udce6 In the pursuit of more responsible AI development, OpenAI, Google DeepMind, and Anthropic are collaborating with the UK government by granting early access to their AI models for research purposes. #ai https://techcrunch.com/2023/06/12/uk-ai-safety-research-pledge/"
+                },
+                {
+                    "Title": "Salesforce unveils AI solutions for enterprises",
+                    "Link": "https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/",
+                    "Description": "AI Cloud is an open platform designed to transform business operations. With AI-powered insights and automated workflows, enterprises can create more meaningful connections with their audiences.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Salesforce unveils AI solutions for enterprises \ud83d\udce6 AI Cloud is an open platform designed to transform business operations. With AI-powered insights and automated workflows, enterprises can create more meaningful connections with their audiences. #ai https://venturebeat.com/ai/salesforce-announces-ai-cloud-to-empower-enterprises-with-trusted-generative-ai/"
+                },
+                {
+                    "Title": "A more powerful Search with AI",
+                    "Link": "https://www.cnet.com/tech/services-and-software/googles-new-ai-search-slick-summaries-but-requires-fact-checks/",
+                    "Description": "Google's experimental search engine uses generative AI to synthesize answers from multiple sources, providing a more intuitive and informative experience.",
+                    "Time": "6",
+                    "Hashtag": "google",
+                    "Tweet": "A more powerful Search with AI \ud83d\udce6 Google's experimental search engine uses generative AI to synthesize answers from multiple sources, providing a more intuitive and informative experience. #google https://www.cnet.com/tech/services-and-software/googles-new-ai-search-slick-summaries-but-requires-fact-checks/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "NACS: On the path to standardization",
+                    "Link": "https://electrek.co/2023/06/09/tesla-nacs-domino-ev-charging-companies-adopting-standard/",
+                    "Description": "Tesla's connector is gaining traction as the preferred choice for electric vehicle charging. With GM and Ford on board, it's set to become the new industry standard.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "NACS: On the path to standardization \ud83d\udce6 Tesla's connector is gaining traction as the preferred choice for electric vehicle charging. With GM and Ford on board, it's set to become the new industry standard. #tesla https://electrek.co/2023/06/09/tesla-nacs-domino-ev-charging-companies-adopting-standard/"
+                },
+                {
+                    "Title": "Retail therapy with Tesla",
+                    "Link": "https://electrek.co/2023/06/11/tesla-unveils-new-giga-laboratory-concept/",
+                    "Description": "Tesla introduces \"Giga Laboratory,\" a concept store in Chengdu, that takes visitors on a journey through the wonders of car manufacturing while providing a relaxed space to connect.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Retail therapy with Tesla \ud83d\udce6 Tesla introduces \"Giga Laboratory,\" a concept store in Chengdu, that takes visitors on a journey through the wonders of car manufacturing while providing a relaxed space to connect. #tesla https://electrek.co/2023/06/11/tesla-unveils-new-giga-laboratory-concept/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Vision Pro: Budget edition",
+                    "Link": "https://9to5mac.com/2023/06/11/apple-more-affordable-version-of-vision-pro/",
+                    "Description": "Mark Gurman suggests that \"Apple Vision One\" or \"Apple Vision\" will come with a lower-quality screen and a simpler headband design by 2025 as a more affordable alternative.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Vision Pro: Budget edition \ud83d\udce6 Mark Gurman suggests that \"Apple Vision One\" or \"Apple Vision\" will come with a lower-quality screen and a simpler headband design by 2025 as a more affordable alternative. #apple https://9to5mac.com/2023/06/11/apple-more-affordable-version-of-vision-pro/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Innovation in heating",
+                    "Link": "https://www.fastcompany.com/90904422/this-paper-thin-tech-turns-your-walls-or-furniture-into-an-energy-efficient-heater",
+                    "Description": "Finnish startup, The Warming Surfaces Company, introduces \"Halia\" a heating technology that transforms furniture and walls into energy-efficient radiant heaters.",
+                    "Time": "6",
+                    "Hashtag": "startups",
+                    "Tweet": "Innovation in heating \ud83d\udce6 Finnish startup, The Warming Surfaces Company, introduces \"Halia\" a heating technology that transforms furniture and walls into energy-efficient radiant heaters. #startups https://www.fastcompany.com/90904422/this-paper-thin-tech-turns-your-walls-or-furniture-into-an-energy-efficient-heater"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Discover Fastgen: The backend builder",
+                    "Link": "https://www.producthunt.com/posts/fastgen-2",
+                    "Description": "This low-code platform allows you to simplify building, testing, and deploying custom backends.",
+                    "Time": "4",
+                    "Hashtag": "programming",
+                    "Tweet": "Discover Fastgen: The backend builder \ud83d\udce6 This low-code platform allows you to simplify building, testing, and deploying custom backends. #programming https://www.producthunt.com/posts/fastgen-2"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Thinking about upgrading your MacBook?",
+                    "Link": "https://www.cnbc.com/2023/06/12/apple-macbook-air-15-inch-wins-on-battery-life-portability-price.html",
+                    "Description": "Apple's 15-inch MacBook Air is here to impress, with a perfect blend of sleek design, improved battery life, and powerful performance.",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": "Thinking about upgrading your MacBook? \ud83d\udce6 Apple's 15-inch MacBook Air is here to impress, with a perfect blend of sleek design, improved battery life, and powerful performance. #apple https://www.cnbc.com/2023/06/12/apple-macbook-air-15-inch-wins-on-battery-life-portability-price.html"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "The Reddit revolution",
+                    "Link": "https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes",
+                    "Description": "The subreddit blackout intensifies as more than 6,000 communities join the protest against Reddit's API pricing.",
+                    "Time": "2",
+                    "Hashtag": "reddit",
+                    "Tweet": "The Reddit revolution \ud83d\udce6 The subreddit blackout intensifies as more than 6,000 communities join the protest against Reddit's API pricing. #reddit https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes"
+                }
+            ]
+        }
+    ],
+    "title": "Reddit blackout intensifies, Tesla\u2019s new Giga Laboratory, UK aims for a safer AI",
+    "date": "2023/06/12",
+    "description": ""
+}

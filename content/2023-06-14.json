@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Developers and AI enthusiasts, rejoice!",
+                    "Link": "https://techcrunch.com/2023/06/13/openai-intros-new-generative-text-features-while-reducing-pricing/",
+                    "Description": "OpenAI has just released new versions of GPT-3.5-turbo and GPT-4. These models bring a larger context window and a groundbreaking feature: function calling.",
+                    "Time": "3",
+                    "Hashtag": "openai",
+                    "Tweet": "Developers and AI enthusiasts, rejoice! \ud83d\udce6 OpenAI has just released new versions of GPT-3.5-turbo and GPT-4. These models bring a larger context window and a groundbreaking feature: function calling. #openai https://techcrunch.com/2023/06/13/openai-intros-new-generative-text-features-while-reducing-pricing/"
+                },
+                {
+                    "Title": "A new challenger for Nvidia's supremacy",
+                    "Link": "https://apnews.com/article/amd-generative-ai-chip-mi300x-nvidia-13e81c67d6ca5dea0c1ccc147feb6487",
+                    "Description": "AMD joins the AI revolution with the MI300X chip. With its advanced capabilities for generative AI, the company is set to captivate cloud providers and take on Nvidia's dominance.",
+                    "Time": "2",
+                    "Hashtag": "AMD",
+                    "Tweet": "A new challenger for Nvidia's supremacy \ud83d\udce6 AMD joins the AI revolution with the MI300X chip. With its advanced capabilities for generative AI, the company is set to captivate cloud providers and take on Nvidia's dominance. #AMD https://apnews.com/article/amd-generative-ai-chip-mi300x-nvidia-13e81c67d6ca5dea0c1ccc147feb6487"
+                },
+                {
+                    "Title": "EU keeps leading the way for AI regulation",
+                    "Link": "https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html",
+                    "Description": "With an overwhelming majority, the European Parliament has embraced the EU AI Act, an essential step toward regulating artificial intelligence for a more responsible development.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "EU keeps leading the way for AI regulation \ud83d\udce6 With an overwhelming majority, the European Parliament has embraced the EU AI Act, an essential step toward regulating artificial intelligence for a more responsible development. #ai https://www.cnbc.com/2023/06/14/eu-lawmakers-pass-landmark-artificial-intelligence-regulation.html"
+                },
+                {
+                    "Title": "The potential of AI for developers",
+                    "Link": "https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/",
+                    "Description": "A recent survey by GitHub reveals the impact of new tools and workflows on the developer experience.",
+                    "Time": "20",
+                    "Hashtag": "ai",
+                    "Tweet": "The potential of AI for developers \ud83d\udce6 A recent survey by GitHub reveals the impact of new tools and workflows on the developer experience. #ai https://github.blog/2023-06-13-survey-reveals-ais-impact-on-the-developer-experience/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Let the Starship anticipation begin",
+                    "Link": "https://www.space.com/spacex-starship-next-test-flight-summer-2023",
+                    "Description": "SpaceX's Starship rocket is preparing for another launch after its eventful debut. Elon Musk's latest tweet suggests a liftoff in six to eight weeks.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "Let the Starship anticipation begin \ud83d\udce6 SpaceX's Starship rocket is preparing for another launch after its eventful debut. Elon Musk's latest tweet suggests a liftoff in six to eight weeks. #spacex https://www.space.com/spacex-starship-next-test-flight-summer-2023"
+                },
+                {
+                    "Title": "China's space endeavors continue",
+                    "Link": "https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/",
+                    "Description": "The construction of a dedicated launch pad for commercial solid rockets signals China's determination to enhance launch infrastructure and strengthen its position in the global space market.",
+                    "Time": "3",
+                    "Hashtag": "china",
+                    "Tweet": "China's space endeavors continue \ud83d\udce6 The construction of a dedicated launch pad for commercial solid rockets signals China's determination to enhance launch infrastructure and strengthen its position in the global space market. #china https://spacenews.com/china-begins-constructing-commercial-launch-pad-for-solid-rockets/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "No more satellite photobombs",
+                    "Link": "https://petapixel.com/2023/06/13/new-software-to-reduces-satellite-interference-in-hubble-images/",
+                    "Description": "Hubble scientists have developed an innovative software tool that utilizes the Radon Transform technique to identify and remove satellite trails from the telescope's images.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "No more satellite photobombs \ud83d\udce6 Hubble scientists have developed an innovative software tool that utilizes the Radon Transform technique to identify and remove satellite trails from the telescope's images. #space https://petapixel.com/2023/06/13/new-software-to-reduces-satellite-interference-in-hubble-images/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Become the architect of your own video game",
+                    "Link": "https://techcrunch.com/2023/06/14/backed-by-googles-gradient-versed-wants-to-help-storytellers-create-video-games-using-generative-ai/",
+                    "Description": "Versed, a startup from the Netherlands, is transforming RPG creation with the power of AI by allowing anyone to build fully immersive 3D worlds with just text-based stories.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "Become the architect of your own video game \ud83d\udce6 Versed, a startup from the Netherlands, is transforming RPG creation with the power of AI by allowing anyone to build fully immersive 3D worlds with just text-based stories. #ai https://techcrunch.com/2023/06/14/backed-by-googles-gradient-versed-wants-to-help-storytellers-create-video-games-using-generative-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Indiana is the place to be!",
+                    "Link": "https://www.engadget.com/gm-and-samsung-sdi-are-building-a-3-billion-ev-battery-cell-plant-in-indiana-162424130.html",
+                    "Description": "General Motors and Samsung SDI have chosen the state for their new EV battery plant. Set to open in 2026, it will support GM's goal of manufacturing over one million electric vehicles annually.",
+                    "Time": "1",
+                    "Hashtag": "generalmotors",
+                    "Tweet": "Indiana is the place to be! \ud83d\udce6 General Motors and Samsung SDI have chosen the state for their new EV battery plant. Set to open in 2026, it will support GM's goal of manufacturing over one million electric vehicles annually. #generalmotors https://www.engadget.com/gm-and-samsung-sdi-are-building-a-3-billion-ev-battery-cell-plant-in-indiana-162424130.html"
+                },
+                {
+                    "Title": "Can you spot the truck?",
+                    "Link": "https://electrek.co/2023/06/14/tesla-cybertruck-spotted-camouflage-rumors/",
+                    "Description": "A Cybertruck prototype was seen in California, covered in camouflage. This unconventional move by Tesla sparks speculation about the truck's readiness for production.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Can you spot the truck? \ud83d\udce6 A Cybertruck prototype was seen in California, covered in camouflage. This unconventional move by Tesla sparks speculation about the truck's readiness for production. #tesla https://electrek.co/2023/06/14/tesla-cybertruck-spotted-camouflage-rumors/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "A world without Reddit's knowledge",
+                    "Link": "https://www.theverge.com/2023/6/13/23759942/google-reddit-subreddit-blackout-protests",
+                    "Description": "The Reddit blackout sheds light on the vital role community-driven platforms play in information discovery.",
+                    "Time": "2",
+                    "Hashtag": "reddit",
+                    "Tweet": "A world without Reddit's knowledge \ud83d\udce6 The Reddit blackout sheds light on the vital role community-driven platforms play in information discovery. #reddit https://www.theverge.com/2023/6/13/23759942/google-reddit-subreddit-blackout-protests"
+                }
+            ]
+        }
+    ],
+    "title": "OpenAI's latest features, AMD challenges Nvidia, EU's path for AI regulation",
+    "date": "2023/06/14",
+    "description": ""
+}

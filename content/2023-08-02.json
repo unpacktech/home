@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Ready to dive deep into the world of Site Reliability Engineering with top-notch professionals? Save the date for SREday in London on September 14th-15th. Act now and secure your early bird tickets!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Ready to dive deep into the world of Site Reliability Engineering with top-notch professionals? Save the date for SREday in London on September 14th-15th. Act now and secure your early bird tickets! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Breaking superconductivity boundaries",
+                    "Link": "https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments",
+                    "Description": "Scientists have made a potentially groundbreaking discovery with the recent report of a room-temperature superconducting material called LK-99.",
+                    "Time": "8",
+                    "Hashtag": "science",
+                    "Tweet": "Breaking superconductivity boundaries \ud83d\udce6 Scientists have made a potentially groundbreaking discovery with the recent report of a room-temperature superconducting material called LK-99. #science https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments"
+                },
+                {
+                    "Title": "Cost-effective robotics",
+                    "Link": "https://techcrunch.com/2023/08/02/orangewood-wants-to-build-a-cheap-programmable-robotic-arm-for-manufacturing/",
+                    "Description": "San Francisco's Orangewood Labs plans to develop a remotely operated robotic arm powered by their own RoboGPT platform, with the aim of taking a sustainable approach to the robotics industry.",
+                    "Time": "3",
+                    "Hashtag": "robotics",
+                    "Tweet": "Cost-effective robotics \ud83d\udce6 San Francisco's Orangewood Labs plans to develop a remotely operated robotic arm powered by their own RoboGPT platform, with the aim of taking a sustainable approach to the robotics industry. #robotics https://techcrunch.com/2023/08/02/orangewood-wants-to-build-a-cheap-programmable-robotic-arm-for-manufacturing/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A chatbot for researchers",
+                    "Link": "https://www.nature.com/articles/d41586-023-02470-3",
+                    "Description": "Major players in scientific databases, including Elsevier and Digital Science, are embracing LLM-powered chatbots to streamline scientific searches by quickly providing references and summaries.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "A chatbot for researchers \ud83d\udce6 Major players in scientific databases, including Elsevier and Digital Science, are embracing LLM-powered chatbots to streamline scientific searches by quickly providing references and summaries. #ai https://www.nature.com/articles/d41586-023-02470-3"
+                },
+                {
+                    "Title": "From text to melodies",
+                    "Link": "https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio",
+                    "Description": "Meta's latest open-source code, AudioCraft, brings three AI models together for sound generation, enabling users to create music and sound effects using written prompts.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "From text to melodies \ud83d\udce6 Meta's latest open-source code, AudioCraft, brings three AI models together for sound generation, enabling users to create music and sound effects using written prompts. #ai https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Satellite access for everyone",
+                    "Link": "https://gizmodo.com/steve-wozniak-privateer-ride-share-for-satellites-1850696806",
+                    "Description": "Privateer is working on a global online marketplace to provide satellite access for private citizens. The initiative aims to make satellite data more affordable by sharing costs.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Satellite access for everyone \ud83d\udce6 Privateer is working on a global online marketplace to provide satellite access for private citizens. The initiative aims to make satellite data more affordable by sharing costs. #rocketscience https://gizmodo.com/steve-wozniak-privateer-ride-share-for-satellites-1850696806"
+                },
+                {
+                    "Title": "Voyager 2 sends a sign of life",
+                    "Link": "https://interestingengineering.com/science/nasa-heartbeat-signal-voyager-2-solar-system",
+                    "Description": "In the midst of uncertainty, NASA detects Voyager 2's \"heartbeat\" from interstellar space, reassuring the team about its operational status. Efforts to realign the antenna continue.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Voyager 2 sends a sign of life \ud83d\udce6 In the midst of uncertainty, NASA detects Voyager 2's \"heartbeat\" from interstellar space, reassuring the team about its operational status. Efforts to realign the antenna continue. #NASA https://interestingengineering.com/science/nasa-heartbeat-signal-voyager-2-solar-system"
+                },
+                {
+                    "Title": "Starlab takes off!",
+                    "Link": "https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/",
+                    "Description": "Voyager Space has partnered with Airbus Defence and Space for a joint venture, focused on developing and operating a high-tech commercial space station for research purposes.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Starlab takes off! \ud83d\udce6 Voyager Space has partnered with Airbus Defence and Space for a joint venture, focused on developing and operating a high-tech commercial space station for research purposes. #rocketscience https://spacenews.com/voyager-space-and-airbus-create-commercial-space-station-joint-venture/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple's visionary leap into 3D",
+                    "Link": "https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/",
+                    "Description": "The Alliance for OpenUSD unites Apple, Pixar, Adobe, Autodesk, and Nvidia, aiming to redefine the 3D landscape and potentially drive VR innovation for Vision Pro and upcoming headsets.",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple's visionary leap into 3D \ud83d\udce6 The Alliance for OpenUSD unites Apple, Pixar, Adobe, Autodesk, and Nvidia, aiming to redefine the 3D landscape and potentially drive VR innovation for Vision Pro and upcoming headsets. #apple https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Here's another exclusive Cyberleak",
+                    "Link": "https://electrek.co/2023/08/01/video-tesla-cybertruck-production-leak/",
+                    "Description": "As Tesla's Cybertruck gets ready to hit the roads, a leaked video from Gigafactory Texas offers a thrilling glimpse into the production process. ",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Here's another exclusive Cyberleak \ud83d\udce6 As Tesla's Cybertruck gets ready to hit the roads, a leaked video from Gigafactory Texas offers a thrilling glimpse into the production process.  #tesla https://electrek.co/2023/08/01/video-tesla-cybertruck-production-leak/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Introducing: Bloop",
+                    "Link": "https://github.com/BloopAI/bloop",
+                    "Description": "This fast code search engine, written in Rust, uses GPT-4 to answer your codebase questions. From summarizing large files to reducing code duplication, Bloop's got your back! ",
+                    "Time": "3",
+                    "Hashtag": "programming",
+                    "Tweet": "Introducing: Bloop \ud83d\udce6 This fast code search engine, written in Rust, uses GPT-4 to answer your codebase questions. From summarizing large files to reducing code duplication, Bloop's got your back!  #programming https://github.com/BloopAI/bloop"
+                }
+            ]
+        }
+    ],
+    "title": "Meta introduces AudioCraft, Voyager 2 speaks again, The Cybertruck leaks continue",
+    "date": "2023/08/02",
+    "description": "Meta\u2019s new open-source code has me considering a career switch to music. Great news for everyone worried about Voyager\u2019s 2 well-being, maybe we won\u2019t have to wait until October to hear back from it. And, once again, a Cybertruck leak has surfaced, confirming that Tesla definitely knows how to keep us guessing."
+}

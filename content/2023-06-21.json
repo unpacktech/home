@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Get ready for a trip to the GPT Store",
+                    "Link": "https://www.reuters.com/technology/openai-plans-app-store-ai-software-information-2023-06-20/",
+                    "Description": "Reports suggest that OpenAI CEO Sam Altman is planning for a marketplace for developers to monetize their AI models built on ChatGPT, bringing AI innovations to a wider audience.",
+                    "Time": "1",
+                    "Hashtag": "openai",
+                    "Tweet": "Get ready for a trip to the GPT Store \ud83d\udce6 Reports suggest that OpenAI CEO Sam Altman is planning for a marketplace for developers to monetize their AI models built on ChatGPT, bringing AI innovations to a wider audience. #openai https://www.reuters.com/technology/openai-plans-app-store-ai-software-information-2023-06-20/"
+                },
+                {
+                    "Title": "DeepMind is very proud of RoboCat",
+                    "Link": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+                    "Description": "Their latest AI model has surpassed expectations, showcasing its ability to solve and adapt to multiple tasks across various robots.",
+                    "Time": "2",
+                    "Hashtag": "deepmind",
+                    "Tweet": "DeepMind is very proud of RoboCat \ud83d\udce6 Their latest AI model has surpassed expectations, showcasing its ability to solve and adapt to multiple tasks across various robots. #deepmind https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/"
+                },
+                {
+                    "Title": "Dropbox's AI-driven solutions",
+                    "Link": "https://www.theverge.com/2023/6/21/23767248/dropbox-ai-dash-universal-search",
+                    "Description": "A new document summarization and querying tool is a great addition, but the star of the show is Dash, the universal search engine that effortlessly locates files scattered across platforms.",
+                    "Time": "6",
+                    "Hashtag": "dropbox",
+                    "Tweet": "Dropbox's AI-driven solutions \ud83d\udce6 A new document summarization and querying tool is a great addition, but the star of the show is Dash, the universal search engine that effortlessly locates files scattered across platforms. #dropbox https://www.theverge.com/2023/6/21/23767248/dropbox-ai-dash-universal-search"
+                },
+                {
+                    "Title": "Meetings are a breeze with Otter",
+                    "Link": "https://www.fastcompany.com/90912250/otter-ai-chat-tool-meetings",
+                    "Description": "The transcription tool now introduces an AI-powered assistant that can answer your questions, assist with tasks, and provide valuable insights during and after your meetings.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Meetings are a breeze with Otter \ud83d\udce6 The transcription tool now introduces an AI-powered assistant that can answer your questions, assist with tasks, and provide valuable insights during and after your meetings. #ai https://www.fastcompany.com/90912250/otter-ai-chat-tool-meetings"
+                },
+                {
+                    "Title": "Who owns AI content?",
+                    "Link": "https://www.zdnet.com/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/",
+                    "Description": "A recent study from Stanford University calls for better awareness of the legal implications surrounding generative AI.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Who owns AI content? \ud83d\udce6 A recent study from Stanford University calls for better awareness of the legal implications surrounding generative AI. #ai https://www.zdnet.com/article/a-thorny-question-who-owns-code-images-and-narratives-generated-by-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Today Texas, tomorrow the world",
+                    "Link": "https://electrek.co/2023/06/21/texas-require-tesla-nacs-connector-on-charging-stations/",
+                    "Description": "By requiring Tesla's connector on charging stations, the state gives NACS another push in becoming the North American charging standard.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Today Texas, tomorrow the world \ud83d\udce6 By requiring Tesla's connector on charging stations, the state gives NACS another push in becoming the North American charging standard. #tesla https://electrek.co/2023/06/21/texas-require-tesla-nacs-connector-on-charging-stations/"
+                },
+                {
+                    "Title": "Tesla's little secret uncovered",
+                    "Link": "https://www.cnbc.com/2023/06/20/tesla-secret-configuration-disables-nag-for-autopilot-fsd.html",
+                    "Description": "A security researcher has brought to light a hidden wonder in Tesla's vehicles, a setting that frees drivers from constant steering wheel contact while using Autopilot and Full Self-Driving.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla's little secret uncovered \ud83d\udce6 A security researcher has brought to light a hidden wonder in Tesla's vehicles, a setting that frees drivers from constant steering wheel contact while using Autopilot and Full Self-Driving. #tesla https://www.cnbc.com/2023/06/20/tesla-secret-configuration-disables-nag-for-autopilot-fsd.html"
+                },
+                {
+                    "Title": "Mazda's commitment to electrification",
+                    "Link": "https://electrek.co/2023/06/21/mazda-explores-ev-battery-partnership-panasonic-energy/",
+                    "Description": "A potential partnership between Mazda and Panasonic is being explored to provide lithium-ion batteries for Mazda's future EV lineup, amid the rising demand in the market.",
+                    "Time": "2",
+                    "Hashtag": "mazda",
+                    "Tweet": "Mazda's commitment to electrification \ud83d\udce6 A potential partnership between Mazda and Panasonic is being explored to provide lithium-ion batteries for Mazda's future EV lineup, amid the rising demand in the market. #mazda https://electrek.co/2023/06/21/mazda-explores-ev-battery-partnership-panasonic-energy/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Harness the full power of GitHub Copilot",
+                    "Link": "https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/",
+                    "Description": "This comprehensive prompt guide is your go-to resource to learn all the best practices that will transform the way you use GitHub's AI coding tool.",
+                    "Time": "9",
+                    "Hashtag": "GitHub",
+                    "Tweet": "Harness the full power of GitHub Copilot \ud83d\udce6 This comprehensive prompt guide is your go-to resource to learn all the best practices that will transform the way you use GitHub's AI coding tool. #GitHub https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Attention gamers and content creators!",
+                    "Link": "https://thenextweb.com/news/this-startup-gives-your-speech-new-human-realistic-ai-voice-for-free",
+                    "Description": "Voicemod, a Valencia-based startup, has released an AI voice changer and soundboard software that enables real-time voice transformations for its users.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Attention gamers and content creators! \ud83d\udce6 Voicemod, a Valencia-based startup, has released an AI voice changer and soundboard software that enables real-time voice transformations for its users. #ai https://thenextweb.com/news/this-startup-gives-your-speech-new-human-realistic-ai-voice-for-free"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Mercury: Up close and personal",
+                    "Link": "https://mashable.com/article/mercury-images-closeup-bepicolombo",
+                    "Description": "BepiColombo's latest flyby gifted us an extraordinary view of Mercury's surface. The spacecraft's upcoming mission in 2025 promises an unforgettable journey of discovery.",
+                    "Time": "4",
+                    "Hashtag": "ESA",
+                    "Tweet": "Mercury: Up close and personal \ud83d\udce6 BepiColombo's latest flyby gifted us an extraordinary view of Mercury's surface. The spacecraft's upcoming mission in 2025 promises an unforgettable journey of discovery. #ESA https://mashable.com/article/mercury-images-closeup-bepicolombo"
+                }
+            ]
+        }
+    ],
+    "title": "The GPT marketplace is coming, Dropbox gets AI-powered, Tesla's hidden feature",
+    "date": "2023/06/21",
+    "description": ""
+}
