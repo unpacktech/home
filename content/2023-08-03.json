@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Are you interested in learning more about Site Reliability Engineering? Circle the dates of September 14th-15th for SREday in London and grab your early bird tickets before they're gone!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Are you interested in learning more about Site Reliability Engineering? Circle the dates of September 14th-15th for SREday in London and grab your early bird tickets before they're gone! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "NASA and IBM embrace open-source",
+                    "Link": "https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face",
+                    "Description": "IBM's watsonx.ai is now available on Hugging Face, making it the largest geospatial foundation model on the platform, and the first open-source AI model developed in partnership with NASA.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "NASA and IBM embrace open-source \ud83d\udce6 IBM's watsonx.ai is now available on Hugging Face, making it the largest geospatial foundation model on the platform, and the first open-source AI model developed in partnership with NASA. #NASA https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face"
+                },
+                {
+                    "Title": "The state of AI in 2023",
+                    "Link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year",
+                    "Description": "McKinsey's survey reveals that generative AI tools are reshaping industries and workforces. One-third of respondents use it regularly in at least one business function within a year of its debut.",
+                    "Time": "15",
+                    "Hashtag": "ai",
+                    "Tweet": "The state of AI in 2023 \ud83d\udce6 McKinsey's survey reveals that generative AI tools are reshaping industries and workforces. One-third of respondents use it regularly in at least one business function within a year of its debut. #ai https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year"
+                },
+                {
+                    "Title": "Alibaba bets on AI democratization",
+                    "Link": "https://www.cnbc.com/2023/08/03/alibaba-launches-open-sourced-ai-model-in-challenge-to-meta.html",
+                    "Description": "The Chinese e-commerce giant expands accessibility in AI development by opening up its large language model, Tongyi Qianwen, with a seven-billion-parameter model, Qwen-7B, for global use.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Alibaba bets on AI democratization \ud83d\udce6 The Chinese e-commerce giant expands accessibility in AI development by opening up its large language model, Tongyi Qianwen, with a seven-billion-parameter model, Qwen-7B, for global use. #ai https://www.cnbc.com/2023/08/03/alibaba-launches-open-sourced-ai-model-in-challenge-to-meta.html"
+                },
+                {
+                    "Title": "AI for breast cancer diagnosis",
+                    "Link": "https://gizmodo.com/ai-good-at-breast-cancer-screenings-study-finds-1850699674",
+                    "Description": "A recent study reveals how AI could be as effective as two human radiologists at detecting breast cancer. Further research may solidify AI's role in early diagnosis and treatment.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI for breast cancer diagnosis \ud83d\udce6 A recent study reveals how AI could be as effective as two human radiologists at detecting breast cancer. Further research may solidify AI's role in early diagnosis and treatment. #ai https://gizmodo.com/ai-good-at-breast-cancer-screenings-study-finds-1850699674"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Meet NASA's CADRE project",
+                    "Link": "https://www.nasa.gov/feature/jpl/nasa-s-trio-of-mini-rovers-will-team-up-to-explore-the-moon",
+                    "Description": "Three miniature rovers will be roaming on the lunar surface in 2024. Operating without direct Earth input, they'll showcase new technology and the promise of more efficient space missions.",
+                    "Time": "5",
+                    "Hashtag": "NASA",
+                    "Tweet": "Meet NASA's CADRE project \ud83d\udce6 Three miniature rovers will be roaming on the lunar surface in 2024. Operating without direct Earth input, they'll showcase new technology and the promise of more efficient space missions. #NASA https://www.nasa.gov/feature/jpl/nasa-s-trio-of-mini-rovers-will-team-up-to-explore-the-moon"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A home away from home",
+                    "Link": "https://interestingengineering.com/science/plato-mission-could-detect-tens-thousands-habitable-planets",
+                    "Description": "ESA's PLATO mission is on the horizon, offering a glimpse into cosmic diversity. Set to launch in 2026, it is intended to explore over 245,000 stars for Earth-like planets.",
+                    "Time": "3",
+                    "Hashtag": "ESA",
+                    "Tweet": "A home away from home \ud83d\udce6 ESA's PLATO mission is on the horizon, offering a glimpse into cosmic diversity. Set to launch in 2026, it is intended to explore over 245,000 stars for Earth-like planets. #ESA https://interestingengineering.com/science/plato-mission-could-detect-tens-thousands-habitable-planets"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Subaru's electrifying plans",
+                    "Link": "https://electrek.co/2023/08/02/subaru-shifts-focus-evs-plans-eight-electric-models-2028/",
+                    "Description": "The Japanese automaker takes a strategic leap into the electric vehicle market, revealing a roadmap with eight EV models set for 2028.",
+                    "Time": "3",
+                    "Hashtag": "subaru",
+                    "Tweet": "Subaru's electrifying plans \ud83d\udce6 The Japanese automaker takes a strategic leap into the electric vehicle market, revealing a roadmap with eight EV models set for 2028. #subaru https://electrek.co/2023/08/02/subaru-shifts-focus-evs-plans-eight-electric-models-2028/"
+                },
+                {
+                    "Title": "Check out Acura's first EV",
+                    "Link": "https://www.engadget.com/acura-teases-the-zdx-its-first-electric-vehicle-130051990.html",
+                    "Description": "Honda's luxury brand has shared a glimpse of the all-electric 2024 ZDX, set to launch on August 17th, during Monterey Car Week.",
+                    "Time": "1",
+                    "Hashtag": "acura",
+                    "Tweet": "Check out Acura's first EV \ud83d\udce6 Honda's luxury brand has shared a glimpse of the all-electric 2024 ZDX, set to launch on August 17th, during Monterey Car Week. #acura https://www.engadget.com/acura-teases-the-zdx-its-first-electric-vehicle-130051990.html"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Typical Apple: Slow and steady",
+                    "Link": "https://www.digitaltrends.com/computing/apple-chatgpt-rival-behind-rivals/",
+                    "Description": "Ahead of the earnings call, analyst Ming-Chi Kuo provides insights into Apple's approach to AI, and its chatbot specifically: It's a long-term project with no immediate impact on stock prices.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Typical Apple: Slow and steady \ud83d\udce6 Ahead of the earnings call, analyst Ming-Chi Kuo provides insights into Apple's approach to AI, and its chatbot specifically: It's a long-term project with no immediate impact on stock prices. #apple https://www.digitaltrends.com/computing/apple-chatgpt-rival-behind-rivals/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Unlock GitHub's full potential",
+                    "Link": "https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/",
+                    "Description": "Find out how to structure your organizations and teams to get the most out of GitHub. Embrace efficient workflows and create the best experience for developers.",
+                    "Time": "17",
+                    "Hashtag": "github",
+                    "Tweet": "Unlock GitHub's full potential \ud83d\udce6 Find out how to structure your organizations and teams to get the most out of GitHub. Embrace efficient workflows and create the best experience for developers. #github https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/"
+                }
+            ]
+        }
+    ],
+    "title": "NASA and IBM join forces, Alibaba opens its LLM, AI enhances breast cancer detection",
+    "date": "2023/08/03",
+    "description": "The open-source community gets the best of the best with today's announcements! NASA and IBM are launching a geospatial foundation model on Hugging Face. Alibaba doesn't lag behind its competitors and makes available its LLM to third-party developers. And continuing with the positive news (this one makes me happy), AI brings hope for early breast cancer diagnosis."
+}
