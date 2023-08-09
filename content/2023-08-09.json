@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Site Reliability Engineering enthusiasts... Mark your calendars for September 14-15 \u2013 it's SREday in London! An intellectual feast of epic proportions. Early bird tickets are available!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Site Reliability Engineering enthusiasts... Mark your calendars for September 14-15 \u2013 it's SREday in London! An intellectual feast of epic proportions. Early bird tickets are available! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Navigating the AI future with Grace",
+                    "Link": "https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/",
+                    "Description": "At Nvidia's SIGGRAPH keynote, the spotlight is on AI transformation. The enhanced GH200 Grace Hopper Superchip, fueled by HBM3e memory, holds promise for more efficient and powerful AI processing.",
+                    "Time": "3",
+                    "Hashtag": "NVIDIA",
+                    "Tweet": "Navigating the AI future with Grace \ud83d\udce6 At Nvidia's SIGGRAPH keynote, the spotlight is on AI transformation. The enhanced GH200 Grace Hopper Superchip, fueled by HBM3e memory, holds promise for more efficient and powerful AI processing. #NVIDIA https://venturebeat.com/ai/nvidia-set-to-hop-ai-forward-with-next-gen-grace-hopper-superchip/"
+                },
+                {
+                    "Title": "Nvidia and Hugging Face join forces",
+                    "Link": "https://nvidianews.nvidia.com/news/nvidia-and-hugging-face-to-connect-millions-of-developers-to-generative-ai-supercomputing",
+                    "Description": "The fusion of Nvidia's DGX Cloud and Hugging Face's platform enables developers worldwide to create tailored LLMs for diverse applications, democratizing access to generative AI supercomputing.",
+                    "Time": "3",
+                    "Hashtag": "NVIDIA",
+                    "Tweet": "Nvidia and Hugging Face join forces \ud83d\udce6 The fusion of Nvidia's DGX Cloud and Hugging Face's platform enables developers worldwide to create tailored LLMs for diverse applications, democratizing access to generative AI supercomputing. #NVIDIA https://nvidianews.nvidia.com/news/nvidia-and-hugging-face-to-connect-millions-of-developers-to-generative-ai-supercomputing"
+                },
+                {
+                    "Title": "Nvidia presents the AI Workbench",
+                    "Link": "https://www.digitaltrends.com/computing/nvidia-announces-ai-workbench-at-siggraph-2023/",
+                    "Description": "This easy-to-use toolkit emerges as a solution to enhance generative AI development, offering an accessible avenue for customizing and deploying models across Nvidia platforms.",
+                    "Time": "2",
+                    "Hashtag": "NVIDIA",
+                    "Tweet": "Nvidia presents the AI Workbench \ud83d\udce6 This easy-to-use toolkit emerges as a solution to enhance generative AI development, offering an accessible avenue for customizing and deploying models across Nvidia platforms. #NVIDIA https://www.digitaltrends.com/computing/nvidia-announces-ai-workbench-at-siggraph-2023/"
+                },
+                {
+                    "Title": "AI: The uninvited guest in your meeting",
+                    "Link": "https://www.axios.com/2023/08/09/zooms-terms-service-changes-ai-fears",
+                    "Description": "A twist in Zoom's terms of service sparked discussions about AI training rights and user consent. The company quickly clarified its intentions and acknowledged its internal missteps.",
+                    "Time": "3",
+                    "Hashtag": "zoom",
+                    "Tweet": "AI: The uninvited guest in your meeting \ud83d\udce6 A twist in Zoom's terms of service sparked discussions about AI training rights and user consent. The company quickly clarified its intentions and acknowledged its internal missteps. #zoom https://www.axios.com/2023/08/09/zooms-terms-service-changes-ai-fears"
+                },
+                {
+                    "Title": "Google\u2019s and Universal Music's potential partnership",
+                    "Link": "https://arstechnica.com/ai/2023/08/google-record-labels-working-on-deal-covering-musical-deepfakes/",
+                    "Description": "Both companies are exploring the prospect of licensing artist voices for AI-composed songs. While discussions are in their early stages, this move could transform the music industry.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Google\u2019s and Universal Music's potential partnership \ud83d\udce6 Both companies are exploring the prospect of licensing artist voices for AI-composed songs. While discussions are in their early stages, this move could transform the music industry. #ai https://arstechnica.com/ai/2023/08/google-record-labels-working-on-deal-covering-musical-deepfakes/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Firefly Aerospace introduces Elytra vehicles",
+                    "Link": "https://techcrunch.com/2023/08/08/firefly-debuts-elytra-orbital-transfer-vehicles/",
+                    "Description": "The Dawn, Dusk, and Dark models, optimized for diverse orbits, offer a strategic approach aimed at amplifying on-orbit capabilities and enriching exploration opportunities.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Firefly Aerospace introduces Elytra vehicles \ud83d\udce6 The Dawn, Dusk, and Dark models, optimized for diverse orbits, offer a strategic approach aimed at amplifying on-orbit capabilities and enriching exploration opportunities. #rocketscience https://techcrunch.com/2023/08/08/firefly-debuts-elytra-orbital-transfer-vehicles/"
+                },
+                {
+                    "Title": "Flexibility in Artemis 3",
+                    "Link": "https://spacenews.com/nasa-weighs-changes-to-artemis-3-if-key-elements-are-delayed/",
+                    "Description": "While the official launch date remains December 2025 for NASA's Artemis 3 mission, the agency is ready to adjust to a more realistic timeline if needed.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Flexibility in Artemis 3 \ud83d\udce6 While the official launch date remains December 2025 for NASA's Artemis 3 mission, the agency is ready to adjust to a more realistic timeline if needed. #NASA https://spacenews.com/nasa-weighs-changes-to-artemis-3-if-key-elements-are-delayed/"
+                },
+                {
+                    "Title": "Another delay in Europe's ambitions",
+                    "Link": "https://www.space.com/europe-ariane-6-rocket-launch-delay-2024",
+                    "Description": "Arianespace's CEO has confirmed further delays to Ariane 6's inaugural launch, leaving Europe without autonomous satellite access until 2024.",
+                    "Time": "2",
+                    "Hashtag": "ESA",
+                    "Tweet": "Another delay in Europe's ambitions \ud83d\udce6 Arianespace's CEO has confirmed further delays to Ariane 6's inaugural launch, leaving Europe without autonomous satellite access until 2024. #ESA https://www.space.com/europe-ariane-6-rocket-launch-delay-2024"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Meet Google's Project IDX",
+                    "Link": "https://9to5google.com/2023/08/08/google-project-idx-ai-code-editor/",
+                    "Description": "Project IDX presents a comprehensive package for developers. Providing solutions to the usual coding struggles by incorporating AI, cloud-based workflows, and adaptable emulators.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Meet Google's Project IDX \ud83d\udce6 Project IDX presents a comprehensive package for developers. Providing solutions to the usual coding struggles by incorporating AI, cloud-based workflows, and adaptable emulators. #google https://9to5google.com/2023/08/08/google-project-idx-ai-code-editor/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The verdict is in",
+                    "Link": "https://interestingengineering.com/science/lk-99-replicated-material-no-superconductivity",
+                    "Description": "Despite all the buzz and recent reports, the Center for Condensed Matter at the University of Maryland has refuted LK-99's superconductivity claims... Well, that was fun.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "The verdict is in \ud83d\udce6 Despite all the buzz and recent reports, the Center for Condensed Matter at the University of Maryland has refuted LK-99's superconductivity claims... Well, that was fun. #science https://interestingengineering.com/science/lk-99-replicated-material-no-superconductivity"
+                }
+            ]
+        }
+    ],
+    "title": "Nvidia is AI's giant, Google introduces Project IDX, Zoom's AI odyssey",
+    "date": "2023/08/09",
+    "description": "It's Nvidia's world, and we're living in it, especially if you're into AI. The company's keynote at SIGGRAPH 2023 was a festival of groundbreaking announcements. Google is simplifying developers' lives by introducing a new code editor with AI capabilities. I might even consider getting into coding now. And Zoom overcame a storm when a change in its terms revealed plans to use meeting content for AI training, leaving users terrified."
+}
