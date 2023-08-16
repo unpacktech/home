@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Curious about SRE? Don't miss SREday in London! Immerse yourself in a tech adventure on September 14th-15th with over +50 talks by leading experts in the field. Early bird tickets are available!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Curious about SRE? Don't miss SREday in London! Immerse yourself in a tech adventure on September 14th-15th with over +50 talks by leading experts in the field. Early bird tickets are available! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "OpenAI suggests AI for content moderation",
+                    "Link": "https://techcrunch.com/2023/08/15/openai-proposes-a-new-way-to-use-gpt-4-for-content-moderation/",
+                    "Description": "GPT-4 enters online discussions by streamlining content moderation through a collaborative approach that combines AI and human expertise. Aiming to ease human moderation teams' workload.",
+                    "Time": "3",
+                    "Hashtag": "openai",
+                    "Tweet": "OpenAI suggests AI for content moderation \ud83d\udce6 GPT-4 enters online discussions by streamlining content moderation through a collaborative approach that combines AI and human expertise. Aiming to ease human moderation teams' workload. #openai https://techcrunch.com/2023/08/15/openai-proposes-a-new-way-to-use-gpt-4-for-content-moderation/"
+                },
+                {
+                    "Title": "An overview of StableChat",
+                    "Link": "https://www.marktechpost.com/2023/08/16/stability-ai-introduces-stablechat-a-research-preview-of-conversational-ai-assistant-similar-to-chatgpt-or-claude/",
+                    "Description": "Stability AI's latest offering draws parallels with ChatGPT. While the platform holds potential, initial assessments suggest it requires some fine-tuning.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "An overview of StableChat \ud83d\udce6 Stability AI's latest offering draws parallels with ChatGPT. While the platform holds potential, initial assessments suggest it requires some fine-tuning. #ai https://www.marktechpost.com/2023/08/16/stability-ai-introduces-stablechat-a-research-preview-of-conversational-ai-assistant-similar-to-chatgpt-or-claude/"
+                },
+                {
+                    "Title": "AI-powered wisdom",
+                    "Link": "https://www.cnbc.com/2023/08/16/google-reportedly-building-ai-that-offers-life-advice.html",
+                    "Description": "Google's AI division, DeepMind, is working on 21 generative AI tools intended to offer life advice. As AI continues to shape our world, the company aims to present it as a reliable source of guidance.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "AI-powered wisdom \ud83d\udce6 Google's AI division, DeepMind, is working on 21 generative AI tools intended to offer life advice. As AI continues to shape our world, the company aims to present it as a reliable source of guidance. #google https://www.cnbc.com/2023/08/16/google-reportedly-building-ai-that-offers-life-advice.html"
+                },
+                {
+                    "Title": "Gemini\u2019s AI approach",
+                    "Link": "https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/",
+                    "Description": "Google's \"Gemini\" project is on its way to being the company's largest AI effort yet. By merging text and image generation, Google plans to redefine AI applications.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Gemini\u2019s AI approach \ud83d\udce6 Google's \"Gemini\" project is on its way to being the company's largest AI effort yet. By merging text and image generation, Google plans to redefine AI applications. #google https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Neuroscience meets Pink Floyd",
+                    "Link": "https://www.engadget.com/scientists-recreate-an-iconic-pink-floyd-song-by-scanning-listeners-brains-114053359.html",
+                    "Description": "A recent study showcases the recreation of a Pink Floyd song through brain activity, providing insights into the brain's response to music and its potential applications in speech rehabilitation.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Neuroscience meets Pink Floyd \ud83d\udce6 A recent study showcases the recreation of a Pink Floyd song through brain activity, providing insights into the brain's response to music and its potential applications in speech rehabilitation. #science https://www.engadget.com/scientists-recreate-an-iconic-pink-floyd-song-by-scanning-listeners-brains-114053359.html"
+                },
+                {
+                    "Title": "Seeking particle transformations",
+                    "Link": "https://interestingengineering.com/science/scientists-on-hunt-for-muons-turning-into-electrons",
+                    "Description": "Fermilab's Mu2e and J-PARC's COMET scientists are undertaking experiments to probe the potential transformation of muons into electrons, challenging our knowledge of particle behavior.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Seeking particle transformations \ud83d\udce6 Fermilab's Mu2e and J-PARC's COMET scientists are undertaking experiments to probe the potential transformation of muons into electrons, challenging our knowledge of particle behavior. #science https://interestingengineering.com/science/scientists-on-hunt-for-muons-turning-into-electrons"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "The architecture of the Moon",
+                    "Link": "https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/",
+                    "Description": "DARPA's LunA-10 project envisions a future of interconnected lunar infrastructure. By fostering collaboration and innovation, they plan to achieve a commercially viable lunar economy by 2035. ",
+                    "Time": "3",
+                    "Hashtag": "DARPA",
+                    "Tweet": "The architecture of the Moon \ud83d\udce6 DARPA's LunA-10 project envisions a future of interconnected lunar infrastructure. By fostering collaboration and innovation, they plan to achieve a commercially viable lunar economy by 2035.  #DARPA https://spacenews.com/darpa-to-study-integrated-lunar-infrastructure/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "GM's electrification journey",
+                    "Link": "https://electrek.co/2023/08/16/gm-invests-big-bucks-in-battery-startup-in-a-bet-on-new-chemistry/",
+                    "Description": "General Motors invests in Mitra Chem, a startup driving battery materials innovation. This collaboration aims to fortify GM's EV lineup with cutting-edge battery chemistry.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "GM's electrification journey \ud83d\udce6 General Motors invests in Mitra Chem, a startup driving battery materials innovation. This collaboration aims to fortify GM's EV lineup with cutting-edge battery chemistry. #tesla https://electrek.co/2023/08/16/gm-invests-big-bucks-in-battery-startup-in-a-bet-on-new-chemistry/"
+                },
+                {
+                    "Title": "Another Cybertruck was recently spotted",
+                    "Link": "https://electrek.co/2023/08/16/tesla-spotted-shipping-cybertrucks-truckload-crash-tests/",
+                    "Description": "With sightings of the electric pickup departing Gigafactory Texas, possibly for crash testing, the approach to production becomes increasingly evident.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Another Cybertruck was recently spotted \ud83d\udce6 With sightings of the electric pickup departing Gigafactory Texas, possibly for crash testing, the approach to production becomes increasingly evident. #tesla https://electrek.co/2023/08/16/tesla-spotted-shipping-cybertrucks-truckload-crash-tests/"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "The hardest button to relocate",
+                    "Link": "https://apnews.com/article/iphone-hang-up-button-apple-8ce522199b392566738649d840bccb3b",
+                    "Description": "After creating a stir, the saga of the iPhone's \"end call\" button settles as images from the latest iOS 17 beta show it returning to the center. Let's wait and see how it unfolds.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "The hardest button to relocate \ud83d\udce6 After creating a stir, the saga of the iPhone's \"end call\" button settles as images from the latest iOS 17 beta show it returning to the center. Let's wait and see how it unfolds. #apple https://apnews.com/article/iphone-hang-up-button-apple-8ce522199b392566738649d840bccb3b"
+                }
+            ]
+        }
+    ],
+    "title": "GPT-4 gets into content moderation, From brainwaves to Pink Floyd, AI for life advice",
+    "date": "2023/08/16",
+    "description": "Moderating an online community isn't easy. OpenAI aims to change that by leveraging GPT-4 to streamline the process. Music holds a significant place in our lives, as proven by scientists who recreated a song solely from brain signals. Additionally, Google is set to turn AI into a counselor, so fingers crossed it won't crash when I share my life story with it."
+}
