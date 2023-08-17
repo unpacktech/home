@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Circle the dates: September 14th-15th for SREday in London! An in-depth exploration of Site Reliability Engineering with over 50+ talks led by top experts. Reserve your early bird tickets today!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday \ud83d\udce6 Circle the dates: September 14th-15th for SREday in London! An in-depth exploration of Site Reliability Engineering with over 50+ talks led by top experts. Reserve your early bird tickets today! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "OpenAI's latest move",
+                    "Link": "https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt",
+                    "Description": "Global Illumination has left its creative mark on notable companies. Now, OpenAI announces its acquisition, hinting at a potential collaboration that could elevate core products like ChatGPT.",
+                    "Time": "1",
+                    "Hashtag": "openai",
+                    "Tweet": "OpenAI's latest move \ud83d\udce6 Global Illumination has left its creative mark on notable companies. Now, OpenAI announces its acquisition, hinting at a potential collaboration that could elevate core products like ChatGPT. #openai https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt"
+                },
+                {
+                    "Title": "Choose the best model",
+                    "Link": "https://techcrunch.com/2023/08/17/arthur-releases-open-source-tool-to-help-companies-find-the-best-llm-for-a-job/",
+                    "Description": "Arthur has unveiled Arthur Bench. This open-source tool measures the effectiveness of different LLMs against a specific set of data, allowing you to find the right match for your requirements.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Choose the best model \ud83d\udce6 Arthur has unveiled Arthur Bench. This open-source tool measures the effectiveness of different LLMs against a specific set of data, allowing you to find the right match for your requirements. #ai https://techcrunch.com/2023/08/17/arthur-releases-open-source-tool-to-help-companies-find-the-best-llm-for-a-job/"
+                },
+                {
+                    "Title": "AI in the newsroom",
+                    "Link": "https://apnews.com/article/artificial-intelligence-guidelines-ap-news-532b417395df6a9e2aed57fd63ad416a",
+                    "Description": "The Associated Press has released guidelines that embrace AI's potential while maintaining journalistic integrity. This includes the prohibition of AI-generated content from being published.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI in the newsroom \ud83d\udce6 The Associated Press has released guidelines that embrace AI's potential while maintaining journalistic integrity. This includes the prohibition of AI-generated content from being published. #ai https://apnews.com/article/artificial-intelligence-guidelines-ap-news-532b417395df6a9e2aed57fd63ad416a"
+                },
+                {
+                    "Title": "Mckinsey introduces Lilli",
+                    "Link": "https://venturebeat.com/ai/consulting-giant-mckinsey-unveils-its-own-generative-ai-tool-for-employees-lilli/",
+                    "Description": "The company wants to demonstrate the potential of AI in consultancy. Based on more than 100,000 internal documents, this tool has already reduced research and planning times drastically.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Mckinsey introduces Lilli \ud83d\udce6 The company wants to demonstrate the potential of AI in consultancy. Based on more than 100,000 internal documents, this tool has already reduced research and planning times drastically. #ai https://venturebeat.com/ai/consulting-giant-mckinsey-unveils-its-own-generative-ai-tool-for-employees-lilli/"
+                },
+                {
+                    "Title": "Spooky or glitchy? ",
+                    "Link": "https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/",
+                    "Description": "A video snippet uploaded by a glitch on Snapchat's \"My AI\" chatbot gave users a sci-fi movie experience, as if technology had gained its own consciousness.",
+                    "Time": "2",
+                    "Hashtag": "snapchat",
+                    "Tweet": "Spooky or glitchy?  \ud83d\udce6 A video snippet uploaded by a glitch on Snapchat's \"My AI\" chatbot gave users a sci-fi movie experience, as if technology had gained its own consciousness. #snapchat https://arstechnica.com/information-technology/2023/08/snapchats-ai-chatbot-posts-mysterious-video-and-goes-silent-spooking-users/"
+                },
+                {
+                    "Title": "iOS welcomes Opera's AI assistant",
+                    "Link": "https://www.engadget.com/operas-ai-browser-assistant-is-now-available-in-its-ios-app-181021204.html",
+                    "Description": "Aria AI has become available on iOS within the Opera app. With a million users already on desktop and Android, get ready to upgrade your browsing experience.",
+                    "Time": "1",
+                    "Hashtag": "opera",
+                    "Tweet": "iOS welcomes Opera's AI assistant \ud83d\udce6 Aria AI has become available on iOS within the Opera app. With a million users already on desktop and Android, get ready to upgrade your browsing experience. #opera https://www.engadget.com/operas-ai-browser-assistant-is-now-available-in-its-ios-app-181021204.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The future of visuals",
+                    "Link": "https://www.techtimes.com/articles/295167/20230816/mit-engineers-develop-dna-assembled-quantum-rods-enhance-tvs-vr.htm",
+                    "Description": "MIT engineers are making progress in integrating quantum rods into LED displays and virtual reality systems, through the use of DNA scaffolds, aiming for more vibrant and immersive visuals.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "The future of visuals \ud83d\udce6 MIT engineers are making progress in integrating quantum rods into LED displays and virtual reality systems, through the use of DNA scaffolds, aiming for more vibrant and immersive visuals. #science https://www.techtimes.com/articles/295167/20230816/mit-engineers-develop-dna-assembled-quantum-rods-enhance-tvs-vr.htm"
+                },
+                {
+                    "Title": "One step closer to saving lives",
+                    "Link": "https://www.theguardian.com/us-news/2023/aug/16/pig-kidney-human-transplant",
+                    "Description": "A genetically modified pig kidney, successfully transplanted into a brain-dead man, has functioned normally for over a month. An achievement that brings hope to organ transplant patients.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "One step closer to saving lives \ud83d\udce6 A genetically modified pig kidney, successfully transplanted into a brain-dead man, has functioned normally for over a month. An achievement that brings hope to organ transplant patients. #science https://www.theguardian.com/us-news/2023/aug/16/pig-kidney-human-transplant"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Off to the ISS!",
+                    "Link": "https://www.digitaltrends.com/space/how-to-watch-nasa-and-spacex-launch-crew-7-to-the-iss/",
+                    "Description": "NASA and SpaceX's Crew-7 mission is scheduled to fly on August 25. Four astronauts are headed to the ISS and you can witness every moment through a live stream.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Off to the ISS! \ud83d\udce6 NASA and SpaceX's Crew-7 mission is scheduled to fly on August 25. Four astronauts are headed to the ISS and you can witness every moment through a live stream. #NASA https://www.digitaltrends.com/space/how-to-watch-nasa-and-spacex-launch-crew-7-to-the-iss/"
+                },
+                {
+                    "Title": "Back to the moon",
+                    "Link": "https://interestingengineering.com/innovation/russias-luna-25-enters-moon-orbit-gears-for-soft-landing",
+                    "Description": "Russia reaches lunar orbit for the first time since 1976 with the Luna-25 spacecraft. With communication stable and systems functioning, all eyes turn to the current lunar race.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Back to the moon \ud83d\udce6 Russia reaches lunar orbit for the first time since 1976 with the Luna-25 spacecraft. With communication stable and systems functioning, all eyes turn to the current lunar race. #rocketscience https://interestingengineering.com/innovation/russias-luna-25-enters-moon-orbit-gears-for-soft-landing"
+                }
+            ]
+        }
+    ],
+    "title": "AP issues AI guidelines, OpenAI acquires Global Illumination, Russia reaches lunar orbit",
+    "date": "2023/08/17",
+    "description": "It's just another regular Thursday with AI stealing the spotlight: The Associated Press embraces AI integration; however, it sets clear boundaries between employees and AI-generated content. OpenAI takes a creative approach to its products through the acquisition of Global Illumination. And, for those not focusing on AI but on the lunar race: Russia has finally reached lunar orbit."
+}
