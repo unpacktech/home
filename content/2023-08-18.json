@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Save the dates of September 14-15 for SREday in London! Engage with fellow tech enthusiasts at a two-day gathering, featuring 50+ talks. Don't wait too long, book your early bird tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Save the dates of September 14-15 for SREday in London! Engage with fellow tech enthusiasts at a two-day gathering, featuring 50+ talks. Don't wait too long, book your early bird tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Meet your new coding partner",
+                    "Link": "https://gizmodo.com/metas-set-to-drop-a-code-generating-ai-bot-1850751208",
+                    "Description": "Meta's upcoming \"Code Llama\" might redefine coding. This open-source coding companion, built on Llama, is set to offer real-time code suggestions as you type, a potential rival to industry giants.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "Meet your new coding partner \ud83d\udce6 Meta's upcoming \"Code Llama\" might redefine coding. This open-source coding companion, built on Llama, is set to offer real-time code suggestions as you type, a potential rival to industry giants. #meta https://gizmodo.com/metas-set-to-drop-a-code-generating-ai-bot-1850751208"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Strides in space security",
+                    "Link": "https://spacenews.com/true-anomaly-opens-spacecraft-manufacturing-facility-in-colorado/",
+                    "Description": "True Anomaly's GravityWorks facility will bring to life small satellites with three cameras, designed for intricate operations and space surveillance. Stay tuned for their launch in 2024.",
+                    "Time": "1",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Strides in space security \ud83d\udce6 True Anomaly's GravityWorks facility will bring to life small satellites with three cameras, designed for intricate operations and space surveillance. Stay tuned for their launch in 2024. #rocketscience https://spacenews.com/true-anomaly-opens-spacecraft-manufacturing-facility-in-colorado/"
+                },
+                {
+                    "Title": "Ready for a lunar rendezvous",
+                    "Link": "https://interestingengineering.com/science/indias-third-moon-mission-gears-up-for-moon-soft-landing",
+                    "Description": "The Chandrayaan-3 mission is on track for a soft landing on the Moon's south pole on August 23. Successful separation of modules fuels anticipation for India's lunar endeavors.",
+                    "Time": "2",
+                    "Hashtag": "india",
+                    "Tweet": "Ready for a lunar rendezvous \ud83d\udce6 The Chandrayaan-3 mission is on track for a soft landing on the Moon's south pole on August 23. Successful separation of modules fuels anticipation for India's lunar endeavors. #india https://interestingengineering.com/science/indias-third-moon-mission-gears-up-for-moon-soft-landing"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Insights from the red planet",
+                    "Link": "https://arstechnica.com/science/2023/08/mars-keeps-spinning-faster-every-year-nasa-insight-data-says/",
+                    "Description": "Mars keeps revealing its mysteries, or at least we're improving at uncovering them. Thanks to NASA's InSight Lander, we now know it's spinning faster each year, shortening its days.",
+                    "Time": "4",
+                    "Hashtag": "mars",
+                    "Tweet": "Insights from the red planet \ud83d\udce6 Mars keeps revealing its mysteries, or at least we're improving at uncovering them. Thanks to NASA's InSight Lander, we now know it's spinning faster each year, shortening its days. #mars https://arstechnica.com/science/2023/08/mars-keeps-spinning-faster-every-year-nasa-insight-data-says/"
+                },
+                {
+                    "Title": "Surgery anxiety? AR is here to help",
+                    "Link": "https://www.techtimes.com/articles/295287/20230818/augmented-reality-alleviate-fear-stress-anxiety-surgical-patients-study-shows.htm",
+                    "Description": "Recent research from the University of Miami suggests that integrating AR into preoperative care could be a viable way of reducing stress and anxiety among surgical patients.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Surgery anxiety? AR is here to help \ud83d\udce6 Recent research from the University of Miami suggests that integrating AR into preoperative care could be a viable way of reducing stress and anxiety among surgical patients. #science https://www.techtimes.com/articles/295287/20230818/augmented-reality-alleviate-fear-stress-anxiety-surgical-patients-study-shows.htm"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Vision Pro for all",
+                    "Link": "https://www.digitaltrends.com/computing/apple-vision-pro-liquid-lenses/",
+                    "Description": "Do you have poor eyesight and want to use Apple's Vision Pro? A recent patent uncovers the concept of customizable lenses that adapt to your prescription, all at the touch of a button.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Vision Pro for all \ud83d\udce6 Do you have poor eyesight and want to use Apple's Vision Pro? A recent patent uncovers the concept of customizable lenses that adapt to your prescription, all at the touch of a button. #apple https://www.digitaltrends.com/computing/apple-vision-pro-liquid-lenses/"
+                },
+                {
+                    "Title": "Mark your calendars!",
+                    "Link": "https://www.engadget.com/microsoft-is-holding-a-special-event-on-september-21st-194223173.html",
+                    "Description": "September is filled with revelations and Microsoft knows it. The tech giant has already sent a save-the-date for a \"special event\" on the 21st. Details remain unknown, but the excitement is growing.",
+                    "Time": "1",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Mark your calendars! \ud83d\udce6 September is filled with revelations and Microsoft knows it. The tech giant has already sent a save-the-date for a \"special event\" on the 21st. Details remain unknown, but the excitement is growing. #microsoft https://www.engadget.com/microsoft-is-holding-a-special-event-on-september-21st-194223173.html"
+                },
+                {
+                    "Title": "Faster charging ahead",
+                    "Link": "https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage",
+                    "Description": "As the iPhone 15 launch approaches, reports hint at a significant change in its charging capabilities. The shift from Lightning to USB-C might increase charging speeds to 35W.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Faster charging ahead \ud83d\udce6 As the iPhone 15 launch approaches, reports hint at a significant change in its charging capabilities. The shift from Lightning to USB-C might increase charging speeds to 35W. #apple https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Acura introduces the ZDX",
+                    "Link": "https://electrek.co/2023/08/17/acura-finally-joins-the-ev-ethos-unveils-zdx-with-competitive-range-hands-free-driving/",
+                    "Description": "During Monterey Car Week, Acura, the luxury subsidiary of Honda, introduced its first all-electric vehicle the ZDX SUV. Customer deliveries are scheduled for 2024.",
+                    "Time": "3",
+                    "Hashtag": "EVs",
+                    "Tweet": "Acura introduces the ZDX \ud83d\udce6 During Monterey Car Week, Acura, the luxury subsidiary of Honda, introduced its first all-electric vehicle the ZDX SUV. Customer deliveries are scheduled for 2024. #EVs https://electrek.co/2023/08/17/acura-finally-joins-the-ev-ethos-unveils-zdx-with-competitive-range-hands-free-driving/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Sharing high-quality memories",
+                    "Link": "https://techcrunch.com/2023/08/17/whatsapp-adds-support-for-hd-photos-says-hd-video-coming-soon/",
+                    "Description": "Mark Zuckerberg has announced an update that many WhatsApp users have been waiting for, HD photo sharing, along with a forthcoming extension to HD videos.",
+                    "Time": "2",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "Sharing high-quality memories \ud83d\udce6 Mark Zuckerberg has announced an update that many WhatsApp users have been waiting for, HD photo sharing, along with a forthcoming extension to HD videos. #whatsapp https://techcrunch.com/2023/08/17/whatsapp-adds-support-for-hd-photos-says-hd-video-coming-soon/"
+                }
+            ]
+        }
+    ],
+    "title": "Meta's coding companion, India gets ready to land, Latest Vision Pro insights",
+    "date": "2023/08/18",
+    "description": "Developers\u2026 Meta thinks about you. The company\u2019s reported coding companion is set to become a game-changer. The race to the moon continues and India is ready to attempt a soft landing on August 23. And if you\u2019re like me and need lenses to see the world clearly, don\u2019t worry, Apple won\u2019t let that ruin your Vision Pro experience."
+}
