@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Is SRE your thing? Well, guess what... SREday is hitting London on September 14-15! Prepare to be amazed by an incredible lineup of 50+ talks by industry experts. Grab your early bird tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Is SRE your thing? Well, guess what... SREday is hitting London on September 14-15! Prepare to be amazed by an incredible lineup of 50+ talks by industry experts. Grab your early bird tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "The dark side of the lunar landing",
+                    "Link": "https://www.engadget.com/russias-luna-25-spacecraft-crashes-into-the-moon-093542172.html",
+                    "Description": "Russia's space plans have hit a bump on the road. The Luna-25 mission, a journey to decode the Moon's mysteries, ended with an unexpected collision on the lunar surface.",
+                    "Time": "1",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "The dark side of the lunar landing \ud83d\udce6 Russia's space plans have hit a bump on the road. The Luna-25 mission, a journey to decode the Moon's mysteries, ended with an unexpected collision on the lunar surface. #rocketscience https://www.engadget.com/russias-luna-25-spacecraft-crashes-into-the-moon-093542172.html"
+                },
+                {
+                    "Title": "Microgravity is the new frontier",
+                    "Link": "https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/",
+                    "Description": "Pharmaceutical breakthroughs lie beyond our planet's bounds. Sierra Space and Redwire are joining forces to create a commercial space module tailored for biotech exploration.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Microgravity is the new frontier \ud83d\udce6 Pharmaceutical breakthroughs lie beyond our planet's bounds. Sierra Space and Redwire are joining forces to create a commercial space module tailored for biotech exploration. #rocketscience https://spacenews.com/redwire-and-sierra-space-partner-on-commercial-space-station-biotech-research-platform/"
+                },
+                {
+                    "Title": "Embark on a WonderJourney",
+                    "Link": "https://interestingengineering.com/innovation/chinas-wonderjourney-ai-satellite",
+                    "Description": "China's \"WonderJourney\" stands as an AI-driven satellite built to process data directly in orbit, marking a significant step toward a future filled with autonomous spacecraft.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Embark on a WonderJourney \ud83d\udce6 China's \"WonderJourney\" stands as an AI-driven satellite built to process data directly in orbit, marking a significant step toward a future filled with autonomous spacecraft. #rocketscience https://interestingengineering.com/innovation/chinas-wonderjourney-ai-satellite"
+                },
+                {
+                    "Title": "The universe through an X-ray",
+                    "Link": "https://www.esa.int/Science_Exploration/Space_Science/Next_major_X-ray_mission_set_to_launch_on_Saturday",
+                    "Description": "XRISM, a collaborative mission by JAXA, NASA, and ESA, is ready for launch on August 26. Promising insights into the universe's high-energy realms.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "The universe through an X-ray \ud83d\udce6 XRISM, a collaborative mission by JAXA, NASA, and ESA, is ready for launch on August 26. Promising insights into the universe's high-energy realms. #rocketscience https://www.esa.int/Science_Exploration/Space_Science/Next_major_X-ray_mission_set_to_launch_on_Saturday"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Factories in the cosmos",
+                    "Link": "https://www.cnbc.com/2023/08/20/startups-investing-millions-to-make-drugs-and-semiconductors-in-space-.html",
+                    "Description": "Startups are catching on to the unique manufacturing possibilities that space offers. Among them are Varda Space Industries and Space Forge, which explore its potential for research and development.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "Factories in the cosmos \ud83d\udce6 Startups are catching on to the unique manufacturing possibilities that space offers. Among them are Varda Space Industries and Space Forge, which explore its potential for research and development. #space https://www.cnbc.com/2023/08/20/startups-investing-millions-to-make-drugs-and-semiconductors-in-space-.html"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI with a touch of nature",
+                    "Link": "https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/",
+                    "Description": "Former Google AI engineers are crafting models that channel the efficiency of natural systems. Hailing from Tokyo, Sakana AI is ready to take the AI industry by storm.",
+                    "Time": "4",
+                    "Hashtag": "AI",
+                    "Tweet": "AI with a touch of nature \ud83d\udce6 Former Google AI engineers are crafting models that channel the efficiency of natural systems. Hailing from Tokyo, Sakana AI is ready to take the AI industry by storm. #AI https://venturebeat.com/ai/what-you-need-to-know-about-sakana-ai-the-new-startup-from-a-transformer-paper-co-author/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Google strives for healthcare",
+                    "Link": "https://www.forbes.com/sites/saibala/2023/08/21/google-is-rapidly-becoming-a-healthcare-powerhouse/?sh=bd4ca723e8e0",
+                    "Description": "Although not originally a healthcare-centric company, Google's current approach is driven by a commitment to life's quality, pouring substantial funds and resources into the industry.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Google strives for healthcare \ud83d\udce6 Although not originally a healthcare-centric company, Google's current approach is driven by a commitment to life's quality, pouring substantial funds and resources into the industry. #google https://www.forbes.com/sites/saibala/2023/08/21/google-is-rapidly-becoming-a-healthcare-powerhouse/?sh=bd4ca723e8e0"
+                },
+                {
+                    "Title": "Apple, hurry up!",
+                    "Link": "https://9to5mac.com/2023/08/21/iphone-15-braided-usb-c-cable/",
+                    "Description": "With September 12 just weeks away, Apple enthusiasts are filled with rumors. From charging cable enhancements to the intriguing possibility of renaming the iPhone 15 Pro to \"Ultra.\"",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple, hurry up! \ud83d\udce6 With September 12 just weeks away, Apple enthusiasts are filled with rumors. From charging cable enhancements to the intriguing possibility of renaming the iPhone 15 Pro to \"Ultra.\" #apple https://9to5mac.com/2023/08/21/iphone-15-braided-usb-c-cable/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Another member of the NACS club",
+                    "Link": "https://electrek.co/2023/08/18/honda-confirms-adopt-tesla-nacs-driven-gm-adoption/",
+                    "Description": "In line with GM's adoption of the charging standard, Honda announces that its vehicles in North America, along with Acura, will adopt Tesla's NACS charging connector.",
+                    "Time": "2",
+                    "Hashtag": "honda",
+                    "Tweet": "Another member of the NACS club \ud83d\udce6 In line with GM's adoption of the charging standard, Honda announces that its vehicles in North America, along with Acura, will adopt Tesla's NACS charging connector. #honda https://electrek.co/2023/08/18/honda-confirms-adopt-tesla-nacs-driven-gm-adoption/"
+                },
+                {
+                    "Title": "A picturesque scene",
+                    "Link": "https://electrek.co/2023/08/20/tesla-cybertruck-spotted-glacier-iceland-promo-reel-ahead-of-launch/",
+                    "Description": "Iceland's freezing landscapes serve as a backdrop for a Cybertruck in a potential promotional video. The anticipation of deliveries grows stronger as Tesla's production timeline aligns.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "A picturesque scene \ud83d\udce6 Iceland's freezing landscapes serve as a backdrop for a Cybertruck in a potential promotional video. The anticipation of deliveries grows stronger as Tesla's production timeline aligns. #tesla https://electrek.co/2023/08/20/tesla-cybertruck-spotted-glacier-iceland-promo-reel-ahead-of-launch/"
+                }
+            ]
+        }
+    ],
+    "title": "In-space manufacturing is here, From Pro to Ultra?, Russia's lunar setback",
+    "date": "2023/08/21",
+    "description": "Factories in space might no longer be a concept from movies, as current companies harness microgravity for breakthrough developments. iPhone rumors are everywhere as we approach the event of the year for Apple enthusiasts. My favorite one? We\u2019re getting an entirely different name for the iPhone 15 Pro. And, sadly, Russia lost the lunar race after an unexpected collision."
+}
