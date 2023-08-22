@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Want to find out what SRE is all about with some real experts? Make sure to reserve September 14th-15th for SREday in London. Don't wait, grab your early bird tickets today!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Want to find out what SRE is all about with some real experts? Make sure to reserve September 14th-15th for SREday in London. Don't wait, grab your early bird tickets today! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Breaking down language boundaries",
+                    "Link": "https://www.axios.com/2023/08/22/meta-ai-language-translator",
+                    "Description": "Meta's SeamlessM4T is an open-source AI model that enables direct translation of speech and text. Its ability to adapt on the fly makes it ideal for multilingual societies.",
+                    "Time": "1",
+                    "Hashtag": "meta",
+                    "Tweet": "Breaking down language boundaries \ud83d\udce6 Meta's SeamlessM4T is an open-source AI model that enables direct translation of speech and text. Its ability to adapt on the fly makes it ideal for multilingual societies. #meta https://www.axios.com/2023/08/22/meta-ai-language-translator"
+                },
+                {
+                    "Title": "AI steps into the music industry",
+                    "Link": "https://gizmodo.com/youtube-launches-music-ai-incubator-with-universal-1850758218",
+                    "Description": "With the aim of fostering innovation while safeguarding artists' rights and compensation in the era of AI, YouTube and Universal Music Group have teamed up to launch the AI Incubator.",
+                    "Time": "3",
+                    "Hashtag": "youtube",
+                    "Tweet": "AI steps into the music industry \ud83d\udce6 With the aim of fostering innovation while safeguarding artists' rights and compensation in the era of AI, YouTube and Universal Music Group have teamed up to launch the AI Incubator. #youtube https://gizmodo.com/youtube-launches-music-ai-incubator-with-universal-1850758218"
+                },
+                {
+                    "Title": "Snapchat's AI journey continues",
+                    "Link": "https://www.techtimes.com/articles/295405/20230822/snapchat-set-introduce-new-generative-ai-tool-dreams.htm",
+                    "Description": "After \"My AI,\" it's time for \"Dreams.\" This upcoming feature transforms your pictures with AI-generated backgrounds, bringing your creativity to a whole new level.",
+                    "Time": "3",
+                    "Hashtag": "snapchat",
+                    "Tweet": "Snapchat's AI journey continues \ud83d\udce6 After \"My AI,\" it's time for \"Dreams.\" This upcoming feature transforms your pictures with AI-generated backgrounds, bringing your creativity to a whole new level. #snapchat https://www.techtimes.com/articles/295405/20230822/snapchat-set-introduce-new-generative-ai-tool-dreams.htm"
+                },
+                {
+                    "Title": "AI needs us as much as we need it",
+                    "Link": "https://www.techtimes.com/articles/295410/20230822/ai-models-chatgpt-still-dependent-humans-expert-explains.htm",
+                    "Description": "While discussions about its transformative potential continue to take place. AI remains intrinsically tied to human input for learning, interpretation, and maintenance.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI needs us as much as we need it \ud83d\udce6 While discussions about its transformative potential continue to take place. AI remains intrinsically tied to human input for learning, interpretation, and maintenance. #ai https://www.techtimes.com/articles/295410/20230822/ai-models-chatgpt-still-dependent-humans-expert-explains.htm"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Up next: India",
+                    "Link": "https://arstechnica.com/space/2023/08/after-russias-failure-india-is-next-in-line-to-attempt-a-moon-landing/",
+                    "Description": "In the race to the lunar surface, India's Chandrayaan 3 is all set for a soft touchdown on August 23. The country is determined to overcome past challenges and succeed this time.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Up next: India \ud83d\udce6 In the race to the lunar surface, India's Chandrayaan 3 is all set for a soft touchdown on August 23. The country is determined to overcome past challenges and succeed this time. #rocketscience https://arstechnica.com/space/2023/08/after-russias-failure-india-is-next-in-line-to-attempt-a-moon-landing/"
+                },
+                {
+                    "Title": "Countdown to launch",
+                    "Link": "https://www.space.com/spacex-crew-7-mission-go-launch-august-25",
+                    "Description": "NASA's SpaceX Crew-7 mission has passed the flight readiness review with unanimous approval. Four astronauts are ready to embark on an exciting journey to the ISS this Friday.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Countdown to launch \ud83d\udce6 NASA's SpaceX Crew-7 mission has passed the flight readiness review with unanimous approval. Four astronauts are ready to embark on an exciting journey to the ISS this Friday. #NASA https://www.space.com/spacex-crew-7-mission-go-launch-august-25"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Attention Python enthusiasts!",
+                    "Link": "https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support",
+                    "Description": "Opening up a world of possibilities, Microsoft presents Python integration in Excel. A public preview is now available. Get ready to explore data and perform advanced analyses effortlessly.",
+                    "Time": "2",
+                    "Hashtag": "python",
+                    "Tweet": "Attention Python enthusiasts! \ud83d\udce6 Opening up a world of possibilities, Microsoft presents Python integration in Excel. A public preview is now available. Get ready to explore data and perform advanced analyses effortlessly. #python https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "See you on Mars",
+                    "Link": "https://interestingengineering.com/science/22-people-are-enough-to-build-and-sustain-martian-colony",
+                    "Description": "Mars colonization might be \"simpler\" than we thought. George Mason University's study hints that a team of 22 could establish a self-sustaining colony on the red planet.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "See you on Mars \ud83d\udce6 Mars colonization might be \"simpler\" than we thought. George Mason University's study hints that a team of 22 could establish a self-sustaining colony on the red planet. #science https://interestingengineering.com/science/22-people-are-enough-to-build-and-sustain-martian-colony"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Volkswagen charges forward",
+                    "Link": "https://electrek.co/2023/08/21/volkswagen-begins-production-flagship-id-7-electric-car/",
+                    "Description": "The ID.7, VW's largest electric model, has entered production in Emden, Germany, showcasing the automaker's commitment to electric innovation.",
+                    "Time": "3",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Volkswagen charges forward \ud83d\udce6 The ID.7, VW's largest electric model, has entered production in Emden, Germany, showcasing the automaker's commitment to electric innovation. #volkswagen https://electrek.co/2023/08/21/volkswagen-begins-production-flagship-id-7-electric-car/"
+                },
+                {
+                    "Title": "Siri takes the wheel",
+                    "Link": "https://www.engadget.com/teslas-iphone-app-can-now-control-your-car-through-siri-144718131.html",
+                    "Description": "Tesla's latest iOS update allows you to control your EV through Siri, making tasks from opening trunks to activating special modes as easy as speaking.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Siri takes the wheel \ud83d\udce6 Tesla's latest iOS update allows you to control your EV through Siri, making tasks from opening trunks to activating special modes as easy as speaking. #tesla https://www.engadget.com/teslas-iphone-app-can-now-control-your-car-through-siri-144718131.html"
+                }
+            ]
+        }
+    ],
+    "title": "Meta announces SeamlessM4T, Youtube unveils the AI Incubator, India gears up for landing",
+    "date": "2023/08/22",
+    "description": "Meta\u2019s latest open-source model brings artificial intelligence into translation, which is genial for bilingual individuals like me. YouTube tells artists \"I got you\" through the AI Incubator, granting them control over their work in the AI era. Lastly, as the lunar race ends (for now), let\u2019s all wish India good luck with its lunar landing attempt tomorrow."
+}
