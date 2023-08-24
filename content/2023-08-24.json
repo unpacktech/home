@@ -1,0 +1,135 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Your chance to attend the ultimate SRE event in London is here on September 14th-15th! With 50+ talks by industry-leading experts, you won't want to miss out. Early bird tickets are still available!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Your chance to attend the ultimate SRE event in London is here on September 14th-15th! With 50+ talks by industry-leading experts, you won't want to miss out. Early bird tickets are still available! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "From brain signals to words",
+                    "Link": "https://fortune.com/well/2023/08/23/new-technology-allows-paralyzed-woman-speak-again-own-voice-avatar-brain-computer-interface-electrodes-university-california-san-francisco/",
+                    "Description": "Through the fusion of neuroscience and AI, a woman paralyzed by a stroke can now communicate again, using an avatar that speaks with her own voice.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "From brain signals to words \ud83d\udce6 Through the fusion of neuroscience and AI, a woman paralyzed by a stroke can now communicate again, using an avatar that speaks with her own voice. #ai https://fortune.com/well/2023/08/23/new-technology-allows-paralyzed-woman-speak-again-own-voice-avatar-brain-computer-interface-electrodes-university-california-san-francisco/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The eyes never lie",
+                    "Link": "https://thenextweb.com/news/3d-eye-scans-can-detect-signs-of-parkinsons",
+                    "Description": "A recent study suggests that 3D eye scans, coupled with AI analysis, can identify retinal changes related to Parkinson's disease long before symptoms arise.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "The eyes never lie \ud83d\udce6 A recent study suggests that 3D eye scans, coupled with AI analysis, can identify retinal changes related to Parkinson's disease long before symptoms arise. #ai https://thenextweb.com/news/3d-eye-scans-can-detect-signs-of-parkinsons"
+                },
+                {
+                    "Title": "Nvidia keeps ascending",
+                    "Link": "https://www.engadget.com/nvidia-records-mega-profits-thanks-to-its-ai-chip-business-084552302.html",
+                    "Description": "Nvidia's journey through the AI landscape is reflected in its Q2 report. With revenues soaring to $13.51 billion, doubling from the previous year, the company's impact is undeniable.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Nvidia keeps ascending \ud83d\udce6 Nvidia's journey through the AI landscape is reflected in its Q2 report. With revenues soaring to $13.51 billion, doubling from the previous year, the company's impact is undeniable. #nvidia https://www.engadget.com/nvidia-records-mega-profits-thanks-to-its-ai-chip-business-084552302.html"
+                },
+                {
+                    "Title": "Rethinking robot manipulation",
+                    "Link": "https://news.mit.edu/2023/ai-technique-robots-manipulate-objects-whole-bodies-0824",
+                    "Description": "MIT's AI \"Smoothing\" technique is a giant leap in robotics. By simplifying tasks and enhancing adaptability, this innovation promises cost-effective solutions across industries.",
+                    "Time": "5",
+                    "Hashtag": "robotics",
+                    "Tweet": "Rethinking robot manipulation \ud83d\udce6 MIT's AI \"Smoothing\" technique is a giant leap in robotics. By simplifying tasks and enhancing adaptability, this innovation promises cost-effective solutions across industries. #robotics https://news.mit.edu/2023/ai-technique-robots-manipulate-objects-whole-bodies-0824"
+                },
+                {
+                    "Title": "What's new on Midjourney?",
+                    "Link": "https://venturebeat.com/ai/midjourney-adds-new-vary-region-feature-to-rival-photoshop-generative-fill/",
+                    "Description": "Their \"vary (region)\" infill feature allows you to transform specific parts of images with a few clicks, making it easier to adjust elements and achieve your desired outcome.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "What's new on Midjourney? \ud83d\udce6 Their \"vary (region)\" infill feature allows you to transform specific parts of images with a few clicks, making it easier to adjust elements and achieve your desired outcome. #ai https://venturebeat.com/ai/midjourney-adds-new-vary-region-feature-to-rival-photoshop-generative-fill/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Rocket Lab: Reuse and relaunch",
+                    "Link": "https://spacenews.com/rocket-lab-reuses-engine-on-electron-launch/",
+                    "Description": "By reflying an Electron engine successfully, they're solidifying their path toward reusing the full rocket booster, opening doors to sustainable space exploration.",
+                    "Time": "2",
+                    "Hashtag": "rocketlab",
+                    "Tweet": "Rocket Lab: Reuse and relaunch \ud83d\udce6 By reflying an Electron engine successfully, they're solidifying their path toward reusing the full rocket booster, opening doors to sustainable space exploration. #rocketlab https://spacenews.com/rocket-lab-reuses-engine-on-electron-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "AI enters video production",
+                    "Link": "https://venturebeat.com/ai/irreverent-labs-backed-by-samsung-next-set-to-revolutionize-video-content-creation-with-ai/",
+                    "Description": "Irreverent Labs has secured a game-changing investment from Samsung Next. The startup is currently working on an AI model that transforms prompts into stunning 3D videos.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI enters video production \ud83d\udce6 Irreverent Labs has secured a game-changing investment from Samsung Next. The startup is currently working on an AI model that transforms prompts into stunning 3D videos. #ai https://venturebeat.com/ai/irreverent-labs-backed-by-samsung-next-set-to-revolutionize-video-content-creation-with-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "More bumps on the road for Google",
+                    "Link": "https://www.theverge.com/2023/8/23/23843308/google-samsung-ar-mixed-reality-headsets",
+                    "Description": "Google and Samsung's Project Moohan, aimed at developing a mixed-reality headset, is rumored to be facing internal complexities that might impact the project's direction and timeline.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "More bumps on the road for Google \ud83d\udce6 Google and Samsung's Project Moohan, aimed at developing a mixed-reality headset, is rumored to be facing internal complexities that might impact the project's direction and timeline. #google https://www.theverge.com/2023/8/23/23843308/google-samsung-ar-mixed-reality-headsets"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Is this it?",
+                    "Link": "https://electrek.co/2023/08/23/elon-musk-teases-tesla-cybertruck-production-candidate/",
+                    "Description": "Elon Musk has revealed the Cybertruck production candidate. With the finishing touches in place, we might just be witnessing Tesla's \"best product ever.\"",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Is this it? \ud83d\udce6 Elon Musk has revealed the Cybertruck production candidate. With the finishing touches in place, we might just be witnessing Tesla's \"best product ever.\" #tesla https://electrek.co/2023/08/23/elon-musk-teases-tesla-cybertruck-production-candidate/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Do you know a song that goes like\u2026 hmm",
+                    "Link": "https://techcrunch.com/2023/08/23/youtube-tests-search-feature-users-hum-sing-identify-songs/",
+                    "Description": "YouTube is testing out an experiment for Android users that allows song identification through humming or recording. A move that sets it apart from traditional music recognition apps.",
+                    "Time": "2",
+                    "Hashtag": "youtube",
+                    "Tweet": "Do you know a song that goes like\u2026 hmm \ud83d\udce6 YouTube is testing out an experiment for Android users that allows song identification through humming or recording. A move that sets it apart from traditional music recognition apps. #youtube https://techcrunch.com/2023/08/23/youtube-tests-search-feature-users-hum-sing-identify-songs/"
+                }
+            ]
+        }
+    ],
+    "title": "Nvidia's AI reign continues, Meet: Irreverent Labs, Midjourney's latest feature",
+    "date": "2023/08/24",
+    "description": "The numbers speak for themselves; there's no doubt that Nvidia stands as the leading contender on the AI battlefield. Irreverent Labs is a small startup that has caught Samsung\u2019s attention, and if you\u2019re into video production you should check it out too. Lastly, Midjourney's new \"vary (region)\" feature is a lifesaver, especially for someone like me, dealing with prompt results that include unusual-looking hands."
+}
