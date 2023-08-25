@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Ready for an extraordinary event? Join us at SREday, scheduled for September 14-15 in London, featuring over 50+ talks led by SRE experts. Book your early bird tickets today!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Ready for an extraordinary event? Join us at SREday, scheduled for September 14-15 in London, featuring over 50+ talks led by SRE experts. Book your early bird tickets today! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "OpenAI and Scale AI join forces",
+                    "Link": "https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/",
+                    "Description": "This joint effort mixes both companies' strengths to offer highly customizable models. Through data enhancement and fine-tuning of GPT-3.5, businesses can create AI models that fit their needs.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "OpenAI and Scale AI join forces \ud83d\udce6 This joint effort mixes both companies' strengths to offer highly customizable models. Through data enhancement and fine-tuning of GPT-3.5, businesses can create AI models that fit their needs. #openai https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/"
+                },
+                {
+                    "Title": "Code Llama is now available",
+                    "Link": "https://ai.meta.com/blog/code-llama-large-language-model-coding/",
+                    "Description": "Exciting times for developers! Meta's coding companion is here. This breakthrough language model effortlessly converts text prompts into functional code, enhancing productivity and fostering learning.",
+                    "Time": "7",
+                    "Hashtag": "meta",
+                    "Tweet": "Code Llama is now available \ud83d\udce6 Exciting times for developers! Meta's coding companion is here. This breakthrough language model effortlessly converts text prompts into functional code, enhancing productivity and fostering learning. #meta https://ai.meta.com/blog/code-llama-large-language-model-coding/"
+                },
+                {
+                    "Title": "An embrace worth millions",
+                    "Link": "https://venturebeat.com/ai/hugging-face-gets-a-235m-group-hug-led-by-salesforce/",
+                    "Description": "Hugging Face's commitment to open-source AI reaches new heights after a funding boost of $235M from an array of industry giants, including Google, Amazon, and Nvidia.",
+                    "Time": "4",
+                    "Hashtag": "huggingface",
+                    "Tweet": "An embrace worth millions \ud83d\udce6 Hugging Face's commitment to open-source AI reaches new heights after a funding boost of $235M from an array of industry giants, including Google, Amazon, and Nvidia. #huggingface https://venturebeat.com/ai/hugging-face-gets-a-235m-group-hug-led-by-salesforce/"
+                },
+                {
+                    "Title": "What if it is no longer artificial?",
+                    "Link": "https://www.nature.com/articles/d41586-023-02684-5",
+                    "Description": "The boundary between fact and fiction blurs with the notion of AI gaining consciousness. Researchers have created a detailed checklist in case we face this intriguing possibility.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "What if it is no longer artificial? \ud83d\udce6 The boundary between fact and fiction blurs with the notion of AI gaining consciousness. Researchers have created a detailed checklist in case we face this intriguing possibility. #ai https://www.nature.com/articles/d41586-023-02684-5"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A walk on the moon",
+                    "Link": "https://www.space.com/chandrayaan-3-rover-first-steps-on-moon",
+                    "Description": "The Pragyan rover, named after \"wisdom\" in Sanskrit, has begun exploring the lunar surface. Another successful milestone in India's mission to uncover the moon's south pole's latent potential.",
+                    "Time": "3",
+                    "Hashtag": "india",
+                    "Tweet": "A walk on the moon \ud83d\udce6 The Pragyan rover, named after \"wisdom\" in Sanskrit, has begun exploring the lunar surface. Another successful milestone in India's mission to uncover the moon's south pole's latent potential. #india https://www.space.com/chandrayaan-3-rover-first-steps-on-moon"
+                },
+                {
+                    "Title": "Japan's lunar journey begins",
+                    "Link": "https://www.japantimes.co.jp/news/2023/08/25/japan/science-health/moon-space-jaxa/",
+                    "Description": "Amid recent lunar events, JAXA prepares to leave its mark. Japan's upcoming moon mission, set to launch this Sunday, holds immense potential for the nation after past challenges.",
+                    "Time": "4",
+                    "Hashtag": "JAXA",
+                    "Tweet": "Japan's lunar journey begins \ud83d\udce6 Amid recent lunar events, JAXA prepares to leave its mark. Japan's upcoming moon mission, set to launch this Sunday, holds immense potential for the nation after past challenges. #JAXA https://www.japantimes.co.jp/news/2023/08/25/japan/science-health/moon-space-jaxa/"
+                },
+                {
+                    "Title": "Super heavy expectations",
+                    "Link": "https://interestingengineering.com/innovation/starship-launch-soon-as-spacex-shows-off-modifications",
+                    "Description": "A post by Elon Musk brings anticipation for SpaceX's next Starship launch. As Booster 9 undergoes preflight trials, curiosity grows about when we'll witness the rocket's journey to orbit.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "Super heavy expectations \ud83d\udce6 A post by Elon Musk brings anticipation for SpaceX's next Starship launch. As Booster 9 undergoes preflight trials, curiosity grows about when we'll witness the rocket's journey to orbit. #spacex https://interestingengineering.com/innovation/starship-launch-soon-as-spacex-shows-off-modifications"
+                },
+                {
+                    "Title": "Attention: Mission update!",
+                    "Link": "https://apnews.com/article/spacex-nasa-astronauts-launch-scrub-1935f8cff1bf941a43fd8055e896f70d",
+                    "Description": "SpaceX and NASA adjust plans for the Crew-7 mission launch. The liftoff, carrying four astronauts to the ISS, is now rescheduled for Saturday, allowing final details to be attended to.",
+                    "Time": "1",
+                    "Hashtag": "NASA",
+                    "Tweet": "Attention: Mission update! \ud83d\udce6 SpaceX and NASA adjust plans for the Crew-7 mission launch. The liftoff, carrying four astronauts to the ISS, is now rescheduled for Saturday, allowing final details to be attended to. #NASA https://apnews.com/article/spacex-nasa-astronauts-launch-scrub-1935f8cff1bf941a43fd8055e896f70d"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Comfort on wheels",
+                    "Link": "https://electrek.co/2023/08/24/volvo-teases-first-100-electric-minivan-with-scandi-living-room/",
+                    "Description": "Volvo's electric innovation is hitting the road with the EM90, an electric minivan that mimics the comfort of a Scandinavian living room.",
+                    "Time": "3",
+                    "Hashtag": "volvo",
+                    "Tweet": "Comfort on wheels \ud83d\udce6 Volvo's electric innovation is hitting the road with the EM90, an electric minivan that mimics the comfort of a Scandinavian living room. #volvo https://electrek.co/2023/08/24/volvo-teases-first-100-electric-minivan-with-scandi-living-room/"
+                },
+                {
+                    "Title": "Kia's latest addition",
+                    "Link": "https://electrek.co/2023/08/25/kia-ev5-officially-unveiled-check-out-new-compact-electric-suv/",
+                    "Description": "Unveiled at the Chengdu Motor Show, the EV5 combines compactness and elegance. Drawing inspiration from Kia's flagship EV9, this electric SUV is designed with modern families in mind.",
+                    "Time": "3",
+                    "Hashtag": "kia",
+                    "Tweet": "Kia's latest addition \ud83d\udce6 Unveiled at the Chengdu Motor Show, the EV5 combines compactness and elegance. Drawing inspiration from Kia's flagship EV9, this electric SUV is designed with modern families in mind. #kia https://electrek.co/2023/08/25/kia-ev5-officially-unveiled-check-out-new-compact-electric-suv/"
+                }
+            ]
+        }
+    ],
+    "title": "India's milestone on the moon, Japan gears up for the lunar race, Code Llama has arrived",
+    "date": "2023/08/25",
+    "description": "We're currently living in a very exciting timeline, where two countries are pursuing their lunar aspirations. India is already exploring the moon's south pole, and Japan is preparing for its launch. Be cautious, as you might catch the lunar frenzy too! And developers, get ready \u2014 the best coding companion (allegedly) has arrived. Code Llama aims to assist coding enthusiasts of all levels."
+}
