@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Here's your chance to be a part of something incredible \u2013 the SREday event in London on September 14th-15th, with over 50+ sessions to choose from. Don't wait, book your early bird tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Here's your chance to be a part of something incredible \u2013 the SREday event in London on September 14th-15th, with over 50+ sessions to choose from. Don't wait, book your early bird tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Here comes Aditya-L1",
+                    "Link": "https://techcrunch.com/2023/08/28/aditya-l1-launch-solar-observatory-mission/",
+                    "Description": "India's space journey continues. Following Chandrayaan-3's success, the nation's focus switched to the sun. Aditya-L1's upcoming mission will explore space weather and coronal mass ejections.",
+                    "Time": "2",
+                    "Hashtag": "india",
+                    "Tweet": "Here comes Aditya-L1 \ud83d\udce6 India's space journey continues. Following Chandrayaan-3's success, the nation's focus switched to the sun. Aditya-L1's upcoming mission will explore space weather and coronal mass ejections. #india https://techcrunch.com/2023/08/28/aditya-l1-launch-solar-observatory-mission/"
+                },
+                {
+                    "Title": "Crew-7 has arrived",
+                    "Link": "https://spacenews.com/crew-7-docks-with-space-station/",
+                    "Description": "The ISS opens its doors to fresh explorers! In a seamless docking on Aug. 27, SpaceX's Crew Dragon carried four astronauts to their new orbital home for the next six months. ",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Crew-7 has arrived \ud83d\udce6 The ISS opens its doors to fresh explorers! In a seamless docking on Aug. 27, SpaceX's Crew Dragon carried four astronauts to their new orbital home for the next six months.  #NASA https://spacenews.com/crew-7-docks-with-space-station/"
+                },
+                {
+                    "Title": "Weather troubles for Japan",
+                    "Link": "https://interestingengineering.com/science/nasa-japan-lunar-lander-x-ray-satellite-launch",
+                    "Description": "Due to unfavorable weather conditions, JAXA's ambitions are currently on hold. The XRISM satellite and the SLIM lunar lander must await a new launch window.",
+                    "Time": "3",
+                    "Hashtag": "JAXA",
+                    "Tweet": "Weather troubles for Japan \ud83d\udce6 Due to unfavorable weather conditions, JAXA's ambitions are currently on hold. The XRISM satellite and the SLIM lunar lander must await a new launch window. #JAXA https://interestingengineering.com/science/nasa-japan-lunar-lander-x-ray-satellite-launch"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Introducing: WizardCoder",
+                    "Link": "https://windowsreport.com/microsoft-wizardcoder-ai/",
+                    "Description": "With the Evol-Instruct technique as its guide, this open-source model enhances Llama code performance, outshining giants like Google's Bard and Anthropic's Claude.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: WizardCoder \ud83d\udce6 With the Evol-Instruct technique as its guide, this open-source model enhances Llama code performance, outshining giants like Google's Bard and Anthropic's Claude. #ai https://windowsreport.com/microsoft-wizardcoder-ai/"
+                },
+                {
+                    "Title": "AI is ready to take your order",
+                    "Link": "https://venturebeat.com/ai/doordash-launches-ai-powered-voice-ordering/",
+                    "Description": "DoorDash, a US delivery service, harnesses AI for voice ordering, boosting restaurants' sales as AI manages calls and delights customers with tailored suggestions.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI is ready to take your order \ud83d\udce6 DoorDash, a US delivery service, harnesses AI for voice ordering, boosting restaurants' sales as AI manages calls and delights customers with tailored suggestions. #ai https://venturebeat.com/ai/doordash-launches-ai-powered-voice-ordering/"
+                },
+                {
+                    "Title": "Don\u2019t get lost in your inbox",
+                    "Link": "https://www.fastcompany.com/90945096/yahoo-unveils-an-ai-email-assistant-and-it-works-with-gmail",
+                    "Description": "Tired of typing robotic queries to find nothing? Yahoo's got your back with its latest AI assistant. Explain what you need, from flight info to bills, and it's done.",
+                    "Time": "3",
+                    "Hashtag": "yahoo",
+                    "Tweet": "Don\u2019t get lost in your inbox \ud83d\udce6 Tired of typing robotic queries to find nothing? Yahoo's got your back with its latest AI assistant. Explain what you need, from flight info to bills, and it's done. #yahoo https://www.fastcompany.com/90945096/yahoo-unveils-an-ai-email-assistant-and-it-works-with-gmail"
+                },
+                {
+                    "Title": "AI becomes Paypal's pal",
+                    "Link": "https://apnews.com/article/paypal-artificial-intelligence-payments-security-cybersecurity-96ce016ed5ac2aad76bda6b778e1fd0f",
+                    "Description": "PayPal's Chief Product Officer, John Kim, discloses how the company plans to leverage AI to upgrade the checkout experience and real-time fraud detection.",
+                    "Time": "3",
+                    "Hashtag": "paypal",
+                    "Tweet": "AI becomes Paypal's pal \ud83d\udce6 PayPal's Chief Product Officer, John Kim, discloses how the company plans to leverage AI to upgrade the checkout experience and real-time fraud detection. #paypal https://apnews.com/article/paypal-artificial-intelligence-payments-security-cybersecurity-96ce016ed5ac2aad76bda6b778e1fd0f"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Rescues beyond coverage",
+                    "Link": "https://www.theverge.com/2023/8/28/23848719/google-messages-satellite-emergency-services-garmin-rumor",
+                    "Description": "Google is reportedly following Apple's steps by integrating satellite SOS through Messages. Backed by Garmin's Response service, it aims to improve emergency contact in remote zones.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Rescues beyond coverage \ud83d\udce6 Google is reportedly following Apple's steps by integrating satellite SOS through Messages. Backed by Garmin's Response service, it aims to improve emergency contact in remote zones. #google https://www.theverge.com/2023/8/28/23848719/google-messages-satellite-emergency-services-garmin-rumor"
+                },
+                {
+                    "Title": "iPad Pro gets a makeover",
+                    "Link": "https://mashable.com/article/apple-ipad-pro-2024-oled-rumors",
+                    "Description": "Apple is finally refreshing the iPad. Reports suggest that the forthcoming iPad Pro might introduce OLED displays, improved battery life, and an M3 chip.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "iPad Pro gets a makeover \ud83d\udce6 Apple is finally refreshing the iPad. Reports suggest that the forthcoming iPad Pro might introduce OLED displays, improved battery life, and an M3 chip. #apple https://mashable.com/article/apple-ipad-pro-2024-oled-rumors"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Master of disguise",
+                    "Link": "https://electrek.co/2023/08/26/tesla-trolls-toyota-cybertruck-wrapped-tundra/",
+                    "Description": "Tesla continues to play dress up with the Cybertruck. After mimicking an F-150, it's now channeling a Toyota Tundra. Is this a competitive hint or simply a way to get into the Halloween spirit?",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Master of disguise \ud83d\udce6 Tesla continues to play dress up with the Cybertruck. After mimicking an F-150, it's now channeling a Toyota Tundra. Is this a competitive hint or simply a way to get into the Halloween spirit? #tesla https://electrek.co/2023/08/26/tesla-trolls-toyota-cybertruck-wrapped-tundra/"
+                }
+            ]
+        }
+    ],
+    "title": "Japan's journey gets delayed, AI may take your order, Cybertruck's latest costume",
+    "date": "2023/08/28",
+    "description": "I was all set to cover Japan's latest journey to space involving the XRISM satellite and its highly anticipated lunar mission, but the weather had other plans for everyone. If you're considering ordering from your favorite restaurant over the phone, AI might just be the one answering. And as we approach the end of August, Tesla seems to be getting into the Halloween spirit early, with a Cybertruck sporting a new disguise."
+}
