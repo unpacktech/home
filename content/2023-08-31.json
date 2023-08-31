@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "In just two weeks SREday lands in London! With a fantastic lineup of over 50+ talks led by industry experts. Don\u2019t miss out, tickets are still available!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 In just two weeks SREday lands in London! With a fantastic lineup of over 50+ talks led by industry experts. Don\u2019t miss out, tickets are still available! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Find a better place to train",
+                    "Link": "https://www.axios.com/2023/08/31/major-websites-are-blocking-ai-crawlers-from-accessing-their-content",
+                    "Description": "Due to the absence of regulations regarding AI and copyright, most websites have resorted to alternatives, like blocking AI crawlers from using their content for training purposes.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Find a better place to train \ud83d\udce6 Due to the absence of regulations regarding AI and copyright, most websites have resorted to alternatives, like blocking AI crawlers from using their content for training purposes. #ai https://www.axios.com/2023/08/31/major-websites-are-blocking-ai-crawlers-from-accessing-their-content"
+                },
+                {
+                    "Title": "There's a new player on the court",
+                    "Link": "https://venturebeat.com/ai/ibm-serves-up-ai-generated-tennis-commentary-and-draw-analysis-at-the-us-open/",
+                    "Description": "AI and sports merge at the US Open with IBM's AI-generated audio highlights. This approach provides coverage of every tennis match, streamlining the organization's workload.",
+                    "Time": "4",
+                    "Hashtag": "IBM",
+                    "Tweet": "There's a new player on the court \ud83d\udce6 AI and sports merge at the US Open with IBM's AI-generated audio highlights. This approach provides coverage of every tennis match, streamlining the organization's workload. #IBM https://venturebeat.com/ai/ibm-serves-up-ai-generated-tennis-commentary-and-draw-analysis-at-the-us-open/"
+                },
+                {
+                    "Title": "Is it getting better than humans?",
+                    "Link": "https://www.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots",
+                    "Description": "The University of Zurich has produced a new champion in drone racing named Swift AI. In a remarkable feat, the AI-powered drone beat human champions in 15 out of 25 races.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Is it getting better than humans? \ud83d\udce6 The University of Zurich has produced a new champion in drone racing named Swift AI. In a remarkable feat, the AI-powered drone beat human champions in 15 out of 25 races. #ai https://www.theguardian.com/technology/2023/aug/30/ai-powered-drone-beats-human-champion-pilots"
+                },
+                {
+                    "Title": "Podcasting with a touch of AI",
+                    "Link": "https://techcrunch.com/2023/08/30/substack-introduces-new-ai-powered-audio-transcription-tools/",
+                    "Description": "Substack, the newsletter platform, is introducing AI-driven features to simplify podcast transcriptions, and turn key passages into shareable audiograms.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Podcasting with a touch of AI \ud83d\udce6 Substack, the newsletter platform, is introducing AI-driven features to simplify podcast transcriptions, and turn key passages into shareable audiograms. #ai https://techcrunch.com/2023/08/30/substack-introduces-new-ai-powered-audio-transcription-tools/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A potential home",
+                    "Link": "https://gizmodo.com/india-chandrayaan-3-lunar-moon-sulphur-1850787031",
+                    "Description": "Chandrayaan-3's latest discovery brings us closer to unlocking the moon's potential for sustained human presence, as several elements, including sulfur, have been detected.",
+                    "Time": "2",
+                    "Hashtag": "india",
+                    "Tweet": "A potential home \ud83d\udce6 Chandrayaan-3's latest discovery brings us closer to unlocking the moon's potential for sustained human presence, as several elements, including sulfur, have been detected. #india https://gizmodo.com/india-chandrayaan-3-lunar-moon-sulphur-1850787031"
+                },
+                {
+                    "Title": "Deep Space Network is overbooked",
+                    "Link": "https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/",
+                    "Description": "As worrying as running out of cloud space is, imagine how worrying it would be if the network that keeps track of all space missions experienced something similar... NASA officials are ringing alarms.",
+                    "Time": "11",
+                    "Hashtag": "NASA",
+                    "Tweet": "Deep Space Network is overbooked \ud83d\udce6 As worrying as running out of cloud space is, imagine how worrying it would be if the network that keeps track of all space missions experienced something similar... NASA officials are ringing alarms. #NASA https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Collect and return",
+                    "Link": "https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/",
+                    "Description": "With Sept. 24 getting closer, NASA is undergoing final rehearsals for the OSIRIS-REx mission. The goal? Bringing home asteroid samples.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Collect and return \ud83d\udce6 With Sept. 24 getting closer, NASA is undergoing final rehearsals for the OSIRIS-REx mission. The goal? Bringing home asteroid samples. #NASA https://spacenews.com/nasa-gears-up-for-return-of-osiris-rex-asteroid-sample/"
+                },
+                {
+                    "Title": "All journeys must end",
+                    "Link": "https://www.digitaltrends.com/space/space-station-will-become-less-crowded-on-saturday/",
+                    "Description": "Concluding four months of space research, SpaceX's Crew-6 astronauts are preparing to leave the International Space Station this Saturday.",
+                    "Time": "3",
+                    "Hashtag": "ISS",
+                    "Tweet": "All journeys must end \ud83d\udce6 Concluding four months of space research, SpaceX's Crew-6 astronauts are preparing to leave the International Space Station this Saturday. #ISS https://www.digitaltrends.com/space/space-station-will-become-less-crowded-on-saturday/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Nissan's commitment to sustainability",
+                    "Link": "https://apnews.com/article/nissan-leaf-ev-battery-recycling-d48cf53a21e27c9df48d3c8a8cec2853",
+                    "Description": "The Japanese automaker is repurposing aging EV batteries into portable power sources. This is a significant step that not only reduces waste but also benefits users.",
+                    "Time": "2",
+                    "Hashtag": "nissan",
+                    "Tweet": "Nissan's commitment to sustainability \ud83d\udce6 The Japanese automaker is repurposing aging EV batteries into portable power sources. This is a significant step that not only reduces waste but also benefits users. #nissan https://apnews.com/article/nissan-leaf-ev-battery-recycling-d48cf53a21e27c9df48d3c8a8cec2853"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Call me through X",
+                    "Link": "https://interestingengineering.com/culture/elon-musk-audio-video-calls-twitter-x",
+                    "Description": "The evolution of X (formerly known as Twitter) into an \"everything app\" continues with the upcoming integration of audio and video calls.",
+                    "Time": "3",
+                    "Hashtag": "socialmedia",
+                    "Tweet": "Call me through X \ud83d\udce6 The evolution of X (formerly known as Twitter) into an \"everything app\" continues with the upcoming integration of audio and video calls. #socialmedia https://interestingengineering.com/culture/elon-musk-audio-video-calls-twitter-x"
+                }
+            ]
+        }
+    ],
+    "title": "Chandrayaan-3's findings, AI scores at US Open, The next step for X",
+    "date": "2023/08/31",
+    "description": "India's Chandrayaan-3 mission just found an element that could bring us closer to setting up a \"home\" on the moon. Most of us are into the latest US Open matches, but little did we know that AI might be behind some of the commentaries. Oh, and guess what? If you're into getting calls via social media, X is rolling out that feature too."
+}
