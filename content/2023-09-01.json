@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "It is only a matter of days until London welcomes SREday. Mark your calendar for September 14th-15th, and get ready for 2 days of innovation with over 50+ talks. Book your tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 It is only a matter of days until London welcomes SREday. Mark your calendar for September 14th-15th, and get ready for 2 days of innovation with over 50+ talks. Book your tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Ernie is now publicly available ",
+                    "Link": "https://www.cnbc.com/2023/08/31/baidu-gets-chinas-green-light-to-release-its-chatgpt-like-ernie-bot-to-the-public.html",
+                    "Description": "Baidu's ChatGPT-like chatbot, once exclusive to business partners and waitlist members, is now open to the public in China and has secured the top spot on Apple's app store.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Ernie is now publicly available  \ud83d\udce6 Baidu's ChatGPT-like chatbot, once exclusive to business partners and waitlist members, is now open to the public in China and has secured the top spot on Apple's app store. #ai https://www.cnbc.com/2023/08/31/baidu-gets-chinas-green-light-to-release-its-chatgpt-like-ernie-bot-to-the-public.html"
+                },
+                {
+                    "Title": "Classroom, let's welcome ChatGPT",
+                    "Link": "https://openai.com/blog/teaching-with-ai",
+                    "Description": "OpenAI's dedication to responsible AI extends to education. They've released a guide for teachers that covers prompts, limitations, and tips, all aimed at improving the learning experience.",
+                    "Time": "8",
+                    "Hashtag": "openai",
+                    "Tweet": "Classroom, let's welcome ChatGPT \ud83d\udce6 OpenAI's dedication to responsible AI extends to education. They've released a guide for teachers that covers prompts, limitations, and tips, all aimed at improving the learning experience. #openai https://openai.com/blog/teaching-with-ai"
+                },
+                {
+                    "Title": "IBM and Salesforce team up",
+                    "Link": "https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/",
+                    "Description": "With the fusion of Salesforce's CRM and IBM's industry expertise, this partnership delivers a powerful blend of AI solutions to their shared customers.",
+                    "Time": "2",
+                    "Hashtag": "IBM",
+                    "Tweet": "IBM and Salesforce team up \ud83d\udce6 With the fusion of Salesforce's CRM and IBM's industry expertise, this partnership delivers a powerful blend of AI solutions to their shared customers. #IBM https://venturebeat.com/ai/ibm-and-salesforce-team-up-to-bring-ai-tools-to-their-shared-clients/"
+                },
+                {
+                    "Title": "Bridging language gaps with AI",
+                    "Link": "https://www.reuters.com/technology/uaes-g42-launches-open-source-arabic-language-ai-model-2023-08-30/",
+                    "Description": "In a quest for bilingual AI models, a team of experts has introduced Jais. This advanced model combines Arabic and English data to fuel generative AI applications.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Bridging language gaps with AI \ud83d\udce6 In a quest for bilingual AI models, a team of experts has introduced Jais. This advanced model combines Arabic and English data to fuel generative AI applications. #ai https://www.reuters.com/technology/uaes-g42-launches-open-source-arabic-language-ai-model-2023-08-30/"
+                },
+                {
+                    "Title": "A Caribbean treasure hunt",
+                    "Link": "https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/",
+                    "Description": "AI's impact on economies is evident worldwide. As an example, take Anguilla, a Caribbean paradise, which is on track to generate $30 million in revenue this year by managing .ai domain assignments.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A Caribbean treasure hunt \ud83d\udce6 AI's impact on economies is evident worldwide. As an example, take Anguilla, a Caribbean paradise, which is on track to generate $30 million in revenue this year by managing .ai domain assignments. #ai https://arstechnica.com/information-technology/2023/08/ai-fever-turns-anguillas-ai-domain-into-a-digital-gold-mine/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Innovation for a cleaner space",
+                    "Link": "https://interestingengineering.com/innovation/nasa-startup-develop-space-debris-capture-bag",
+                    "Description": "TransAstra secures a NASA contract to advance space debris-catching technology. The method consists of an inflatable capture bag that could lead to a cleaner and safer orbital environment.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Innovation for a cleaner space \ud83d\udce6 TransAstra secures a NASA contract to advance space debris-catching technology. The method consists of an inflatable capture bag that could lead to a cleaner and safer orbital environment. #NASA https://interestingengineering.com/innovation/nasa-startup-develop-space-debris-capture-bag"
+                },
+                {
+                    "Title": "Crystal-clear views of our planet",
+                    "Link": "https://www.theverge.com/2023/8/31/23852823/ai-generated-images-map-renewable-energy-trees-allen-institute-satlas",
+                    "Description": "Satlas, a tool developed by the Allen Institute for AI, harnesses generative AI to refine satellite images. Revealing the global landscape of renewable energy projects and tree coverage.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Crystal-clear views of our planet \ud83d\udce6 Satlas, a tool developed by the Allen Institute for AI, harnesses generative AI to refine satellite images. Revealing the global landscape of renewable energy projects and tree coverage. #ai https://www.theverge.com/2023/8/31/23852823/ai-generated-images-map-renewable-energy-trees-allen-institute-satlas"
+                },
+                {
+                    "Title": "Space is cluttered",
+                    "Link": "https://www.fastcompany.com/90947434/space-junk-is-piling-up-but-nobodys-in-charge-of-cleaning-it-up",
+                    "Description": "From rockets to rovers, space exploration is incredible. Yet, our cosmic adventures leave a mark in the form of debris, and it is time to address this growing issue.",
+                    "Time": "5",
+                    "Hashtag": "space",
+                    "Tweet": "Space is cluttered \ud83d\udce6 From rockets to rovers, space exploration is incredible. Yet, our cosmic adventures leave a mark in the form of debris, and it is time to address this growing issue. #space https://www.fastcompany.com/90947434/space-junk-is-piling-up-but-nobodys-in-charge-of-cleaning-it-up"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla has taken the wraps off \"Project Highland\"",
+                    "Link": "https://electrek.co/2023/08/31/tesla-model-3-highland-officially-unveiled-with-new-design-and-more-features/",
+                    "Description": "The highly-anticipated Model 3 refresh is here! Notable changes include a refined front-end design, increased screen space, and significant range improvements.",
+                    "Time": "5",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla has taken the wraps off \"Project Highland\" \ud83d\udce6 The highly-anticipated Model 3 refresh is here! Notable changes include a refined front-end design, increased screen space, and significant range improvements. #tesla https://electrek.co/2023/08/31/tesla-model-3-highland-officially-unveiled-with-new-design-and-more-features/"
+                },
+                {
+                    "Title": "Mini's charismatic simplicity",
+                    "Link": "https://www.engadget.com/the-mini-cooper-electric-gets-a-brand-new-look-and-a-lot-more-range-121540023.html",
+                    "Description": "BMW has unveiled the fifth-gen Mini Cooper, departing from tradition with a unique design approach and delivering impressive performance and extended range.",
+                    "Time": "2",
+                    "Hashtag": "EVs",
+                    "Tweet": "Mini's charismatic simplicity \ud83d\udce6 BMW has unveiled the fifth-gen Mini Cooper, departing from tradition with a unique design approach and delivering impressive performance and extended range. #EVs https://www.engadget.com/the-mini-cooper-electric-gets-a-brand-new-look-and-a-lot-more-range-121540023.html"
+                }
+            ]
+        }
+    ],
+    "title": "ChatGPT goes to school, Model 3's new Look, Anguilla's AI gold mine",
+    "date": "2023/09/01",
+    "description": "OpenAI is taking its chatbot to a potentially controversial place \u2013 classrooms. The company has released a guide for teachers to enhance learning through responsible AI use. Finally, Tesla has unveiled the new look for the Model 3, and it appears quite dashing with that facelift. Lastly, an unexpected success story, a tiny Caribbean island is making millions by assigning the .ai domain to websites."
+}
