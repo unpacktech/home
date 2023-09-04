@@ -1,0 +1,125 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Mark your calendar for September 14th-15th and join us in London for the ultimate SRE event! With over 50+ talks from top experts in the field. Secure your tickets today!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Mark your calendar for September 14th-15th and join us in London for the ultimate SRE event! With over 50+ talks from top experts in the field. Secure your tickets today! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "India: Onwards and upwards",
+                    "Link": "https://techcrunch.com/2023/09/01/india-aditya-l1-launch-solar-mission-sun/",
+                    "Description": "Aditya-L1, India's space-based solar observatory mission, was launched last Saturday. Equipped with seven payloads, including cutting-edge instruments, it is set to explore the sun like never before.",
+                    "Time": "4",
+                    "Hashtag": "india",
+                    "Tweet": "India: Onwards and upwards \ud83d\udce6 Aditya-L1, India's space-based solar observatory mission, was launched last Saturday. Equipped with seven payloads, including cutting-edge instruments, it is set to explore the sun like never before. #india https://techcrunch.com/2023/09/01/india-aditya-l1-launch-solar-mission-sun/"
+                },
+                {
+                    "Title": "Welcome home, Crew-6",
+                    "Link": "https://spacenews.com/crew-6-returns-to-earth/",
+                    "Description": "After 186 days in orbit, the Crew Dragon capsule, Endeavour, with Crew-6's members, touched down safely in the Atlantic Ocean.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Welcome home, Crew-6 \ud83d\udce6 After 186 days in orbit, the Crew Dragon capsule, Endeavour, with Crew-6's members, touched down safely in the Atlantic Ocean. #rocketscience https://spacenews.com/crew-6-returns-to-earth/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Pursuing superconductivity",
+                    "Link": "https://www.nature.com/articles/d41586-023-02681-8",
+                    "Description": "Room-temperature superconductors remain an intriguing concept, and while LK-99 didn't make the cut, the search continues. However, are the potential benefits as groundbreaking as they seem?",
+                    "Time": "8",
+                    "Hashtag": "science",
+                    "Tweet": "Pursuing superconductivity \ud83d\udce6 Room-temperature superconductors remain an intriguing concept, and while LK-99 didn't make the cut, the search continues. However, are the potential benefits as groundbreaking as they seem? #science https://www.nature.com/articles/d41586-023-02681-8"
+                },
+                {
+                    "Title": "For Pragyan, it's time for bed!",
+                    "Link": "https://interestingengineering.com/innovation/isro-puts-chandrayaan-3-rover-in-sleep-mode-to-survive-lunar-night",
+                    "Description": "India's space agency has made a strategic choice to conserve the battery and prolong the mission of Chandrayaan-3's rover, Pragyan, by placing it in sleep mode to endure the lunar nights.",
+                    "Time": "3",
+                    "Hashtag": "india",
+                    "Tweet": "For Pragyan, it's time for bed! \ud83d\udce6 India's space agency has made a strategic choice to conserve the battery and prolong the mission of Chandrayaan-3's rover, Pragyan, by placing it in sleep mode to endure the lunar nights. #india https://interestingengineering.com/innovation/isro-puts-chandrayaan-3-rover-in-sleep-mode-to-survive-lunar-night"
+                },
+                {
+                    "Title": "No matter where you are",
+                    "Link": "https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/",
+                    "Description": "Globalstar's partnership with SpaceX promises to enhance the satellite infrastructure behind Apple's Emergency SOS feature, bringing help to even the most remote areas.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "No matter where you are \ud83d\udce6 Globalstar's partnership with SpaceX promises to enhance the satellite infrastructure behind Apple's Emergency SOS feature, bringing help to even the most remote areas. #spacex https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Tesla better watch out",
+                    "Link": "https://electrek.co/2023/09/03/mercedes-cla-concept-the-long-range-entry-level-ev-weve-awaited/",
+                    "Description": "In the electric vehicle market, a fresh contender has arrived: Mercedes-Benz's CLA electric sedan concept, aimed at reshaping the standards for efficiency and range.",
+                    "Time": "4",
+                    "Hashtag": "mercedesbenz",
+                    "Tweet": "Tesla better watch out \ud83d\udce6 In the electric vehicle market, a fresh contender has arrived: Mercedes-Benz's CLA electric sedan concept, aimed at reshaping the standards for efficiency and range. #mercedesbenz https://electrek.co/2023/09/03/mercedes-cla-concept-the-long-range-entry-level-ev-weve-awaited/"
+                },
+                {
+                    "Title": "Hard at work",
+                    "Link": "https://electrek.co/2023/09/04/tesla-cybertruck-spotted-towing-big-trailer/",
+                    "Description": "Recent sightings of a Cybertruck prototype towing a large trailer raise questions about its potential as a practical work vehicle. Will it have what it takes?",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Hard at work \ud83d\udce6 Recent sightings of a Cybertruck prototype towing a large trailer raise questions about its potential as a practical work vehicle. Will it have what it takes? #tesla https://electrek.co/2023/09/04/tesla-cybertruck-spotted-towing-big-trailer/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Please just a few iPhones",
+                    "Link": "https://www.techtimes.com/articles/295920/20230904/apple-order-fewer-units-iphone-15-lower-14%E2%80%94heres-why.htm",
+                    "Description": "As global smartphone demand shows signs of slowing down, Apple has opted for a cautious approach by reducing orders for the iPhone 15 series.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Please just a few iPhones \ud83d\udce6 As global smartphone demand shows signs of slowing down, Apple has opted for a cautious approach by reducing orders for the iPhone 15 series. #apple https://www.techtimes.com/articles/295920/20230904/apple-order-fewer-units-iphone-15-lower-14%E2%80%94heres-why.htm"
+                },
+                {
+                    "Title": "Live from New York, it's Google!",
+                    "Link": "https://gizmodo.com/google-pixel-8-pixel-watch-2-release-date-event-1850797331",
+                    "Description": "The Big Apple is set to host Google's Pixel event, showcasing the highly-anticipated Pixel 8 and Pixel 8 Pro. Save the date for Oct. 4.",
+                    "Time": "5",
+                    "Hashtag": "google",
+                    "Tweet": "Live from New York, it's Google! \ud83d\udce6 The Big Apple is set to host Google's Pixel event, showcasing the highly-anticipated Pixel 8 and Pixel 8 Pro. Save the date for Oct. 4. #google https://gizmodo.com/google-pixel-8-pixel-watch-2-release-date-event-1850797331"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "The long and driverless road",
+                    "Link": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+                    "Description": "Are self-driving cars truly safer than human drivers? Minor incidents have put them under the microscope, but the verdict isn't in yet, as autonomous technology steadily evolves.",
+                    "Time": "18",
+                    "Hashtag": "cars",
+                    "Tweet": "The long and driverless road \ud83d\udce6 Are self-driving cars truly safer than human drivers? Minor incidents have put them under the microscope, but the verdict isn't in yet, as autonomous technology steadily evolves. #cars https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/"
+                }
+            ]
+        }
+    ],
+    "title": "The future of self-driving, India's solar mission, Cybertruck's work potential",
+    "date": "2023/09/04",
+    "description": "We're getting into a time where \"no hands on the steering wheel\" isn't just a joke anymore. Driverless cars are here, and they might even be better drivers than us. Just ten days after landing on the moon, India is now aiming for the sun! Best of luck to them on this incredible space journey. Oh, and the Cybertruck? It's still being tested, this time as a work truck. Any guesses on how that will turn out?"
+}
