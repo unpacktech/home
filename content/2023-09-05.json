@@ -1,0 +1,120 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "London is the place to be on September 14th-15th! Learn all about Site Reliability Engineering at this extraordinary event, featuring a lineup of over 50+ talks. Book your tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 London is the place to be on September 14th-15th! Learn all about Site Reliability Engineering at this extraordinary event, featuring a lineup of over 50+ talks. Book your tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Gleen AI strives for accuracy",
+                    "Link": "https://venturebeat.com/ai/gleen-ai-arrives-with-4-9m-in-funding-to-stop-ai-hallucinations-using-enterprises-own-data/",
+                    "Description": "While exploring the potential of generative AI, companies are mindful of hallucination risks. Gleen AI's pioneering approach promises a more accurate future for AI-powered solutions.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Gleen AI strives for accuracy \ud83d\udce6 While exploring the potential of generative AI, companies are mindful of hallucination risks. Gleen AI's pioneering approach promises a more accurate future for AI-powered solutions. #ai https://venturebeat.com/ai/gleen-ai-arrives-with-4-9m-in-funding-to-stop-ai-hallucinations-using-enterprises-own-data/"
+                },
+                {
+                    "Title": "Chinese AI innovations keep coming",
+                    "Link": "https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html",
+                    "Description": "Baidu is moving forward with its AI endeavors. After the success of its chatbot Ernie, the company is venturing into areas like traffic management and financial research with its products.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Chinese AI innovations keep coming \ud83d\udce6 Baidu is moving forward with its AI endeavors. After the success of its chatbot Ernie, the company is venturing into areas like traffic management and financial research with its products. #ai https://www.cnbc.com/2023/09/05/baidu-launches-more-ai-apps-after-ernie-chatbot-gets-public-approval.html"
+                },
+                {
+                    "Title": "Zoom is leveling up",
+                    "Link": "https://techcrunch.com/2023/09/05/zoom-rebrands-existing-and-intros-new-generative-ai-features/",
+                    "Description": "After running into a few bumps on its AI roadmap, Zoom has decided to rebrand and improve most of its AI features, in order to increase automation and productivity on the platform.",
+                    "Time": "5",
+                    "Hashtag": "zoom",
+                    "Tweet": "Zoom is leveling up \ud83d\udce6 After running into a few bumps on its AI roadmap, Zoom has decided to rebrand and improve most of its AI features, in order to increase automation and productivity on the platform. #zoom https://techcrunch.com/2023/09/05/zoom-rebrands-existing-and-intros-new-generative-ai-features/"
+                },
+                {
+                    "Title": "I'm thinking of something like ChartGPT",
+                    "Link": "https://www.zdnet.com/article/how-to-use-chatgpt-to-make-charts-and-tables/",
+                    "Description": "This article will help you unlock ChatGPT's potential to summarize complex data and transform it into insightful and easy-to-read charts and tables.",
+                    "Time": "10",
+                    "Hashtag": "chatGPT",
+                    "Tweet": "I'm thinking of something like ChartGPT \ud83d\udce6 This article will help you unlock ChatGPT's potential to summarize complex data and transform it into insightful and easy-to-read charts and tables. #chatGPT https://www.zdnet.com/article/how-to-use-chatgpt-to-make-charts-and-tables/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Uncertainty won't hold them back",
+                    "Link": "https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/",
+                    "Description": "The European Space Agency is working tirelessly to ensure Ariane 6's success. With tests underway, they're ready to overcome challenges and secure a 2024 launch date.",
+                    "Time": "5",
+                    "Hashtag": "ESA",
+                    "Tweet": "Uncertainty won't hold them back \ud83d\udce6 The European Space Agency is working tirelessly to ensure Ariane 6's success. With tests underway, they're ready to overcome challenges and secure a 2024 launch date. #ESA https://spacenews.com/esa-to-set-target-for-first-ariane-6-launch-after-upcoming-tests/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Brace yourselves for a VR showdown",
+                    "Link": "https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor",
+                    "Description": "As the VR industry heats up, Meta remains determined to advance, with discussions of a potential collaboration with LG for a future Quest Pro successor.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Brace yourselves for a VR showdown \ud83d\udce6 As the VR industry heats up, Meta remains determined to advance, with discussions of a potential collaboration with LG for a future Quest Pro successor. #meta https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor"
+                },
+                {
+                    "Title": "Capture memories in 3D",
+                    "Link": "https://www.macrumors.com/2023/09/04/future-iphone-could-capture-spatial-photos-videos/",
+                    "Description": "Rumor has it that the future iPhone, possibly named \"Ultra,\" will bring spatial photos and videos to life. Apple's Vision Pro will serve as a complementary tool to this approach.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Capture memories in 3D \ud83d\udce6 Rumor has it that the future iPhone, possibly named \"Ultra,\" will bring spatial photos and videos to life. Apple's Vision Pro will serve as a complementary tool to this approach. #apple https://www.macrumors.com/2023/09/04/future-iphone-could-capture-spatial-photos-videos/"
+                },
+                {
+                    "Title": "MacBook on a budget",
+                    "Link": "https://www.androidauthority.com/apple-new-macbook-lineup-chromebook-competitor-3361110/",
+                    "Description": "Reports suggest that a low-cost MacBook series, designed for the education sector and aimed at challenging Chromebooks, could be on Apple's horizon.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "MacBook on a budget \ud83d\udce6 Reports suggest that a low-cost MacBook series, designed for the education sector and aimed at challenging Chromebooks, could be on Apple's horizon. #apple https://www.androidauthority.com/apple-new-macbook-lineup-chromebook-competitor-3361110/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Meet the Vision Neue Klasse",
+                    "Link": "https://www.engadget.com/bmws-vision-neue-klasse-concept-teases-high-efficiency-evs-120045748.html",
+                    "Description": "Its progressive design is just the beginning. With a 30% increase in range, faster charging, and enhanced efficiency, BMW introduces a game-changer to the EV market.",
+                    "Time": "2",
+                    "Hashtag": "BMW",
+                    "Tweet": "Meet the Vision Neue Klasse \ud83d\udce6 Its progressive design is just the beginning. With a 30% increase in range, faster charging, and enhanced efficiency, BMW introduces a game-changer to the EV market. #BMW https://www.engadget.com/bmws-vision-neue-klasse-concept-teases-high-efficiency-evs-120045748.html"
+                },
+                {
+                    "Title": "Get ready for a close-up",
+                    "Link": "https://electrek.co/2023/09/04/tesla-model-3-highland-close-look/",
+                    "Description": "Tesla's Model 3 refresh makes its mark at IAA Munich. Take a closer look at the upgrades that make this the world's favorite EV.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Get ready for a close-up \ud83d\udce6 Tesla's Model 3 refresh makes its mark at IAA Munich. Take a closer look at the upgrades that make this the world's favorite EV. #tesla https://electrek.co/2023/09/04/tesla-model-3-highland-close-look/"
+                }
+            ]
+        }
+    ],
+    "title": "Zoom's AI revamp, Meta's VR journey, MacBook gets budget-friendly",
+    "date": "2023/09/05",
+    "description": "A few \"misunderstandings\" have clouded Zoom's AI roadmap, but the company hopes its latest features will make long meetings a breeze. Meta is forging ahead, planning to follow in Apple's footsteps in the VR race, this time with LG's assistance. And students have good news: a low-cost MacBook may be in the works."
+}
