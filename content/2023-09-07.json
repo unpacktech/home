@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "SREday is just around the corner, with only one week to go! Join us for the ultimate SRE gathering in London on September 14th-15th. Don't miss out \u2013 tickets are still available!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 SREday is just around the corner, with only one week to go! Join us for the ultimate SRE gathering in London on September 14th-15th. Don't miss out \u2013 tickets are still available! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Here comes Falcon",
+                    "Link": "https://decrypt.co/155209/falcon-large-language-model-llm-ai-training-data-set",
+                    "Description": "Hugging Face has welcomed a brand-new open-source model with mind-blowing potential. Falcon 180B stands tall among its competitors with 180 billion parameters and 3.5 trillion tokens.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Here comes Falcon \ud83d\udce6 Hugging Face has welcomed a brand-new open-source model with mind-blowing potential. Falcon 180B stands tall among its competitors with 180 billion parameters and 3.5 trillion tokens. #ai https://decrypt.co/155209/falcon-large-language-model-llm-ai-training-data-set"
+                },
+                {
+                    "Title": "AI for cancer detection",
+                    "Link": "https://www.cnbc.com/2023/09/07/microsoft-paige-building-worlds-largest-ai-model-to-detect-cancer.html",
+                    "Description": "Microsoft joins forces with Paige to create an unparalleled cancer detection model, trained with enough data to identify rare and common cancers, offering hope to patients and relief to pathologists.",
+                    "Time": "5",
+                    "Hashtag": "microsoft",
+                    "Tweet": "AI for cancer detection \ud83d\udce6 Microsoft joins forces with Paige to create an unparalleled cancer detection model, trained with enough data to identify rare and common cancers, offering hope to patients and relief to pathologists. #microsoft https://www.cnbc.com/2023/09/07/microsoft-paige-building-worlds-largest-ai-model-to-detect-cancer.html"
+                },
+                {
+                    "Title": "New models for Watsonx's platform",
+                    "Link": "https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/",
+                    "Description": "IBM's Granite series models are the latest chapter in their AI journey. With a dedicated focus on enterprise-quality data, the company continues to strive for precision and performance.",
+                    "Time": "5",
+                    "Hashtag": "IBM",
+                    "Tweet": "New models for Watsonx's platform \ud83d\udce6 IBM's Granite series models are the latest chapter in their AI journey. With a dedicated focus on enterprise-quality data, the company continues to strive for precision and performance. #IBM https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/"
+                },
+                {
+                    "Title": "There is a future for AI at Apple",
+                    "Link": "https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending",
+                    "Description": "Despite ongoing discussions claiming Apple is lagging behind in the ever-growing AI landscape, a recent report reveals the company is investing millions in it, with multiple teams at the helm.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "There is a future for AI at Apple \ud83d\udce6 Despite ongoing discussions claiming Apple is lagging behind in the ever-growing AI landscape, a recent report reveals the company is investing millions in it, with multiple teams at the helm. #apple https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending"
+                },
+                {
+                    "Title": "Calling all developers!",
+                    "Link": "https://techcrunch.com/2023/09/06/openai-will-host-its-first-developer-conference-on-november-6/",
+                    "Description": "November 6 is the day! OpenAI is hosting its first-ever developer conference, OpenAI DevDay. While most details remain unknown, we may get a glimpse of new tools and fresh insights.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "Calling all developers! \ud83d\udce6 November 6 is the day! OpenAI is hosting its first-ever developer conference, OpenAI DevDay. While most details remain unknown, we may get a glimpse of new tools and fresh insights. #openai https://techcrunch.com/2023/09/06/openai-will-host-its-first-developer-conference-on-november-6/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Microgravity meets biotechnology",
+                    "Link": "https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/",
+                    "Description": "Defying gravity's limitations and bringing us closer to the future of biotech in space, Redwire has successfully 3D-printed a human knee meniscus aboard the ISS.",
+                    "Time": "2",
+                    "Hashtag": "biotech",
+                    "Tweet": "Microgravity meets biotechnology \ud83d\udce6 Defying gravity's limitations and bringing us closer to the future of biotech in space, Redwire has successfully 3D-printed a human knee meniscus aboard the ISS. #biotech https://spacenews.com/redwire-demonstrates-bioprinting-human-tissue-in-space/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Off to space!",
+                    "Link": "https://interestingengineering.com/innovation/japans-lander-mission-to-reach-lunar-orbit-in-three-months",
+                    "Description": "Japan has successfully launched the SLIM lunar lander and the XRISM X-ray satellite. With both missions now in space, the country opens the doors to new frontiers of discovery.",
+                    "Time": "4",
+                    "Hashtag": "japan",
+                    "Tweet": "Off to space! \ud83d\udce6 Japan has successfully launched the SLIM lunar lander and the XRISM X-ray satellite. With both missions now in space, the country opens the doors to new frontiers of discovery. #japan https://interestingengineering.com/innovation/japans-lander-mission-to-reach-lunar-orbit-in-three-months"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "NACS scores a new member",
+                    "Link": "https://electrek.co/2023/09/07/honda-adopt-tesla-designed-nacs-connector/",
+                    "Description": "An announcement we already suspected was confirmed. Honda has aligned with fellow automakers in North America by embracing Tesla's NACS connector.",
+                    "Time": "2",
+                    "Hashtag": "honda",
+                    "Tweet": "NACS scores a new member \ud83d\udce6 An announcement we already suspected was confirmed. Honda has aligned with fellow automakers in North America by embracing Tesla's NACS connector. #honda https://electrek.co/2023/09/07/honda-adopt-tesla-designed-nacs-connector/"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Building enterprise LLM apps? ",
+                    "Link": "https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/",
+                    "Description": "Discover how to craft a successful enterprise LLM application with the help of GitHub Copilot's team. From idea to production you can gain valuable insights for your tech endeavors.",
+                    "Time": "12",
+                    "Hashtag": "GitHub",
+                    "Tweet": "Building enterprise LLM apps?  \ud83d\udce6 Discover how to craft a successful enterprise LLM application with the help of GitHub Copilot's team. From idea to production you can gain valuable insights for your tech endeavors. #GitHub https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Changes are coming to Chrome",
+                    "Link": "https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store",
+                    "Description": "Birthdays provide the perfect excuse for makeovers, and web browsers are no exception. As Chrome turns 15, Google is marking the occasion with a vibrant desktop redesign.",
+                    "Time": "2",
+                    "Hashtag": "chrome",
+                    "Tweet": "Changes are coming to Chrome \ud83d\udce6 Birthdays provide the perfect excuse for makeovers, and web browsers are no exception. As Chrome turns 15, Google is marking the occasion with a vibrant desktop redesign. #chrome https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store"
+                }
+            ]
+        }
+    ],
+    "title": "Introducing: Falcon 180B, Apple's AI efforts exposed, OpenAI announces DevDay",
+    "date": "2023/09/07",
+    "description": "Soaring high through the skies, a new open-source model has landed on Hugging Face, ready to compete with Meta and Google. While many say Apple is overly cautious with its AI approach, recent reports reveal that there are \"millions\" of reasons to prove them wrong. And if you're an AI-obsessed developer, your day is finally coming as OpenAI is launching its first developer conference."
+}
