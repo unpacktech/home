@@ -1,0 +1,115 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "Any plans for Thursday? Join us at SREday and discover the latest SRE trends at this two-day tech event, featuring over 50+ talks. Grab your tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 Any plans for Thursday? Join us at SREday and discover the latest SRE trends at this two-day tech event, featuring over 50+ talks. Grab your tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The pursuit of AI excellence",
+                    "Link": "https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple",
+                    "Description": "Meta's current AI ambitions know no bounds. Recent reports reveal that the company is actively developing an advanced model to rival OpenAI's GPT-4.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "The pursuit of AI excellence \ud83d\udce6 Meta's current AI ambitions know no bounds. Recent reports reveal that the company is actively developing an advanced model to rival OpenAI's GPT-4. #meta https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple"
+                },
+                {
+                    "Title": "It is hard to keep it cool",
+                    "Link": "https://interestingengineering.com/innovation/microsoft-used-17-billion-gallons-of-water-for-ai-in-2022",
+                    "Description": "Many companies involved in AI are showing high water consumption levels. Environmental reports from Microsoft and Google underscore the demand for more sustainable solutions.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "It is hard to keep it cool \ud83d\udce6 Many companies involved in AI are showing high water consumption levels. Environmental reports from Microsoft and Google underscore the demand for more sustainable solutions. #ai https://interestingengineering.com/innovation/microsoft-used-17-billion-gallons-of-water-for-ai-in-2022"
+                },
+                {
+                    "Title": "Make it Pro",
+                    "Link": "https://arstechnica.com/information-technology/2023/09/the-ai-assistant-wars-heat-up-with-claude-pro-a-new-chatgpt-plus-rival/",
+                    "Description": "Anthropic is taking its beloved chatbot to the next level with the announcement of Claude Pro. This subscription-based version comes with an extended context window and higher usage limits.",
+                    "Time": "4",
+                    "Hashtag": "anthropic",
+                    "Tweet": "Make it Pro \ud83d\udce6 Anthropic is taking its beloved chatbot to the next level with the announcement of Claude Pro. This subscription-based version comes with an extended context window and higher usage limits. #anthropic https://arstechnica.com/information-technology/2023/09/the-ai-assistant-wars-heat-up-with-claude-pro-a-new-chatgpt-plus-rival/"
+                },
+                {
+                    "Title": "Not an eventful summer",
+                    "Link": "https://www.axios.com/2023/09/08/chatgpt-web-traffic-decline-third-month",
+                    "Description": "With the school break, and more chatbots joining the scene, ChatGPT's visits dropped in August. But there's optimism that the fall season might mark a resurgence for OpenAI's groundbreaking product.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Not an eventful summer \ud83d\udce6 With the school break, and more chatbots joining the scene, ChatGPT's visits dropped in August. But there's optimism that the fall season might mark a resurgence for OpenAI's groundbreaking product. #ai https://www.axios.com/2023/09/08/chatgpt-web-traffic-decline-third-month"
+                },
+                {
+                    "Title": "Millions for responsible AI",
+                    "Link": "https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund",
+                    "Description": "As AI continues to impact our society, Google has announced an investment of $20 million in the Digital Futures project and a fund dedicated to the responsible development of this technology.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Millions for responsible AI \ud83d\udce6 As AI continues to impact our society, Google has announced an investment of $20 million in the Digital Futures project and a fund dedicated to the responsible development of this technology. #google https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A little longer",
+                    "Link": "https://9to5mac.com/2023/09/11/iphone-qualcomm-5g-custom-modem-delays/",
+                    "Description": "Apple's reliance on Qualcomm has extended beyond the originally agreed-upon timeline due to internal delays in the development of its own 5G modem.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "A little longer \ud83d\udce6 Apple's reliance on Qualcomm has extended beyond the originally agreed-upon timeline due to internal delays in the development of its own 5G modem. #apple https://9to5mac.com/2023/09/11/iphone-qualcomm-5g-custom-modem-delays/"
+                },
+                {
+                    "Title": "No updates for Mac yet",
+                    "Link": "https://www.techtimes.com/articles/296145/20230908/apple-m3-macs-canceled-kuo-claims-coming-year-2024-bring.htm",
+                    "Description": "A lot of back and forth has been happening in the realm of Apple rumors. However, analyst Ming-Chi Kuo has added a twist, revealing that the anticipated M3 Macs are not ready for a 2023 launch.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "No updates for Mac yet \ud83d\udce6 A lot of back and forth has been happening in the realm of Apple rumors. However, analyst Ming-Chi Kuo has added a twist, revealing that the anticipated M3 Macs are not ready for a 2023 launch. #apple https://www.techtimes.com/articles/296145/20230908/apple-m3-macs-canceled-kuo-claims-coming-year-2024-bring.htm"
+                },
+                {
+                    "Title": "Get ready for the great Wonder",
+                    "Link": "https://techcrunch.com/2023/09/09/what-we-expect-from-apples-wonderlust-15-event/",
+                    "Description": "Apple's big event is finally happening tomorrow. At 10 AM PT, we'll be on the edge of our seats as we witness the iPhone 15 and Apple Watch Series 9 debut.",
+                    "Time": "5",
+                    "Hashtag": "apple",
+                    "Tweet": "Get ready for the great Wonder \ud83d\udce6 Apple's big event is finally happening tomorrow. At 10 AM PT, we'll be on the edge of our seats as we witness the iPhone 15 and Apple Watch Series 9 debut. #apple https://techcrunch.com/2023/09/09/what-we-expect-from-apples-wonderlust-15-event/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "What to expect from Tesla",
+                    "Link": "https://electrek.co/2023/09/09/tesla-upcoming-25000-car-robotaxi-futuristic-looking-cybertruck-like/",
+                    "Description": "Insights from Elon Musk's biography reveal a sneak peek at Tesla's roadmap. The company is sticking with the Cybertruck look for its upcoming products: an affordable EV and a robotaxi.",
+                    "Time": "4",
+                    "Hashtag": "tesla",
+                    "Tweet": "What to expect from Tesla \ud83d\udce6 Insights from Elon Musk's biography reveal a sneak peek at Tesla's roadmap. The company is sticking with the Cybertruck look for its upcoming products: an affordable EV and a robotaxi. #tesla https://electrek.co/2023/09/09/tesla-upcoming-25000-car-robotaxi-futuristic-looking-cybertruck-like/"
+                },
+                {
+                    "Title": "The Cyberleaks continue...",
+                    "Link": "https://techcrunch.com/2023/09/08/cybertruck-spied-with-updated-interior/",
+                    "Description": "Cybertruck's journey is underway with recent photos showcasing interior details. Now that we can look closer, it appears that the steering wheel and center console have been modified.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "The Cyberleaks continue... \ud83d\udce6 Cybertruck's journey is underway with recent photos showcasing interior details. Now that we can look closer, it appears that the steering wheel and center console have been modified. #tesla https://techcrunch.com/2023/09/08/cybertruck-spied-with-updated-interior/"
+                }
+            ]
+        }
+    ],
+    "title": "Meta's rival to GPT-4, OpenAI\u2019s summer slump, Apple's upcoming event",
+    "date": "2023/09/11",
+    "description": "Meta's AI offerings are improving, with rumors suggesting the company is working on a model set to dethrone GPT-4. Summer means no school, vacations, and a noticeable drop in website visits. Apparently, people took a break from ChatGPT in August. Finally, tomorrow is the day we've all been waiting for! After months of anticipation, and saying goodbye to my old iPhone, Apple's 2023 event is here."
+}
