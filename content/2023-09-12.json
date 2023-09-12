@@ -1,0 +1,130 @@
+{
+    "content": [
+        {
+            "category": "Sponsored \ud83d\udce3",
+            "stories": [
+                {
+                    "Title": "SREday in London",
+                    "Link": "https://sreday.com/?unpack",
+                    "Description": "SREday is coming to London in just two days! Get ready for a deep dive into Site Reliability Engineering with more than 50+ talks presented by industry experts. Grab your tickets now!",
+                    "Time": "1",
+                    "Hashtag": "SRE",
+                    "Tweet": "SREday in London \ud83d\udce6 SREday is coming to London in just two days! Get ready for a deep dive into Site Reliability Engineering with more than 50+ talks presented by industry experts. Grab your tickets now! #SRE https://sreday.com/?unpack"
+                }
+            ]
+        },
+        {
+            "category": "Programming \ud83d\udcbb",
+            "stories": [
+                {
+                    "Title": "Introducing: Open Interpreter",
+                    "Link": "https://github.com/KillianLucas/open-interpreter",
+                    "Description": "Open Interpreter brings convenience to a whole new level by enabling language models to execute Python, JavaScript, Shell, and more right on your computer.",
+                    "Time": "4",
+                    "Hashtag": "programming",
+                    "Tweet": "Introducing: Open Interpreter \ud83d\udce6 Open Interpreter brings convenience to a whole new level by enabling language models to execute Python, JavaScript, Shell, and more right on your computer. #programming https://github.com/KillianLucas/open-interpreter"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Leave it to Einstein",
+                    "Link": "https://www.engadget.com/the-next-generation-einstein-ai-will-put-a-chatbot-in-every-salesforce-application-120004305.html",
+                    "Description": "Salesforce's Dreamforce 2023 keynote had it all, especially AI. Einstein Copilot is the company's latest innovation, designed to assist with a wide range of application-specific tasks.",
+                    "Time": "3",
+                    "Hashtag": "salesforce",
+                    "Tweet": "Leave it to Einstein \ud83d\udce6 Salesforce's Dreamforce 2023 keynote had it all, especially AI. Einstein Copilot is the company's latest innovation, designed to assist with a wide range of application-specific tasks. #salesforce https://www.engadget.com/the-next-generation-einstein-ai-will-put-a-chatbot-in-every-salesforce-application-120004305.html"
+                },
+                {
+                    "Title": "Google is (still) committed to AI",
+                    "Link": "https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/",
+                    "Description": "Sundar Pichai discusses Google's 25-year legacy and its ongoing commitment to innovation. Once again, the company emphasizes that they are not giving up on the AI race.",
+                    "Time": "19",
+                    "Hashtag": "google",
+                    "Tweet": "Google is (still) committed to AI \ud83d\udce6 Sundar Pichai discusses Google's 25-year legacy and its ongoing commitment to innovation. Once again, the company emphasizes that they are not giving up on the AI race. #google https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/"
+                },
+                {
+                    "Title": "AI lands at NYFW",
+                    "Link": "https://themessenger.com/tech/ai-designed-clothing-debuts-at-new-york-fashion-week",
+                    "Description": "Innovation is currently strutting down the runway at this year's New York Fashion Week. Designer Collina Strada unveiled its AI-infused collection, merging technology and human artistry.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI lands at NYFW \ud83d\udce6 Innovation is currently strutting down the runway at this year's New York Fashion Week. Designer Collina Strada unveiled its AI-infused collection, merging technology and human artistry. #ai https://themessenger.com/tech/ai-designed-clothing-debuts-at-new-york-fashion-week"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Bringing it all the way from India",
+                    "Link": "https://9to5mac.com/2023/09/12/iphone-15-models-launch-day-india/",
+                    "Description": "Apple's ongoing efforts to expand manufacturing capabilities beyond China continue. If you're planning to purchase the iPhone 15 on September 22, you might get a \"Made in India\" unit.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Bringing it all the way from India \ud83d\udce6 Apple's ongoing efforts to expand manufacturing capabilities beyond China continue. If you're planning to purchase the iPhone 15 on September 22, you might get a \"Made in India\" unit. #apple https://9to5mac.com/2023/09/12/iphone-15-models-launch-day-india/"
+                },
+                {
+                    "Title": "Fast as lightning",
+                    "Link": "https://arstechnica.com/gadgets/2023/09/intel-confirms-thunderbolt-5-name-120gbps-tech-arrives-in-2024/",
+                    "Description": "Intel's Thunderbolt 5 promises incredibly fast speeds and is set to revolutionize how we connect and work with data, based on its specs.",
+                    "Time": "8",
+                    "Hashtag": "intel",
+                    "Tweet": "Fast as lightning \ud83d\udce6 Intel's Thunderbolt 5 promises incredibly fast speeds and is set to revolutionize how we connect and work with data, based on its specs. #intel https://arstechnica.com/gadgets/2023/09/intel-confirms-thunderbolt-5-name-120gbps-tech-arrives-in-2024/"
+                },
+                {
+                    "Title": "Live from Cupertino!",
+                    "Link": "https://9to5mac.com/2023/09/12/iphone-15-apple-event-news-hub-live-blog/",
+                    "Description": "The day has arrived! Witness the magic at Apple's \"Wonderlust\" event. Stay tuned for insights on the iPhone 15, Apple Watch updates, and more.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "Live from Cupertino! \ud83d\udce6 The day has arrived! Witness the magic at Apple's \"Wonderlust\" event. Stay tuned for insights on the iPhone 15, Apple Watch updates, and more. #apple https://9to5mac.com/2023/09/12/iphone-15-apple-event-news-hub-live-blog/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Countdown to takeoff!",
+                    "Link": "https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/",
+                    "Description": "Just a year after its unexpected incident, Blue Origin is ready to reclaim the skies. Sources report that the company has overcome challenges, and the New Shepard is poised to fly soon.",
+                    "Time": "3",
+                    "Hashtag": "blueorigin",
+                    "Tweet": "Countdown to takeoff! \ud83d\udce6 Just a year after its unexpected incident, Blue Origin is ready to reclaim the skies. Sources report that the company has overcome challenges, and the New Shepard is poised to fly soon. #blueorigin https://arstechnica.com/space/2023/09/a-year-after-new-shepards-accident-blue-origin-may-return-to-flight-next-month/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Webb's latest revelation",
+                    "Link": "https://interestingengineering.com/science/water-on-exoplanet-k2-18b-webb-finds-possible-molecular-clues",
+                    "Description": "NASA's James Webb Space Telescope has recently uncovered hidden potential on an exoplanet light-years away. K2-18b holds carbon-based molecules in its atmosphere.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Webb's latest revelation \ud83d\udce6 NASA's James Webb Space Telescope has recently uncovered hidden potential on an exoplanet light-years away. K2-18b holds carbon-based molecules in its atmosphere. #space https://interestingengineering.com/science/water-on-exoplanet-k2-18b-webb-finds-possible-molecular-clues"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Hey Cybertruck, I think you dropped this",
+                    "Link": "https://electrek.co/2023/09/11/tesla-cybertruck-wheel-cover-flies-off-in-traffic-as-production-looms/",
+                    "Description": "A prototype for the most anticipated electric truck is not exempt from incidents. Recently, a Tesla Cybertruck lost its wheel cover on a highway, something to consider as they move towards production.",
+                    "Time": "5",
+                    "Hashtag": "tesla",
+                    "Tweet": "Hey Cybertruck, I think you dropped this \ud83d\udce6 A prototype for the most anticipated electric truck is not exempt from incidents. Recently, a Tesla Cybertruck lost its wheel cover on a highway, something to consider as they move towards production. #tesla https://electrek.co/2023/09/11/tesla-cybertruck-wheel-cover-flies-off-in-traffic-as-production-looms/"
+                }
+            ]
+        }
+    ],
+    "title": "Apple's \"Wonderlust\" is here, AI walks down the runway, Code with ease",
+    "date": "2023/09/12",
+    "description": "Apple enthusiasts, let the festivities begin! Directly from Cupertino, the \"Wonderlust\" event is underway, unveiling new features and insights, but most importantly, the iPhone 15! Human craftsmanship and AI are joining forces at this year's NYFW, with designer Collina Strada debuting an AI-generated collection. And for fellow programmers, here's a little treat: meet Open Interpreter, an easy way to let language models run code on your computer."
+}
