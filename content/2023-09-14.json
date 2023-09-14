@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Parkour, like a pro",
+                    "Link": "https://robot-parkour.github.io/",
+                    "Description": "A project led by Ziwen Zhuang and Zipeng Fu is helping robots master the art of parkour with their vision-based approach, allowing them to autonomously navigate complex environments.",
+                    "Time": "2",
+                    "Hashtag": "robotics",
+                    "Tweet": "Parkour, like a pro \ud83d\udce6 A project led by Ziwen Zhuang and Zipeng Fu is helping robots master the art of parkour with their vision-based approach, allowing them to autonomously navigate complex environments. #robotics https://robot-parkour.github.io/"
+                },
+                {
+                    "Title": "A year in the cosmos",
+                    "Link": "https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/",
+                    "Description": "An unexpected twist in his plan to return home for spring break has turned into a record-breaking stay on the ISS. NASA astronaut Frank Rubio is set to spend 371 days in space.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "A year in the cosmos \ud83d\udce6 An unexpected twist in his plan to return home for spring break has turned into a record-breaking stay on the ISS. NASA astronaut Frank Rubio is set to spend 371 days in space. #NASA https://arstechnica.com/space/2023/09/a-nasa-astronaut-will-finally-spend-a-full-year-in-space/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "US takes regulatory action",
+                    "Link": "https://interestingengineering.com/culture/us-regulate-ai-tech-ceos-and-lawmakers-meet",
+                    "Description": "In a historic gathering, leading tech figures, including Bill Gates, Elon Musk, and Mark Zuckerberg, discussed with US lawmakers the potential of AI and how to continue its responsible development.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "US takes regulatory action \ud83d\udce6 In a historic gathering, leading tech figures, including Bill Gates, Elon Musk, and Mark Zuckerberg, discussed with US lawmakers the potential of AI and how to continue its responsible development. #ai https://interestingengineering.com/culture/us-regulate-ai-tech-ceos-and-lawmakers-meet"
+                },
+                {
+                    "Title": "AI anxiety has taken over",
+                    "Link": "https://www.fastcompany.com/90952613/ai-workplace-linkedin-excited-anxious-education",
+                    "Description": "A recent LinkedIn survey reveals complex emotions surrounding AI at work. While many professionals are excited about its potential, they also feel anxious and overwhelmed by it.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI anxiety has taken over \ud83d\udce6 A recent LinkedIn survey reveals complex emotions surrounding AI at work. While many professionals are excited about its potential, they also feel anxious and overwhelmed by it. #ai https://www.fastcompany.com/90952613/ai-workplace-linkedin-excited-anxious-education"
+                },
+                {
+                    "Title": "Great news for vendors!",
+                    "Link": "https://www.engadget.com/amazon-is-encouraging-sellers-to-use-ai-generated-product-listings-174755381.html",
+                    "Description": "Selling your products is now easier with Amazon's latest offering. The Generative Listing Content tool uses AI to craft comprehensive product listings from brief descriptions.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "Great news for vendors! \ud83d\udce6 Selling your products is now easier with Amazon's latest offering. The Generative Listing Content tool uses AI to craft comprehensive product listings from brief descriptions. #amazon https://www.engadget.com/amazon-is-encouraging-sellers-to-use-ai-generated-product-listings-174755381.html"
+                },
+                {
+                    "Title": "Dublin, get ready for AI",
+                    "Link": "https://www.techtimes.com/articles/296356/20230914/chatgpt-creator-openai-expands-europe-new-ireland-office.htm",
+                    "Description": "OpenAI's global expansion continues. The company is set to open an office in Dublin, Ireland by the end of this year, reaching new heights in the European market.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "Dublin, get ready for AI \ud83d\udce6 OpenAI's global expansion continues. The company is set to open an office in Dublin, Ireland by the end of this year, reaching new heights in the European market. #openai https://www.techtimes.com/articles/296356/20230914/chatgpt-creator-openai-expands-europe-new-ireland-office.htm"
+                },
+                {
+                    "Title": "The Japanese way",
+                    "Link": "https://www.nature.com/articles/d41586-023-02868-z",
+                    "Description": "With substantial investments from tech giants and the government, Japanese researchers aim to build ChatGPT-like chatbots that truly convey the essence of their culture.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "The Japanese way \ud83d\udce6 With substantial investments from tech giants and the government, Japanese researchers aim to build ChatGPT-like chatbots that truly convey the essence of their culture. #ai https://www.nature.com/articles/d41586-023-02868-z"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A new round of layoffs...",
+                    "Link": "https://www.cnbc.com/2023/09/13/google-is-cutting-hundreds-of-jobs-in-its-recruiting-organization.html",
+                    "Description": "Google's global recruiting organization is facing a significant reduction. According to the company, this is an unfortunate but necessary step given the evolving hiring landscape.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "A new round of layoffs... \ud83d\udce6 Google's global recruiting organization is facing a significant reduction. According to the company, this is an unfortunate but necessary step given the evolving hiring landscape. #google https://www.cnbc.com/2023/09/13/google-is-cutting-hundreds-of-jobs-in-its-recruiting-organization.html"
+                },
+                {
+                    "Title": "You certainly didn't miss this",
+                    "Link": "https://9to5mac.com/2023/09/13/what-apple-didnt-announce/",
+                    "Description": "If you've already caught up with all the announcements from Apple's \"Wonderlust\" event and you're eager for more, explore what they didn't unveil.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "You certainly didn't miss this \ud83d\udce6 If you've already caught up with all the announcements from Apple's \"Wonderlust\" event and you're eager for more, explore what they didn't unveil. #apple https://9to5mac.com/2023/09/13/what-apple-didnt-announce/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Durability and style",
+                    "Link": "https://electrek.co/2023/09/14/tesla-cybertruck-coating-scratch-proof-diamonds/",
+                    "Description": "Elon Musk has hinted at an important feature for future Cybertruck owners, a \"tungsten carbide coating\" that makes it completely scratch-proof.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Durability and style \ud83d\udce6 Elon Musk has hinted at an important feature for future Cybertruck owners, a \"tungsten carbide coating\" that makes it completely scratch-proof. #tesla https://electrek.co/2023/09/14/tesla-cybertruck-coating-scratch-proof-diamonds/"
+                }
+            ]
+        }
+    ],
+    "title": "Parkour-skilled robots, AI's emotional rollercoaster, The US moves toward regulation",
+    "date": "2023/09/14",
+    "description": "Parkour! Robots may not be jumping across buildings yet, but a recent project is teaching them to be more autonomous when facing diverse obstacles. There are mixed feelings about AI in the workplace; a LinkedIn survey revealed that most professionals are anxious about it. Personally, I'm trying to keep my cool. And lastly, major names in the tech industry have gathered with US lawmakers."
+}
