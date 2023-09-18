@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Embarking on a gaming adventure",
+                    "Link": "https://9to5mac.com/2023/09/16/iphone-15-pro-gaming-a17-pro-interview/",
+                    "Description": "Apple appears to have another target audience in mind with the iPhone 15. The A17 Pro chip's GPU improvements are poised to offer a gaming experience like no other.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "Embarking on a gaming adventure \ud83d\udce6 Apple appears to have another target audience in mind with the iPhone 15. The A17 Pro chip's GPU improvements are poised to offer a gaming experience like no other. #apple https://9to5mac.com/2023/09/16/iphone-15-pro-gaming-a17-pro-interview/"
+                },
+                {
+                    "Title": "The future of chips",
+                    "Link": "https://www.engadget.com/intel-seems-pretty-excited-about-glass-substrates-130016423.html",
+                    "Description": "Intel's journey to self-improvement continues through materials. Their revolutionary glass substrate is set to revolutionize chip design with increased strength, efficiency, and interconnect density.",
+                    "Time": "2",
+                    "Hashtag": "intel",
+                    "Tweet": "The future of chips \ud83d\udce6 Intel's journey to self-improvement continues through materials. Their revolutionary glass substrate is set to revolutionize chip design with increased strength, efficiency, and interconnect density. #intel https://www.engadget.com/intel-seems-pretty-excited-about-glass-substrates-130016423.html"
+                },
+                {
+                    "Title": "Better and greener",
+                    "Link": "https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/",
+                    "Description": "According to Tim Cook, Apple's journey goes beyond high-quality products. The company also strives to impact people's lives through its commitment to carbon neutrality.",
+                    "Time": "7",
+                    "Hashtag": "apple",
+                    "Tweet": "Better and greener \ud83d\udce6 According to Tim Cook, Apple's journey goes beyond high-quality products. The company also strives to impact people's lives through its commitment to carbon neutrality. #apple https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/"
+                },
+                {
+                    "Title": "iOS 17 has officially arrived",
+                    "Link": "https://www.fastcompany.com/90951017/10-best-ios-17-features-you-need-to-use-right-now",
+                    "Description": "Are you upgrading to iOS 17 today? So are we! Apple's latest software is filled with exciting features, and here's a roundup of the ones that stand out the most.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "iOS 17 has officially arrived \ud83d\udce6 Are you upgrading to iOS 17 today? So are we! Apple's latest software is filled with exciting features, and here's a roundup of the ones that stand out the most. #apple https://www.fastcompany.com/90951017/10-best-ios-17-features-you-need-to-use-right-now"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "En route to the moon",
+                    "Link": "https://gizmodo.com/spacex-raptor-starship-nasa-rs-25-sls-megarocket-1850843686",
+                    "Description": "Ahead of its 2025 mission under the Artemis program. SpaceX has successfully tested its Raptor engine in extreme conditions, showing it is capable of surviving deep space cold.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "En route to the moon \ud83d\udce6 Ahead of its 2025 mission under the Artemis program. SpaceX has successfully tested its Raptor engine in extreme conditions, showing it is capable of surviving deep space cold. #spacex https://gizmodo.com/spacex-raptor-starship-nasa-rs-25-sls-megarocket-1850843686"
+                },
+                {
+                    "Title": "A hop to the stars",
+                    "Link": "https://spacenews.com/stoke-space-flies-reusable-upper-stage-prototype/",
+                    "Description": "As reusable space vehicles become the focus of most space companies, Stoke Space's Hopper2 has made a significant leap in its journey with its latest test flight.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "A hop to the stars \ud83d\udce6 As reusable space vehicles become the focus of most space companies, Stoke Space's Hopper2 has made a significant leap in its journey with its latest test flight. #space https://spacenews.com/stoke-space-flies-reusable-upper-stage-prototype/"
+                },
+                {
+                    "Title": "SpaceX and Telesat join forces",
+                    "Link": "https://www.space.com/spacex-telesat-lightspeed-constellation-launch-deal",
+                    "Description": "Telesat's Lightspeed constellation is ready to reach low Earth orbit. With the support of SpaceX's Falcon 9, they plan to make a significant impact on global broadband connectivity.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "SpaceX and Telesat join forces \ud83d\udce6 Telesat's Lightspeed constellation is ready to reach low Earth orbit. With the support of SpaceX's Falcon 9, they plan to make a significant impact on global broadband connectivity. #spacex https://www.space.com/spacex-telesat-lightspeed-constellation-launch-deal"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Trust your AirPods",
+                    "Link": "https://www.cnbc.com/2023/09/18/airpods-pro-usb-c-hands-on-adaptive-audio-and-conversation-awareness.html",
+                    "Description": "The famous earbuds have only evolved to USB-C, but the hidden gem lies in their AI-driven features, taking noise-canceling to the next level by automatically adapting to your needs.",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "Trust your AirPods \ud83d\udce6 The famous earbuds have only evolved to USB-C, but the hidden gem lies in their AI-driven features, taking noise-canceling to the next level by automatically adapting to your needs. #apple https://www.cnbc.com/2023/09/18/airpods-pro-usb-c-hands-on-adaptive-audio-and-conversation-awareness.html"
+                },
+                {
+                    "Title": "From massive to tailored",
+                    "Link": "https://www.businessinsider.com/google-gemini-rare-breed-of-huge-ai-model-2023-9",
+                    "Description": "In the AI landscape, specialized LLMs are taking center stage. Google's Gemini project could potentially be one of the last \"giant\" models in the field.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "From massive to tailored \ud83d\udce6 In the AI landscape, specialized LLMs are taking center stage. Google's Gemini project could potentially be one of the last \"giant\" models in the field. #google https://www.businessinsider.com/google-gemini-rare-breed-of-huge-ai-model-2023-9"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Step into the world of Tesla",
+                    "Link": "https://electrek.co/2023/09/16/tesla-offers-factory-tours-as-new-referral-award/",
+                    "Description": "Ever wondered where Tesla's magic came to life? Thanks to the automaker's referral program, you can now tour their Fremont and Gigafactory Texas facilities.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Step into the world of Tesla \ud83d\udce6 Ever wondered where Tesla's magic came to life? Thanks to the automaker's referral program, you can now tour their Fremont and Gigafactory Texas facilities. #tesla https://electrek.co/2023/09/16/tesla-offers-factory-tours-as-new-referral-award/"
+                }
+            ]
+        }
+    ],
+    "title": "Redefining mobile gaming, Apple's sustainability approach, Tesla's referral rewards",
+    "date": "2023/09/18",
+    "description": "Consider trading in your Xbox, as the iPhone 15 is poised to be your ultimate gaming console. In a recent interview, Tim Cook left no room for doubt about Apple's goal. It's not just about delivering high-quality products; it's a mission to make the planet better \u2014 truly poetic. And if you've ever wanted an inside look at Tesla's operations, consider joining their referral program; you could get a trip to one of their Gigafactories!"
+}
