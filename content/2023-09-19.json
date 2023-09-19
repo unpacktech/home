@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Bard gets a boost",
+                    "Link": "https://venturebeat.com/ai/google-bard-can-now-tap-directly-into-gmail-docs-maps-and-more/",
+                    "Description": "In an effort to enhance the chatbot's capabilities, Google has integrated Bard across all its productivity apps, bringing personalized responses, fact-checking, and efficiency to users.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Bard gets a boost \ud83d\udce6 In an effort to enhance the chatbot's capabilities, Google has integrated Bard across all its productivity apps, bringing personalized responses, fact-checking, and efficiency to users. #ai https://venturebeat.com/ai/google-bard-can-now-tap-directly-into-gmail-docs-maps-and-more/"
+                },
+                {
+                    "Title": "Google steps into genetic science",
+                    "Link": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential",
+                    "Description": "DeepMind's AI program, AlphaMissense, helps researchers predict the impact of millions of genetic mutations by identifying which ones might be harmful or benign, improving rare disease diagnosis.",
+                    "Time": "4",
+                    "Hashtag": "google",
+                    "Tweet": "Google steps into genetic science \ud83d\udce6 DeepMind's AI program, AlphaMissense, helps researchers predict the impact of millions of genetic mutations by identifying which ones might be harmful or benign, improving rare disease diagnosis. #google https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential"
+                },
+                {
+                    "Title": "CZI's visionary research approach",
+                    "Link": "https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research",
+                    "Description": "Mark Zuckerberg and Priscilla Chan's philanthropic endeavors aim to transform medical research by making cutting-edge generative AI tools accessible to scientists worldwide.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "CZI's visionary research approach \ud83d\udce6 Mark Zuckerberg and Priscilla Chan's philanthropic endeavors aim to transform medical research by making cutting-edge generative AI tools accessible to scientists worldwide. #ai https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research"
+                },
+                {
+                    "Title": "AI created this content",
+                    "Link": "https://techcrunch.com/2023/09/19/tiktok-debuts-new-tools-and-technology-to-label-ai-content/",
+                    "Description": "TikTok's recent developments in AI-generated content showcase its commitment to transparency. With AI labeling tools and automatic detection in the works, users can be aware of what they're watching.",
+                    "Time": "4",
+                    "Hashtag": "tiktok",
+                    "Tweet": "AI created this content \ud83d\udce6 TikTok's recent developments in AI-generated content showcase its commitment to transparency. With AI labeling tools and automatic detection in the works, users can be aware of what they're watching. #tiktok https://techcrunch.com/2023/09/19/tiktok-debuts-new-tools-and-technology-to-label-ai-content/"
+                },
+                {
+                    "Title": "Head to New York",
+                    "Link": "https://www.theverge.com/2023/9/19/23878352/microsoft-surface-ai-event-laptop-studio-2-go-rumors-leaks",
+                    "Description": "Microsoft's Surface event is scheduled for September 21st. This special occasion promises to surprise us with insights, devices, and, of course, AI innovations. Check out what's coming up.",
+                    "Time": "6",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Head to New York \ud83d\udce6 Microsoft's Surface event is scheduled for September 21st. This special occasion promises to surprise us with insights, devices, and, of course, AI innovations. Check out what's coming up. #microsoft https://www.theverge.com/2023/9/19/23878352/microsoft-surface-ai-event-laptop-studio-2-go-rumors-leaks"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The RoboFab lands in Salem",
+                    "Link": "https://www.engadget.com/agility-robotics-is-building-its-first-bipedal-robot-factory-in-oregon-184436386.html",
+                    "Description": "Robots are the helping hand of the future, and Agility Robotics knows it. The company is stepping up production with a new factory in Oregon, aiming to deliver 10,000 humanoid robots yearly.",
+                    "Time": "1",
+                    "Hashtag": "robotics",
+                    "Tweet": "The RoboFab lands in Salem \ud83d\udce6 Robots are the helping hand of the future, and Agility Robotics knows it. The company is stepping up production with a new factory in Oregon, aiming to deliver 10,000 humanoid robots yearly. #robotics https://www.engadget.com/agility-robotics-is-building-its-first-bipedal-robot-factory-in-oregon-184436386.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Bad day for Rocket Lab",
+                    "Link": "https://spacenews.com/electron-fails-during-capella-space-launch/",
+                    "Description": "Today, an Electron rocket encountered a technical issue during its latest launch, leading to the premature end of its mission and affecting the deployment of the Capella Space satellite.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Bad day for Rocket Lab \ud83d\udce6 Today, an Electron rocket encountered a technical issue during its latest launch, leading to the premature end of its mission and affecting the deployment of the Capella Space satellite. #rocketscience https://spacenews.com/electron-fails-during-capella-space-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The demand is out of control",
+                    "Link": "https://mashable.com/article/iphone-15-pro-max-high-demand-production-delays",
+                    "Description": "Thinking about the iPhone 15 Pro Max? Many are! Analyst Ming-Chi Kuo confirms it's the star of the show, so brace yourself for potential delivery delays.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "The demand is out of control \ud83d\udce6 Thinking about the iPhone 15 Pro Max? Many are! Analyst Ming-Chi Kuo confirms it's the star of the show, so brace yourself for potential delivery delays. #apple https://mashable.com/article/iphone-15-pro-max-high-demand-production-delays"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Classics you won't want to miss",
+                    "Link": "https://electrek.co/2023/09/18/check-out-first-jeep-dodge-ram-evs-arriving-2024/",
+                    "Description": "In 2024, Stellantis is electrifying its lineup with iconic brands like Jeep, Dodge, and Fiat, giving a sustainable twist to longtime favorite models.",
+                    "Time": "5",
+                    "Hashtag": "stellantis",
+                    "Tweet": "Classics you won't want to miss \ud83d\udce6 In 2024, Stellantis is electrifying its lineup with iconic brands like Jeep, Dodge, and Fiat, giving a sustainable twist to longtime favorite models. #stellantis https://electrek.co/2023/09/18/check-out-first-jeep-dodge-ram-evs-arriving-2024/"
+                },
+                {
+                    "Title": "Bye-bye diesel!",
+                    "Link": "https://electrek.co/2023/09/19/volvo-phasing-out-diesel-cars-all-electric-future/",
+                    "Description": "Volvo is pioneering among legacy automakers. Their last diesel-powered car is set to roll out next year as they plan to achieve an all-electric lineup by 2030.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "Bye-bye diesel! \ud83d\udce6 Volvo is pioneering among legacy automakers. Their last diesel-powered car is set to roll out next year as they plan to achieve an all-electric lineup by 2030. #volvo https://electrek.co/2023/09/19/volvo-phasing-out-diesel-cars-all-electric-future/"
+                }
+            ]
+        }
+    ],
+    "title": "A touch of Bard, AI tools for science, Pro Max is in high demand",
+    "date": "2023/09/19",
+    "description": "We all know accuracy is not Bard's forte, but Google's latest enhancements promise to make the chatbot a big player in the AI landscape. Mark Zuckerberg and Priscilla Chan are planning to revolutionize medicine with the power of artificial intelligence. And, by the way, if you want to switch to the iPhone 15, specifically the Pro Max, start training your patience."
+}
