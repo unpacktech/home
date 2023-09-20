@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Toyota steps up its game",
+                    "Link": "https://arstechnica.com/cars/2023/09/toyota-reveals-its-plan-to-catch-up-on-ev-battery-technology/",
+                    "Description": "The automaker's new roadmap focuses on developing four battery solutions to regain its industry leader status after facing challenges in the EV market.",
+                    "Time": "4",
+                    "Hashtag": "toyota",
+                    "Tweet": "Toyota steps up its game \ud83d\udce6 The automaker's new roadmap focuses on developing four battery solutions to regain its industry leader status after facing challenges in the EV market. #toyota https://arstechnica.com/cars/2023/09/toyota-reveals-its-plan-to-catch-up-on-ev-battery-technology/"
+                },
+                {
+                    "Title": "Feel free to share the news",
+                    "Link": "https://electrek.co/2023/09/20/tesla-adds-model-3-performance-giveaway-referral-program-boost-incentives/",
+                    "Description": "Tesla's referral program continues to improve. To enter the \"Model 3 Performance Sweepstakes\" and have a shot at winning a Model 3 Performance, you only need 1,000 credits.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Feel free to share the news \ud83d\udce6 Tesla's referral program continues to improve. To enter the \"Model 3 Performance Sweepstakes\" and have a shot at winning a Model 3 Performance, you only need 1,000 credits. #tesla https://electrek.co/2023/09/20/tesla-adds-model-3-performance-giveaway-referral-program-boost-incentives/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Neuralink's next chapter",
+                    "Link": "https://www.cnbc.com/2023/09/20/elon-musks-neuralink-is-recruiting-patients-for-its-first-human-trial.html",
+                    "Description": "Elon Musk's neurotech startup is moving towards its first in-human clinical trial, aiming to restore communication for patients with degenerative diseases through brain-computer interfaces.",
+                    "Time": "1",
+                    "Hashtag": "neuralink",
+                    "Tweet": "Neuralink's next chapter \ud83d\udce6 Elon Musk's neurotech startup is moving towards its first in-human clinical trial, aiming to restore communication for patients with degenerative diseases through brain-computer interfaces. #neuralink https://www.cnbc.com/2023/09/20/elon-musks-neuralink-is-recruiting-patients-for-its-first-human-trial.html"
+                },
+                {
+                    "Title": "Human-robot cooperation",
+                    "Link": "https://interestingengineering.com/innovation/toyota-conceives-of-more-efficient-method-to-train-robots",
+                    "Description": "A team of scientists at Toyota's Research Institute has developed a new method that involves AI to enhance robot skill acquisition, with the aim of amplifying human capabilities through robotics.",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "Human-robot cooperation \ud83d\udce6 A team of scientists at Toyota's Research Institute has developed a new method that involves AI to enhance robot skill acquisition, with the aim of amplifying human capabilities through robotics. #toyota https://interestingengineering.com/innovation/toyota-conceives-of-more-efficient-method-to-train-robots"
+                },
+                {
+                    "Title": "Long distance call",
+                    "Link": "https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/",
+                    "Description": "Space-based communication takes a big leap forward with AST Space Mobile's Blue Walker 3 satellite achieving the world's first 5G phone call from orbit to a remote location.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Long distance call \ud83d\udce6 Space-based communication takes a big leap forward with AST Space Mobile's Blue Walker 3 satellite achieving the world's first 5G phone call from orbit to a remote location. #space https://spacenews.com/ast-spacemobiles-prototype-satellite-makes-first-5g-connection/"
+                },
+                {
+                    "Title": "Braving the sun's fury",
+                    "Link": "https://mashable.com/article/sun-solar-ejection-nasa-footage",
+                    "Description": "NASA's Parker Solar Probe has ventured where no spacecraft has gone before and survived to share its story. It takes more than a powerful coronal mass ejection to deter the pursuit of knowledge.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Braving the sun's fury \ud83d\udce6 NASA's Parker Solar Probe has ventured where no spacecraft has gone before and survived to share its story. It takes more than a powerful coronal mass ejection to deter the pursuit of knowledge. #NASA https://mashable.com/article/sun-solar-ejection-nasa-footage"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "In the hands of experts",
+                    "Link": "https://techcrunch.com/2023/09/19/openai-launches-a-red-teaming-network-to-make-its-models-more-robust/",
+                    "Description": "OpenAI's dedication to responsible AI development continues. The Red Teaming Network is their latest initiative that brings together experts to assess and mitigate AI model risks.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "In the hands of experts \ud83d\udce6 OpenAI's dedication to responsible AI development continues. The Red Teaming Network is their latest initiative that brings together experts to assess and mitigate AI model risks. #ai https://techcrunch.com/2023/09/19/openai-launches-a-red-teaming-network-to-make-its-models-more-robust/"
+                },
+                {
+                    "Title": "Enhancing medical diagnosis",
+                    "Link": "https://www.engadget.com/google-is-developing-an-ai-powered-microscope-to-help-doctors-spot-cancer-181507943.html",
+                    "Description": "AI is a key part of Google's plan to improve healthcare. The company is currently developing an Augmented Reality Microscope to simplify cancer detection and sample analysis.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Enhancing medical diagnosis \ud83d\udce6 AI is a key part of Google's plan to improve healthcare. The company is currently developing an Augmented Reality Microscope to simplify cancer detection and sample analysis. #google https://www.engadget.com/google-is-developing-an-ai-powered-microscope-to-help-doctors-spot-cancer-181507943.html"
+                },
+                {
+                    "Title": "Breathe in, breathe out",
+                    "Link": "https://www.businessinsider.com/ai-google-researchers-deepmind-tell-take-deep-breath-improve-accuracy-2023-9",
+                    "Description": "Similar to anxiety before a test, Google's PaLM 2 demonstrates improved performance in solving math problems when prompted to \"take a deep breath and work step by step.\"",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Breathe in, breathe out \ud83d\udce6 Similar to anxiety before a test, Google's PaLM 2 demonstrates improved performance in solving math problems when prompted to \"take a deep breath and work step by step.\" #ai https://www.businessinsider.com/ai-google-researchers-deepmind-tell-take-deep-breath-improve-accuracy-2023-9"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "All about cycles",
+                    "Link": "https://www.theverge.com/2023/9/20/23881952/apple-iphone-15-battery-charge-cycles-ios-17",
+                    "Description": "There's a very useful feature coming for iPhone 15 and 15 Pro users. It provides essential battery insights, including details such as charge cycles, manufacturing date, and first-use date.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "All about cycles \ud83d\udce6 There's a very useful feature coming for iPhone 15 and 15 Pro users. It provides essential battery insights, including details such as charge cycles, manufacturing date, and first-use date. #apple https://www.theverge.com/2023/9/20/23881952/apple-iphone-15-battery-charge-cycles-ios-17"
+                }
+            ]
+        }
+    ],
+    "title": "Toyota's battery solutions, Neuralink moves to trials, PaLM 2's useful prompt",
+    "date": "2023/09/20",
+    "description": "Toyota was caught by surprise by the ever-changing EV market; however, the automaker has a plan to show that it's not lagging behind. Elon Musk's Neuralink continues to push forward and is now looking for patients to try its revolutionary brain-computer interface. Lastly, AI is more like us than we think; they also need to take deep breaths before facing a math test."
+}
