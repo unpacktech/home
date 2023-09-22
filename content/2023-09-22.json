@@ -1,0 +1,117 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Bing is getting smarter",
+                    "Link": "https://techcrunch.com/2023/09/22/microsoft-bing-to-gain-more-personalized-answers-support-for-dalle-e-3-and-watermarked-ai-images/",
+                    "Description": "At its latest event, Microsoft decided to upgrade the Bing experience with a touch of AI. DALL-E 3 is now integrated into the search engine for image generation, in addition to other features.",
+                    "Time": "3",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Bing is getting smarter \ud83d\udce6 At its latest event, Microsoft decided to upgrade the Bing experience with a touch of AI. DALL-E 3 is now integrated into the search engine for image generation, in addition to other features. #microsoft https://techcrunch.com/2023/09/22/microsoft-bing-to-gain-more-personalized-answers-support-for-dalle-e-3-and-watermarked-ai-images/"
+                },
+                {
+                    "Title": "AI or nothing",
+                    "Link": "https://www.axios.com/2023/09/22/ai-microsoft-google-windows-copilot",
+                    "Description": "The AI race is rewriting the rules of tech competition. Google and Microsoft are at the forefront, seeking new ways to integrate this technology into their product offerings.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI or nothing \ud83d\udce6 The AI race is rewriting the rules of tech competition. Google and Microsoft are at the forefront, seeking new ways to integrate this technology into their product offerings. #ai https://www.axios.com/2023/09/22/ai-microsoft-google-windows-copilot"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "How do we get you down from there?",
+                    "Link": "https://gizmodo.com/nasa-iss-commercial-partners-deorbit-iss-tug-orbit-1850860764",
+                    "Description": "All great things end, and after years of exploration, the ISS retires in 2030. But deorbiting a space station safely is not a simple task, and NASA is looking at how to do it properly.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "How do we get you down from there? \ud83d\udce6 All great things end, and after years of exploration, the ISS retires in 2030. But deorbiting a space station safely is not a simple task, and NASA is looking at how to do it properly. #NASA https://gizmodo.com/nasa-iss-commercial-partners-deorbit-iss-tug-orbit-1850860764"
+                },
+                {
+                    "Title": "Failure is part of the journey",
+                    "Link": "https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/",
+                    "Description": "Galactic Energy has encountered its first setback in a series of successful launches. The company announced the loss of a Ceres-1 rocket and its payload and is investigating the failure.",
+                    "Time": "2",
+                    "Hashtag": "china",
+                    "Tweet": "Failure is part of the journey \ud83d\udce6 Galactic Energy has encountered its first setback in a series of successful launches. The company announced the loss of a Ceres-1 rocket and its payload and is investigating the failure. #china https://spacenews.com/chinas-galactic-energy-suffers-first-launch-failure/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Unveiling Europa's mysteries",
+                    "Link": "https://www.engadget.com/nasas-james-webb-telescope-may-have-found-the-source-of-europas-carbon-104717890.html",
+                    "Description": "Jupiter's moon may hold the key to life beyond Earth. Recent insights from the James Webb Telescope detected carbon dioxide on its surface, potentially linked to its hidden ocean.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Unveiling Europa's mysteries \ud83d\udce6 Jupiter's moon may hold the key to life beyond Earth. Recent insights from the James Webb Telescope detected carbon dioxide on its surface, potentially linked to its hidden ocean. #space https://www.engadget.com/nasas-james-webb-telescope-may-have-found-the-source-of-europas-carbon-104717890.html"
+                },
+                {
+                    "Title": "From an asteroid to Earth",
+                    "Link": "https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-what-time",
+                    "Description": "Samples from Bennu are ready to touch down on Earth following the conclusion of NASA's OSIRIS-REx mission. Watch the live stream on Sunday.",
+                    "Time": "6",
+                    "Hashtag": "space",
+                    "Tweet": "From an asteroid to Earth \ud83d\udce6 Samples from Bennu are ready to touch down on Earth following the conclusion of NASA's OSIRIS-REx mission. Watch the live stream on Sunday. #space https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-what-time"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "All about Intel\u2019s Innovation keynote",
+                    "Link": "https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon",
+                    "Description": "Stay on top of Intel's latest announcements with this quick roundup of the essential takeaways from their Innovation event in San Jose, including all the exciting details about their future plans.",
+                    "Time": "5",
+                    "Hashtag": "intel",
+                    "Tweet": "All about Intel\u2019s Innovation keynote \ud83d\udce6 Stay on top of Intel's latest announcements with this quick roundup of the essential takeaways from their Innovation event in San Jose, including all the exciting details about their future plans. #intel https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "On its electric path",
+                    "Link": "https://electrek.co/2023/09/22/toyota-finally-picking-up-ev-production-pace/",
+                    "Description": "As we've stated before, Toyota is not playing around. Defeating claims of lagging behind, the automaker has firmly set its goal to produce 600,000 EVs by 2025.",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "On its electric path \ud83d\udce6 As we've stated before, Toyota is not playing around. Defeating claims of lagging behind, the automaker has firmly set its goal to produce 600,000 EVs by 2025. #toyota https://electrek.co/2023/09/22/toyota-finally-picking-up-ev-production-pace/"
+                },
+                {
+                    "Title": "Jaguar says yes to NACS",
+                    "Link": "https://electrek.co/2023/09/21/jaguar-signs-deal-tesla-supercharger-access-adopt-nacs/",
+                    "Description": "Another major EV industry player has joined the NACS club. Jaguar has recently announced its partnership with Tesla to adopt the plug and access the Supercharger network.",
+                    "Time": "2",
+                    "Hashtag": "jaguar",
+                    "Tweet": "Jaguar says yes to NACS \ud83d\udce6 Another major EV industry player has joined the NACS club. Jaguar has recently announced its partnership with Tesla to adopt the plug and access the Supercharger network. #jaguar https://electrek.co/2023/09/21/jaguar-signs-deal-tesla-supercharger-access-adopt-nacs/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "No password is needed",
+                    "Link": "https://github.blog/2023-09-21-passkeys-are-generally-available/",
+                    "Description": "Upgrade your GitHub security with Passkeys! Finally out of beta, this passwordless experience is now available to all users.",
+                    "Time": "5",
+                    "Hashtag": "GitHub",
+                    "Tweet": "No password is needed \ud83d\udce6 Upgrade your GitHub security with Passkeys! Finally out of beta, this passwordless experience is now available to all users. #GitHub https://github.blog/2023-09-21-passkeys-are-generally-available/"
+                }
+            ]
+        }
+    ],
+    "title": "",
+    "date": "2023/09/22",
+    "description": "It's time to decide which search engine might become your go-to from now on, and Microsoft is making sure you choose Bing. The ISS's journey is reaching its end in 2030, and NASA has to find a safe way to bring it back. If you know how to get it down from there, give them a call. Also, stay tuned this Sunday for the landing of the OSIRIS-REx mission, which will bring back a piece of asteroid Bennu as a souvenir!"
+}
