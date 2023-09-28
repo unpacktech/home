@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The device of the AI era",
+                    "Link": "https://www.theverge.com/2023/9/27/23892135/jony-ive-sam-altman-ai-device-openai-ceo-apple-designer",
+                    "Description": "It seems that the next step for AI is hardware, or at least that's what sources believe, as recent discussions between Jony Ive and Sam Altman have sparked rumors about a groundbreaking project.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "The device of the AI era \ud83d\udce6 It seems that the next step for AI is hardware, or at least that's what sources believe, as recent discussions between Jony Ive and Sam Altman have sparked rumors about a groundbreaking project. #ai https://www.theverge.com/2023/9/27/23892135/jony-ive-sam-altman-ai-device-openai-ceo-apple-designer"
+                },
+                {
+                    "Title": "Back to surfing",
+                    "Link": "https://www.engadget.com/chatgpt-is-allowed-to-browse-the-internet-once-again-211332316.html",
+                    "Description": "ChatGPT's web surfing phase was short-lived, as the feature was scrapped for bypassing paywalls. However, after some redefinition, it's ready to ride the web waves again, this time with Bing.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Back to surfing \ud83d\udce6 ChatGPT's web surfing phase was short-lived, as the feature was scrapped for bypassing paywalls. However, after some redefinition, it's ready to ride the web waves again, this time with Bing. #ai https://www.engadget.com/chatgpt-is-allowed-to-browse-the-internet-once-again-211332316.html"
+                },
+                {
+                    "Title": "From Paris, with love",
+                    "Link": "https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/",
+                    "Description": "Mistral AI proudly introduces Mistral 7B to the world. This 7.3 billion parameter model outpaces competitors, and the most exciting part? It's open source.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "From Paris, with love \ud83d\udce6 Mistral AI proudly introduces Mistral 7B to the world. This 7.3 billion parameter model outpaces competitors, and the most exciting part? It's open source. #ai https://venturebeat.com/ai/mistral-ai-europe-startup-releases-mistral-7b-model/"
+                },
+                {
+                    "Title": "Photoshop is now online",
+                    "Link": "https://techcrunch.com/2023/09/28/adobe-launches-photoshops-web-version-with-firefly-powered-ai-tools/",
+                    "Description": "Editing is now easier with Photoshop's web availability. Adobe has announced that all paid users will have access to the editing software, along with the popular AI-powered Firefly tools.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Photoshop is now online \ud83d\udce6 Editing is now easier with Photoshop's web availability. Adobe has announced that all paid users will have access to the editing software, along with the popular AI-powered Firefly tools. #ai https://techcrunch.com/2023/09/28/adobe-launches-photoshops-web-version-with-firefly-powered-ai-tools/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A glimpse into Meta\u2019s future",
+                    "Link": "https://www.cnbc.com/2023/09/27/meta-ceo-zuckerberg-looks-to-digital-assistants-ai-to-push-metaverse.html",
+                    "Description": "The metaverse shined brighter than ever with the latest announcements at Meta's Connect event. Mark Zuckerberg ensured that every offering received an AI touch, from apps to gadgets.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "A glimpse into Meta\u2019s future \ud83d\udce6 The metaverse shined brighter than ever with the latest announcements at Meta's Connect event. Mark Zuckerberg ensured that every offering received an AI touch, from apps to gadgets. #meta https://www.cnbc.com/2023/09/27/meta-ceo-zuckerberg-looks-to-digital-assistants-ai-to-push-metaverse.html"
+                },
+                {
+                    "Title": "AI models at your fingertips",
+                    "Link": "https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/",
+                    "Description": "Amazon's Bedrock is here, and it's for everyone! AWS customers, brands, and developers can harness this cutting-edge tool to customize and create AI solutions tailored to their needs.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "AI models at your fingertips \ud83d\udce6 Amazon's Bedrock is here, and it's for everyone! AWS customers, brands, and developers can harness this cutting-edge tool to customize and create AI solutions tailored to their needs. #amazon https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/"
+                },
+                {
+                    "Title": "Get ready for Quest 3",
+                    "Link": "https://arstechnica.com/gaming/2023/09/metas-quest-3-headset-launches-oct-10-starts-at-499/",
+                    "Description": "One of the main attractions at Meta's Connect event was the unveiling of the Quest 3 VR headset. With a launch scheduled for October 10th, this device promises next-level immersive experiences.",
+                    "Time": "3",
+                    "Hashtag": "meta",
+                    "Tweet": "Get ready for Quest 3 \ud83d\udce6 One of the main attractions at Meta's Connect event was the unveiling of the Quest 3 VR headset. With a launch scheduled for October 10th, this device promises next-level immersive experiences. #meta https://arstechnica.com/gaming/2023/09/metas-quest-3-headset-launches-oct-10-starts-at-499/"
+                },
+                {
+                    "Title": "Fashion meets tech",
+                    "Link": "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-hands-on-review/",
+                    "Description": "Meta's partnership with Ray-Ban may raise eyebrows, but the last \"Stories\" model was just the beginning. This year's smart glasses aim to redefine the game. Don't miss this demo!",
+                    "Time": "5",
+                    "Hashtag": "meta",
+                    "Tweet": "Fashion meets tech \ud83d\udce6 Meta's partnership with Ray-Ban may raise eyebrows, but the last \"Stories\" model was just the beginning. This year's smart glasses aim to redefine the game. Don't miss this demo! #meta https://www.zdnet.com/article/meta-ray-ban-smart-glasses-hands-on-review/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Spinning round and round",
+                    "Link": "https://www.space.com/historic-donut-black-hole-is-spinning-new-study-finds",
+                    "Description": "There's a revelation coming from far, far away, specifically from the M87 galaxy. Its famous donut-shaped supermassive black hole spins very fast, but why? We've yet to find out.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Spinning round and round \ud83d\udce6 There's a revelation coming from far, far away, specifically from the M87 galaxy. Its famous donut-shaped supermassive black hole spins very fast, but why? We've yet to find out. #space https://www.space.com/historic-donut-black-hole-is-spinning-new-study-finds"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "A fresh choice for iPhone users",
+                    "Link": "https://www.zdnet.com/article/iphone-users-get-even-more-browser-options-as-vivaldi-for-ios-arrives/",
+                    "Description": "Is Safari not meeting your expectations? Do you wish there were more iPhone browsers to choose from? Check out Vivaldi, a favorite among MacOS users, now available for iOS.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "A fresh choice for iPhone users \ud83d\udce6 Is Safari not meeting your expectations? Do you wish there were more iPhone browsers to choose from? Check out Vivaldi, a favorite among MacOS users, now available for iOS. #apple https://www.zdnet.com/article/iphone-users-get-even-more-browser-options-as-vivaldi-for-ios-arrives/"
+                }
+            ]
+        }
+    ],
+    "title": "Sam Altman's latest move, ChatGPT goes surfing, Meta's push for AI",
+    "date": "2023/09/28",
+    "description": "The mastermind behind OpenAI has been in talks with another visionary to determine the next step for AI. It appears to be some kind of device. Our favorite chatbot is ready to surf the web again, promising to be super cautious with paywalls from now on. Lastly, Meta's Connect conference had it all: the metaverse, AI, and... Snoop Dogg?"
+}
