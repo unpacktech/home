@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Ad-free experience with a twist",
+                    "Link": "https://www.cnbc.com/2023/10/03/meta-wants-to-charge-europeans-to-access-instagram-facebook-report-.html",
+                    "Description": "Meta has been struggling to adapt its platform to EU privacy regulations for quite some time. Their latest idea is a $14/month plan for users who want to keep their data away from targeted ads.",
+                    "Time": "2",
+                    "Hashtag": "meta",
+                    "Tweet": "Ad-free experience with a twist \ud83d\udce6 Meta has been struggling to adapt its platform to EU privacy regulations for quite some time. Their latest idea is a $14/month plan for users who want to keep their data away from targeted ads. #meta https://www.cnbc.com/2023/10/03/meta-wants-to-charge-europeans-to-access-instagram-facebook-report-.html"
+                },
+                {
+                    "Title": "Ready for tomorrow?",
+                    "Link": "https://www.zdnet.com/article/everything-were-expecting-at-googles-pixel-event-tomorrow-8-pro-watch-2-buds/",
+                    "Description": "Google's \"Made by Google\" event is just around the corner. The leaks did their part, and the excitement is high. Check out what they will be announcing.",
+                    "Time": "5",
+                    "Hashtag": "google",
+                    "Tweet": "Ready for tomorrow? \ud83d\udce6 Google's \"Made by Google\" event is just around the corner. The leaks did their part, and the excitement is high. Check out what they will be announcing. #google https://www.zdnet.com/article/everything-were-expecting-at-googles-pixel-event-tomorrow-8-pro-watch-2-buds/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Twinkle, twinkle, satellite",
+                    "Link": "https://www.engadget.com/one-of-the-brightest-objects-in-the-night-sky-is-a-human-made-satellite-212617952.html",
+                    "Description": "That shining star you're looking at could simply be the BlueWalker 3 satellite. As commercial satellites grow larger and brighter, astronomers are concerned about potential challenges.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Twinkle, twinkle, satellite \ud83d\udce6 That shining star you're looking at could simply be the BlueWalker 3 satellite. As commercial satellites grow larger and brighter, astronomers are concerned about potential challenges. #rocketscience https://www.engadget.com/one-of-the-brightest-objects-in-the-night-sky-is-a-human-made-satellite-212617952.html"
+                },
+                {
+                    "Title": "The focus shifts for some",
+                    "Link": "https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/",
+                    "Description": "Building a commercial space station is an incredible challenge. NASA's chosen companies hold promise. However, two of them are stepping away from the goal as the program evolves.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "The focus shifts for some \ud83d\udce6 Building a commercial space station is an incredible challenge. NASA's chosen companies hold promise. However, two of them are stepping away from the goal as the program evolves. #rocketscience https://arstechnica.com/space/2023/10/northrop-grumman-likely-to-end-its-bid-for-a-commercial-space-station/"
+                },
+                {
+                    "Title": "Unveiling solar mysteries",
+                    "Link": "https://gizmodo.com/nasa-new-horizons-extended-mission-kuiper-belt-1850892636",
+                    "Description": "More discoveries are awaiting us with NASA\u2019s recent announcement. The New Horizons mission, scheduled to end in 2024, has now been granted an extended timeline until 2028.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Unveiling solar mysteries \ud83d\udce6 More discoveries are awaiting us with NASA\u2019s recent announcement. The New Horizons mission, scheduled to end in 2024, has now been granted an extended timeline until 2028. #rocketscience https://gizmodo.com/nasa-new-horizons-extended-mission-kuiper-belt-1850892636"
+                },
+                {
+                    "Title": "Test done! Launch ahead!",
+                    "Link": "https://www.space.com/spacex-falcon-heavy-static-fire-psyche-asteroid-mission",
+                    "Description": "The Psyche mission is ready to launch on October 12. A static fire test of the Falcon Heavy has been completed, and anticipation continues to grow for this joint endeavor between NASA and SpaceX.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Test done! Launch ahead! \ud83d\udce6 The Psyche mission is ready to launch on October 12. A static fire test of the Falcon Heavy has been completed, and anticipation continues to grow for this joint endeavor between NASA and SpaceX. #rocketscience https://www.space.com/spacex-falcon-heavy-static-fire-psyche-asteroid-mission"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Innovation at work",
+                    "Link": "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/",
+                    "Description": "AI has always been behind LinkedIn's magic, but now it's taking center stage. Explore the latest recruiting, learning, and marketing tools that are set to simplify the lives of professionals.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Innovation at work \ud83d\udce6 AI has always been behind LinkedIn's magic, but now it's taking center stage. Explore the latest recruiting, learning, and marketing tools that are set to simplify the lives of professionals. #ai https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/"
+                },
+                {
+                    "Title": "The Copilot's handbook",
+                    "Link": "https://www.theverge.com/23899626/copilot-windows-11-how-to",
+                    "Description": "Are you still unsure of how to get all the juice from Copilot on Windows 11? Well, it's your lucky day! This comprehensive article guides you through Microsoft's newest feature.",
+                    "Time": "5",
+                    "Hashtag": "microsoft",
+                    "Tweet": "The Copilot's handbook \ud83d\udce6 Are you still unsure of how to get all the juice from Copilot on Windows 11? Well, it's your lucky day! This comprehensive article guides you through Microsoft's newest feature. #microsoft https://www.theverge.com/23899626/copilot-windows-11-how-to"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A little closeup",
+                    "Link": "https://electrek.co/2023/10/02/tesla-cybertruck-interior-revealed-in-best-video-yet/",
+                    "Description": "There have been enough sightings for us to somewhat decipher how Tesla's Cybertruck will really look. But this sneaky video finally provides a good view of its interior.",
+                    "Time": "4",
+                    "Hashtag": "tesla",
+                    "Tweet": "A little closeup \ud83d\udce6 There have been enough sightings for us to somewhat decipher how Tesla's Cybertruck will really look. But this sneaky video finally provides a good view of its interior. #tesla https://electrek.co/2023/10/02/tesla-cybertruck-interior-revealed-in-best-video-yet/"
+                },
+                {
+                    "Title": "Conceptual, only for now",
+                    "Link": "https://electrek.co/2023/10/02/honda-reveals-new-electric-suv-sedan-concepts-video/",
+                    "Description": "Honda's electric journey is filled with imagination and innovation. Take a peek at their next-gen EV concepts, and you'll see the potential for an electrifying tomorrow. ",
+                    "Time": "3",
+                    "Hashtag": "honda",
+                    "Tweet": "Conceptual, only for now \ud83d\udce6 Honda's electric journey is filled with imagination and innovation. Take a peek at their next-gen EV concepts, and you'll see the potential for an electrifying tomorrow.  #honda https://electrek.co/2023/10/02/honda-reveals-new-electric-suv-sedan-concepts-video/"
+                }
+            ]
+        }
+    ],
+    "title": "Meta's ad-free plan, Catch Google's event, Cybertruck from the inside",
+    "date": "2023/10/03",
+    "description": "If you want to navigate smoothly without worrying about ads through Meta's social media platforms, there's a small price you can pay. Tomorrow is the big day\u2014the \"Made by Google\" event lands in New York. Leaks can't hold back the excitement; don't miss it. And to continue my Cybertruck surveillance, here's an up-close view of the interior."
+}
