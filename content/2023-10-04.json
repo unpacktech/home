@@ -1,0 +1,117 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Bing gets creative",
+                    "Link": "https://www.zdnet.com/article/dall-e-3-is-now-available-for-free-in-bing-chat/",
+                    "Description": "Bing Chat is set to become your favorite AI companion with Microsoft's latest offering. You'll now be able to create AI-generated visuals for free with the integration of OpenAI's powerful DALL-E 3.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Bing gets creative \ud83d\udce6 Bing Chat is set to become your favorite AI companion with Microsoft's latest offering. You'll now be able to create AI-generated visuals for free with the integration of OpenAI's powerful DALL-E 3. #ai https://www.zdnet.com/article/dall-e-3-is-now-available-for-free-in-bing-chat/"
+                },
+                {
+                    "Title": "Advertising made simple",
+                    "Link": "https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/",
+                    "Description": "Meta's new generative AI features are here to simplify content creation. From copywriting to editing images, the company plans to streamline the work of advertisers through the use of prompts.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Advertising made simple \ud83d\udce6 Meta's new generative AI features are here to simplify content creation. From copywriting to editing images, the company plans to streamline the work of advertisers through the use of prompts. #ai https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/"
+                },
+                {
+                    "Title": "Assistant continues to evolve",
+                    "Link": "https://9to5google.com/2023/10/04/google-assistant-with-bard/",
+                    "Description": "Google's event was a feast of innovation with the unveiling of Assistant with Bard. This blend of generative AI and personalized assistance is ready to redefine how we interact with our devices.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Assistant continues to evolve \ud83d\udce6 Google's event was a feast of innovation with the unveiling of Assistant with Bard. This blend of generative AI and personalized assistance is ready to redefine how we interact with our devices. #google https://9to5google.com/2023/10/04/google-assistant-with-bard/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Too much asteroid",
+                    "Link": "https://gizmodo.com/osiris-rex-asteroid-sample-return-excess-materials-1850894913",
+                    "Description": "NASA's OSIRIS-REx mission is taking its time with the disassembly process of Bennu\u2019s canister due to an unexpected abundance of material. So, please, stay patient, space enthusiasts!",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Too much asteroid \ud83d\udce6 NASA's OSIRIS-REx mission is taking its time with the disassembly process of Bennu\u2019s canister due to an unexpected abundance of material. So, please, stay patient, space enthusiasts! #science https://gizmodo.com/osiris-rex-asteroid-sample-return-excess-materials-1850894913"
+                },
+                {
+                    "Title": "Back, in style",
+                    "Link": "https://www.engadget.com/prada-will-help-design-the-spacesuits-for-nasas-2025-artemis-iii-mission-150009987.html",
+                    "Description": "The return to the moon is getting a fashionable twist. Axiom Space, the company selected to craft the spacesuits for the Artemis III mission, announced that it will work with Prada on the design.",
+                    "Time": "1",
+                    "Hashtag": "NASA",
+                    "Tweet": "Back, in style \ud83d\udce6 The return to the moon is getting a fashionable twist. Axiom Space, the company selected to craft the spacesuits for the Artemis III mission, announced that it will work with Prada on the design. #NASA https://www.engadget.com/prada-will-help-design-the-spacesuits-for-nasas-2025-artemis-iii-mission-150009987.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Ready for its journey",
+                    "Link": "https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/",
+                    "Description": "Intuitive Machines' Nova-C lander is on its way to the moon! With meticulous testing behind them, the team only needs launch pad availability to liftoff on a Falcon 9.",
+                    "Time": "5",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Ready for its journey \ud83d\udce6 Intuitive Machines' Nova-C lander is on its way to the moon! With meticulous testing behind them, the team only needs launch pad availability to liftoff on a Falcon 9. #rocketscience https://spacenews.com/first-intuitive-machines-lunar-lander-ready-for-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Welcome, Pixel 8",
+                    "Link": "https://www.cnbc.com/2023/10/04/google-pixel-8-pixel-8-pro-and-pixel-watch-2-announced-price-release-date.html",
+                    "Description": "Finally, Google has presented its Pixel 8 series, and they're ready to take on the competition. With the Tensor G3 chip and AI-powered camera tools, you might want to ditch your old smartphone.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Welcome, Pixel 8 \ud83d\udce6 Finally, Google has presented its Pixel 8 series, and they're ready to take on the competition. With the Tensor G3 chip and AI-powered camera tools, you might want to ditch your old smartphone. #google https://www.cnbc.com/2023/10/04/google-pixel-8-pixel-8-pro-and-pixel-watch-2-announced-price-release-date.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Lending a hand to SpaceX",
+                    "Link": "https://electrek.co/2023/10/04/spacex-already-using-tesla-cybertruck-starbase/",
+                    "Description": "The Cybertruck's power has been teased through leaks, posts, and videos, but it was time to see it in action. The famous electric truck was recently at Starbase, towing a Raptor rocket engine part.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Lending a hand to SpaceX \ud83d\udce6 The Cybertruck's power has been teased through leaks, posts, and videos, but it was time to see it in action. The famous electric truck was recently at Starbase, towing a Raptor rocket engine part. #tesla https://electrek.co/2023/10/04/spacex-already-using-tesla-cybertruck-starbase/"
+                },
+                {
+                    "Title": "Big news from Kia!",
+                    "Link": "https://electrek.co/2023/10/04/kia-unveiling-new-ev-lineup-next-week-what-we-know/",
+                    "Description": "Mark October 12th on your calendars because Kia is about to electrify the scene. Two new electric vehicles are on the horizon, and you won't want to miss the reveal at their upcoming EV Day event.",
+                    "Time": "2",
+                    "Hashtag": "kia",
+                    "Tweet": "Big news from Kia! \ud83d\udce6 Mark October 12th on your calendars because Kia is about to electrify the scene. Two new electric vehicles are on the horizon, and you won't want to miss the reveal at their upcoming EV Day event. #kia https://electrek.co/2023/10/04/kia-unveiling-new-ev-lineup-next-week-what-we-know/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "*Laughing face emoji*",
+                    "Link": "https://www.engadget.com/gmail-is-also-getting-emoji-reactions-082306008.html",
+                    "Description": "Who said answering emails had to be boring? Gmail is about to make it a whole lot more interesting with emoji reactions. Now, you can express yourself more creatively (except during work hours).",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "*Laughing face emoji* \ud83d\udce6 Who said answering emails had to be boring? Gmail is about to make it a whole lot more interesting with emoji reactions. Now, you can express yourself more creatively (except during work hours). #google https://www.engadget.com/gmail-is-also-getting-emoji-reactions-082306008.html"
+                }
+            ]
+        }
+    ],
+    "title": "DALL-E 3 hits Bing, Artemis III's stylish comeback, Gmail's emoji reactions",
+    "date": "2023/10/04",
+    "description": "The power of generative AI is now free for you to use. Just head over to Bing Chat and unleash your creativity with DALL-E 3. Returning to the moon is a monumental feat, so every detail matters, which is why Axiom Space is partnering with Prada to create incredibly stylish spacesuits. And lastly, if that late-night work email has put you in a bad mood, you can easily express yourself with a sad face emoji, thanks to Gmail's new feature (though I wouldn't recommend it)."
+}
