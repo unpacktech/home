@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Between real and virtual",
+                    "Link": "https://universal-simulator.github.io/unisim/",
+                    "Description": "Imagine a universal simulator that replicates real-world interactions using a diverse range of datasets. That's UniSim, this innovative approach is set to revolutionize gaming, robotics, and more.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Between real and virtual \ud83d\udce6 Imagine a universal simulator that replicates real-world interactions using a diverse range of datasets. That's UniSim, this innovative approach is set to revolutionize gaming, robotics, and more. #science https://universal-simulator.github.io/unisim/"
+                },
+                {
+                    "Title": "Not your ordinary pup",
+                    "Link": "https://interestingengineering.com/innovation/meet-spot-the-robot-dog-that-is-helping-map-radiation",
+                    "Description": "Scientists at Berkeley Lab have developed a robotic canine named Spot, equipped with sensors capable of mapping radiation in real-time, opening new doors to nuclear safety and emergency response.",
+                    "Time": "3",
+                    "Hashtag": "robotics",
+                    "Tweet": "Not your ordinary pup \ud83d\udce6 Scientists at Berkeley Lab have developed a robotic canine named Spot, equipped with sensors capable of mapping radiation in real-time, opening new doors to nuclear safety and emergency response. #robotics https://interestingengineering.com/innovation/meet-spot-the-robot-dog-that-is-helping-map-radiation"
+                },
+                {
+                    "Title": "From space to your phone",
+                    "Link": "https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity",
+                    "Description": "Connectivity is reaching new heights with SpaceX's latest offering, \"Starlink Direct to Cell,\" which promises text, voice, and data service via satellite for existing LTE phones, starting in 2024.",
+                    "Time": "1",
+                    "Hashtag": "spacex",
+                    "Tweet": "From space to your phone \ud83d\udce6 Connectivity is reaching new heights with SpaceX's latest offering, \"Starlink Direct to Cell,\" which promises text, voice, and data service via satellite for existing LTE phones, starting in 2024. #spacex https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Cost-effective progress",
+                    "Link": "https://www.techtimes.com/articles/297452/20231012/openai-launch-major-updates-make-ai-software-development-cheaper.htm",
+                    "Description": "OpenAI's mission to democratize AI development continues with the introduction of tools that could further enhance the cost-effectiveness of their AI models, a major benefit for developers.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Cost-effective progress \ud83d\udce6 OpenAI's mission to democratize AI development continues with the introduction of tools that could further enhance the cost-effectiveness of their AI models, a major benefit for developers. #ai https://www.techtimes.com/articles/297452/20231012/openai-launch-major-updates-make-ai-software-development-cheaper.htm"
+                },
+                {
+                    "Title": "Empire state of AI",
+                    "Link": "https://www.axios.com/2023/10/12/new-york-ai-world-capital",
+                    "Description": "New York's tech landscape is evolving rapidly, with AI leading the way. The city is ready to welcome a series of AI-focused events, highlighting its potential as a tech hub for diverse industries.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Empire state of AI \ud83d\udce6 New York's tech landscape is evolving rapidly, with AI leading the way. The city is ready to welcome a series of AI-focused events, highlighting its potential as a tech hub for diverse industries. #ai https://www.axios.com/2023/10/12/new-york-ai-world-capital"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Driving the future",
+                    "Link": "https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv",
+                    "Description": "Innovation is arriving in the automotive software world courtesy of General Motors. The automaker has unveiled \"uServices,\" an API for software developers that promotes cross-brand collaboration.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Driving the future \ud83d\udce6 Innovation is arriving in the automotive software world courtesy of General Motors. The automaker has unveiled \"uServices,\" an API for software developers that promotes cross-brand collaboration. #electricvehicles https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv"
+                },
+                {
+                    "Title": "A customized touch",
+                    "Link": "https://techcrunch.com/2023/10/11/tesla-now-sells-8000-vinyl-wraps-hinting-at-a-clever-cybertruck-solution/",
+                    "Description": "Tesla's wrapping trend has come full circle, and it's now available for Model 3 and Model Y. The \"self-healing urethane-based film\" has various colors, bringing style and protection to your car.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "A customized touch \ud83d\udce6 Tesla's wrapping trend has come full circle, and it's now available for Model 3 and Model Y. The \"self-healing urethane-based film\" has various colors, bringing style and protection to your car. #tesla https://techcrunch.com/2023/10/11/tesla-now-sells-8000-vinyl-wraps-hinting-at-a-clever-cybertruck-solution/"
+                },
+                {
+                    "Title": "Kia\u2019s powerful addition",
+                    "Link": "https://www.engadget.com/kia-debuts-the-ev5-suv-alongside-two-new-affordable-electric-concepts-122040979.html",
+                    "Description": "Kia is broadening its EV lineup with a focus on affordability and accessibility, as showcased during their recent EV Day event, where they introduced the impressive EV5 SUV.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Kia\u2019s powerful addition \ud83d\udce6 Kia is broadening its EV lineup with a focus on affordability and accessibility, as showcased during their recent EV Day event, where they introduced the impressive EV5 SUV. #electricvehicles https://www.engadget.com/kia-debuts-the-ev5-suv-alongside-two-new-affordable-electric-concepts-122040979.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Hope for clear skies",
+                    "Link": "https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-delay-weather",
+                    "Description": "Well, we can't say we weren't warned. Bad weather has unfortunately delayed NASA's Psyche mission, which was scheduled for today. Now, they're aiming for a Friday launch.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Hope for clear skies \ud83d\udce6 Well, we can't say we weren't warned. Bad weather has unfortunately delayed NASA's Psyche mission, which was scheduled for today. Now, they're aiming for a Friday launch. #rocketscience https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-delay-weather"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Apple's next move",
+                    "Link": "https://gizmodo.com/apples-m3-macbooks-probably-wont-arrive-until-2024-1850921264",
+                    "Description": "Rumors about the release of Apple's M3 MacBook have come and gone. Insiders initially pointed to a 2023 launch, but it now appears we must wait until 2024.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple's next move \ud83d\udce6 Rumors about the release of Apple's M3 MacBook have come and gone. Insiders initially pointed to a 2023 launch, but it now appears we must wait until 2024. #apple https://gizmodo.com/apples-m3-macbooks-probably-wont-arrive-until-2024-1850921264"
+                }
+            ]
+        }
+    ],
+    "title": "Introducing UniSim, AI's big city dreams, Psyche's journey is delayed",
+    "date": "2023/10/12",
+    "description": "The bridge between the real and virtual world is shrinking with UniSim, a universal simulator used for training in various domains such as gaming and robotics. The city that never sleeps is becoming a regular home for artificial intelligence, as experts suggest that most AI companies should establish a presence in New York. On the other hand, there's some unfortunate news: NASA's Psyche mission was delayed due to bad weather. Hopefully, the sun will shine tomorrow."
+}
