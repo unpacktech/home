@@ -1,0 +1,102 @@
+{
+    "content": [
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Level up your computing game",
+                    "Link": "https://www.theverge.com/2023/10/16/23918892/intel-14th-gen-processors-core-release-date-price",
+                    "Description": "Intel's Raptor Lake Refresh is a promising leap in CPU technology. These chips are built to handle multitasking and gaming demands with a significant boost in efficiency cores.",
+                    "Time": "2",
+                    "Hashtag": "intel",
+                    "Tweet": "Level up your computing game \ud83d\udce6 Intel's Raptor Lake Refresh is a promising leap in CPU technology. These chips are built to handle multitasking and gaming demands with a significant boost in efficiency cores. #intel https://www.theverge.com/2023/10/16/23918892/intel-14th-gen-processors-core-release-date-price"
+                },
+                {
+                    "Title": "A cheaper vision",
+                    "Link": "https://www.engadget.com/apple-may-cut-eyesight-display-and-mac-chip-for-its-cheaper-vision-pro-204548008.html",
+                    "Description": "If you were concerned about Vision Pro's price tag, there's good news. Reports suggest that Apple is working on a budget-friendly version, tweaking certain features for cost savings.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "A cheaper vision \ud83d\udce6 If you were concerned about Vision Pro's price tag, there's good news. Reports suggest that Apple is working on a budget-friendly version, tweaking certain features for cost savings. #apple https://www.engadget.com/apple-may-cut-eyesight-display-and-mac-chip-for-its-cheaper-vision-pro-204548008.html"
+                },
+                {
+                    "Title": "Step aside Apple!",
+                    "Link": "https://www.cnbc.com/2023/10/16/apples-iphone-loses-top-spot-in-china-to-huawei-analysts.html",
+                    "Description": "Chinese smartphone market dynamics are shifting. Apple currently faces tough competition as Android sales, particularly from Huawei, Xiaomi, and Honor, show strong growth.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Step aside Apple! \ud83d\udce6 Chinese smartphone market dynamics are shifting. Apple currently faces tough competition as Android sales, particularly from Huawei, Xiaomi, and Honor, show strong growth. #apple https://www.cnbc.com/2023/10/16/apples-iphone-loses-top-spot-in-china-to-huawei-analysts.html"
+                },
+                {
+                    "Title": "iPad gets revamped",
+                    "Link": "https://9to5mac.com/2023/10/15/apple-to-announce-new-ipad-models-this-week-featuring-upgraded-chips/",
+                    "Description": "October is here, and with it comes great news for Apple enthusiasts. The next-generation iPad Air and iPad mini are expected to bring updated Apple Silicon chips.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "iPad gets revamped \ud83d\udce6 October is here, and with it comes great news for Apple enthusiasts. The next-generation iPad Air and iPad mini are expected to bring updated Apple Silicon chips. #apple https://9to5mac.com/2023/10/15/apple-to-announce-new-ipad-models-this-week-featuring-upgraded-chips/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Helping modern parents",
+                    "Link": "https://www.axios.com/2023/10/14/chatgpt-parents-ai-chatbot",
+                    "Description": "As times change, so do the tools at our disposal. Parents are turning to ChatGPT for innovative solutions, from event planning to handling tricky \"why\" questions.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Helping modern parents \ud83d\udce6 As times change, so do the tools at our disposal. Parents are turning to ChatGPT for innovative solutions, from event planning to handling tricky \"why\" questions. #ai https://www.axios.com/2023/10/14/chatgpt-parents-ai-chatbot"
+                },
+                {
+                    "Title": "AI reaches for the stars",
+                    "Link": "https://gizmodo.com/ai-supernova-detection-btsbot-astronomy-1850926685",
+                    "Description": "The universe just got a little more predictable thanks to AI. Northwestern University's BTSbot, the AI-assisted supernova detection system, has autonomously spotted and identified a stellar explosion.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI reaches for the stars \ud83d\udce6 The universe just got a little more predictable thanks to AI. Northwestern University's BTSbot, the AI-assisted supernova detection system, has autonomously spotted and identified a stellar explosion. #ai https://gizmodo.com/ai-supernova-detection-btsbot-astronomy-1850926685"
+                },
+                {
+                    "Title": "The battle for relevance",
+                    "Link": "https://www.businessinsider.com/openai-chatgpt-unstoppable-growth-ai-development-sam-altman-2023-10",
+                    "Description": "ChatGPT's first birthday is approaching, and there's a lot to celebrate with $1.3 billion in projected revenue. However, the tech landscape is relentless, and there are challenges at every turn.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "The battle for relevance \ud83d\udce6 ChatGPT's first birthday is approaching, and there's a lot to celebrate with $1.3 billion in projected revenue. However, the tech landscape is relentless, and there are challenges at every turn. #ai https://www.businessinsider.com/openai-chatgpt-unstoppable-growth-ai-development-sam-altman-2023-10"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "No doubt about its safety",
+                    "Link": "https://interestingengineering.com/transportation/mercedes-conducts-first-public-frontal-offset-crash-between-two-evs",
+                    "Description": "Mercedes-Benz redefines electric vehicle safety standards with a real-life crash test. The results aim to dispel myths and encourage more people to embrace cleaner transportation.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "No doubt about its safety \ud83d\udce6 Mercedes-Benz redefines electric vehicle safety standards with a real-life crash test. The results aim to dispel myths and encourage more people to embrace cleaner transportation. #electricvehicles https://interestingengineering.com/transportation/mercedes-conducts-first-public-frontal-offset-crash-between-two-evs"
+                },
+                {
+                    "Title": "Transformation is on the horizon",
+                    "Link": "https://electrek.co/2023/10/13/kia-takes-a-page-from-ford-rivian-with-purpose-built-evs/",
+                    "Description": "Kia is ready to step into the future of the automotive world by building a new factory for purpose-built EVs. The automaker is committed to redefining mobility solutions.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Transformation is on the horizon \ud83d\udce6 Kia is ready to step into the future of the automotive world by building a new factory for purpose-built EVs. The automaker is committed to redefining mobility solutions. #electricvehicles https://electrek.co/2023/10/13/kia-takes-a-page-from-ford-rivian-with-purpose-built-evs/"
+                },
+                {
+                    "Title": "Tesla heads south",
+                    "Link": "https://electrek.co/2023/10/16/tesla-prepares-electric-cars-south-america/",
+                    "Description": "A LinkedIn job posting unveils Tesla's plan to bring its EVs to South America. Chile, with its rich lithium resources and growing EV interest, is the starting point.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Tesla heads south \ud83d\udce6 A LinkedIn job posting unveils Tesla's plan to bring its EVs to South America. Chile, with its rich lithium resources and growing EV interest, is the starting point. #tesla https://electrek.co/2023/10/16/tesla-prepares-electric-cars-south-america/"
+                }
+            ]
+        }
+    ],
+    "title": "Parenting with ChatGPT, Apple's affordable options, Tesla's next journey",
+    "date": "2023/10/16",
+    "description": "Technology plays a significant role in our lives, and with AI, parents have found a new ally to answer the endless \"whys\" of toddlers. But, take it with a grain of salt! All of us tech enthusiasts were initially startled by the Vision Pro's high prices, but rest assured, a low-cost version is in the works. Lastly, Tesla is preparing to enter a new market. South America, get ready!"
+}
