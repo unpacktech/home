@@ -1,0 +1,117 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "It's finally here",
+                    "Link": "https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30",
+                    "Description": "A new delivery date has been set for the Cybertruck: November 30th is the big day! But, as we were warned, the road to mass production might be bumpy, so patience shall be exercised.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "It's finally here \ud83d\udce6 A new delivery date has been set for the Cybertruck: November 30th is the big day! But, as we were warned, the road to mass production might be bumpy, so patience shall be exercised. #tesla https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30"
+                },
+                {
+                    "Title": "The NACS frenzy continues",
+                    "Link": "https://www.engadget.com/chargepoints-ev-network-rolls-out-support-for-teslas-nacs-connector-120034510.html",
+                    "Description": "ChargePoint, a major player in the EV charging industry, has increased electric mobility accessibility by announcing support for Tesla's NACS connector.",
+                    "Time": "2",
+                    "Hashtag": "EVs",
+                    "Tweet": "The NACS frenzy continues \ud83d\udce6 ChargePoint, a major player in the EV charging industry, has increased electric mobility accessibility by announcing support for Tesla's NACS connector. #EVs https://www.engadget.com/chargepoints-ev-network-rolls-out-support-for-teslas-nacs-connector-120034510.html"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Challenges of the digital era",
+                    "Link": "https://arstechnica.com/tech-policy/2023/10/universal-music-sues-ai-start-up-anthropic-for-scraping-song-lyrics/",
+                    "Description": "As AI's role in the music landscape deepens, Universal Music's lawsuit against Anthropic showcases the industry's commitment to protecting intellectual property.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Challenges of the digital era \ud83d\udce6 As AI's role in the music landscape deepens, Universal Music's lawsuit against Anthropic showcases the industry's commitment to protecting intellectual property. #ai https://arstechnica.com/tech-policy/2023/10/universal-music-sues-ai-start-up-anthropic-for-scraping-song-lyrics/"
+                },
+                {
+                    "Title": "Ready to detect",
+                    "Link": "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/",
+                    "Description": "OpenAI's CTO, Mira Murati, reveals a groundbreaking project in the works - an AI image detection tool with 99% accuracy. However, it's tailored exclusively to Dall-E content.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Ready to detect \ud83d\udce6 OpenAI's CTO, Mira Murati, reveals a groundbreaking project in the works - an AI image detection tool with 99% accuracy. However, it's tailored exclusively to Dall-E content. #ai https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/"
+                },
+                {
+                    "Title": "Lay these rumors to rest",
+                    "Link": "https://gizmodo.com/openais-sam-altman-says-he-has-no-interest-in-competing-1850937333",
+                    "Description": "The buzz around Sam Altman's \"iPhone of AI\" was electric. But guess what? The CEO's focus will remain on AI innovation, not smartphones.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Lay these rumors to rest \ud83d\udce6 The buzz around Sam Altman's \"iPhone of AI\" was electric. But guess what? The CEO's focus will remain on AI innovation, not smartphones. #ai https://gizmodo.com/openais-sam-altman-says-he-has-no-interest-in-competing-1850937333"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The robotic touch",
+                    "Link": "https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/",
+                    "Description": "Amazon might add bipedal robots to its workforce. The company is exploring the potential of this technology to enhance warehouse processes, and Agility's Digit is the chosen one.",
+                    "Time": "2",
+                    "Hashtag": "robotics",
+                    "Tweet": "The robotic touch \ud83d\udce6 Amazon might add bipedal robots to its workforce. The company is exploring the potential of this technology to enhance warehouse processes, and Agility's Digit is the chosen one. #robotics https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A global tech hub",
+                    "Link": "https://www.engadget.com/google-confirms-it-will-manufacture-pixel-phones-in-india-091725837.html",
+                    "Description": "Pixel by Pixel, India's tech ecosystem grows stronger! Google's choice to invest in local production is another stride in the \"Make in India\" initiative.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "A global tech hub \ud83d\udce6 Pixel by Pixel, India's tech ecosystem grows stronger! Google's choice to invest in local production is another stride in the \"Make in India\" initiative. #google https://www.engadget.com/google-confirms-it-will-manufacture-pixel-phones-in-india-091725837.html"
+                },
+                {
+                    "Title": "Is it a bird? Is it a plane?",
+                    "Link": "https://www.cnbc.com/2023/10/18/amazon-begins-delivering-medications-by-drone-in-texas.html",
+                    "Description": "Amazon Pharmacy's new delivery method is truly taking off. Eligible customers can now enjoy rapid and hassle-free access to essential medications via drone.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "Is it a bird? Is it a plane? \ud83d\udce6 Amazon Pharmacy's new delivery method is truly taking off. Eligible customers can now enjoy rapid and hassle-free access to essential medications via drone. #amazon https://www.cnbc.com/2023/10/18/amazon-begins-delivering-medications-by-drone-in-texas.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Up, up, and research away",
+                    "Link": "https://spacenews.com/virgin-galactic-to-perform-suborbital-research-flight-in-november/",
+                    "Description": "Virgin Galactic is preparing for its fifth commercial flight. On November 1, the Galactic 05 mission will carry researchers on board as the company continues its pursuit of suborbital knowledge.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Up, up, and research away \ud83d\udce6 Virgin Galactic is preparing for its fifth commercial flight. On November 1, the Galactic 05 mission will carry researchers on board as the company continues its pursuit of suborbital knowledge. #space https://spacenews.com/virgin-galactic-to-perform-suborbital-research-flight-in-november/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "No more juggling",
+                    "Link": "https://techcrunch.com/2023/10/19/whatsapp-will-now-let-log-into-two-accounts-simultaneously/",
+                    "Description": "WhatsApp's latest feature lets you use two accounts on one device. Multiple phones? Not anymore. It's time to make your life easier.",
+                    "Time": "1",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "No more juggling \ud83d\udce6 WhatsApp's latest feature lets you use two accounts on one device. Multiple phones? Not anymore. It's time to make your life easier. #whatsapp https://techcrunch.com/2023/10/19/whatsapp-will-now-let-log-into-two-accounts-simultaneously/"
+                }
+            ]
+        }
+    ],
+    "title": "Cybertruck is coming, Amazon's drone deliveries, WhatsApp's latest feature",
+    "date": "2023/10/19",
+    "description": "Hey there! Remember when I mentioned that we might finally hear about Cybertruck's delivery date? Well, it's official now, and it's slated for November. Picture this: you're home, down with the flu, feeling helpless, and then out of the blue, medicine falls from the sky... Amazon is pulling off something almost as miraculous. Oh, and for all of us juggling work and personal life on WhatsApp, good news! We won't have to keep two phones in our pockets anymore."
+}
