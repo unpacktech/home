@@ -1,0 +1,117 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A taste of poison",
+                    "Link": "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/",
+                    "Description": "Artists might be able to safeguard their art from AI with Nightshade. This tool by researchers at the University of Chicago alters pixels, effectively \"poisoning\" the images for AI models.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "A taste of poison \ud83d\udce6 Artists might be able to safeguard their art from AI with Nightshade. This tool by researchers at the University of Chicago alters pixels, effectively \"poisoning\" the images for AI models. #ai https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
+                },
+                {
+                    "Title": "Maybe next year",
+                    "Link": "https://www.theverge.com/2023/10/23/23929273/eu-ai-act-generative-regulation-models",
+                    "Description": "European lawmakers had hoped to set up regulations quickly to handle AI growth, but it's taking longer than expected due to ongoing debates on the way forward.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Maybe next year \ud83d\udce6 European lawmakers had hoped to set up regulations quickly to handle AI growth, but it's taking longer than expected due to ongoing debates on the way forward. #ai https://www.theverge.com/2023/10/23/23929273/eu-ai-act-generative-regulation-models"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "The battle for innovation",
+                    "Link": "https://www.engadget.com/nvidia-is-reportedly-working-on-arm-based-processors-for-windows-pcs-211337968.html",
+                    "Description": "Nvidia's preparation to challenge Intel with Arm-based processors for Windows PCs is intriguing, especially considering Microsoft's aim to compete with Apple's success.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "The battle for innovation \ud83d\udce6 Nvidia's preparation to challenge Intel with Arm-based processors for Windows PCs is intriguing, especially considering Microsoft's aim to compete with Apple's success. #nvidia https://www.engadget.com/nvidia-is-reportedly-working-on-arm-based-processors-for-windows-pcs-211337968.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Lawrence's heart journey",
+                    "Link": "https://eu.usatoday.com/story/news/health/2023/10/24/maryland-man-lawrence-faucette-one-month-pig-heart-transplant/71298287007/",
+                    "Description": "One month after a life-saving pig heart transplant, a man's successful recovery underscores the immense potential of xenotransplants in medicine to address the huge organ shortage.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "Lawrence's heart journey \ud83d\udce6 One month after a life-saving pig heart transplant, a man's successful recovery underscores the immense potential of xenotransplants in medicine to address the huge organ shortage. #science https://eu.usatoday.com/story/news/health/2023/10/24/maryland-man-lawrence-faucette-one-month-pig-heart-transplant/71298287007/"
+                },
+                {
+                    "Title": "Figuring the moon's birthday",
+                    "Link": "https://gizmodo.com/apollo-mission-samples-reveal-the-moon-is-more-ancient-1850950960",
+                    "Description": "Thanks to crystals collected during Apollo 17, researchers can now delve into the Moon's hidden past, beginning with its age, which is about 40 million years older than expected.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Figuring the moon's birthday \ud83d\udce6 Thanks to crystals collected during Apollo 17, researchers can now delve into the Moon's hidden past, beginning with its age, which is about 40 million years older than expected. #space https://gizmodo.com/apollo-mission-samples-reveal-the-moon-is-more-ancient-1850950960"
+                },
+                {
+                    "Title": "Is anyone able to open this?",
+                    "Link": "https://gizmodo.com/nasa-struggling-open-asteroid-sample-container-1850951047",
+                    "Description": "Samples from the asteroid Bennu remain within a tiny canister. The mission's curation team, while attempting to gather bits from the outside, is still working on a safe method to open the lid.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Is anyone able to open this? \ud83d\udce6 Samples from the asteroid Bennu remain within a tiny canister. The mission's curation team, while attempting to gather bits from the outside, is still working on a safe method to open the lid. #space https://gizmodo.com/nasa-struggling-open-asteroid-sample-container-1850951047"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "An ongoing adventure",
+                    "Link": "https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/",
+                    "Description": "A story is developing in interstellar space as Voyager 2 is on the brink of a critical software update. NASA's meticulous care aims to ensure the probe's continued journey through the cosmos.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "An ongoing adventure \ud83d\udce6 A story is developing in interstellar space as Voyager 2 is on the brink of a critical software update. NASA's meticulous care aims to ensure the probe's continued journey through the cosmos. #space https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Toyota's electric dream",
+                    "Link": "https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept",
+                    "Description": "Toyota unveiled its electric Land Cruiser SUV concept at the 2023 Japan Mobility Show. With competitors like Hyundai's EV9 in the race, we can't help but wonder: Can Toyota make this a reality?",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "Toyota's electric dream \ud83d\udce6 Toyota unveiled its electric Land Cruiser SUV concept at the 2023 Japan Mobility Show. With competitors like Hyundai's EV9 in the race, we can't help but wonder: Can Toyota make this a reality? #toyota https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept"
+                },
+                {
+                    "Title": "Rivian makes history",
+                    "Link": "https://interestingengineering.com/transportation/rivian-r1t-win-us-off-road-rally",
+                    "Description": "The power of EVs to conquer any challenge is being showcased by Rivian. The R1T pickup electrified the off-road world with an outstanding victory at the 2023 Rebelle Rally.",
+                    "Time": "4",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Rivian makes history \ud83d\udce6 The power of EVs to conquer any challenge is being showcased by Rivian. The R1T pickup electrified the off-road world with an outstanding victory at the 2023 Rebelle Rally. #electricvehicles https://interestingengineering.com/transportation/rivian-r1t-win-us-off-road-rally"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Immersive and cool",
+                    "Link": "https://www.engadget.com/xreals-399-air-2-augmented-reality-glasses-are-now-available-to-pre-order-120057648.html",
+                    "Description": "Augmented reality gets a stylish twist with Xreal Air 2. With Sony's micro-OLED display and adjustable immersion levels, they offer a new approach to AR experiences.",
+                    "Time": "3",
+                    "Hashtag": "gadgets",
+                    "Tweet": "Immersive and cool \ud83d\udce6 Augmented reality gets a stylish twist with Xreal Air 2. With Sony's micro-OLED display and adjustable immersion levels, they offer a new approach to AR experiences. #gadgets https://www.engadget.com/xreals-399-air-2-augmented-reality-glasses-are-now-available-to-pre-order-120057648.html"
+                }
+            ]
+        }
+    ],
+    "title": "Introducing: Nightshade, Voyager 2 gets updated, The moon's real age",
+    "date": "2023/10/24",
+    "description": "Much like the witch from Snow White, but in a less evil setting, artists can safeguard their work with \"poisoned\" data, thanks to Nightshade. Voyager 2's journey just received a boost with NASA's latest software update, ensuring it keeps cruising through cosmic waves. And if you've ever wondered about the age of our natural satellite... Well, it turns out, it's about 40 million years older than we thought."
+}
