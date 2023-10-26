@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Let's do some fact-checking",
+                    "Link": "https://www.engadget.com/googles-new-image-verification-tool-combs-metadata-to-find-context-and-sniff-out-ai-fakes-165339778.html",
+                    "Description": "In the battle against misinformation, Google steps up with an innovative solution. \"About This Image\" is now part of Search, offering insights into image metadata, tracking usage, and more.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Let's do some fact-checking \ud83d\udce6 In the battle against misinformation, Google steps up with an innovative solution. \"About This Image\" is now part of Search, offering insights into image metadata, tracking usage, and more. #ai https://www.engadget.com/googles-new-image-verification-tool-combs-metadata-to-find-context-and-sniff-out-ai-fakes-165339778.html"
+                },
+                {
+                    "Title": "Explore with confidence",
+                    "Link": "https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/",
+                    "Description": "Google Maps is improving to help you explore the world like never before. The new AI-powered search allows you to find specific items nearby and discover places thanks to user-shared photos.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Explore with confidence \ud83d\udce6 Google Maps is improving to help you explore the world like never before. The new AI-powered search allows you to find specific items nearby and discover places thanks to user-shared photos. #ai https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/"
+                },
+                {
+                    "Title": "A new era in content creation",
+                    "Link": "https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai",
+                    "Description": "Shutterstock gives you all the tools you need to create the perfect content. With the latest AI image editor, creatives can freely edit, transform, and personalize stock images.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A new era in content creation \ud83d\udce6 Shutterstock gives you all the tools you need to create the perfect content. With the latest AI image editor, creatives can freely edit, transform, and personalize stock images. #ai https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai"
+                },
+                {
+                    "Title": "Meet your twin",
+                    "Link": "https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/",
+                    "Description": "Lenovo's approach to AI is turning heads everywhere, with the company introducing the concept of the \"AI Twin.\" This assistant is all about you, learning from your data to offer tailored solutions.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Meet your twin \ud83d\udce6 Lenovo's approach to AI is turning heads everywhere, with the company introducing the concept of the \"AI Twin.\" This assistant is all about you, learning from your data to offer tailored solutions. #ai https://www.digitaltrends.com/computing/lenovos-personal-ai-twin-gives-users-control-of-their-data/"
+                },
+                {
+                    "Title": "Beatlemania is back",
+                    "Link": "https://apnews.com/article/last-new-beatles-song-e7b3a349b0e1e58b8668e98ba2d9cd0b",
+                    "Description": "After 60 years, we are witnessing something we never thought was possible. \"Now and Then\" is the brand-new and final Beatles song, lovingly restored and completed thanks to the power of AI.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Beatlemania is back \ud83d\udce6 After 60 years, we are witnessing something we never thought was possible. \"Now and Then\" is the brand-new and final Beatles song, lovingly restored and completed thanks to the power of AI. #ai https://apnews.com/article/last-new-beatles-song-e7b3a349b0e1e58b8668e98ba2d9cd0b"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A sound revolution",
+                    "Link": "https://gizmodo.com/apple-to-revamp-airpods-lineup-in-2024-and-2025-1850959158",
+                    "Description": "Apple has a major makeover in store for the AirPods lineup, with a primary focus on design, audio quality, and charging cases. 2024 and 2025 will be music to our ears, quite literally.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "A sound revolution \ud83d\udce6 Apple has a major makeover in store for the AirPods lineup, with a primary focus on design, audio quality, and charging cases. 2024 and 2025 will be music to our ears, quite literally. #apple https://gizmodo.com/apple-to-revamp-airpods-lineup-in-2024-and-2025-1850959158"
+                }
+            ]
+        },
+        {
+            "category": "Design \ud83c\udfa8",
+            "stories": [
+                {
+                    "Title": "Motorola's stylish take",
+                    "Link": "https://www.businessinsider.com/motorola-bendable-smartphone-slap-bracelet-wraps-around-wrist-2023-10",
+                    "Description": "Imagine having your smartphone on your wrist! Motorola's \"adaptive display concept\" can bend and adjust to your needs. However, will it ever become a reality or remain just a cool idea?",
+                    "Time": "2",
+                    "Hashtag": "motorola",
+                    "Tweet": "Motorola's stylish take \ud83d\udce6 Imagine having your smartphone on your wrist! Motorola's \"adaptive display concept\" can bend and adjust to your needs. However, will it ever become a reality or remain just a cool idea? #motorola https://www.businessinsider.com/motorola-bendable-smartphone-slap-bracelet-wraps-around-wrist-2023-10"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Designed for mobility",
+                    "Link": "https://www.theverge.com/2023/10/26/23933118/mih-consortium-project-x-gogoro-swap-battery-ev-car-japan-mobility-show-2023",
+                    "Description": "Tired of hunting for charging stations? Project X has you covered! This compact electric car, unveiled at the Japan Mobility Show 2023, runs on Gogoro scooter batteries.",
+                    "Time": "1",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Designed for mobility \ud83d\udce6 Tired of hunting for charging stations? Project X has you covered! This compact electric car, unveiled at the Japan Mobility Show 2023, runs on Gogoro scooter batteries. #electricvehicles https://www.theverge.com/2023/10/26/23933118/mih-consortium-project-x-gogoro-swap-battery-ev-car-japan-mobility-show-2023"
+                },
+                {
+                    "Title": "Make it sporty",
+                    "Link": "https://electrek.co/2023/10/25/tesla-model-3-sport-version-seats/",
+                    "Description": "Tesla's latest software update reveals a thrilling addition to the Model 3 family. The unannounced \"Sport\" Model 3 promises sportier seats and a revamped interior.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Make it sporty \ud83d\udce6 Tesla's latest software update reveals a thrilling addition to the Model 3 family. The unannounced \"Sport\" Model 3 promises sportier seats and a revamped interior. #tesla https://electrek.co/2023/10/25/tesla-model-3-sport-version-seats/"
+                },
+                {
+                    "Title": "On high demand",
+                    "Link": "https://electrek.co/2023/10/26/volvo-ex30-suv-high-demand/",
+                    "Description": "Volvo's EX30 SUV is set to electrify the automotive world. With production in Belgium and China, the automaker aims to meet global demand and accelerate its electrification goals.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "On high demand \ud83d\udce6 Volvo's EX30 SUV is set to electrify the automotive world. With production in Belgium and China, the automaker aims to meet global demand and accelerate its electrification goals. #volvo https://electrek.co/2023/10/26/volvo-ex30-suv-high-demand/"
+                }
+            ]
+        }
+    ],
+    "title": "Google Maps gets an AI boost, Motorola's flexible design, The Beatles are back! ",
+    "date": "2023/10/26",
+    "description": "AI is turning Google Maps into your trusty sidekick for exploring. Finding the best nearby coffee joint or scoring some cool local events just got simpler. I never even considered the idea of strapping my phone to my wrist, but Motorola seems to think it's a pretty cool option. And here's a twist (and shout) I didn't see coming: we're getting a new Beatles song in this day and age, with a little AI magic in the mix!"
+}
