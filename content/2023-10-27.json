@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Better to be safe than sorry",
+                    "Link": "https://techcrunch.com/2023/10/26/openai-forms-team-to-study-catastrophic-risks-including-nuclear-threats/",
+                    "Description": "OpenAI isn't leaving anything to chance in the world of AI. \"Preparedness\" is their shield against the unexpected. A team of experts ready to confront any catastrophic risk as technology evolves.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Better to be safe than sorry \ud83d\udce6 OpenAI isn't leaving anything to chance in the world of AI. \"Preparedness\" is their shield against the unexpected. A team of experts ready to confront any catastrophic risk as technology evolves. #ai https://techcrunch.com/2023/10/26/openai-forms-team-to-study-catastrophic-risks-including-nuclear-threats/"
+                },
+                {
+                    "Title": "All for AI safety",
+                    "Link": "https://techcrunch.com/2023/10/26/google-generative-ai-threats-bug-bounty/",
+                    "Description": "Google is taking its AI security game to the next level by expanding the Vulnerability Rewards Program, and they're inviting ethical hackers to step in, spot, and address potential AI vulnerabilities.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "All for AI safety \ud83d\udce6 Google is taking its AI security game to the next level by expanding the Vulnerability Rewards Program, and they're inviting ethical hackers to step in, spot, and address potential AI vulnerabilities. #ai https://techcrunch.com/2023/10/26/google-generative-ai-threats-bug-bounty/"
+                },
+                {
+                    "Title": "AI-powered search",
+                    "Link": "https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide",
+                    "Description": "Forbes has embraced AI to enhance the reader experience. Adelaide, their AI-driven search platform, offers personalized search results and summarizes answers to user queries.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI-powered search \ud83d\udce6 Forbes has embraced AI to enhance the reader experience. Adelaide, their AI-driven search platform, offers personalized search results and summarizes answers to user queries. #ai https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Back on track",
+                    "Link": "https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/",
+                    "Description": "Electron is ready to reach orbit again. While Rocket Lab continues its investigation into the recent failure, the space company has already secured approval for a new launch in the next few months.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Back on track \ud83d\udce6 Electron is ready to reach orbit again. While Rocket Lab continues its investigation into the recent failure, the space company has already secured approval for a new launch in the next few months. #rocketscience https://spacenews.com/rocket-lab-projects-electron-return-to-flight-in-fourth-quarter/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A gentle touch",
+                    "Link": "https://interestingengineering.com/science/ubc-honda-researchers-develop-robot-arm-with-human-skin-like-sensors",
+                    "Description": "A soft sensor inspired by human skin, developed by UBC and Honda's research institute aims to redefine the capabilities of prosthetic and robotic arms, making them more delicate and precise.",
+                    "Time": "4",
+                    "Hashtag": "robotics",
+                    "Tweet": "A gentle touch \ud83d\udce6 A soft sensor inspired by human skin, developed by UBC and Honda's research institute aims to redefine the capabilities of prosthetic and robotic arms, making them more delicate and precise. #robotics https://interestingengineering.com/science/ubc-honda-researchers-develop-robot-arm-with-human-skin-like-sensors"
+                },
+                {
+                    "Title": "At the core",
+                    "Link": "https://www.engadget.com/mars-core-looks-bigger-than-it-is-because-its-wrapped-in-radioactive-magma-211359695.html",
+                    "Description": "NASA's InSight lander data has uncovered deep secrets about Mars' composition. The findings, presented in a recent study, indicate a smaller, denser iron core enveloped by molten rock.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "At the core \ud83d\udce6 NASA's InSight lander data has uncovered deep secrets about Mars' composition. The findings, presented in a recent study, indicate a smaller, denser iron core enveloped by molten rock. #space https://www.engadget.com/mars-core-looks-bigger-than-it-is-because-its-wrapped-in-radioactive-magma-211359695.html"
+                },
+                {
+                    "Title": "Put it in the Smithsonian",
+                    "Link": "https://gizmodo.com/pieces-asteroid-bennu-smithsonian-nasa-osiris-rex-1850963488",
+                    "Description": "If you've ever wanted to see an asteroid in real life (without endangering the world), you're in luck! The Smithsonian will showcase fragments of the asteroid Bennu collected by NASA.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Put it in the Smithsonian \ud83d\udce6 If you've ever wanted to see an asteroid in real life (without endangering the world), you're in luck! The Smithsonian will showcase fragments of the asteroid Bennu collected by NASA. #space https://gizmodo.com/pieces-asteroid-bennu-smithsonian-nasa-osiris-rex-1850963488"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Is a MacBook SE on the horizon?",
+                    "Link": "https://arstechnica.com/gadgets/2023/10/the-low-cost-macbook-rumor-just-wont-die-but-it-might-finally-make-sense/",
+                    "Description": "For Apple enthusiasts on a budget, an affordable MacBook would be a dream come true. However, rumors are fleeting, so we should remain cautiously optimistic while leaving room for possibility.",
+                    "Time": "7",
+                    "Hashtag": "apple",
+                    "Tweet": "Is a MacBook SE on the horizon? \ud83d\udce6 For Apple enthusiasts on a budget, an affordable MacBook would be a dream come true. However, rumors are fleeting, so we should remain cautiously optimistic while leaving room for possibility. #apple https://arstechnica.com/gadgets/2023/10/the-low-cost-macbook-rumor-just-wont-die-but-it-might-finally-make-sense/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Another Tesla surprise",
+                    "Link": "https://electrek.co/2023/10/27/tesla-increases-model-y-price-changing-trend/",
+                    "Description": "The pricing rollercoaster continues for Tesla with a price increase on the Model Y Long Range. Is this a sign of stronger demand and a shift away from price cuts?",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Another Tesla surprise \ud83d\udce6 The pricing rollercoaster continues for Tesla with a price increase on the Model Y Long Range. Is this a sign of stronger demand and a shift away from price cuts? #tesla https://electrek.co/2023/10/27/tesla-increases-model-y-price-changing-trend/"
+                },
+                {
+                    "Title": "More color choices",
+                    "Link": "https://electrek.co/2023/10/26/tesla-launches-rare-new-car-color-stealth-grey/",
+                    "Description": "Tesla's color spectrum is expanding with \"Stealth Grey\" for the Model S and Model X. It might not be the most vibrant choice, but it's a bold step for the automaker.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "More color choices \ud83d\udce6 Tesla's color spectrum is expanding with \"Stealth Grey\" for the Model S and Model X. It might not be the most vibrant choice, but it's a bold step for the automaker. #tesla https://electrek.co/2023/10/26/tesla-launches-rare-new-car-color-stealth-grey/"
+                }
+            ]
+        }
+    ],
+    "title": "OpenAI presents: Preparedness, Tesla's color palette, Bennu lands on the Smithsonian",
+    "date": "2023/10/27",
+    "description": "I'm all for staying positive, but OpenAI is taking things to another level by considering every possibility \u2013 even the wildest ones, which is why they created the Preparedness team. If you're eyeing a Model S or Model X, a new shade is now available. Certainly not the most colorful, but that's classic Tesla. Oh, and if you want to check out an asteroid up close without worrying about the end of the world, head to the Smithsonian!"
+}
