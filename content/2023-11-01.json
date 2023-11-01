@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Programming in the age of AI",
+                    "Link": "https://vulcanpost.com/843379/team-of-ai-bots-develops-software-in-7-minutes-instead-of-4-weeks/amp/",
+                    "Description": "The fear of AI replacing us for efficiency is real, but here's the silver lining: a recent study underlines a fundamental truth \u2013 it's all about humans and robots working together. ",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Programming in the age of AI \ud83d\udce6 The fear of AI replacing us for efficiency is real, but here's the silver lining: a recent study underlines a fundamental truth \u2013 it's all about humans and robots working together.  #ai https://vulcanpost.com/843379/team-of-ai-bots-develops-software-in-7-minutes-instead-of-4-weeks/amp/"
+                },
+                {
+                    "Title": "Will AGI become a reality?",
+                    "Link": "https://futurism.com/google-deepmind-agi-5-years",
+                    "Description": "DeepMind's co-founder, Shane Legg, is holding firm to his prediction that AI could reach human-level intelligence by 2028. While a 50-50 chance remains, the complex quest for AGI continues.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Will AGI become a reality? \ud83d\udce6 DeepMind's co-founder, Shane Legg, is holding firm to his prediction that AI could reach human-level intelligence by 2028. While a 50-50 chance remains, the complex quest for AGI continues. #ai https://futurism.com/google-deepmind-agi-5-years"
+                },
+                {
+                    "Title": "Then lost, then found",
+                    "Link": "https://gizmodo.com/linkedin-ai-bot-help-find-job-1850979893",
+                    "Description": "Did AI take your job? It might just help you find a new one. That's what LinkedIn intends with its latest \"job seeker coach,\" offering personalized advice to enhance your application success.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Then lost, then found \ud83d\udce6 Did AI take your job? It might just help you find a new one. That's what LinkedIn intends with its latest \"job seeker coach,\" offering personalized advice to enhance your application success. #ai https://gizmodo.com/linkedin-ai-bot-help-find-job-1850979893"
+                },
+                {
+                    "Title": "Alibaba pushes forward",
+                    "Link": "https://www.cnbc.com/2023/10/31/alibaba-launches-upgraded-ai-model-to-challenge-microsoft-amazon.html",
+                    "Description": "The race for AI supremacy is as strong as ever, with Alibaba unveiling an upgraded version of its AI model, Tongyi Qianwen, capable of better understanding complex tasks, copywriting, and more.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Alibaba pushes forward \ud83d\udce6 The race for AI supremacy is as strong as ever, with Alibaba unveiling an upgraded version of its AI model, Tongyi Qianwen, capable of better understanding complex tasks, copywriting, and more. #ai https://www.cnbc.com/2023/10/31/alibaba-launches-upgraded-ai-model-to-challenge-microsoft-amazon.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Subaru joins the NACS club",
+                    "Link": "https://electrek.co/2023/11/01/subaru-finally-hops-on-tesla-nacs-ev-charging-train/",
+                    "Description": "Subaru is the latest automaker to embrace Tesla's NACS charging ports for its upcoming EVs, aiming for more convenience and accessibility for its customers in North America by 2025.",
+                    "Time": "1",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Subaru joins the NACS club \ud83d\udce6 Subaru is the latest automaker to embrace Tesla's NACS charging ports for its upcoming EVs, aiming for more convenience and accessibility for its customers in North America by 2025. #electricvehicles https://electrek.co/2023/11/01/subaru-finally-hops-on-tesla-nacs-ev-charging-train/"
+                },
+                {
+                    "Title": "More Cyber details",
+                    "Link": "https://electrek.co/2023/10/31/elon-musk-reveals-details-tesla-cybertruck/",
+                    "Description": "Elon Musk, in a conversation with Joe Rogan, shared a few insights about the Cybertruck. We now know more about the weight, acceleration, and production targets. The excitement is growing!",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "More Cyber details \ud83d\udce6 Elon Musk, in a conversation with Joe Rogan, shared a few insights about the Cybertruck. We now know more about the weight, acceleration, and production targets. The excitement is growing! #tesla https://electrek.co/2023/10/31/elon-musk-reveals-details-tesla-cybertruck/"
+                },
+                {
+                    "Title": "The railroad to sustainability",
+                    "Link": "https://interestingengineering.com/transportation/worlds-first-battery-powered-locomotive",
+                    "Description": "Meet the world's first 100% battery-powered heavy-haul locomotive, the FLXdrive. An eco-friendly innovation that promises to revolutionize rail transport for a greener future.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "The railroad to sustainability \ud83d\udce6 Meet the world's first 100% battery-powered heavy-haul locomotive, the FLXdrive. An eco-friendly innovation that promises to revolutionize rail transport for a greener future. #electricvehicles https://interestingengineering.com/transportation/worlds-first-battery-powered-locomotive"
+                },
+                {
+                    "Title": "Good things come in small packages",
+                    "Link": "https://electrek.co/2023/11/01/honda-begins-selling-its-silly-little-briefcase-electric-scooter-in-the-us/",
+                    "Description": "Tiny, affordable, and fun! Honda's Motocompacto is now open for orders. This charming electric scooter pays homage to the classic Motocompo. A great solution for city travel.",
+                    "Time": "3",
+                    "Hashtag": "honda",
+                    "Tweet": "Good things come in small packages \ud83d\udce6 Tiny, affordable, and fun! Honda's Motocompacto is now open for orders. This charming electric scooter pays homage to the classic Motocompo. A great solution for city travel. #honda https://electrek.co/2023/11/01/honda-begins-selling-its-silly-little-briefcase-electric-scooter-in-the-us/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "One step closer",
+                    "Link": "https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/",
+                    "Description": "SpaceX cleared a crucial hurdle with the completion of the safety review for the next Starship launch. However, an environmental review is still pending before the updated license is granted.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "One step closer \ud83d\udce6 SpaceX cleared a crucial hurdle with the completion of the safety review for the next Starship launch. However, an environmental review is still pending before the updated license is granted. #rocketscience https://spacenews.com/faa-completes-safety-review-for-next-starship-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A healthier tomorrow",
+                    "Link": "https://www.cnbc.com/2023/11/01/apple-watch-blood-pressure-sleep-apnea-and-health-coach-planned-report.html",
+                    "Description": "Apple is shifting its focus to wellness, as reports suggest the addition of a paid health coaching service, blood pressure monitoring, and sleep apnea detection for the upcoming Apple Watch.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "A healthier tomorrow \ud83d\udce6 Apple is shifting its focus to wellness, as reports suggest the addition of a paid health coaching service, blood pressure monitoring, and sleep apnea detection for the upcoming Apple Watch. #apple https://www.cnbc.com/2023/11/01/apple-watch-blood-pressure-sleep-apnea-and-health-coach-planned-report.html"
+                }
+            ]
+        }
+    ],
+    "title": "Programmers vs. AI, LinkedIn's AI coach, Starship's journey gets closer",
+    "date": "2023/11/01",
+    "description": "AI job takeover scares many \u2013 it's too good at coding, saving costs, and upping efficiency. But relax, the secret is teamwork! LinkedIn plans to help you nail job applications with AI advice. It might not be as easy as it sounds, but it's a step in the right direction. Lastly, Starship is steadily overcoming regulatory hurdles, and I can't wait to see it reach the skies once more."
+}
