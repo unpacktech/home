@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Time for responsible development",
+                    "Link": "https://www.techtimes.com/articles/298231/20231102/meta-chief-ai-scientist-joins-70-others-calling-more-transparency.htm",
+                    "Description": "In a letter published by Mozilla, a group of 70 signatories, including Meta's Yann LeCun, stated that in the current times, there is a strong need to prioritize AI's openness and transparency.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Time for responsible development \ud83d\udce6 In a letter published by Mozilla, a group of 70 signatories, including Meta's Yann LeCun, stated that in the current times, there is a strong need to prioritize AI's openness and transparency. #ai https://www.techtimes.com/articles/298231/20231102/meta-chief-ai-scientist-joins-70-others-calling-more-transparency.htm"
+                },
+                {
+                    "Title": "GPUs for rent",
+                    "Link": "https://techcrunch.com/2023/11/01/new-aws-service-lets-customers-rent-nvidia-gpus-for-quick-ai-projects/",
+                    "Description": "Running large language models comes with its challenges, including high costs and limited availability, but AWS is here to help allowing you to reserve GPU instances for the exact time you require.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "GPUs for rent \ud83d\udce6 Running large language models comes with its challenges, including high costs and limited availability, but AWS is here to help allowing you to reserve GPU instances for the exact time you require. #ai https://techcrunch.com/2023/11/01/new-aws-service-lets-customers-rent-nvidia-gpus-for-quick-ai-projects/"
+                },
+                {
+                    "Title": "Here comes Leo",
+                    "Link": "https://www.engadget.com/braves-ai-assistant-comes-to-its-desktop-browser-160010918.html",
+                    "Description": "Brave Browser has announced Leo, its very own AI assistant. With the power of Llama 2, it is able to create summaries, translate pages, and even generate content.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Here comes Leo \ud83d\udce6 Brave Browser has announced Leo, its very own AI assistant. With the power of Llama 2, it is able to create summaries, translate pages, and even generate content. #ai https://www.engadget.com/braves-ai-assistant-comes-to-its-desktop-browser-160010918.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Pieces of Theia",
+                    "Link": "https://futurism.com/massive-chunks-another-planet-earth-theia",
+                    "Description": "Scientists at the China Academy of Sciences are digging deeper into the origins of our planet, suggesting that larger remnants of Theia, the Mars-sized protoplanet, might be embedded on Earth.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Pieces of Theia \ud83d\udce6 Scientists at the China Academy of Sciences are digging deeper into the origins of our planet, suggesting that larger remnants of Theia, the Mars-sized protoplanet, might be embedded on Earth. #space https://futurism.com/massive-chunks-another-planet-earth-theia"
+                },
+                {
+                    "Title": "Lucy\u2019s asteroid encounter",
+                    "Link": "https://www.space.com/lucy-flyby-dinkinesh-successfully-completed",
+                    "Description": "Lucy has finally met \"Dinky.\" The NASA spacecraft is currently in great shape after a remarkable flyby of asteroid Dinkinesh, continuing its journey to unveil the history of our solar system.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Lucy\u2019s asteroid encounter \ud83d\udce6 Lucy has finally met \"Dinky.\" The NASA spacecraft is currently in great shape after a remarkable flyby of asteroid Dinkinesh, continuing its journey to unveil the history of our solar system. #space https://www.space.com/lucy-flyby-dinkinesh-successfully-completed"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Sustainable space travel",
+                    "Link": "https://spacenews.com/chinas-ispace-launches-and-lands-rocket-test-stage/",
+                    "Description": "iSpace, a Chinese commercial rocket company, is advancing the development of reusable launch vehicles with the successful vertical takeoff and landing test of its Hyperbola-2Y rocket.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Sustainable space travel \ud83d\udce6 iSpace, a Chinese commercial rocket company, is advancing the development of reusable launch vehicles with the successful vertical takeoff and landing test of its Hyperbola-2Y rocket. #rocketscience https://spacenews.com/chinas-ispace-launches-and-lands-rocket-test-stage/"
+                },
+                {
+                    "Title": "The dream goes on",
+                    "Link": "https://interestingengineering.com/innovation/dream-chaser-spaceplane-closer-to-launch",
+                    "Description": "Dream Chaser, designed by Sierra Space, is getting ready for action. With its potential to transform cargo delivery and space station support, it is set to become a key piece of NASA's endeavors.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "The dream goes on \ud83d\udce6 Dream Chaser, designed by Sierra Space, is getting ready for action. With its potential to transform cargo delivery and space station support, it is set to become a key piece of NASA's endeavors. #rocketscience https://interestingengineering.com/innovation/dream-chaser-spaceplane-closer-to-launch"
+                },
+                {
+                    "Title": "Another commercial ride",
+                    "Link": "https://www.space.com/virgin-galactic-05-mission-stern-gerardi-preview",
+                    "Description": "Virgin Galactic has reached suborbital space once more. The Galactic 05 crew is now on Earth after an exciting mission aboard the VSS Unity space plane.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "Another commercial ride \ud83d\udce6 Virgin Galactic has reached suborbital space once more. The Galactic 05 crew is now on Earth after an exciting mission aboard the VSS Unity space plane. #space https://www.space.com/virgin-galactic-05-mission-stern-gerardi-preview"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A fishy concept",
+                    "Link": "https://electrek.co/2023/11/02/chery-automotive-new-concept-ev-tuna-fish-worlds-most-aerodynamic-car/",
+                    "Description": "Chery Automotive's latest concept car grabs inspiration from a very unusual place, the ocean. By resembling a tuna fish, this EV is set to redefine what it means to be aerodynamic.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "A fishy concept \ud83d\udce6 Chery Automotive's latest concept car grabs inspiration from a very unusual place, the ocean. By resembling a tuna fish, this EV is set to redefine what it means to be aerodynamic. #electricvehicles https://electrek.co/2023/11/02/chery-automotive-new-concept-ev-tuna-fish-worlds-most-aerodynamic-car/"
+                },
+                {
+                    "Title": "Directly from Gigafactory Texas",
+                    "Link": "https://electrek.co/2023/11/01/tesla-testing-cybertruck-4-wheel-steering-sliding-on-ice/",
+                    "Description": "Rear-wheel steering is making a comeback, thanks to the Cybertruck. The long-awaited electric truck has been caught on video testing its 4-wheel steering feature.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Directly from Gigafactory Texas \ud83d\udce6 Rear-wheel steering is making a comeback, thanks to the Cybertruck. The long-awaited electric truck has been caught on video testing its 4-wheel steering feature. #tesla https://electrek.co/2023/11/01/tesla-testing-cybertruck-4-wheel-steering-sliding-on-ice/"
+                }
+            ]
+        }
+    ],
+    "title": "A call for transparency, Rent with AWS, Chery's new EV",
+    "date": "2023/11/02",
+    "description": "We're in a pretty crucial phase of AI development, where every move we make matters for its future progress. That's why a group of 70 scientists and tech leaders are calling for more openness and transparency. Good news for those wanting to run LLMs for their companies without straining their budgets: AWS offers Nvidia GPUs for rent. And, we all know that most concept cars never see the light of day, but Chery's latest one features a \"fishy\" twist that's got me intrigued."
+}
