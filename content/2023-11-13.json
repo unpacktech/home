@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "From H100 to H200",
+                    "Link": "https://www.cnbc.com/2023/11/13/nvidia-unveils-h200-its-newest-high-end-chip-for-training-ai-models.html",
+                    "Description": "As the AI landscape grows, so does the hardware used for its training. Meet the H200 \u2013 Nvidia's upgraded GPU that boasts 141GB of HBM3 memory, making it nearly twice as fast as its predecessor.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "From H100 to H200 \ud83d\udce6 As the AI landscape grows, so does the hardware used for its training. Meet the H200 \u2013 Nvidia's upgraded GPU that boasts 141GB of HBM3 memory, making it nearly twice as fast as its predecessor. #ai https://www.cnbc.com/2023/11/13/nvidia-unveils-h200-its-newest-high-end-chip-for-training-ai-models.html"
+                },
+                {
+                    "Title": "Introducing: Poro",
+                    "Link": "https://venturebeat.com/ai/silo-ai-unveils-poro-a-new-open-source-language-model-for-europe/",
+                    "Description": "Silo AI, based in Helsinki, aims to disrupt the AI scene with Poro, an open-source language model focused on advancing multilingual AI for European languages and emphasizing digital sovereignty.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: Poro \ud83d\udce6 Silo AI, based in Helsinki, aims to disrupt the AI scene with Poro, an open-source language model focused on advancing multilingual AI for European languages and emphasizing digital sovereignty. #ai https://venturebeat.com/ai/silo-ai-unveils-poro-a-new-open-source-language-model-for-europe/"
+                },
+                {
+                    "Title": "AI\u2019s emotional side",
+                    "Link": "https://www.businessinsider.com/chatgpt-llm-ai-responds-better-emotional-language-prompts-study-finds-2023-11",
+                    "Description": "Next time you're chatting with your go-to chatbot, don't be afraid to get a bit emotional. Why? Recent research says it can improve the quality of responses from LLMs like ChatGPT.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI\u2019s emotional side \ud83d\udce6 Next time you're chatting with your go-to chatbot, don't be afraid to get a bit emotional. Why? Recent research says it can improve the quality of responses from LLMs like ChatGPT. #ai https://www.businessinsider.com/chatgpt-llm-ai-responds-better-emotional-language-prompts-study-finds-2023-11"
+                },
+                {
+                    "Title": "The allure of the Ai Pin",
+                    "Link": "https://mashable.com/article/humane-ai-pin-futuristic-features",
+                    "Description": "Humane's powerful wearable has landed, and we're eager to see if it truly has what it takes to dethrone smartphones. While we're at it, let's explore its most interesting features!",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "The allure of the Ai Pin \ud83d\udce6 Humane's powerful wearable has landed, and we're eager to see if it truly has what it takes to dethrone smartphones. While we're at it, let's explore its most interesting features! #ai https://mashable.com/article/humane-ai-pin-futuristic-features"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Breaking orbit and breaking records",
+                    "Link": "https://interestingengineering.com/innovation/elon-musk-boasts-of-spacexs-world-record-after-transporter-9-launch",
+                    "Description": "SpaceX's latest mission, Transporter-9, is making history. 90 payloads, including cubesats and microsats, all contribute to Elon Musk's claim of over 1,000 metric tons delivered in 2023.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Breaking orbit and breaking records \ud83d\udce6 SpaceX's latest mission, Transporter-9, is making history. 90 payloads, including cubesats and microsats, all contribute to Elon Musk's claim of over 1,000 metric tons delivered in 2023. #spacex https://interestingengineering.com/innovation/elon-musk-boasts-of-spacexs-world-record-after-transporter-9-launch"
+                },
+                {
+                    "Title": "Buckle up for a potential lift-off!",
+                    "Link": "https://www.digitaltrends.com/space/spacex-could-fly-starship-as-early-as-this-friday/",
+                    "Description": "All signs point toward Starship reaching orbit sooner than expected. SpaceX has claimed they're aiming for a second launch on November 17, assuming FAA approval goes smoothly.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Buckle up for a potential lift-off! \ud83d\udce6 All signs point toward Starship reaching orbit sooner than expected. SpaceX has claimed they're aiming for a second launch on November 17, assuming FAA approval goes smoothly. #spacex https://www.digitaltrends.com/space/spacex-could-fly-starship-as-early-as-this-friday/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Interference from the sun",
+                    "Link": "https://interestingengineering.com/culture/nasa-halts-communication-mars-solar-conjunction",
+                    "Description": "There's a bit of cosmic quiet between Earth and Mars now, thanks to the sun. NASA's in the middle of a biennial solar conjunction, set to last until November 25.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Interference from the sun \ud83d\udce6 There's a bit of cosmic quiet between Earth and Mars now, thanks to the sun. NASA's in the middle of a biennial solar conjunction, set to last until November 25. #space https://interestingengineering.com/culture/nasa-halts-communication-mars-solar-conjunction"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A new era for Hyundai begins",
+                    "Link": "https://electrek.co/2023/11/13/what-demand-problem-hyundais-new-ev-factory-to-build-200000-cars-a-year/",
+                    "Description": "Hyundai embarks on a $1.5 billion electric vehicle factory in South Korea. Set to ramp up production goals, the facility aligns with the automaker's green commitment.",
+                    "Time": "2",
+                    "Hashtag": "hyundai",
+                    "Tweet": "A new era for Hyundai begins \ud83d\udce6 Hyundai embarks on a $1.5 billion electric vehicle factory in South Korea. Set to ramp up production goals, the facility aligns with the automaker's green commitment. #hyundai https://electrek.co/2023/11/13/what-demand-problem-hyundais-new-ev-factory-to-build-200000-cars-a-year/"
+                },
+                {
+                    "Title": "It\u2019s \"Cybertruck only\"",
+                    "Link": "https://www.engadget.com/tesla-fine-print-says-it-may-sue-cybertruck-resellers-for-50k-if-they-flip-it-too-soon-173137300.html",
+                    "Description": "It seems the Cybertruck is all about exclusivity, as Tesla has introduced a bold clause in its purchase agreement, limiting resale within the first year without company permission.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "It\u2019s \"Cybertruck only\" \ud83d\udce6 It seems the Cybertruck is all about exclusivity, as Tesla has introduced a bold clause in its purchase agreement, limiting resale within the first year without company permission. #tesla https://www.engadget.com/tesla-fine-print-says-it-may-sue-cybertruck-resellers-for-50k-if-they-flip-it-too-soon-173137300.html"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Just like on Discord",
+                    "Link": "https://techcrunch.com/2023/11/13/whatsapp-launches-new-discord-like-voice-chat-feature-large-groups/",
+                    "Description": "WhatsApp plans to change how we interact in our group chats by adding a new feature for voice calls. Forget about ringing interruptions, as you can now quietly tap to join the conversation.",
+                    "Time": "2",
+                    "Hashtag": "whatsapp",
+                    "Tweet": "Just like on Discord \ud83d\udce6 WhatsApp plans to change how we interact in our group chats by adding a new feature for voice calls. Forget about ringing interruptions, as you can now quietly tap to join the conversation. #whatsapp https://techcrunch.com/2023/11/13/whatsapp-launches-new-discord-like-voice-chat-feature-large-groups/"
+                }
+            ]
+        }
+    ],
+    "title": "Tesla's exclusive move, Starship is all set, AI gets emotional",
+    "date": "2023/11/13",
+    "description": "Here's a pro tip for future Cybertruck owners: wait a bit before selling your truck, or ask Tesla first before doing it. If all goes well and the FAA gives the green light, we might get to see the Starship in action real soon! Also, if you're bummed because your ChatGPT prompts aren't hitting the mark, just let it know how much it means to you. A little emotion can do wonders."
+}
