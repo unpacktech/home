@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Crafted to perfection",
+                    "Link": "https://www.engadget.com/microsoft-will-use-custom-designed-chips-to-bolster-its-ai-services-160050479.html",
+                    "Description": "Microsoft is taking matters into its own hands by introducing custom-designed chips. The Azure Maia AI Accelerator and Azure Cobalt CPU aim to optimize performance for both cloud and AI workloads.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Crafted to perfection \ud83d\udce6 Microsoft is taking matters into its own hands by introducing custom-designed chips. The Azure Maia AI Accelerator and Azure Cobalt CPU aim to optimize performance for both cloud and AI workloads. #ai https://www.engadget.com/microsoft-will-use-custom-designed-chips-to-bolster-its-ai-services-160050479.html"
+                },
+                {
+                    "Title": "AI in genetics",
+                    "Link": "https://decrypt.co/205969/nvidia-created-an-ai-to-better-understand-covid-19-and-accelerate-medical-discoveries",
+                    "Description": "Nvidia's latest contribution to genetic research is GenSLMs, a model trained on a vast dataset that can predict gene mutations related to COVID variants, improving vaccine and treatment development.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "AI in genetics \ud83d\udce6 Nvidia's latest contribution to genetic research is GenSLMs, a model trained on a vast dataset that can predict gene mutations related to COVID variants, improving vaccine and treatment development. #ai https://decrypt.co/205969/nvidia-created-an-ai-to-better-understand-covid-19-and-accelerate-medical-discoveries"
+                },
+                {
+                    "Title": "It's an unprecedented demand",
+                    "Link": "https://gizmodo.com/openai-pauses-chatgpt-plus-signups-demand-surges-1851024026",
+                    "Description": "The last weeks have been busy for OpenAI, with significant releases and challenges. That's why CEO Sam Altman has announced they're temporarily halting ChatGPT Plus sign-ups due to high demand.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "It's an unprecedented demand \ud83d\udce6 The last weeks have been busy for OpenAI, with significant releases and challenges. That's why CEO Sam Altman has announced they're temporarily halting ChatGPT Plus sign-ups due to high demand. #ai https://gizmodo.com/openai-pauses-chatgpt-plus-signups-demand-surges-1851024026"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A compact security solution",
+                    "Link": "https://www.engadget.com/amazons-dinky-astro-robot-is-now-available-as-a-security-guard-143027983.html",
+                    "Description": "If you're looking for a guard to patrol your business at night, Amazon has a cute-looking option for you. Its latest Astro robot is designed to keep a watchful eye on sites up to 5,000 sq ft.",
+                    "Time": "1",
+                    "Hashtag": "robotics",
+                    "Tweet": "A compact security solution \ud83d\udce6 If you're looking for a guard to patrol your business at night, Amazon has a cute-looking option for you. Its latest Astro robot is designed to keep a watchful eye on sites up to 5,000 sq ft. #robotics https://www.engadget.com/amazons-dinky-astro-robot-is-now-available-as-a-security-guard-143027983.html"
+                },
+                {
+                    "Title": "Live from Microsoft Ignite 2023",
+                    "Link": "https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office",
+                    "Description": "Catch up on all the buzz from Microsoft Ignite 2023. As expected, the spotlight is on AI, and Microsoft is ensuring that every single one of its products gets a nice touch of it.",
+                    "Time": "10",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Live from Microsoft Ignite 2023 \ud83d\udce6 Catch up on all the buzz from Microsoft Ignite 2023. As expected, the spotlight is on AI, and Microsoft is ensuring that every single one of its products gets a nice touch of it. #microsoft https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office"
+                },
+                {
+                    "Title": "Apple\u2019s safety boost",
+                    "Link": "https://techcrunch.com/2023/11/15/iphone-14-users-get-an-additional-free-year-of-apples-emergency-sos-via-satellite-feature/",
+                    "Description": "One of Apple's most useful safety features is getting an extension. The company recently announced that it will grant iPhone 14 users an additional free year of Emergency SOS via satellite.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Apple\u2019s safety boost \ud83d\udce6 One of Apple's most useful safety features is getting an extension. The company recently announced that it will grant iPhone 14 users an additional free year of Emergency SOS via satellite. #apple https://techcrunch.com/2023/11/15/iphone-14-users-get-an-additional-free-year-of-apples-emergency-sos-via-satellite-feature/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Cleaning up the orbit",
+                    "Link": "https://gizmodo.com/airbus-launches-device-to-keep-dead-satellites-from-tum-1851021678",
+                    "Description": "Airbus has come up with an innovative approach to fighting space debris. Meet the Detumbler, a magnetic damping device that keeps defunct satellites on a predictable path.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Cleaning up the orbit \ud83d\udce6 Airbus has come up with an innovative approach to fighting space debris. Meet the Detumbler, a magnetic damping device that keeps defunct satellites on a predictable path. #space https://gizmodo.com/airbus-launches-device-to-keep-dead-satellites-from-tum-1851021678"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Just another Cybertruck leak",
+                    "Link": "https://electrek.co/2023/11/15/tesla-doesnt-want-you-see-video-revealing-cybertruck-interior/",
+                    "Description": "No Cybertruck event invite? No problem! Explore leaked footage revealing the electric pickup's interior. Tesla's commitment to secrecy only adds more intrigue.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Just another Cybertruck leak \ud83d\udce6 No Cybertruck event invite? No problem! Explore leaked footage revealing the electric pickup's interior. Tesla's commitment to secrecy only adds more intrigue. #tesla https://electrek.co/2023/11/15/tesla-doesnt-want-you-see-video-revealing-cybertruck-interior/"
+                },
+                {
+                    "Title": "Presented by Xiaomi",
+                    "Link": "https://electrek.co/2023/11/15/these-are-the-first-pictures-of-xiaomis-650-hp-ev-the-su7/",
+                    "Description": "We have finally gotten the first look at Xiaomi's upcoming SU7 EV, along with insights into the car's design and specifications. The company looks forward to availability in 2024.",
+                    "Time": "4",
+                    "Hashtag": "xiaomi",
+                    "Tweet": "Presented by Xiaomi \ud83d\udce6 We have finally gotten the first look at Xiaomi's upcoming SU7 EV, along with insights into the car's design and specifications. The company looks forward to availability in 2024. #xiaomi https://electrek.co/2023/11/15/these-are-the-first-pictures-of-xiaomis-650-hp-ev-the-su7/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "iMessage for Android?",
+                    "Link": "https://www.zdnet.com/article/imessage-on-android-is-happening-thanks-to-nothing/",
+                    "Description": "Turning your text messages from green bubbles into blue ones may seem impossible if you're an Android user, but Nothing is ready to change that, offering iMessage-like features in its new app.",
+                    "Time": "3",
+                    "Hashtag": "android",
+                    "Tweet": "iMessage for Android? \ud83d\udce6 Turning your text messages from green bubbles into blue ones may seem impossible if you're an Android user, but Nothing is ready to change that, offering iMessage-like features in its new app. #android https://www.zdnet.com/article/imessage-on-android-is-happening-thanks-to-nothing/"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft's custom chips, Amazon presents Astro, OpenAI hits pause",
+    "date": "2023/11/15",
+    "description": "Microsoft is celebrating its Ignite event today, and there\u2019s a lot of AI-related news coming from them as we speak. The most relevant one? They're rolling out their own chips! Amazon just dropped Astro for business \u2013 a cute robot to patrol businesses at night. But maybe it needs to increase the intimidation factor a bit. Oh, and hold off on joining ChatGPT Plus for a bit. No kidding, OpenAI hit pause due to crazy demand."
+}
