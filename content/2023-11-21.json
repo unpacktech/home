@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Still committed to AI",
+                    "Link": "https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html",
+                    "Description": "In the aftermath of a tumultuous weekend at OpenAI, Microsoft's CEO Satya Nadella remains confident about the organization's resilience while emphasizing the necessity for governance change.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "Still committed to AI \ud83d\udce6 In the aftermath of a tumultuous weekend at OpenAI, Microsoft's CEO Satya Nadella remains confident about the organization's resilience while emphasizing the necessity for governance change. #openai https://www.cnbc.com/2023/11/20/microsoft-ceo-nadella-says-openai-governance-needs-to-change-no-matter-where-altman-ends-up.html"
+                },
+                {
+                    "Title": "It was almost a merge",
+                    "Link": "https://interestingengineering.com/culture/openai-asked-anthropic-to-replace-sam-altman",
+                    "Description": "One of the many twists and turns in the OpenAI saga is the fact that the CEO of a rival firm was initially approached to lead the company, however, Anthropic's Dario Amodei was quick to decline.",
+                    "Time": "3",
+                    "Hashtag": "openai",
+                    "Tweet": "It was almost a merge \ud83d\udce6 One of the many twists and turns in the OpenAI saga is the fact that the CEO of a rival firm was initially approached to lead the company, however, Anthropic's Dario Amodei was quick to decline. #openai https://interestingengineering.com/culture/openai-asked-anthropic-to-replace-sam-altman"
+                },
+                {
+                    "Title": "Get to know Emmett Shear",
+                    "Link": "https://www.cnbc.com/2023/11/20/who-is-emmett-shear-the-new-openai-ceo-taking-over-from-sam-altman.html",
+                    "Description": "In case you missed it, OpenAI has welcomed Emmett Shear, former head of Twitch, as its new interim CEO. The successor to Altman sees this as a unique opportunity to make a mark.",
+                    "Time": "2",
+                    "Hashtag": "openai",
+                    "Tweet": "Get to know Emmett Shear \ud83d\udce6 In case you missed it, OpenAI has welcomed Emmett Shear, former head of Twitch, as its new interim CEO. The successor to Altman sees this as a unique opportunity to make a mark. #openai https://www.cnbc.com/2023/11/20/who-is-emmett-shear-the-new-openai-ceo-taking-over-from-sam-altman.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "To the moon and beyond",
+                    "Link": "https://www.space.com/india-moon-sample-return-mission-chandrayaan-4",
+                    "Description": "India isn't resting after its successful moon landing. Instead, the country maintains its space ambitions. This time, it's planning Chandrayaan-4, a lunar sample-return mission.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "To the moon and beyond \ud83d\udce6 India isn't resting after its successful moon landing. Instead, the country maintains its space ambitions. This time, it's planning Chandrayaan-4, a lunar sample-return mission. #rocketscience https://www.space.com/india-moon-sample-return-mission-chandrayaan-4"
+                },
+                {
+                    "Title": "Starliner is coming",
+                    "Link": "https://spacenews.com/starliner-on-track-for-april-crewed-test-flight/",
+                    "Description": "NASA has recently confirmed that the first crewed launch of Boeing\u2019s CST-100 Starliner remains scheduled for mid-April, highlighting promising progress in resolving technical issues.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Starliner is coming \ud83d\udce6 NASA has recently confirmed that the first crewed launch of Boeing\u2019s CST-100 Starliner remains scheduled for mid-April, highlighting promising progress in resolving technical issues. #rocketscience https://spacenews.com/starliner-on-track-for-april-crewed-test-flight/"
+                },
+                {
+                    "Title": "The SUSIE initiative",
+                    "Link": "https://spacenews.com/arianegroup-begins-testing-prototype-of-multirole-susie-upper-stage/",
+                    "Description": "There's a ray of light coming to European spaceflight thanks to ArianeGroup. The company has been diligently working on SUSIE, a project that aims to boost cargo and human transport.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "The SUSIE initiative \ud83d\udce6 There's a ray of light coming to European spaceflight thanks to ArianeGroup. The company has been diligently working on SUSIE, a project that aims to boost cargo and human transport. #rocketscience https://spacenews.com/arianegroup-begins-testing-prototype-of-multirole-susie-upper-stage/"
+                },
+                {
+                    "Title": "A Christmas miracle?",
+                    "Link": "https://www.digitaltrends.com/space/elon-musk-reveals-readiness-date-for-starship-3rd-flight/",
+                    "Description": "SpaceX's holiday surprise comes from CEO Elon Musk, who announced plans for Starship's third flight, set to take off in just 3 to 4 weeks.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "A Christmas miracle? \ud83d\udce6 SpaceX's holiday surprise comes from CEO Elon Musk, who announced plans for Starship's third flight, set to take off in just 3 to 4 weeks. #spacex https://www.digitaltrends.com/space/elon-musk-reveals-readiness-date-for-starship-3rd-flight/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "The center of it all",
+                    "Link": "https://www.engadget.com/webb-telescope-images-show-an-unprecedented-and-chaotic-view-of-the-center-of-our-galaxy-185912370.html",
+                    "Description": "Recent sightings from the James Webb Telescope have treated us to a magnificent look at the center of the Milky Way, challenging our understanding of star formation.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "The center of it all \ud83d\udce6 Recent sightings from the James Webb Telescope have treated us to a magnificent look at the center of the Milky Way, challenging our understanding of star formation. #space https://www.engadget.com/webb-telescope-images-show-an-unprecedented-and-chaotic-view-of-the-center-of-our-galaxy-185912370.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A trip to the beach",
+                    "Link": "https://electrek.co/2023/11/21/tesla-spotted-driving-cybertruck-into-water-float/",
+                    "Description": "Elon Musk claimed that the Cybertruck would be waterproof and able to float. It appears these claims are being put to the test, as the electric pickup was spotted taking a dip in the Gulf of Mexico.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "A trip to the beach \ud83d\udce6 Elon Musk claimed that the Cybertruck would be waterproof and able to float. It appears these claims are being put to the test, as the electric pickup was spotted taking a dip in the Gulf of Mexico. #tesla https://electrek.co/2023/11/21/tesla-spotted-driving-cybertruck-into-water-float/"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Nothing but bad news",
+                    "Link": "https://gizmodo.com/nothing-messages-imessage-failed-workaround-1851037126",
+                    "Description": "Sadly, Nothing's attempt to bridge the gap between iOS and Android users has failed. Nothing Chats, the iMessage-like app was quickly removed from the Play Store due to privacy concerns.",
+                    "Time": "3",
+                    "Hashtag": "nothing",
+                    "Tweet": "Nothing but bad news \ud83d\udce6 Sadly, Nothing's attempt to bridge the gap between iOS and Android users has failed. Nothing Chats, the iMessage-like app was quickly removed from the Play Store due to privacy concerns. #nothing https://gizmodo.com/nothing-messages-imessage-failed-workaround-1851037126"
+                }
+            ]
+        }
+    ],
+    "title": "Microsoft sticks with OpenAI, India's lunar journey continues, Cybertruck takes a dip",
+    "date": "2023/11/21",
+    "description": "The OpenAI scene keeps unfolding, however, Microsoft's CEO Satya Nadella jumps in, saying no worries\u2014they're all-in on pushing AI forward. India made headlines with Chandrayaan-3, and now they're eyeing the moon again for a sample-return mission. By the way, did anyone catch a wild sight in the Gulf of Mexico? That was no mirage, it was the Cybertruck hitting the beach."
+}
