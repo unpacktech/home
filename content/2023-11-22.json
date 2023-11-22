@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Welcome back Sam",
+                    "Link": "https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/",
+                    "Description": "Everything is now back to normal after five days filled with uncertainty. Sam Altman has been reinstated as OpenAI's CEO, following reforms that also include a new board.",
+                    "Time": "4",
+                    "Hashtag": "openai",
+                    "Tweet": "Welcome back Sam \ud83d\udce6 Everything is now back to normal after five days filled with uncertainty. Sam Altman has been reinstated as OpenAI's CEO, following reforms that also include a new board. #openai https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/"
+                },
+                {
+                    "Title": "Calling all Windows 10 users!",
+                    "Link": "https://www.theverge.com/2023/11/22/23972257/microsoft-windows-10-copilot-feature-release-preview-testing",
+                    "Description": "Microsoft has recently extended access to the powerful capabilities of Copilot to Windows 10 users, enabling them to streamline work, ask queries, and more.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Calling all Windows 10 users! \ud83d\udce6 Microsoft has recently extended access to the powerful capabilities of Copilot to Windows 10 users, enabling them to streamline work, ask queries, and more. #microsoft https://www.theverge.com/2023/11/22/23972257/microsoft-windows-10-copilot-feature-release-preview-testing"
+                },
+                {
+                    "Title": "Anthropic presents a revamped Claude",
+                    "Link": "https://decrypt.co/206966/anthropic-upgrades-claude-with-nearly-twice-the-capabilities-of-gpt-4-turbo",
+                    "Description": "Claude 2.1 is the result of Anthropic's extended partnership with Google. It leverages advanced Tensor Processing Units for an extraordinary 200K-token context window, defying competition.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Anthropic presents a revamped Claude \ud83d\udce6 Claude 2.1 is the result of Anthropic's extended partnership with Google. It leverages advanced Tensor Processing Units for an extraordinary 200K-token context window, defying competition. #ai https://decrypt.co/206966/anthropic-upgrades-claude-with-nearly-twice-the-capabilities-of-gpt-4-turbo"
+                },
+                {
+                    "Title": "Seamless conversations with ChatGPT",
+                    "Link": "https://www.engadget.com/chatgpts-voice-chat-feature-is-rolling-out-to-free-users-085549323.html",
+                    "Description": "Despite the turmoil, there is good news for ChatGPT users! OpenAI is now offering \"voice chat\" for free on mobile. Get ready to experience another level of interaction with the chatbot.",
+                    "Time": "2",
+                    "Hashtag": "chatgpt",
+                    "Tweet": "Seamless conversations with ChatGPT \ud83d\udce6 Despite the turmoil, there is good news for ChatGPT users! OpenAI is now offering \"voice chat\" for free on mobile. Get ready to experience another level of interaction with the chatbot. #chatgpt https://www.engadget.com/chatgpts-voice-chat-feature-is-rolling-out-to-free-users-085549323.html"
+                },
+                {
+                    "Title": "From images to animated masterpieces",
+                    "Link": "https://www.engadget.com/the-ai-startup-behind-stable-diffusion-is-now-testing-generative-video-105519658.html",
+                    "Description": "Stability AI has introduced Stable Video Diffusion, a new tool that allows creatives to bring their art to life through animation from a single image, surpassing leading models in the field.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "From images to animated masterpieces \ud83d\udce6 Stability AI has introduced Stable Video Diffusion, a new tool that allows creatives to bring their art to life through animation from a single image, surpassing leading models in the field. #ai https://www.engadget.com/the-ai-startup-behind-stable-diffusion-is-now-testing-generative-video-105519658.html"
+                }
+            ]
+        },
+        {
+            "category": "Startups \ud83d\udcc8",
+            "stories": [
+                {
+                    "Title": "Is open source the way forward?",
+                    "Link": "https://www.cnbc.com/2023/11/22/in-openai-fallout-open-source-ai-could-be-among-the-big-tech-winners.html",
+                    "Description": "Amid OpenAI's whirlwind, companies like Salesforce, Qualcomm, and Nvidia are investing in open source AI startups, diversifying generative AI strategies, and minimizing dependence on a single service.",
+                    "Time": "8",
+                    "Hashtag": "ai",
+                    "Tweet": "Is open source the way forward? \ud83d\udce6 Amid OpenAI's whirlwind, companies like Salesforce, Qualcomm, and Nvidia are investing in open source AI startups, diversifying generative AI strategies, and minimizing dependence on a single service. #ai https://www.cnbc.com/2023/11/22/in-openai-fallout-open-source-ai-could-be-among-the-big-tech-winners.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Bacteria with memory?",
+                    "Link": "https://interestingengineering.com/science/bacterias-unique-ability-transfer-memories",
+                    "Description": "A groundbreaking University of Texas study reveals that brainless bacteria like E. coli may have \"memory\" tied to iron levels, offering valuable insights into combating bacterial infections.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "Bacteria with memory? \ud83d\udce6 A groundbreaking University of Texas study reveals that brainless bacteria like E. coli may have \"memory\" tied to iron levels, offering valuable insights into combating bacterial infections. #science https://interestingengineering.com/science/bacterias-unique-ability-transfer-memories"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Safety is a priority",
+                    "Link": "https://gizmodo.com/nasa-artemis-orion-heat-shield-issue-crewed-mission-1851040127",
+                    "Description": "Artemis 2 could experience a small delay. NASA has stated that they're focused on resolving a heat shield issue with the Orion spacecraft, a key piece of the upcoming crewed mission.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Safety is a priority \ud83d\udce6 Artemis 2 could experience a small delay. NASA has stated that they're focused on resolving a heat shield issue with the Orion spacecraft, a key piece of the upcoming crewed mission. #rocketscience https://gizmodo.com/nasa-artemis-orion-heat-shield-issue-crewed-mission-1851040127"
+                },
+                {
+                    "Title": "A brief pause",
+                    "Link": "https://spacenews.com/nasa-acknowledges-possibility-of-short-term-post-iss-gap/",
+                    "Description": "NASA remains committed to continuous human presence in Low Earth Orbit, planning a shift from the ISS to commercial stations. However, a short-term gap is possible, and the agency accepts it.",
+                    "Time": "5",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A brief pause \ud83d\udce6 NASA remains committed to continuous human presence in Low Earth Orbit, planning a shift from the ISS to commercial stations. However, a short-term gap is possible, and the agency accepts it. #rocketscience https://spacenews.com/nasa-acknowledges-possibility-of-short-term-post-iss-gap/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A futuristic facility",
+                    "Link": "https://electrek.co/2023/11/21/hyundai-opens-new-robot-run-smart-facility-build-custom-evs/",
+                    "Description": "Hyundai is synonymous with the future. The automaker is pushing its commitment to the development of customizable EVs with a new Innovation Center in Singapore, managed by robots and AI.",
+                    "Time": "3",
+                    "Hashtag": "hyundai",
+                    "Tweet": "A futuristic facility \ud83d\udce6 Hyundai is synonymous with the future. The automaker is pushing its commitment to the development of customizable EVs with a new Innovation Center in Singapore, managed by robots and AI. #hyundai https://electrek.co/2023/11/21/hyundai-opens-new-robot-run-smart-facility-build-custom-evs/"
+                }
+            ]
+        }
+    ],
+    "title": "Altman is back, Anthropic's innovation, ChatGPT's upgrade alert",
+    "date": "2023/11/22",
+    "description": "Phew! What a rollercoaster these past few days. But, hey, we're finally taking a break as Sam Altman returns to his position as OpenAI's CEO. Amidst all the buzz, there's a new version of Anthropic's powerful chatbot, Claude, and it's not shy about facing the competition. Oh, and for ChatGPT users, here's a little treat: free voice chat! (Just on mobile though.) "
+}
