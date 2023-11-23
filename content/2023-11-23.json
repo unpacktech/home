@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Roadster for all",
+                    "Link": "https://twitter.com/elonmusk/status/1727392569238159491?s=20",
+                    "Description": "Tesla sure has a way of catching us off guard. CEO Elon Musk has announced that they're completely open-sourcing Roadster's original design, giving fans a glimpse into their history.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Roadster for all \ud83d\udce6 Tesla sure has a way of catching us off guard. CEO Elon Musk has announced that they're completely open-sourcing Roadster's original design, giving fans a glimpse into their history. #tesla https://twitter.com/elonmusk/status/1727392569238159491?s=20"
+                },
+                {
+                    "Title": "Time to slow down",
+                    "Link": "https://www.theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans",
+                    "Description": "Ford is taking a step back by adjusting its investment and hiring plans for its upcoming Michigan battery plant, aligning with shifts in EV demand and labor costs.",
+                    "Time": "1",
+                    "Hashtag": "ford",
+                    "Tweet": "Time to slow down \ud83d\udce6 Ford is taking a step back by adjusting its investment and hiring plans for its upcoming Michigan battery plant, aligning with shifts in EV demand and labor costs. #ford https://www.theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Just ask Bard",
+                    "Link": "https://www.engadget.com/googles-bard-ai-chatbot-is-getting-better-at-understanding-youtube-videos-065614540.html",
+                    "Description": "Bard is taking engagement with YouTube videos to the next level. Google has announced that users can now extract information from videos by asking the chatbot about any specific detail.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Just ask Bard \ud83d\udce6 Bard is taking engagement with YouTube videos to the next level. Google has announced that users can now extract information from videos by asking the chatbot about any specific detail. #google https://www.engadget.com/googles-bard-ai-chatbot-is-getting-better-at-understanding-youtube-videos-065614540.html"
+                },
+                {
+                    "Title": "Adobe keeps moving",
+                    "Link": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+                    "Description": "Adobe continues to advance its AI efforts in content creation. With the recent acquisition of Rephrase, a text-to-video company, the software giant aims to improve the Creative Cloud experience.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Adobe keeps moving \ud83d\udce6 Adobe continues to advance its AI efforts in content creation. With the recent acquisition of Rephrase, a text-to-video company, the software giant aims to improve the Creative Cloud experience. #ai https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/"
+                },
+                {
+                    "Title": "In search of clarity?",
+                    "Link": "https://www.axios.com/2023/11/23/ai-artificial-intelligence-terms-definitions-list",
+                    "Description": "We have almost wrapped up a week packed with AI updates. If tech jargon seems like a foreign language to you, take a moment to explore this comprehensive list of AI terms.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "In search of clarity? \ud83d\udce6 We have almost wrapped up a week packed with AI updates. If tech jargon seems like a foreign language to you, take a moment to explore this comprehensive list of AI terms. #ai https://www.axios.com/2023/11/23/ai-artificial-intelligence-terms-definitions-list"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Charting a new course",
+                    "Link": "https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915",
+                    "Description": "After conquering suborbital space a few times, Virgin Galactic is bidding farewell to its VSS Unity to make room for the Delta class vehicle, aiming to offer larger capacity and more frequent flights.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Charting a new course \ud83d\udce6 After conquering suborbital space a few times, Virgin Galactic is bidding farewell to its VSS Unity to make room for the Delta class vehicle, aiming to offer larger capacity and more frequent flights. #rocketscience https://gizmodo.com/virgin-galactic-delta-spaceplane-upgrade-profitability-1851042915"
+                },
+                {
+                    "Title": "Following the stainless trend",
+                    "Link": "https://spacenews.com/chinas-landspace-aims-to-build-a-stainless-steel-rocket/",
+                    "Description": "China isn't dragging behind, and it's ready to come up with its own version of Starship. The Chinese startup Landspace has revealed its plans for the Zhuque-3, a reusable stainless steel rocket.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Following the stainless trend \ud83d\udce6 China isn't dragging behind, and it's ready to come up with its own version of Starship. The Chinese startup Landspace has revealed its plans for the Zhuque-3, a reusable stainless steel rocket. #rocketscience https://spacenews.com/chinas-landspace-aims-to-build-a-stainless-steel-rocket/"
+                },
+                {
+                    "Title": "Good luck Ariane 6!",
+                    "Link": "https://www.space.com/europe-ariane-6-rocket-test-fire-november-2023",
+                    "Description": "Following a few setbacks in Europe's space plans, the Ariane 6 heavy-lift rocket is set for a significant engine test today, bringing it closer to its debut liftoff in 2024.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Good luck Ariane 6! \ud83d\udce6 Following a few setbacks in Europe's space plans, the Ariane 6 heavy-lift rocket is set for a significant engine test today, bringing it closer to its debut liftoff in 2024. #rocketscience https://www.space.com/europe-ariane-6-rocket-test-fire-november-2023"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A surprise from Mercury",
+                    "Link": "https://interestingengineering.com/science/salt-glacier-on-mercury-may-support-life",
+                    "Description": "Scientists have revealed one of Mercury's most hidden secrets: salt glaciers. Despite its extreme environment, this planet may hold the potential for life beyond Earth.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "A surprise from Mercury \ud83d\udce6 Scientists have revealed one of Mercury's most hidden secrets: salt glaciers. Despite its extreme environment, this planet may hold the potential for life beyond Earth. #space https://interestingengineering.com/science/salt-glacier-on-mercury-may-support-life"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "I do have one question",
+                    "Link": "https://www.engadget.com/google-meets-hand-raise-feature-just-got-a-lot-more-real-132049238.html",
+                    "Description": "There's a slight change in Google Meet that might transform your next meeting. Now, every time you have a question, you can simply raise your hand physically instead of clicking a button.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "I do have one question \ud83d\udce6 There's a slight change in Google Meet that might transform your next meeting. Now, every time you have a question, you can simply raise your hand physically instead of clicking a button. #google https://www.engadget.com/google-meets-hand-raise-feature-just-got-a-lot-more-real-132049238.html"
+                }
+            ]
+        }
+    ],
+    "title": "Roadster goes open source, Bard joins YouTube, AI terms made simple",
+    "date": "2023/11/23",
+    "description": "Now, anyone can build their very own Roadster as Tesla opens up its original design. Well, at least give it a shot until you hit the assembly part. Ever wondered where your fave vlogger shot their video or what secret ingredient a chef uses in their YouTube masterpiece? Bard has all the answers. And if, after this week, AI feels like a total mystery, no worries\u2014here's a cheat sheet of terms to get you back on track."
+}
