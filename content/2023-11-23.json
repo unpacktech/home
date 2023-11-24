@@ -18,6 +18,30 @@
                     "Time": "1",
                     "Hashtag": "ford",
                     "Tweet": "Time to slow down \ud83d\udce6 Ford is taking a step back by adjusting its investment and hiring plans for its upcoming Michigan battery plant, aligning with shifts in EV demand and labor costs. #ford https://www.theverge.com/2023/11/22/23972680/ford-michigan-ev-battery-plant-reduction-plans"
+                },
+                {
+                    "Title": "Heading to the electric future",
+                    "Link": "https://electrek.co/2023/11/24/nissan-confirms-3-new-evs-and-its-next-gigafactory-location/",
+                    "Description": "Nissan is serious about electrification, targeting a fully electric lineup in Europe by 2030. They recently unveiled plans for three new EVs and an additional gigafactory to support their ambitions.",
+                    "Time": "4",
+                    "Hashtag": "nissan",
+                    "Tweet": "Heading to the electric future \ud83d\udce6 Nissan is serious about electrification, targeting a fully electric lineup in Europe by 2030. They recently unveiled plans for three new EVs and an additional gigafactory to support their ambitions. #nissan https://electrek.co/2023/11/24/nissan-confirms-3-new-evs-and-its-next-gigafactory-location/"
+                },
+                {
+                    "Title": "Here comes Skye",
+                    "Link": "https://interestingengineering.com/transportation/callum-unveils-skye-ev-electric-suv",
+                    "Description": "There's an EV for everyone, especially for those looking for an extraordinary blend of elegance and off-road performance. Check out the Callum Skye, the marvel of Callum Designs.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Here comes Skye \ud83d\udce6 There's an EV for everyone, especially for those looking for an extraordinary blend of elegance and off-road performance. Check out the Callum Skye, the marvel of Callum Designs. #electricvehicles https://interestingengineering.com/transportation/callum-unveils-skye-ev-electric-suv"
+                },
+                {
+                    "Title": "Competition? No problem",
+                    "Link": "https://electrek.co/2023/11/24/volkswagen-20000-evs-new-platform-china/",
+                    "Description": "Volkswagen is unwilling to be intimidated by competition, especially in its most important market. The automaker is slashing prices on its electric lineup to appeal to more buyers in China.",
+                    "Time": "4",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Competition? No problem \ud83d\udce6 Volkswagen is unwilling to be intimidated by competition, especially in its most important market. The automaker is slashing prices on its electric lineup to appeal to more buyers in China. #volkswagen https://electrek.co/2023/11/24/volkswagen-20000-evs-new-platform-china/"
                 }
             ]
         },
@@ -47,6 +71,22 @@
                     "Time": "5",
                     "Hashtag": "ai",
                     "Tweet": "In search of clarity? \ud83d\udce6 We have almost wrapped up a week packed with AI updates. If tech jargon seems like a foreign language to you, take a moment to explore this comprehensive list of AI terms. #ai https://www.axios.com/2023/11/23/ai-artificial-intelligence-terms-definitions-list"
+                },
+                {
+                    "Title": "The mystery prevails",
+                    "Link": "https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/",
+                    "Description": "OpenAI's saga is now sailing into calmer waters, but one question remains: What was the real reason behind Sam Altman's temporary departure? Sources say it was an alleged breakthrough named Q*.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "The mystery prevails \ud83d\udce6 OpenAI's saga is now sailing into calmer waters, but one question remains: What was the real reason behind Sam Altman's temporary departure? Sources say it was an alleged breakthrough named Q*. #ai https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/"
+                },
+                {
+                    "Title": "AI gets to the Prix",
+                    "Link": "https://www.engadget.com/formula-1-hopes-ai-will-help-it-figure-out-if-a-car-breaks-track-limits-191546853.html",
+                    "Description": "Precision is everything in Formula 1. That's why the FIA has announced the trial of an AI system at the Abu Dhabi Grand Prix, aimed at improving track limit evaluations.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI gets to the Prix \ud83d\udce6 Precision is everything in Formula 1. That's why the FIA has announced the trial of an AI system at the Abu Dhabi Grand Prix, aimed at improving track limit evaluations. #ai https://www.engadget.com/formula-1-hopes-ai-will-help-it-figure-out-if-a-car-breaks-track-limits-191546853.html"
                 }
             ]
         },
@@ -76,6 +116,14 @@
                     "Time": "3",
                     "Hashtag": "rocketscience",
                     "Tweet": "Good luck Ariane 6! \ud83d\udce6 Following a few setbacks in Europe's space plans, the Ariane 6 heavy-lift rocket is set for a significant engine test today, bringing it closer to its debut liftoff in 2024. #rocketscience https://www.space.com/europe-ariane-6-rocket-test-fire-november-2023"
+                },
+                {
+                    "Title": "Ariane keeps on advancing",
+                    "Link": "https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/",
+                    "Description": "Gracefully, the Ariane 6 prototype has successfully passed a crucial test with the full firing of its Vulcain 2.1 engine. It's another step toward Europe getting independent access to space.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Ariane keeps on advancing \ud83d\udce6 Gracefully, the Ariane 6 prototype has successfully passed a crucial test with the full firing of its Vulcain 2.1 engine. It's another step toward Europe getting independent access to space. #rocketscience https://spacenews.com/ariane-6-completes-long-duration-static-fire-test/"
                 }
             ]
         },
@@ -89,6 +137,38 @@
                     "Time": "4",
                     "Hashtag": "space",
                     "Tweet": "A surprise from Mercury \ud83d\udce6 Scientists have revealed one of Mercury's most hidden secrets: salt glaciers. Despite its extreme environment, this planet may hold the potential for life beyond Earth. #space https://interestingengineering.com/science/salt-glacier-on-mercury-may-support-life"
+                },
+                {
+                    "Title": "Unlocking its potential",
+                    "Link": "https://www.fastcompany.com/90987214/a-computer-scientist-explains-how-quantum-advantage-could-change-the-world",
+                    "Description": "In the ever-evolving tech landscape, \"quantum\" emerges as a defining term. The quest for quantum advantage is the next leap in computing, solving problems their classical counterparts can't touch.",
+                    "Time": "5",
+                    "Hashtag": "science",
+                    "Tweet": "Unlocking its potential \ud83d\udce6 In the ever-evolving tech landscape, \"quantum\" emerges as a defining term. The quest for quantum advantage is the next leap in computing, solving problems their classical counterparts can't touch. #science https://www.fastcompany.com/90987214/a-computer-scientist-explains-how-quantum-advantage-could-change-the-world"
+                },
+                {
+                    "Title": "A mind of its own",
+                    "Link": "https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms",
+                    "Description": "A recent Cambridge study suggests that AI isn't that different from us after all. By introducing physical constraints, their artificial system mirrors key traits found in human brains.",
+                    "Time": "7",
+                    "Hashtag": "science",
+                    "Tweet": "A mind of its own \ud83d\udce6 A recent Cambridge study suggests that AI isn't that different from us after all. By introducing physical constraints, their artificial system mirrors key traits found in human brains. #science https://www.cam.ac.uk/research/news/ai-system-self-organises-to-develop-features-of-brains-of-complex-organisms"
+                },
+                {
+                    "Title": "Where did that come from?",
+                    "Link": "https://gizmodo.com/high-energy-cosmic-ray-source-utah-telescope-array-1851038747",
+                    "Description": "The Telescope Array Collaboration found a groundbreaking phenomenon\u2014a cosmic ray with an unprecedented energy level. Yet, the mystery deepens as scientists remain uncertain about its origins.",
+                    "Time": "4",
+                    "Hashtag": "science",
+                    "Tweet": "Where did that come from? \ud83d\udce6 The Telescope Array Collaboration found a groundbreaking phenomenon\u2014a cosmic ray with an unprecedented energy level. Yet, the mystery deepens as scientists remain uncertain about its origins. #science https://gizmodo.com/high-energy-cosmic-ray-source-utah-telescope-array-1851038747"
+                },
+                {
+                    "Title": "Similar to the Red Planet",
+                    "Link": "https://www.space.com/china-mars-sample-return-model-atmosphere",
+                    "Description": "China's space ambitions shift to Mars with the development of a numerical model of its atmosphere. This advancement is set to enhance the upcoming Tianwen-3 mission's performance.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Similar to the Red Planet \ud83d\udce6 China's space ambitions shift to Mars with the development of a numerical model of its atmosphere. This advancement is set to enhance the upcoming Tianwen-3 mission's performance. #science https://www.space.com/china-mars-sample-return-model-atmosphere"
                 }
             ]
         },
@@ -106,7 +186,7 @@
             ]
         }
     ],
-    "title": "Roadster goes open source, Bard joins YouTube, AI terms made simple",
+    "title": "OpenAI's mystery, Ariane 6 triumphs, F1 turns to AI",
     "date": "2023/11/23",
-    "description": "Now, anyone can build their very own Roadster as Tesla opens up its original design. Well, at least give it a shot until you hit the assembly part. Ever wondered where your fave vlogger shot their video or what secret ingredient a chef uses in their YouTube masterpiece? Bard has all the answers. And if, after this week, AI feels like a total mystery, no worries\u2014here's a cheat sheet of terms to get you back on track."
+    "description": "We've finally reached the end of a very tumultuous week! But you know, there are still some mysteries lingering, like the real story behind Sam Altman's sudden exit... Word on the street is something called Q*. Sending good vibes to Europe as they inch closer to space - ESA shared that the Ariane 6 prototype aced a big test. And guess what's getting a dash of AI magic? Unexpectedly, Formula 1."
 }
