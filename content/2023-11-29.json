@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Next step: AI chips",
+                    "Link": "https://www.engadget.com/amazon-says-its-next-gen-chips-are-four-times-faster-for-ai-training-200028416.html",
+                    "Description": "Amazon is doubling down on AI. Recently, at their AWS re:Invent conference, the company introduced its latest AI chips: Trainium2, designed for training, and Graviton4, built for general use.",
+                    "Time": "3",
+                    "Hashtag": "amazon",
+                    "Tweet": "Next step: AI chips \ud83d\udce6 Amazon is doubling down on AI. Recently, at their AWS re:Invent conference, the company introduced its latest AI chips: Trainium2, designed for training, and Graviton4, built for general use. #amazon https://www.engadget.com/amazon-says-its-next-gen-chips-are-four-times-faster-for-ai-training-200028416.html"
+                },
+                {
+                    "Title": "A companion for businesses ",
+                    "Link": "https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/",
+                    "Description": "Amazon plays its ace at re:Invent with Q, an AI chatbot designed exclusively for AWS users. Not only is it an assistant, it's a business solution, content generator, and more.",
+                    "Time": "6",
+                    "Hashtag": "amazon",
+                    "Tweet": "A companion for businesses  \ud83d\udce6 Amazon plays its ace at re:Invent with Q, an AI chatbot designed exclusively for AWS users. Not only is it an assistant, it's a business solution, content generator, and more. #amazon https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/"
+                },
+                {
+                    "Title": "Introducing: Pika 1.0",
+                    "Link": "https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/",
+                    "Description": "Imagine easily turning your concepts from plain text prompts into lively videos in any style. That's the goal behind Pika 1.0, a web platform by Pika Labs that leverages AI for video generation.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: Pika 1.0 \ud83d\udce6 Imagine easily turning your concepts from plain text prompts into lively videos in any style. That's the goal behind Pika 1.0, a web platform by Pika Labs that leverages AI for video generation. #ai https://venturebeat.com/ai/pika-labs-raises-55m-launches-new-ai-video-platform-to-take-on-runway/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Even more autonomous",
+                    "Link": "https://techcrunch.com/2023/11/28/nvidia-taps-china-talent-for-autonomous-driving-endeavors/",
+                    "Description": "Nvidia's graphics cards have fueled advancements in autonomous vehicles for a while. Now, the tech giant is broadening its efforts in the field by actively seeking talent for its AV team in China.",
+                    "Time": "3",
+                    "Hashtag": "nvidia",
+                    "Tweet": "Even more autonomous \ud83d\udce6 Nvidia's graphics cards have fueled advancements in autonomous vehicles for a while. Now, the tech giant is broadening its efforts in the field by actively seeking talent for its AV team in China. #nvidia https://techcrunch.com/2023/11/28/nvidia-taps-china-talent-for-autonomous-driving-endeavors/"
+                },
+                {
+                    "Title": "Swapping the charge",
+                    "Link": "https://electrek.co/2023/11/29/volvo-polestar-owner-partners-with-nio-ev-battery-swapping/",
+                    "Description": "With the goal of making a shift in the EV industry, NIO and Geely are teaming up to advance battery swapping technology, ensuring a quick and convenient charging experience for compatible models.",
+                    "Time": "2",
+                    "Hashtag": "EVs",
+                    "Tweet": "Swapping the charge \ud83d\udce6 With the goal of making a shift in the EV industry, NIO and Geely are teaming up to advance battery swapping technology, ensuring a quick and convenient charging experience for compatible models. #EVs https://electrek.co/2023/11/29/volvo-polestar-owner-partners-with-nio-ev-battery-swapping/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Time for version two",
+                    "Link": "https://gizmodo.com/elon-musk-spacex-starship-version-two-launch-1851054436",
+                    "Description": "We are still awaiting Starship's third launch. However, CEO Elon Musk continues to surprise us with new improvements, as SpaceX is already working on a second version of the upper stage.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Time for version two \ud83d\udce6 We are still awaiting Starship's third launch. However, CEO Elon Musk continues to surprise us with new improvements, as SpaceX is already working on a second version of the upper stage. #rocketscience https://gizmodo.com/elon-musk-spacex-starship-version-two-launch-1851054436"
+                },
+                {
+                    "Title": "Not so fast, Dragonfly",
+                    "Link": "https://spacenews.com/nasa-postpones-dragonfly-review-launch-date/",
+                    "Description": "NASA's Dragonfly mission is facing a delay in reaching Saturn's moon due to budget challenges. Despite the pause, the agency plans to move forward with other aspects of its exploration plan.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "Not so fast, Dragonfly \ud83d\udce6 NASA's Dragonfly mission is facing a delay in reaching Saturn's moon due to budget challenges. Despite the pause, the agency plans to move forward with other aspects of its exploration plan. #NASA https://spacenews.com/nasa-postpones-dragonfly-review-launch-date/"
+                },
+                {
+                    "Title": "A home on the moon",
+                    "Link": "https://interestingengineering.com/innovation/first-home-of-astronauts-on-moon",
+                    "Description": "French startup Thales Alenia Space and the Italian Space Agency are collaborating on the Multi-Purpose Habitat, supporting NASA's vision of a permanent lunar presence. ",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A home on the moon \ud83d\udce6 French startup Thales Alenia Space and the Italian Space Agency are collaborating on the Multi-Purpose Habitat, supporting NASA's vision of a permanent lunar presence.  #rocketscience https://interestingengineering.com/innovation/first-home-of-astronauts-on-moon"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Wasn't meant to be",
+                    "Link": "https://9to5mac.com/2023/11/28/apple-ending-relationship-with-goldman-sachs-fate-of-apple-card-unclear/",
+                    "Description": "Apple and Goldman Sachs are calling it quits as the Apple Card and Apple Card Savings Account partnership comes to an end. Nevertheless, Apple plans to continue innovating in the financial field.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Wasn't meant to be \ud83d\udce6 Apple and Goldman Sachs are calling it quits as the Apple Card and Apple Card Savings Account partnership comes to an end. Nevertheless, Apple plans to continue innovating in the financial field. #apple https://9to5mac.com/2023/11/28/apple-ending-relationship-with-goldman-sachs-fate-of-apple-card-unclear/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "For a lifetime friend",
+                    "Link": "https://gizmodo.com/loyal-drug-loy-001-extend-lifespan-giant-dog-breed-fda-1851055513",
+                    "Description": "Loyal, an animal pharmaceutical company, has received FDA approval for the development of its LOY-001 drug, designed to extend the lifespan of large dog breeds.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "For a lifetime friend \ud83d\udce6 Loyal, an animal pharmaceutical company, has received FDA approval for the development of its LOY-001 drug, designed to extend the lifespan of large dog breeds. #science https://gizmodo.com/loyal-drug-loy-001-extend-lifespan-giant-dog-breed-fda-1851055513"
+                }
+            ]
+        }
+    ],
+    "title": "Amazon's AI chips, Starship's new version, Pika Labs unveils Pika 1.0",
+    "date": "2023/11/29",
+    "description": "There are loads of awesome updates from Amazon's recent re:Invent conference! To begin with, they'll make their own AI chips. Starship's upper stage capabilities are already well known, but Elon Musk is teasing an even more powerful version. And hold onto your director's hat, because Pika 1.0 is here to let you unleash your inner filmmaker, making all sorts of videos in any style you want with just a few prompts!"
+}
