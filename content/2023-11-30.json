@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Together at last",
+                    "Link": "https://arstechnica.com/information-technology/2023/11/sam-altman-officially-back-as-openai-ceo-we-didnt-lose-a-single-employee/",
+                    "Description": "Putting an end to weeks of inner turmoil, Sam Altman has officially returned as OpenAI's CEO, with Mira Murati and Greg Brockman by his side, marking a new chapter in the company's journey.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Together at last \ud83d\udce6 Putting an end to weeks of inner turmoil, Sam Altman has officially returned as OpenAI's CEO, with Mira Murati and Greg Brockman by his side, marking a new chapter in the company's journey. #ai https://arstechnica.com/information-technology/2023/11/sam-altman-officially-back-as-openai-ceo-we-didnt-lose-a-single-employee/"
+                },
+                {
+                    "Title": "Happy birthday ChatGPT!",
+                    "Link": "https://techcrunch.com/2023/11/30/one-year-later-chatgpt-is-still-alive-and-kicking/",
+                    "Description": "Today, everyone's favorite chatbot turns one, and as we reflect on its evolution it seems unreal that in just a year OpenAI's creation has completely transformed the AI landscape.",
+                    "Time": "8",
+                    "Hashtag": "ai",
+                    "Tweet": "Happy birthday ChatGPT! \ud83d\udce6 Today, everyone's favorite chatbot turns one, and as we reflect on its evolution it seems unreal that in just a year OpenAI's creation has completely transformed the AI landscape. #ai https://techcrunch.com/2023/11/30/one-year-later-chatgpt-is-still-alive-and-kicking/"
+                },
+                {
+                    "Title": "Not your average Gnome",
+                    "Link": "https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals/",
+                    "Description": "Google DeepMind's AI system, dubbed GNoME, is already setting new records for material discovery, identifying over 2 million potential crystals for batteries and solar panels in just 17 days.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": "Not your average Gnome \ud83d\udce6 Google DeepMind's AI system, dubbed GNoME, is already setting new records for material discovery, identifying over 2 million potential crystals for batteries and solar panels in just 17 days. #google https://venturebeat.com/ai/google-deepminds-materials-ai-has-already-discovered-2-2-million-new-crystals/"
+                },
+                {
+                    "Title": "AI is rapidly catching up",
+                    "Link": "https://www.cnbc.com/2023/11/29/nvidia-ceo-ai-will-be-fairly-competitive-with-humans-in-5-years.html",
+                    "Description": "In a recent interview, Jensen Huang, Nvidia's CEO, shared his perspective on AI development, claiming that within the next five years, the technology might match human intelligence in certain tests.",
+                    "Time": "2",
+                    "Hashtag": "nvidia",
+                    "Tweet": "AI is rapidly catching up \ud83d\udce6 In a recent interview, Jensen Huang, Nvidia's CEO, shared his perspective on AI development, claiming that within the next five years, the technology might match human intelligence in certain tests. #nvidia https://www.cnbc.com/2023/11/29/nvidia-ceo-ai-will-be-fairly-competitive-with-humans-in-5-years.html"
+                },
+                {
+                    "Title": "Stability goes turbo",
+                    "Link": "https://venturebeat.com/ai/stability-ai-turbocharges-text-to-image-generation-with-sdxl-turbo/",
+                    "Description": "Stability AI's latest innovation is all about speed. SDXL Turbo leverages cutting-edge techniques to boost image generation. What once took 50 steps can now be done in just one.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Stability goes turbo \ud83d\udce6 Stability AI's latest innovation is all about speed. SDXL Turbo leverages cutting-edge techniques to boost image generation. What once took 50 steps can now be done in just one. #ai https://venturebeat.com/ai/stability-ai-turbocharges-text-to-image-generation-with-sdxl-turbo/"
+                },
+                {
+                    "Title": "Introducing: Titan",
+                    "Link": "https://www.engadget.com/amazon-now-has-its-own-ai-image-generator-203025475.html",
+                    "Description": "Among the exciting announcements at Amazon's latest conference was Titan, the company's image generator, designed to craft realistic images while ensuring safety with invisible watermarks.",
+                    "Time": "2",
+                    "Hashtag": "amazon",
+                    "Tweet": "Introducing: Titan \ud83d\udce6 Among the exciting announcements at Amazon's latest conference was Titan, the company's image generator, designed to craft realistic images while ensuring safety with invisible watermarks. #amazon https://www.engadget.com/amazon-now-has-its-own-ai-image-generator-203025475.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Better at forecasting",
+                    "Link": "https://www.sciencefocus.com/news/new-nasa-ai-tool-maps-climate-change",
+                    "Description": "NASA and IBM are developing an AI tool aimed at predicting environmental impacts at a specific location, intended to democratize weather knowledge for communities and raise awareness.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Better at forecasting \ud83d\udce6 NASA and IBM are developing an AI tool aimed at predicting environmental impacts at a specific location, intended to democratize weather knowledge for communities and raise awareness. #ai https://www.sciencefocus.com/news/new-nasa-ai-tool-maps-climate-change"
+                },
+                {
+                    "Title": "Come back soon Hubble!",
+                    "Link": "https://gizmodo.com/hubble-telescope-gyroscope-safe-mode-science-operations-1851060902",
+                    "Description": "It seems Hubble is taking a brief break from its operations. NASA has reported that the telescope recently entered safe mode due to a gyroscope issue, with repairs already underway.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Come back soon Hubble! \ud83d\udce6 It seems Hubble is taking a brief break from its operations. NASA has reported that the telescope recently entered safe mode due to a gyroscope issue, with repairs already underway. #space https://gizmodo.com/hubble-telescope-gyroscope-safe-mode-science-operations-1851060902"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "If all goes well",
+                    "Link": "https://spacenews.com/esa-sets-mid-2024-date-for-first-ariane-6-launch/",
+                    "Description": "Following the success of its core stage hot-fire test, Ariane 6 is gearing up for its first launch in mid-2024. After many challenging setbacks, ESA is finally optimistic about the timeline.",
+                    "Time": "4",
+                    "Hashtag": "space",
+                    "Tweet": "If all goes well \ud83d\udce6 Following the success of its core stage hot-fire test, Ariane 6 is gearing up for its first launch in mid-2024. After many challenging setbacks, ESA is finally optimistic about the timeline. #space https://spacenews.com/esa-sets-mid-2024-date-for-first-ariane-6-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "The day has arrived!",
+                    "Link": "https://electrek.co/2023/11/30/tesla-cybertruck-launch-news-hub-watch-party/",
+                    "Description": "It's a major holiday for Tesla enthusiasts! We are finally witnessing the reveal of the long-awaited Cybertruck. Catch all the action live from Gigafactory Texas at 2 P.M. CT.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "The day has arrived! \ud83d\udce6 It's a major holiday for Tesla enthusiasts! We are finally witnessing the reveal of the long-awaited Cybertruck. Catch all the action live from Gigafactory Texas at 2 P.M. CT. #tesla https://electrek.co/2023/11/30/tesla-cybertruck-launch-news-hub-watch-party/"
+                }
+            ]
+        }
+    ],
+    "title": "OpenAI is back on track, ChatGPT\u2019s anniversary, Cybertruck's event is here!",
+    "date": "2023/11/30",
+    "description": "Sam Altman is officially back as OpenAI's CEO, and everything's looking good. Even Microsoft snagged a spot on the new board, just to make sure they don't miss out on any sudden changes again. Speaking of OpenAI, guess who's turning one today? Yep, our friend ChatGPT! This young chatbot has forever changed the AI scene. And, after loads of countdowns, leaks, and me hinting that we're getting closer, guess what? The Cybertruck delivery event is finally happening!"
+}
