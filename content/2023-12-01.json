@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "The curtain has been lifted",
+                    "Link": "https://www.teslarati.com/tesla-cybertruck-price-range-trims-specs-revealed/",
+                    "Description": "Patience pays off! After four years of anticipation, we now have the scoop on the price, range, and specs of Tesla's powerful Cybertruck. It's a beast, just as we expected!",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "The curtain has been lifted \ud83d\udce6 Patience pays off! After four years of anticipation, we now have the scoop on the price, range, and specs of Tesla's powerful Cybertruck. It's a beast, just as we expected! #tesla https://www.teslarati.com/tesla-cybertruck-price-range-trims-specs-revealed/"
+                },
+                {
+                    "Title": "Changing the layout",
+                    "Link": "https://arstechnica.com/cars/2023/12/hyundai-and-kia-completely-rethink-the-ev-drive-unit-with-uni-wheel-idea/",
+                    "Description": "Hyundai and Kia have introduced the Uni Wheel. A drive system that aims to optimize space efficiency in EV powertrains by redistributing the placement of key components.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Changing the layout \ud83d\udce6 Hyundai and Kia have introduced the Uni Wheel. A drive system that aims to optimize space efficiency in EV powertrains by redistributing the placement of key components. #electricvehicles https://arstechnica.com/cars/2023/12/hyundai-and-kia-completely-rethink-the-ev-drive-unit-with-uni-wheel-idea/"
+                },
+                {
+                    "Title": "Winning the race",
+                    "Link": "https://electrek.co/2023/11/30/byd-cuts-prices-year-end-push-ev-race-tesla-intensifies/",
+                    "Description": "BYD, a frontrunner in China's automotive scene, refuses to back down from intense EV competition. As a strategic move against Tesla, they are slashing prices.",
+                    "Time": "2",
+                    "Hashtag": "BYD",
+                    "Tweet": "Winning the race \ud83d\udce6 BYD, a frontrunner in China's automotive scene, refuses to back down from intense EV competition. As a strategic move against Tesla, they are slashing prices. #BYD https://electrek.co/2023/11/30/byd-cuts-prices-year-end-push-ev-race-tesla-intensifies/"
+                },
+                {
+                    "Title": "Here\u2019s an offer",
+                    "Link": "https://electrek.co/2023/12/01/tesla-cybertruck-reservation-holders-discount-on-other-evs/",
+                    "Description": "The Cybertruck excitement is turning into a sweet deal! Tesla is now offering reservation holders a $1,000 discount on its existing EV lineup.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Here\u2019s an offer \ud83d\udce6 The Cybertruck excitement is turning into a sweet deal! Tesla is now offering reservation holders a $1,000 discount on its existing EV lineup. #tesla https://electrek.co/2023/12/01/tesla-cybertruck-reservation-holders-discount-on-other-evs/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A powerful ally",
+                    "Link": "https://decrypt.co/208211/can-ai-help-solve-the-climate-crisis",
+                    "Description": "In the quest for climate solutions, Sims Witherspoon, Climate Action Lead at Google DeepMind, recognizes AI's potential. However, she highlights the importance of a thoughtful deployment strategy. ",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "A powerful ally \ud83d\udce6 In the quest for climate solutions, Sims Witherspoon, Climate Action Lead at Google DeepMind, recognizes AI's potential. However, she highlights the importance of a thoughtful deployment strategy.  #ai https://decrypt.co/208211/can-ai-help-solve-the-climate-crisis"
+                },
+                {
+                    "Title": "The high cost of generating",
+                    "Link": "https://gizmodo.com/ai-images-as-much-energy-as-charging-phone-hugging-face-1851065091",
+                    "Description": "While it's often assumed that AI isn't as harmful to the environment, a recent study by Hugging Face and Carnegie Mellon challenges that notion, revealing the substantial impact of generative models.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "The high cost of generating \ud83d\udce6 While it's often assumed that AI isn't as harmful to the environment, a recent study by Hugging Face and Carnegie Mellon challenges that notion, revealing the substantial impact of generative models. #ai https://gizmodo.com/ai-images-as-much-energy-as-charging-phone-hugging-face-1851065091"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Hopeful signs for MS",
+                    "Link": "https://gizmodo.com/multiple-sclerosis-stem-cells-brain-injection-trial-1851059172",
+                    "Description": "Advancements in multiple sclerosis treatment indicate promising results with direct brain injections of neural stem cells. While it's in early trial stages, patients have exhibited good tolerance.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Hopeful signs for MS \ud83d\udce6 Advancements in multiple sclerosis treatment indicate promising results with direct brain injections of neural stem cells. While it's in early trial stages, patients have exhibited good tolerance. #science https://gizmodo.com/multiple-sclerosis-stem-cells-brain-injection-trial-1851059172"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Who comes next?",
+                    "Link": "https://interestingengineering.com/lists/8-us-space-stations-iss",
+                    "Description": "As the International Space Station prepares for deorbit in 2031, many might wonder who will take its place. Well, the answer lies in the development of several private stations.",
+                    "Time": "8",
+                    "Hashtag": "space",
+                    "Tweet": "Who comes next? \ud83d\udce6 As the International Space Station prepares for deorbit in 2031, many might wonder who will take its place. Well, the answer lies in the development of several private stations. #space https://interestingengineering.com/lists/8-us-space-stations-iss"
+                },
+                {
+                    "Title": "A lot more connectivity",
+                    "Link": "https://interestingengineering.com/innovation/china-starlink-challenger-satellite-network",
+                    "Description": "China is broadening its internet infrastructure with the completion of its first high-orbit satellite network, targeting 500 Gbps speeds by 2025. This project is set to challenge SpaceX's Starlink.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "A lot more connectivity \ud83d\udce6 China is broadening its internet infrastructure with the completion of its first high-orbit satellite network, targeting 500 Gbps speeds by 2025. This project is set to challenge SpaceX's Starlink. #space https://interestingengineering.com/innovation/china-starlink-challenger-satellite-network"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "It gets better",
+                    "Link": "https://9to5mac.com/2023/11/29/iphone-16-pro-everything-we-know-so-far/",
+                    "Description": "Just when we thought the iPhone 15 had it all, iPhone 16 rumors emerge. While we're months away from the grand reveal, early speculations hint at the most significant upgrade yet.",
+                    "Time": "6",
+                    "Hashtag": "apple",
+                    "Tweet": "It gets better \ud83d\udce6 Just when we thought the iPhone 15 had it all, iPhone 16 rumors emerge. While we're months away from the grand reveal, early speculations hint at the most significant upgrade yet. #apple https://9to5mac.com/2023/11/29/iphone-16-pro-everything-we-know-so-far/"
+                }
+            ]
+        }
+    ],
+    "title": "All the Cyber details, What's next for the ISS?, AI's carbon footprint",
+    "date": "2023/12/01",
+    "description": "Tesla just went above and beyond, yet again. Yesterday, we got all the insights on the Cybertruck, and let me tell you, it's not a letdown at all. NASA's got this plan to deorbit the ISS by 2031, which we already knew, but seriously, how do you replace something as awesome as that? They've got a few options on the table, from high-tech to luxurious. Lastly, as much as AI is a solid ally in the climate battle, it has a downside too... I guess we can't really have it all."
+}
