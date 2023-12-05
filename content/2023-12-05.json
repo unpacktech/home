@@ -1,0 +1,102 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A glimpse of Gemini",
+                    "Link": "https://gizmodo.com/google-chatgpt-competitor-gemini-could-preview-soon-1851071756",
+                    "Description": "Even with a delayed launch, Google remains committed to impressing us with a preview of Gemini, its highly anticipated generative AI chatbot. A calculated move to stay ahead in the AI race.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "A glimpse of Gemini \ud83d\udce6 Even with a delayed launch, Google remains committed to impressing us with a preview of Gemini, its highly anticipated generative AI chatbot. A calculated move to stay ahead in the AI race. #google https://gizmodo.com/google-chatgpt-competitor-gemini-could-preview-soon-1851071756"
+                },
+                {
+                    "Title": "Alliance of giants",
+                    "Link": "https://www.engadget.com/meta-and-ibm-form-open-source-alliance-to-counter-big-ai-players-104847131.html",
+                    "Description": "To ensure responsible and safe innovation in AI while promoting open communities, IBM and Meta have joined forces to create the AI Alliance, along with 50+ organizations, including Intel and NASA.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Alliance of giants \ud83d\udce6 To ensure responsible and safe innovation in AI while promoting open communities, IBM and Meta have joined forces to create the AI Alliance, along with 50+ organizations, including Intel and NASA. #ai https://www.engadget.com/meta-and-ibm-form-open-source-alliance-to-counter-big-ai-players-104847131.html"
+                },
+                {
+                    "Title": "Don\u2019t believe the hype",
+                    "Link": "https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap",
+                    "Description": "Brad Lightcap, COO of OpenAI, recognizes the magnetic pull of AI for businesses aiming to boost capabilities. However, an important point often overlooked is that AI isn't a miracle worker.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Don\u2019t believe the hype \ud83d\udce6 Brad Lightcap, COO of OpenAI, recognizes the magnetic pull of AI for businesses aiming to boost capabilities. However, an important point often overlooked is that AI isn't a miracle worker. #ai https://www.theverge.com/2023/12/4/23988019/openai-enterprise-hype-chatgpt-lightcap"
+                },
+                {
+                    "Title": "Copilot goes turbo",
+                    "Link": "https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature",
+                    "Description": "Microsoft is ready to enhance Copilot's features with the power of OpenAI's GPT-4 Turbo. With an extended 128K context window, the assistant is getting better at resolving queries.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Copilot goes turbo \ud83d\udce6 Microsoft is ready to enhance Copilot's features with the power of OpenAI's GPT-4 Turbo. With an extended 128K context window, the assistant is getting better at resolving queries. #ai https://www.theverge.com/2023/12/5/23989052/microsoft-copilot-gpt-4-turbo-openai-models-code-interpreter-feature"
+                },
+                {
+                    "Title": "Easy video generation",
+                    "Link": "https://venturebeat.com/ai/runway-ml-is-partnering-with-getty-images-on-new-ai-video-models-for-hollywood-and-advertising/",
+                    "Description": "Runway ML, the AI video startup, has teamed up with Getty Images, granting it access to vast data to train its models. This partnership aims to simplify content creation for enterprises.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Easy video generation \ud83d\udce6 Runway ML, the AI video startup, has teamed up with Getty Images, granting it access to vast data to train its models. This partnership aims to simplify content creation for enterprises. #ai https://venturebeat.com/ai/runway-ml-is-partnering-with-getty-images-on-new-ai-video-models-for-hollywood-and-advertising/"
+                },
+                {
+                    "Title": "More inclusive tech",
+                    "Link": "https://www.zdnet.com/article/microsoft-seeing-ai-app-lands-on-android-to-help-blind-and-visually-impaired-users/",
+                    "Description": "Microsoft's groundbreaking app, Seeing AI, designed for visually impaired users, is now available on Android. This tool helps them engage with their surroundings through audio descriptions.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "More inclusive tech \ud83d\udce6 Microsoft's groundbreaking app, Seeing AI, designed for visually impaired users, is now available on Android. This tool helps them engage with their surroundings through audio descriptions. #ai https://www.zdnet.com/article/microsoft-seeing-ai-app-lands-on-android-to-help-blind-and-visually-impaired-users/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A bit of a challenge",
+                    "Link": "https://spacenews.com/data-rights-limitations-affecting-nasa-technology-development/",
+                    "Description": "NASA is facing complexities linked to data access. Cryogenic fluid management tech, vital for space missions, is hindered by current contracting mechanisms with the companies involved.",
+                    "Time": "4",
+                    "Hashtag": "NASA",
+                    "Tweet": "A bit of a challenge \ud83d\udce6 NASA is facing complexities linked to data access. Cryogenic fluid management tech, vital for space missions, is hindered by current contracting mechanisms with the companies involved. #NASA https://spacenews.com/data-rights-limitations-affecting-nasa-technology-development/"
+                },
+                {
+                    "Title": "Beyond the moon landing success",
+                    "Link": "https://arstechnica.com/space/2023/12/india-reveals-that-it-has-returned-lunar-spacecraft-to-earth-orbit/",
+                    "Description": "India's lunar journey with Chandrayaan 3 isn't over yet! The country's space agency recently announced the return of the propulsion module to Earth's orbit in its quest for additional insights.",
+                    "Time": "3",
+                    "Hashtag": "space",
+                    "Tweet": "Beyond the moon landing success \ud83d\udce6 India's lunar journey with Chandrayaan 3 isn't over yet! The country's space agency recently announced the return of the propulsion module to Earth's orbit in its quest for additional insights. #space https://arstechnica.com/space/2023/12/india-reveals-that-it-has-returned-lunar-spacecraft-to-earth-orbit/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Meet the Urban",
+                    "Link": "https://electrek.co/2023/12/04/toyota-new-electric-suv-rival-volvos-ex30-as-cheapest-ev/",
+                    "Description": "To promote affordable mobility, Toyota unveiled the Urban electric SUV Concept, showcased at the Kenshiki forum. The concept focuses on maximizing interior space and offers two battery options.",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "Meet the Urban \ud83d\udce6 To promote affordable mobility, Toyota unveiled the Urban electric SUV Concept, showcased at the Kenshiki forum. The concept focuses on maximizing interior space and offers two battery options. #toyota https://electrek.co/2023/12/04/toyota-new-electric-suv-rival-volvos-ex30-as-cheapest-ev/"
+                },
+                {
+                    "Title": "Expanding its EV portfolio",
+                    "Link": "https://electrek.co/2023/12/04/toyota-sport-crossover-ev-made-with-byd-launch-2025/",
+                    "Description": "In collaboration with BYD, Toyota offers a stylish alternative to traditional SUVs with the Sport Crossover concept, set to hit the roads in 2025.",
+                    "Time": "3",
+                    "Hashtag": "toyota",
+                    "Tweet": "Expanding its EV portfolio \ud83d\udce6 In collaboration with BYD, Toyota offers a stylish alternative to traditional SUVs with the Sport Crossover concept, set to hit the roads in 2025. #toyota https://electrek.co/2023/12/04/toyota-sport-crossover-ev-made-with-byd-launch-2025/"
+                }
+            ]
+        }
+    ],
+    "title": "Gemini sneak peek, IBM and Meta's alliance, Is AI overhyped?",
+    "date": "2023/12/05",
+    "description": "Yesterday, we announced that Google\u2019s Gemini was slightly delayed. But guess what? They're reportedly giving us a glimpse at the chatbot's skills this week. Is it going to outshine GPT-4? IBM and Meta have taken matters into their own hands with the establishment of the AI Alliance, a collaboration between giants to advance open-source AI. And, plot twist, OpenAI's COO thinks the tech might be a bit overhyped, especially in the business world."
+}
