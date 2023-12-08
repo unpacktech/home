@@ -20,6 +20,14 @@
                     "Tweet": "Everything you can Imagine \ud83d\udce6 Meta is forging ahead with more AI advancements. The newest development is Imagine, an image generator driven by its Emu model, turning text prompts into creative visuals. #ai https://www.engadget.com/metas-ai-image-generator-is-available-as-a-standalone-website-185953058.html"
                 },
                 {
+                    "Title": "Late for the party?",
+                    "Link": "https://gizmodo.com/apple-ai-mlx-stage-openai-chatgpt-google-gemini-1851080108",
+                    "Description": "Apple has discreetly announced an open-source ML framework for Apple silicon called MLX. However, the company needs a bolder approach if it wants to catch up with competitors on AI.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Late for the party? \ud83d\udce6 Apple has discreetly announced an open-source ML framework for Apple silicon called MLX. However, the company needs a bolder approach if it wants to catch up with competitors on AI. #apple https://gizmodo.com/apple-ai-mlx-stage-openai-chatgpt-google-gemini-1851080108"
+                },
+                {
                     "Title": "May the best win",
                     "Link": "https://www.fastcompany.com/90994058/gemini-ai-android-google-apple",
                     "Description": "Gemini will be a part of the Pixel 8 Pro, drawing parallels with Apple's Siri. As Google sets the stage for a new era of smartphone AI, should Apple get its act together and amplify its efforts?",
@@ -63,19 +71,6 @@
                     "Time": "2",
                     "Hashtag": "space",
                     "Tweet": "The stars and beyond \ud83d\udce6 India's continuous success in its space ambitions has only broadened the country's interest in knowledge and exploration. Among its visionary plans is the establishment of a moon base by 2050. #space https://www.space.com/india-moon-base-2047"
-                }
-            ]
-        },
-        {
-            "category": "Big tech \ud83c\udf1f",
-            "stories": [
-                {
-                    "Title": "Late for the party?",
-                    "Link": "https://gizmodo.com/apple-ai-mlx-stage-openai-chatgpt-google-gemini-1851080108",
-                    "Description": "Apple has discreetly announced an open-source ML framework for Apple silicon called MLX. However, the company needs a bolder approach if it wants to catch up with competitors on AI.",
-                    "Time": "2",
-                    "Hashtag": "apple",
-                    "Tweet": "Late for the party? \ud83d\udce6 Apple has discreetly announced an open-source ML framework for Apple silicon called MLX. However, the company needs a bolder approach if it wants to catch up with competitors on AI. #apple https://gizmodo.com/apple-ai-mlx-stage-openai-chatgpt-google-gemini-1851080108"
                 }
             ]
         },
