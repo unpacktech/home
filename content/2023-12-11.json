@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A win for the open approach",
+                    "Link": "https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/",
+                    "Description": "Mistral AI, the European contender challenging OpenAI, has successfully concluded a robust funding series and extended an invitation to developers with the beta launch of its platform.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "A win for the open approach \ud83d\udce6 Mistral AI, the European contender challenging OpenAI, has successfully concluded a robust funding series and extended an invitation to developers with the beta launch of its platform. #ai https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/"
+                },
+                {
+                    "Title": "Play by the rules",
+                    "Link": "https://arstechnica.com/information-technology/2023/12/ai-regulation-will-begin-in-the-eu/",
+                    "Description": "After years of intense debate and numerous discussions, the EU has finally reached an agreement on the terms of the revolutionary AI Act, setting the stage for clear rules for AI use.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Play by the rules \ud83d\udce6 After years of intense debate and numerous discussions, the EU has finally reached an agreement on the terms of the revolutionary AI Act, setting the stage for clear rules for AI use. #ai https://arstechnica.com/information-technology/2023/12/ai-regulation-will-begin-in-the-eu/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Just another hop",
+                    "Link": "https://spacenews.com/chinas-reusable-rocket-race-heats-up-with-new-hop-test/",
+                    "Description": "The Chinese startup iSpace is committed to the country's ambitions for reusable rocket technology, achieving a remarkable milestone with Hyperbola-2Y's test article lift-off and landing.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Just another hop \ud83d\udce6 The Chinese startup iSpace is committed to the country's ambitions for reusable rocket technology, achieving a remarkable milestone with Hyperbola-2Y's test article lift-off and landing. #rocketscience https://spacenews.com/chinas-reusable-rocket-race-heats-up-with-new-hop-test/"
+                },
+                {
+                    "Title": "Wishing for clear skies",
+                    "Link": "https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast",
+                    "Description": "Bad weather delayed SpaceX's Falcon Heavy launch of the X-37B space plane for the U.S. Space Force. The intriguing mission has been rescheduled for 8:14 p.m. EST tonight.",
+                    "Time": "3",
+                    "Hashtag": "spacex",
+                    "Tweet": "Wishing for clear skies \ud83d\udce6 Bad weather delayed SpaceX's Falcon Heavy launch of the X-37B space plane for the U.S. Space Force. The intriguing mission has been rescheduled for 8:14 p.m. EST tonight. #spacex https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Rediscovering the past",
+                    "Link": "https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/",
+                    "Description": "A groundbreaking discovery from 1992 by a German botanist is now being resurrected by dedicated researchers. Transparent wood is here to redefine smartphone screens and structural elements.",
+                    "Time": "7",
+                    "Hashtag": "science",
+                    "Tweet": "Rediscovering the past \ud83d\udce6 A groundbreaking discovery from 1992 by a German botanist is now being resurrected by dedicated researchers. Transparent wood is here to redefine smartphone screens and structural elements. #science https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/"
+                },
+                {
+                    "Title": "Get ready for the Geminids!",
+                    "Link": "https://www.digitaltrends.com/space/geminid-meteor-shower-2023/",
+                    "Description": "Save the day for a real show from the sky. On December 14-15, Earth will glide through debris from asteroid 3200 Phaethon, resulting in a stunning display of shooting stars.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Get ready for the Geminids! \ud83d\udce6 Save the day for a real show from the sky. On December 14-15, Earth will glide through debris from asteroid 3200 Phaethon, resulting in a stunning display of shooting stars. #science https://www.digitaltrends.com/space/geminid-meteor-shower-2023/"
+                },
+                {
+                    "Title": "Back to normal",
+                    "Link": "https://www.digitaltrends.com/space/hubble-operational-gyro-issue/",
+                    "Description": "We're glad to inform you that after resolving a gyro issue, NASA's Hubble Space Telescope is out of safe mode and set to resume its exploration of the cosmos.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Back to normal \ud83d\udce6 We're glad to inform you that after resolving a gyro issue, NASA's Hubble Space Telescope is out of safe mode and set to resume its exploration of the cosmos. #science https://www.digitaltrends.com/space/hubble-operational-gyro-issue/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Is it time to give up?",
+                    "Link": "https://www.engadget.com/apple-confirms-it-has-blocked-imessage-exploit-012015485.html",
+                    "Description": "The illusion of a blue text message on Android continues to be just that, as Apple has shut down yet another iMessage workaround. The Beeper Mini app is currently facing disruptions.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Is it time to give up? \ud83d\udce6 The illusion of a blue text message on Android continues to be just that, as Apple has shut down yet another iMessage workaround. The Beeper Mini app is currently facing disruptions. #apple https://www.engadget.com/apple-confirms-it-has-blocked-imessage-exploit-012015485.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Slow but steady",
+                    "Link": "https://electrek.co/2023/12/11/mazda-plans-to-produce-7-or-8-electric-cars-by-2030/",
+                    "Description": "Mazda is still reluctant about the ever-changing EV market. However, according to CEO Masahiro Moro, they're planning to step up their game with a set of new EV models by 2030.",
+                    "Time": "3",
+                    "Hashtag": "mazda",
+                    "Tweet": "Slow but steady \ud83d\udce6 Mazda is still reluctant about the ever-changing EV market. However, according to CEO Masahiro Moro, they're planning to step up their game with a set of new EV models by 2030. #mazda https://electrek.co/2023/12/11/mazda-plans-to-produce-7-or-8-electric-cars-by-2030/"
+                },
+                {
+                    "Title": "Time to hit the streets",
+                    "Link": "https://electrek.co/2023/12/10/tesla-starts-telling-some-cybertruck-orders-to-prepare-for-delivery/",
+                    "Description": "Christmas is coming early for Cybertruck reservation holders. It has been reported that \"prepare for delivery\" emails are starting to arrive, signaling a very accelerated rollout for Tesla.",
+                    "Time": "3",
+                    "Hashtag": "tesla",
+                    "Tweet": "Time to hit the streets \ud83d\udce6 Christmas is coming early for Cybertruck reservation holders. It has been reported that \"prepare for delivery\" emails are starting to arrive, signaling a very accelerated rollout for Tesla. #tesla https://electrek.co/2023/12/10/tesla-starts-telling-some-cybertruck-orders-to-prepare-for-delivery/"
+                }
+            ]
+        }
+    ],
+    "title": "Bad news for Android, EU agrees on AI rules, A starry show",
+    "date": "2023/12/11",
+    "description": "Trying to make iMessage work on Android is the impossible task of the year. Apple is dead set on keeping those blue text messages exclusive to iOS. The EU has finally laid down the foundation for the AI Act. However, many are wondering what effect it will have on innovation. And hey, get your wish list ready for December 14-15 because the Geminid meteor shower is about to light up our skies! "
+}
