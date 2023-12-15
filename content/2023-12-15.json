@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Making functional fun",
+                    "Link": "https://interestingengineering.com/innovation/googles-deepmind-decodes-old-math-equation",
+                    "Description": "Pure mathematics may seem like an impossible task for most of us, but not for Google DeepMind researchers. They've unveiled FunSearch, a groundbreaking method that has cracked the cap set problem.",
+                    "Time": "2",
+                    "Hashtag": "google",
+                    "Tweet": "Making functional fun \ud83d\udce6 Pure mathematics may seem like an impossible task for most of us, but not for Google DeepMind researchers. They've unveiled FunSearch, a groundbreaking method that has cracked the cap set problem. #google https://interestingengineering.com/innovation/googles-deepmind-decodes-old-math-equation"
+                },
+                {
+                    "Title": "Watching over superintelligence",
+                    "Link": "https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4/",
+                    "Description": "OpenAI's superalignment team has been working diligently amidst all the buzz surrounding the company, recently sharing the results of its innovative technique to tackle superintelligent machines.",
+                    "Time": "5",
+                    "Hashtag": "openai",
+                    "Tweet": "Watching over superintelligence \ud83d\udce6 OpenAI's superalignment team has been working diligently amidst all the buzz surrounding the company, recently sharing the results of its innovative technique to tackle superintelligent machines. #openai https://www.technologyreview.com/2023/12/14/1085344/openai-super-alignment-rogue-agi-gpt-4/"
+                },
+                {
+                    "Title": "The future of toys",
+                    "Link": "https://www.washingtonpost.com/technology/2023/12/14/grok-grimes-curio-toy/",
+                    "Description": "Not to be mistaken for a quirky chatbot\u2014meet Grok! A shortened form of \"Grocket,\" this AI plush rocket from Curio harnesses the power of OpenAI to engage children in fun and educational play.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "The future of toys \ud83d\udce6 Not to be mistaken for a quirky chatbot\u2014meet Grok! A shortened form of \"Grocket,\" this AI plush rocket from Curio harnesses the power of OpenAI to engage children in fun and educational play. #ai https://www.washingtonpost.com/technology/2023/12/14/grok-grimes-curio-toy/"
+                },
+                {
+                    "Title": "A bit of \"Pixie\" dust",
+                    "Link": "https://www.engadget.com/googles-pixel-9-could-arrive-with-a-sophisticated-pixie-ai-assistant-094448458.html",
+                    "Description": "Continuing with its AI roadmap, Google's upcoming Pixel 9 Phone is set to introduce Pixie, a cutting-edge AI assistant leveraging Gemini's capabilities for complex and multimodal tasks.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A bit of \"Pixie\" dust \ud83d\udce6 Continuing with its AI roadmap, Google's upcoming Pixel 9 Phone is set to introduce Pixie, a cutting-edge AI assistant leveraging Gemini's capabilities for complex and multimodal tasks. #ai https://www.engadget.com/googles-pixel-9-could-arrive-with-a-sophisticated-pixie-ai-assistant-094448458.html"
+                },
+                {
+                    "Title": "Playlists made easy",
+                    "Link": "https://techcrunch.com/2023/12/14/spotify-confirms-test-of-prompt-based-ai-playlists-feature/",
+                    "Description": "Users have caught Spotify testing its rumored AI playlist feature. Although there's no launch date confirmed, get ready to turn any idea into a carefully curated selection of great songs.",
+                    "Time": "4",
+                    "Hashtag": "spotify",
+                    "Tweet": "Playlists made easy \ud83d\udce6 Users have caught Spotify testing its rumored AI playlist feature. Although there's no launch date confirmed, get ready to turn any idea into a carefully curated selection of great songs. #spotify https://techcrunch.com/2023/12/14/spotify-confirms-test-of-prompt-based-ai-playlists-feature/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Not your regular supercomputer",
+                    "Link": "https://www.businessinsider.com/deepsouth-supercomputer-simulates-human-brain-go-online-next-year-2023-12",
+                    "Description": "Introducing DeepSouth, Western Sydney University's revolutionary project that plans to create the first supercomputer capable of mimicking the energy-efficient processing of the human brain.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Not your regular supercomputer \ud83d\udce6 Introducing DeepSouth, Western Sydney University's revolutionary project that plans to create the first supercomputer capable of mimicking the energy-efficient processing of the human brain. #science https://www.businessinsider.com/deepsouth-supercomputer-simulates-human-brain-go-online-next-year-2023-12"
+                },
+                {
+                    "Title": "From the mysterious Enceladus",
+                    "Link": "https://gizmodo.com/key-ingredient-for-life-spotted-on-saturn-s-ocean-moon-1851100070",
+                    "Description": "Saturn may hold the key to life beyond Earth. Thanks to insights collected by NASA's Cassini spacecraft, scientists have discovered evidence of hydrogen cyanide on its icy moon, Enceladus.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "From the mysterious Enceladus \ud83d\udce6 Saturn may hold the key to life beyond Earth. Thanks to insights collected by NASA's Cassini spacecraft, scientists have discovered evidence of hydrogen cyanide on its icy moon, Enceladus. #science https://gizmodo.com/key-ingredient-for-life-spotted-on-saturn-s-ocean-moon-1851100070"
+                },
+                {
+                    "Title": "Take a look at Digit!",
+                    "Link": "https://www.engadget.com/agilitys-digit-warehouse-robot-understands-natural-language-commands-thanks-to-ai-smarts-214415066.html",
+                    "Description": "Agility Robotics showcases machine learning's significant role in crafting humanoid robots, offering a glimpse of Digit's problem-solving skills in action as it decodes and executes complex commands.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "Take a look at Digit! \ud83d\udce6 Agility Robotics showcases machine learning's significant role in crafting humanoid robots, offering a glimpse of Digit's problem-solving skills in action as it decodes and executes complex commands. #science https://www.engadget.com/agilitys-digit-warehouse-robot-understands-natural-language-commands-thanks-to-ai-smarts-214415066.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Good news for Electron",
+                    "Link": "https://spacenews.com/electron-returns-to-flight-with-successful-launch-of-japanese-radar-imaging-satellite/",
+                    "Description": "Rocket Lab can finally breathe a sigh of relief as it successfully launched a Japanese radar imaging satellite, marking Electron's comeback after its setback in September.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Good news for Electron \ud83d\udce6 Rocket Lab can finally breathe a sigh of relief as it successfully launched a Japanese radar imaging satellite, marking Electron's comeback after its setback in September. #rocketscience https://spacenews.com/electron-returns-to-flight-with-successful-launch-of-japanese-radar-imaging-satellite/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Space and affordability",
+                    "Link": "https://electrek.co/2023/12/14/volkswagen-teases-first-look-new-id-2all-electric-suv/",
+                    "Description": "Volkswagen introduced the ID. 2all, an affordable electric SUV, inspired by Golf's spaciousness and Polo's affordability, as part of its continued electrification efforts.",
+                    "Time": "3",
+                    "Hashtag": "volkswagen",
+                    "Tweet": "Space and affordability \ud83d\udce6 Volkswagen introduced the ID. 2all, an affordable electric SUV, inspired by Golf's spaciousness and Polo's affordability, as part of its continued electrification efforts. #volkswagen https://electrek.co/2023/12/14/volkswagen-teases-first-look-new-id-2all-electric-suv/"
+                }
+            ]
+        }
+    ],
+    "title": "Curio presents Grok, DeepMind's FunSearch, Spotify's AI-driven playlists",
+    "date": "2023/12/15",
+    "description": "There's a chance you think I got the name wrong, but nope! \"Grok\" is just the cute way babies say \"Grocket!\" And that's what Curio is all about\u2014revolutionizing toys by bringing AI to playtime. On the other hand, many researchers hope to decode complex math tasks with large language models, and DeepMind appears to be in the lead. Oh, and remember Spotify's AI playlists? It is no longer a rumor! They're testing it right now. Wonder what I'd get if I typed \"songs to write a newsletter.\""
+}
