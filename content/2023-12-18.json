@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "It is time to wait",
+                    "Link": "https://www.space.com/blue-origin-return-to-flight-mission-ns-24-scrub-december-18",
+                    "Description": "Sadly, we must save our excitement for later as Blue Origin's New Shepard launch has been scrubbed at the very last minute due to a ground system issue. A new date is yet to be announced.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "It is time to wait \ud83d\udce6 Sadly, we must save our excitement for later as Blue Origin's New Shepard launch has been scrubbed at the very last minute due to a ground system issue. A new date is yet to be announced. #rocketscience https://www.space.com/blue-origin-return-to-flight-mission-ns-24-scrub-december-18"
+                },
+                {
+                    "Title": "Let\u2019s try again",
+                    "Link": "https://www.digitaltrends.com/space/spacex-reveals-new-launch-date-for-late-falcon-heavy-mission/",
+                    "Description": "SpaceX has announced it aims to launch its Falcon Heavy mission on December 28, carrying the X-37B spaceplane for the U.S. Space Force. Will the fifth attempt be the charm?",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Let\u2019s try again \ud83d\udce6 SpaceX has announced it aims to launch its Falcon Heavy mission on December 28, carrying the X-37B spaceplane for the U.S. Space Force. Will the fifth attempt be the charm? #spacex https://www.digitaltrends.com/space/spacex-reveals-new-launch-date-for-late-falcon-heavy-mission/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Encouraging progress",
+                    "Link": "https://interestingengineering.com/health/ai-model-diagnoses-childhood-autism-from-eye-pics-with-100-accuracy",
+                    "Description": "Using deep learning and analyzing retinal photographs, Korean researchers present a promising solution to diverse challenges in identifying autism spectrum disorder, achieving 100% accuracy.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Encouraging progress \ud83d\udce6 Using deep learning and analyzing retinal photographs, Korean researchers present a promising solution to diverse challenges in identifying autism spectrum disorder, achieving 100% accuracy. #science https://interestingengineering.com/health/ai-model-diagnoses-childhood-autism-from-eye-pics-with-100-accuracy"
+                },
+                {
+                    "Title": "Stuck with Bennu",
+                    "Link": "https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598",
+                    "Description": "NASA achieved something incredible by retrieving the Bennu asteroid. However, the challenging part lies ahead, as it seems they must develop new tools to open the canister that contains it.",
+                    "Time": "4",
+                    "Hashtag": "nasa",
+                    "Tweet": "Stuck with Bennu \ud83d\udce6 NASA achieved something incredible by retrieving the Bennu asteroid. However, the challenging part lies ahead, as it seems they must develop new tools to open the canister that contains it. #nasa https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598"
+                },
+                {
+                    "Title": "A solar disruption",
+                    "Link": "https://www.digitaltrends.com/space/solar-flare-x28/",
+                    "Description": "NASA's Solar Dynamics Observatory registered one of the strongest solar flares since 2017, an event so powerful that it even impacted Earth's communications on December 14.",
+                    "Time": "2",
+                    "Hashtag": "science",
+                    "Tweet": "A solar disruption \ud83d\udce6 NASA's Solar Dynamics Observatory registered one of the strongest solar flares since 2017, an event so powerful that it even impacted Earth's communications on December 14. #science https://www.digitaltrends.com/space/solar-flare-x28/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Picture your thoughts",
+                    "Link": "https://interestingengineering.com/innovation/worlds-first-mental-images-extracted-from-human-brain-activity-using-ai",
+                    "Description": "Unlocking the mind's secrets is a key scientific pursuit. In a recent study led by a team, including members of Osaka University, AI translated brain activity into clear mental images.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Picture your thoughts \ud83d\udce6 Unlocking the mind's secrets is a key scientific pursuit. In a recent study led by a team, including members of Osaka University, AI translated brain activity into clear mental images. #ai https://interestingengineering.com/innovation/worlds-first-mental-images-extracted-from-human-brain-activity-using-ai"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "2024 for Apple",
+                    "Link": "https://9to5mac.com/2023/12/17/gurman-what-to-expect-from-apple-in-2024/",
+                    "Description": "Before the year finishes, Mark Gurman has shared all his insights about what's next for Apple, with 2024 bringing a shift in focus, turning the spotlight from the iPhone to wearables.",
+                    "Time": "4",
+                    "Hashtag": "apple",
+                    "Tweet": "2024 for Apple \ud83d\udce6 Before the year finishes, Mark Gurman has shared all his insights about what's next for Apple, with 2024 bringing a shift in focus, turning the spotlight from the iPhone to wearables. #apple https://9to5mac.com/2023/12/17/gurman-what-to-expect-from-apple-in-2024/"
+                },
+                {
+                    "Title": "Watches on hold",
+                    "Link": "https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/",
+                    "Description": "If you're currently in the US and were planning to get a Series 9 Apple Watch for the holidays, you might need a backup plan, as Apple has paused sales due to a patent dispute.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Watches on hold \ud83d\udce6 If you're currently in the US and were planning to get a Series 9 Apple Watch for the holidays, you might need a backup plan, as Apple has paused sales due to a patent dispute. #apple https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Nissan\u2019s big move",
+                    "Link": "https://electrek.co/2023/12/18/nissan-export-evs-made-in-china-compete-tesla-byd/",
+                    "Description": "To outpace competitors and maintain a leading position in the EV market, Nissan has decided to export EVs manufactured in China, reducing production costs and boosting sales.",
+                    "Time": "2",
+                    "Hashtag": "nissan",
+                    "Tweet": "Nissan\u2019s big move \ud83d\udce6 To outpace competitors and maintain a leading position in the EV market, Nissan has decided to export EVs manufactured in China, reducing production costs and boosting sales. #nissan https://electrek.co/2023/12/18/nissan-export-evs-made-in-china-compete-tesla-byd/"
+                },
+                {
+                    "Title": "Slow and steady",
+                    "Link": "https://www.teslarati.com/tesla-cybertruck-production-at-giga-texas-slowly-ramping-up/",
+                    "Description": "CEO Elon Musk has already acknowledged that the complexity of Cybertruck production may cause slight delays. Nevertheless, recent footage from Gigafactory Texas hints at progress.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Slow and steady \ud83d\udce6 CEO Elon Musk has already acknowledged that the complexity of Cybertruck production may cause slight delays. Nevertheless, recent footage from Gigafactory Texas hints at progress. #tesla https://www.teslarati.com/tesla-cybertruck-production-at-giga-texas-slowly-ramping-up/"
+                }
+            ]
+        }
+    ],
+    "title": "Blue Origin's latest setback, Unlocking Bennu, SpaceX tries again",
+    "date": "2023/12/18",
+    "description": "If, like me, you were stoked to see Blue Origin's New Shepard blast off, it looks like we'll have to wait a bit longer until they decide it's time to hit the skies. NASA thought they were in the clear after the Bennu asteroid retrieval mission, but nope! Now they're on another mission to delicately open the tiny canister without messing up the samples. And big cheers to SpaceX\u2014they're gearing up for round five with the mysterious U.S. Space Force spaceplane launch on December 28. Hopefully, they'll make it!"
+}
