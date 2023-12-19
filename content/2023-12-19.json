@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "All-around preparedness",
+                    "Link": "https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/",
+                    "Description": "OpenAI has revealed additional insights into its \"Preparedness Framework\" in response to governance concerns. This approach aims to mitigate potential risks while ensuring safe AI development.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "All-around preparedness \ud83d\udce6 OpenAI has revealed additional insights into its \"Preparedness Framework\" in response to governance concerns. This approach aims to mitigate potential risks while ensuring safe AI development. #ai https://venturebeat.com/ai/openai-announces-preparedness-framework-to-track-and-mitigate-ai-risks/"
+                },
+                {
+                    "Title": "A better method",
+                    "Link": "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/",
+                    "Description": "As AI reaches a level similar to human intelligence, researchers see a rising need for more efficient tests to measure its abilities, indicating the potential inadequacy of the Turing Test.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "A better method \ud83d\udce6 As AI reaches a level similar to human intelligence, researchers see a rising need for more efficient tests to measure its abilities, indicating the potential inadequacy of the Turing Test. #ai https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/"
+                },
+                {
+                    "Title": "More intuitive driving",
+                    "Link": "https://www.engadget.com/tomtom-and-microsoft-team-up-to-bring-generative-ai-to-automobiles-063002000.html",
+                    "Description": "TomTom is taking a step further from its renowned GPS platforms to provide a new driving experience with the development of an AI-powered assistant in collaboration with Microsoft.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "More intuitive driving \ud83d\udce6 TomTom is taking a step further from its renowned GPS platforms to provide a new driving experience with the development of an AI-powered assistant in collaboration with Microsoft. #ai https://www.engadget.com/tomtom-and-microsoft-team-up-to-bring-generative-ai-to-automobiles-063002000.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Seamless global access",
+                    "Link": "https://gizmodo.com/spacex-starlink-direct-cell-satellites-internet-1851108533",
+                    "Description": "On December 29th, SpaceX will launch Starlink satellites with direct-to-cell capability, aiming to go beyond the limits of traditional cell towers and expand global connectivity.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Seamless global access \ud83d\udce6 On December 29th, SpaceX will launch Starlink satellites with direct-to-cell capability, aiming to go beyond the limits of traditional cell towers and expand global connectivity. #rocketscience https://gizmodo.com/spacex-starlink-direct-cell-satellites-internet-1851108533"
+                },
+                {
+                    "Title": "Back to the skies!",
+                    "Link": "https://www.space.com/blue-origin-return-to-flight-mission-ns-24",
+                    "Description": "Finally, after a 15-month hiatus and a scrubbed launch yesterday, Blue Origin's New Shepard has successfully launched, bringing optimism as it restarts its space journey.",
+                    "Time": "2",
+                    "Hashtag": "blueorigin",
+                    "Tweet": "Back to the skies! \ud83d\udce6 Finally, after a 15-month hiatus and a scrubbed launch yesterday, Blue Origin's New Shepard has successfully launched, bringing optimism as it restarts its space journey. #blueorigin https://www.space.com/blue-origin-return-to-flight-mission-ns-24"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Redefining cancer treatment",
+                    "Link": "https://techcrunch.com/2023/12/19/dog-cancer-treatment-imprimed-aims-to-expand-its-ai-technology-into-human-oncology/",
+                    "Description": "In the world of pet healthcare, ImpriMed is well-known for its use of AI to tailor cancer treatment for dogs and cats. Now, the California startup plans to bring its expertise to human oncology.",
+                    "Time": "5",
+                    "Hashtag": "science",
+                    "Tweet": "Redefining cancer treatment \ud83d\udce6 In the world of pet healthcare, ImpriMed is well-known for its use of AI to tailor cancer treatment for dogs and cats. Now, the California startup plans to bring its expertise to human oncology. #science https://techcrunch.com/2023/12/19/dog-cancer-treatment-imprimed-aims-to-expand-its-ai-technology-into-human-oncology/"
+                },
+                {
+                    "Title": "Psyche's furry friend",
+                    "Link": "https://interestingengineering.com/science/nasa-cat-video-space-laser",
+                    "Description": "In a fun twist, Psyche broadcast a 15-second video of a cat from space. This experiment is part of NASA's test to assess the potential of Deep Space Optical Communications for sending broadband video.",
+                    "Time": "3",
+                    "Hashtag": "nasa",
+                    "Tweet": "Psyche's furry friend \ud83d\udce6 In a fun twist, Psyche broadcast a 15-second video of a cat from space. This experiment is part of NASA's test to assess the potential of Deep Space Optical Communications for sending broadband video. #nasa https://interestingengineering.com/science/nasa-cat-video-space-laser"
+                },
+                {
+                    "Title": "In stunning detail",
+                    "Link": "https://webbtelescope.org/contents/news-releases/2023/news-2023-150",
+                    "Description": "NASA's James Webb Telescope has treated us to a breathtaking look at Uranus, its rings, and moons! The recent infrared images showcase even more details than those provided by Voyager 2.",
+                    "Time": "3",
+                    "Hashtag": "nasa",
+                    "Tweet": "In stunning detail \ud83d\udce6 NASA's James Webb Telescope has treated us to a breathtaking look at Uranus, its rings, and moons! The recent infrared images showcase even more details than those provided by Voyager 2. #nasa https://webbtelescope.org/contents/news-releases/2023/news-2023-150"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A freezing and electrifying journey",
+                    "Link": "https://www.engadget.com/an-electric-car-completed-the-worlds-first-ever-drive-from-the-north-to-the-south-pole-073155506.html",
+                    "Description": "A Scottish couple of adventurers have made history with the successful completion of the world's first Pole to Pole EV expedition, covering 17,000 miles in a modified Nissan Ariya e-4ORCE.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "A freezing and electrifying journey \ud83d\udce6 A Scottish couple of adventurers have made history with the successful completion of the world's first Pole to Pole EV expedition, covering 17,000 miles in a modified Nissan Ariya e-4ORCE. #electricvehicles https://www.engadget.com/an-electric-car-completed-the-worlds-first-ever-drive-from-the-north-to-the-south-pole-073155506.html"
+                },
+                {
+                    "Title": "Ready to sail",
+                    "Link": "https://electrek.co/2023/12/18/tesla-package-turns-cybertruck-into-boat/",
+                    "Description": "Continuing with the claims of the Cybertruck being all set to make a splash on your nearest beach, CEO Elon Musk has stated that they're planning for a \"mod package\" that turns it into a boat.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Ready to sail \ud83d\udce6 Continuing with the claims of the Cybertruck being all set to make a splash on your nearest beach, CEO Elon Musk has stated that they're planning for a \"mod package\" that turns it into a boat. #tesla https://electrek.co/2023/12/18/tesla-package-turns-cybertruck-into-boat/"
+                }
+            ]
+        }
+    ],
+    "title": "Blue Origin's triumph, Psyche's cosmic cat, Cybertruck as a boat?",
+    "date": "2023/12/19",
+    "description": "It's always good to give things a second shot, and after a long pause, Blue Origin has finally hit the skies with its New Shepard suborbital vehicle. Exciting times are ahead for the company. I'm a fan of funny cat videos online, but NASA just shared one that's out of this world, from Psyche's deep space journey. Oh, and who knew the Cybertruck was this versatile? Apparently, it can also be used as a boat. Talk about unexpected talents! "
+}
