@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Starship's progress report",
+                    "Link": "https://arstechnica.com/space/2023/12/spacex-completes-static-fire-test-in-push-toward-third-starship-launch/",
+                    "Description": "The journey to Starship's third flight advances, with SpaceX ensuring readiness for the big day. Though no launch date has been set, the company successfully conducted a static fire test recently.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Starship's progress report \ud83d\udce6 The journey to Starship's third flight advances, with SpaceX ensuring readiness for the big day. Though no launch date has been set, the company successfully conducted a static fire test recently. #ai https://arstechnica.com/space/2023/12/spacex-completes-static-fire-test-in-push-toward-third-starship-launch/"
+                },
+                {
+                    "Title": "Lunar mission delayed",
+                    "Link": "https://spacenews.com/intuitive-machines-delays-first-lunar-lander-launch-to-february/",
+                    "Description": "Intuitive Machines' moon trip must wait a bit longer. The IM-1 mission launch is now set for mid-February, influenced by shifts in SpaceX's launch manifest and weather circumstances.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Lunar mission delayed \ud83d\udce6 Intuitive Machines' moon trip must wait a bit longer. The IM-1 mission launch is now set for mid-February, influenced by shifts in SpaceX's launch manifest and weather circumstances. #rocketscience https://spacenews.com/intuitive-machines-delays-first-lunar-lander-launch-to-february/"
+                },
+                {
+                    "Title": "Countdown to Artemis",
+                    "Link": "https://gizmodo.com/nasa-artemis-moon-astronaut-emergency-training-orion-1851114735",
+                    "Description": "As we get closer to witnessing NASA's remarkable Artemis 2 mission in all its glory, the crew is undergoing training to perfect exit procedures from the Orion spacecraft in case of an emergency.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Countdown to Artemis \ud83d\udce6 As we get closer to witnessing NASA's remarkable Artemis 2 mission in all its glory, the crew is undergoing training to perfect exit procedures from the Orion spacecraft in case of an emergency. #NASA https://gizmodo.com/nasa-artemis-moon-astronaut-emergency-training-orion-1851114735"
+                },
+                {
+                    "Title": "Ready to undock",
+                    "Link": "https://www.space.com/spacex-dragon-crs-29-international-space-station-undocking-webcast",
+                    "Description": "After several weather-related delays, SpaceX's Dragon spacecraft is finally prepared to depart from the ISS. You can catch all the live action on NASA's stream.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "Ready to undock \ud83d\udce6 After several weather-related delays, SpaceX's Dragon spacecraft is finally prepared to depart from the ISS. You can catch all the live action on NASA's stream. #spacex https://www.space.com/spacex-dragon-crs-29-international-space-station-undocking-webcast"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "A breakthrough discovery",
+                    "Link": "https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai",
+                    "Description": "Medicine, a field set to be transformed by AI, witnesses scientists using deep learning models to discover a new antibiotic effective against drug-resistant Staphylococcus aureus (MRSA).",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "A breakthrough discovery \ud83d\udce6 Medicine, a field set to be transformed by AI, witnesses scientists using deep learning models to discover a new antibiotic effective against drug-resistant Staphylococcus aureus (MRSA). #ai https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai"
+                },
+                {
+                    "Title": "AppleGPT for iPhone?",
+                    "Link": "https://9to5mac.com/2023/12/21/apple-gpt-on-iphone/",
+                    "Description": "A lot has been said about Apple's cautious AI approach. However, a research paper hints at a potential ChatGPT-style system for iPhones, holding promise for applications beyond Vision Pro.",
+                    "Time": "3",
+                    "Hashtag": "apple",
+                    "Tweet": "AppleGPT for iPhone? \ud83d\udce6 A lot has been said about Apple's cautious AI approach. However, a research paper hints at a potential ChatGPT-style system for iPhones, holding promise for applications beyond Vision Pro. #apple https://9to5mac.com/2023/12/21/apple-gpt-on-iphone/"
+                },
+                {
+                    "Title": "Introducing: VideoPoet",
+                    "Link": "https://venturebeat.com/ai/googles-new-videopoet-multimodal-ai-video-generation-model-looks-incredible/",
+                    "Description": "Google still has many cards in its hand. They've unveiled VideoPoet, a groundbreaking large language model for video generation, adopting the transformer architecture to craft stunning visuals.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: VideoPoet \ud83d\udce6 Google still has many cards in its hand. They've unveiled VideoPoet, a groundbreaking large language model for video generation, adopting the transformer architecture to craft stunning visuals. #ai https://venturebeat.com/ai/googles-new-videopoet-multimodal-ai-video-generation-model-looks-incredible/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A galactic leak",
+                    "Link": "https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak",
+                    "Description": "The year kicks off with a Samsung spectacle! Leaks suggest a January 18th Galaxy Unpacked event, unveiling the much-anticipated Galaxy S24, with spec sheets already circulating on social media.",
+                    "Time": "3",
+                    "Hashtag": "samsung",
+                    "Tweet": "A galactic leak \ud83d\udce6 The year kicks off with a Samsung spectacle! Leaks suggest a January 18th Galaxy Unpacked event, unveiling the much-anticipated Galaxy S24, with spec sheets already circulating on social media. #samsung https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak"
+                },
+                {
+                    "Title": "Save the date",
+                    "Link": "https://www.engadget.com/apples-vision-pro-mixed-reality-headset-could-be-available-by-february-2024-060156965.html",
+                    "Description": "Are we going to have the Vision Pro in our hands sooner than expected? Mark Gurman reports that Apple is accelerating production of the wearable in China with plans to hit stores in February.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Save the date \ud83d\udce6 Are we going to have the Vision Pro in our hands sooner than expected? Mark Gurman reports that Apple is accelerating production of the wearable in China with plans to hit stores in February. #apple https://www.engadget.com/apples-vision-pro-mixed-reality-headset-could-be-available-by-february-2024-060156965.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Exciting times for Volvo",
+                    "Link": "https://electrek.co/2023/12/21/volvos-first-ev-sedan-to-launch-with-111-kwh-battery-in-2025/",
+                    "Description": "Volvo continues to electrify its lineup, gearing up for the production of its next-gen luxury electric sedan in 2024, rumored to be called the ES90, with retail availability set for mid-2025.",
+                    "Time": "2",
+                    "Hashtag": "volvo",
+                    "Tweet": "Exciting times for Volvo \ud83d\udce6 Volvo continues to electrify its lineup, gearing up for the production of its next-gen luxury electric sedan in 2024, rumored to be called the ES90, with retail availability set for mid-2025. #volvo https://electrek.co/2023/12/21/volvos-first-ev-sedan-to-launch-with-111-kwh-battery-in-2025/"
+                }
+            ]
+        }
+    ],
+    "title": "Apple's own GPT, Starship's third flight, Samsung's Galaxy leak",
+    "date": "2023/12/21",
+    "description": "Apple's dropping hints that they're really into AI, ensuring no one accuses them of falling behind again. Recent papers reveal a ChatGPT-style system for iPhones. If things go as planned, we might catch Starship soaring once more before the year ends. Fingers crossed for a Christmas miracle! Lastly, if Samsung was aiming for a big surprise in January, oops, some leaks have just derailed their plans."
+}
