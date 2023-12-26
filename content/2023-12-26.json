@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Ferret has appeared",
+                    "Link": "https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/",
+                    "Description": "There's a sneaky release making waves in the world of LLMs, and it's from the least expected player: Apple. They're stepping into open source with Ferret, an image analysis system.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Ferret has appeared \ud83d\udce6 There's a sneaky release making waves in the world of LLMs, and it's from the least expected player: Apple. They're stepping into open source with Ferret, an image analysis system. #ai https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/"
+                },
+                {
+                    "Title": "No more playing around",
+                    "Link": "https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers",
+                    "Description": "Apple's AI efforts are finally making it to the news, literally. The company is reportedly in discussions with major media outlets such as Cond\u00e9 Nast and NBC to leverage news archives for AI training.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "No more playing around \ud83d\udce6 Apple's AI efforts are finally making it to the news, literally. The company is reportedly in discussions with major media outlets such as Cond\u00e9 Nast and NBC to leverage news archives for AI training. #ai https://www.theverge.com/2023/12/22/24012730/apple-ai-models-news-publishers"
+                },
+                {
+                    "Title": "Secure your piece of the future!",
+                    "Link": "https://www.engadget.com/humane-ai-pin-orders-will-start-shipping-in-march-185449334.html",
+                    "Description": "Humane's AI pin, one of the most anticipated wearables in tech, will begin shipping in March. With priority for early orders, you're still on time to secure yours.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Secure your piece of the future! \ud83d\udce6 Humane's AI pin, one of the most anticipated wearables in tech, will begin shipping in March. With priority for early orders, you're still on time to secure yours. #ai https://www.engadget.com/humane-ai-pin-orders-will-start-shipping-in-march-185449334.html"
+                },
+                {
+                    "Title": "Santa's little AI helper",
+                    "Link": "https://www.techtimes.com/articles/300049/20231226/ai-becomes-christmas-elf-helping-retail-giants-holiday-season.htm",
+                    "Description": "Behind the holiday retail craze, there's a powerful helper streamlining work, with giants like Walmart and Target among those harnessing AI to boost operations.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Santa's little AI helper \ud83d\udce6 Behind the holiday retail craze, there's a powerful helper streamlining work, with giants like Walmart and Target among those harnessing AI to boost operations. #ai https://www.techtimes.com/articles/300049/20231226/ai-becomes-christmas-elf-helping-retail-giants-holiday-season.htm"
+                },
+                {
+                    "Title": "From Microsoft to your phone",
+                    "Link": "https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch",
+                    "Description": "The power of Copilot is now at your fingertips as Microsoft has recently released its powerful assistant as an app for Android users. With chatbot capabilities, DALL-E3 image generation, and more.",
+                    "Time": "1",
+                    "Hashtag": "microsoft",
+                    "Tweet": "From Microsoft to your phone \ud83d\udce6 The power of Copilot is now at your fingertips as Microsoft has recently released its powerful assistant as an app for Android users. With chatbot capabilities, DALL-E3 image generation, and more. #microsoft https://www.theverge.com/2023/12/26/24015198/microsoft-copilot-mobile-app-android-launch"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "All powered up",
+                    "Link": "https://www.independent.co.uk/tech/electric-car-new-battery-nio-et7-b2469253.html",
+                    "Description": "Nio's groundbreaking battery tech is set to transform the EV landscape. Expected to hit mass production in April 2024, it outshines current market standards with a 1,000km range on a single charge.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "All powered up \ud83d\udce6 Nio's groundbreaking battery tech is set to transform the EV landscape. Expected to hit mass production in April 2024, it outshines current market standards with a 1,000km range on a single charge. #electricvehicles https://www.independent.co.uk/tech/electric-car-new-battery-nio-et7-b2469253.html"
+                },
+                {
+                    "Title": "A glitch has surfaced",
+                    "Link": "https://electrek.co/2023/12/26/2024-chevy-blazer-ev-sales-halted/",
+                    "Description": "With a commitment to customer satisfaction, Chevy has suspended sales of the 2024 Chevy Blazer EV, attributing the decision to software quality concerns affecting a limited number of vehicles.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "A glitch has surfaced \ud83d\udce6 With a commitment to customer satisfaction, Chevy has suspended sales of the 2024 Chevy Blazer EV, attributing the decision to software quality concerns affecting a limited number of vehicles. #electricvehicles https://electrek.co/2023/12/26/2024-chevy-blazer-ev-sales-halted/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Next step: the moon",
+                    "Link": "https://spacenews.com/japans-slim-successfully-enters-lunar-orbit-gears-up-for-precision-moon-landing/",
+                    "Description": "Japan's lunar ambitions have received one of the best Christmas presents. The SLIM spacecraft has successfully reached lunar orbit, setting the stage for an exciting landing attempt on January 19th.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Next step: the moon \ud83d\udce6 Japan's lunar ambitions have received one of the best Christmas presents. The SLIM spacecraft has successfully reached lunar orbit, setting the stage for an exciting landing attempt on January 19th. #rocketscience https://spacenews.com/japans-slim-successfully-enters-lunar-orbit-gears-up-for-precision-moon-landing/"
+                },
+                {
+                    "Title": "A turn of events",
+                    "Link": "https://spacenews.com/firefly-alpha-upper-stage-malfunction-puts-payload-into-wrong-orbit/",
+                    "Description": "A successful liftoff faced a challenge as Firefly Aerospace's Alpha Rocket experienced an upper-stage issue, resulting in Lockheed Martin's satellite landing in the wrong orbit.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A turn of events \ud83d\udce6 A successful liftoff faced a challenge as Firefly Aerospace's Alpha Rocket experienced an upper-stage issue, resulting in Lockheed Martin's satellite landing in the wrong orbit. #rocketscience https://spacenews.com/firefly-alpha-upper-stage-malfunction-puts-payload-into-wrong-orbit/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "It\u2019s getting real",
+                    "Link": "https://www.digitaltrends.com/computing/apple-mass-shipments-of-vision-pro/",
+                    "Description": "If all goes as planned, Apple is on track to start mass shipments of the Vision Pro in the first week of January, potentially hitting stores by the end of the month or early February.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "It\u2019s getting real \ud83d\udce6 If all goes as planned, Apple is on track to start mass shipments of the Vision Pro in the first week of January, potentially hitting stores by the end of the month or early February. #apple https://www.digitaltrends.com/computing/apple-mass-shipments-of-vision-pro/"
+                }
+            ]
+        }
+    ],
+    "title": "Introducing: Ferret, Apple's AI move, Copilot for Android",
+    "date": "2023/12/26",
+    "description": "While we were unwrapping gifts, Apple pulled off two sneaky moves. First up, they dropped a large language model called Ferret, and we're just noticing it now! Additionally, reports claim they're chatting with big media players about using news archives for AI training. Let's admit it, they're stepping up their game. Also, if you're an Android user, today's your lucky day \u2013 Microsoft Copilot is now available on the Google Play Store!"
+}
