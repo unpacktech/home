@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The year of AI",
+                    "Link": "https://www.businessinsider.com/experts-ai-in-2024-could-be-bad-news-for-openai-2023-12",
+                    "Description": "The entire year has revolved around AI, and how could it not? This technology has truly made its way into our lives. As 2024 approaches, experts are forecasting its further development.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "The year of AI \ud83d\udce6 The entire year has revolved around AI, and how could it not? This technology has truly made its way into our lives. As 2024 approaches, experts are forecasting its further development. #ai https://www.businessinsider.com/experts-ai-in-2024-could-be-bad-news-for-openai-2023-12"
+                },
+                {
+                    "Title": "Connection and support",
+                    "Link": "https://www.fastcompany.com/91003247/elliq-ai-sidekick-robot-seniors-cope-loneliness-isolation",
+                    "Description": "Loneliness is a common issue among seniors, which is why Intuition Robotics is using AI to provide companionship and support through its ElliQ device, offering meaningful chats for them.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "Connection and support \ud83d\udce6 Loneliness is a common issue among seniors, which is why Intuition Robotics is using AI to provide companionship and support through its ElliQ device, offering meaningful chats for them. #ai https://www.fastcompany.com/91003247/elliq-ai-sidekick-robot-seniors-cope-loneliness-isolation"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A bumpy ride",
+                    "Link": "https://www.digitaltrends.com/space/spacex-record-setting-rocket-booster-lost-at-sea/",
+                    "Description": "SpaceX has bid farewell to its iconic Booster 1058 in a rather unfortunate circumstance. While successfully nailing the droneship landing, extreme weather during the return trip caused a topple.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "A bumpy ride \ud83d\udce6 SpaceX has bid farewell to its iconic Booster 1058 in a rather unfortunate circumstance. While successfully nailing the droneship landing, extreme weather during the return trip caused a topple. #spacex https://www.digitaltrends.com/space/spacex-record-setting-rocket-booster-lost-at-sea/"
+                },
+                {
+                    "Title": "Reaching the dream",
+                    "Link": "https://www.space.com/dream-chaser-spacecraft-2024-debut-flight-tenacity",
+                    "Description": "Sierra Space is currently performing final tests before its Tenacity spacecraft reaches the skies in 2024 aboard a ULA Vulcan Centaur rocket, as part of its Dream Chaser system.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Reaching the dream \ud83d\udce6 Sierra Space is currently performing final tests before its Tenacity spacecraft reaches the skies in 2024 aboard a ULA Vulcan Centaur rocket, as part of its Dream Chaser system. #rocketscience https://www.space.com/dream-chaser-spacecraft-2024-debut-flight-tenacity"
+                },
+                {
+                    "Title": "Stunning lunar landscapes",
+                    "Link": "https://www.space.com/japan-slim-lander-moon-images-beam-home",
+                    "Description": "Japan's SLIM lander, set to land on January 19, has unveiled breathtaking lunar photos, adding to the anticipation surrounding the country's lunar goals.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Stunning lunar landscapes \ud83d\udce6 Japan's SLIM lander, set to land on January 19, has unveiled breathtaking lunar photos, adding to the anticipation surrounding the country's lunar goals. #space https://www.space.com/japan-slim-lander-moon-images-beam-home"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Close and personal",
+                    "Link": "https://gizmodo.com/juno-spacecraft-gears-up-for-closest-look-at-jupiters-t-1851126988",
+                    "Description": "This Saturday, NASA's Juno spacecraft is getting closer than ever to Jupiter's moon Io, in a remarkable flyby that is set to collect insights about its intriguing volcanic surface.",
+                    "Time": "3",
+                    "Hashtag": "science",
+                    "Tweet": "Close and personal \ud83d\udce6 This Saturday, NASA's Juno spacecraft is getting closer than ever to Jupiter's moon Io, in a remarkable flyby that is set to collect insights about its intriguing volcanic surface. #science https://gizmodo.com/juno-spacecraft-gears-up-for-closest-look-at-jupiters-t-1851126988"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A new alternative",
+                    "Link": "https://electrek.co/2023/12/27/volkswagen-backed-ev-maker-first-sodium-ion-battery-electric-car/",
+                    "Description": "JAC Group's Yiwei, supported by Volkswagen, is gearing up to launch the first sodium-ion battery-powered electric car, with the goal of leading to affordable prices and increased adoption of EVs.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "A new alternative \ud83d\udce6 JAC Group's Yiwei, supported by Volkswagen, is gearing up to launch the first sodium-ion battery-powered electric car, with the goal of leading to affordable prices and increased adoption of EVs. #electricvehicles https://electrek.co/2023/12/27/volkswagen-backed-ev-maker-first-sodium-ion-battery-electric-car/"
+                },
+                {
+                    "Title": "Embracing the challenge",
+                    "Link": "https://electrek.co/2023/12/28/smartphone-maker-xiaomi-unveils-first-ev-aims-to-rival-tesla-and-porsche/",
+                    "Description": "Xiaomi has officially presented the SU7 electric car, stepping boldly into new territory. The smartphone giant isn't shying away from competitors and aims to rival Tesla and Porsche.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Embracing the challenge \ud83d\udce6 Xiaomi has officially presented the SU7 electric car, stepping boldly into new territory. The smartphone giant isn't shying away from competitors and aims to rival Tesla and Porsche. #electricvehicles https://electrek.co/2023/12/28/smartphone-maker-xiaomi-unveils-first-ev-aims-to-rival-tesla-and-porsche/"
+                },
+                {
+                    "Title": "Taking the throne",
+                    "Link": "https://interestingengineering.com/transportation/chinas-auto-giant-dethrone-tesla",
+                    "Description": "BYD is stepping forward as a direct rival to Tesla, securing a leadership position in the global EV industry with its emphasis on affordability and a diverse lineup.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Taking the throne \ud83d\udce6 BYD is stepping forward as a direct rival to Tesla, securing a leadership position in the global EV industry with its emphasis on affordability and a diverse lineup. #electricvehicles https://interestingengineering.com/transportation/chinas-auto-giant-dethrone-tesla"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Some brief solutions",
+                    "Link": "https://9to5mac.com/2023/12/27/apple-watch-ban-pause/",
+                    "Description": "Apple has been granted a temporary pause on its Apple Watch ban until January 10. The company intends to release a software update to resolve the issue.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Some brief solutions \ud83d\udce6 Apple has been granted a temporary pause on its Apple Watch ban until January 10. The company intends to release a software update to resolve the issue. #apple https://9to5mac.com/2023/12/27/apple-watch-ban-pause/"
+                }
+            ]
+        }
+    ],
+    "title": "BYD challenges Tesla, Xiaomi unveils the SU7, A break in the ban",
+    "date": "2023/12/28",
+    "description": "There's a wild race happening in the EV world as BYD is all set to challenge Tesla's reign. Looks like our beloved Tesla needs to step on the gas a bit if it wants to hold onto the throne. Speaking of EVs... Who would've guessed that a smartphone giant like Xiaomi would be the new game-changer in the market? Not me! And, good news for Apple \u2013 the Apple Watch ban is taking a break until January 10, perfect timing for my birthday!"
+}
