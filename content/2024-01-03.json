@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "From Starlink to your phone",
+                    "Link": "https://spacenews.com/spacex-deploys-direct-to-smartphone-satellites-in-first-launch-of-2024/",
+                    "Description": "SpaceX is into new beginnings, looking to expand its offerings with the launch of Starlink satellites designed to connect directly to smartphones, adding space-based communication to its portfolio.",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": "From Starlink to your phone \ud83d\udce6 SpaceX is into new beginnings, looking to expand its offerings with the launch of Starlink satellites designed to connect directly to smartphones, adding space-based communication to its portfolio. #spacex https://spacenews.com/spacex-deploys-direct-to-smartphone-satellites-in-first-launch-of-2024/"
+                },
+                {
+                    "Title": "Time to explore",
+                    "Link": "https://www.fastcompany.com/91004017/2024-major-year-for-space-exploration",
+                    "Description": "Keep your eyes on the skies, as 2024 promises to be a marvelous year for space exploration. NASA, SpaceX, and other agencies are set for remarkable missions to enhance our understanding of the cosmos.",
+                    "Time": "5",
+                    "Hashtag": "space",
+                    "Tweet": "Time to explore \ud83d\udce6 Keep your eyes on the skies, as 2024 promises to be a marvelous year for space exploration. NASA, SpaceX, and other agencies are set for remarkable missions to enhance our understanding of the cosmos. #space https://www.fastcompany.com/91004017/2024-major-year-for-space-exploration"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The perfect clone",
+                    "Link": "https://venturebeat.com/ai/open-source-ai-voice-cloning-arrives-with-myshells-new-openvoice-model/",
+                    "Description": "In an effort to promote further development in AI research, MyShell proudly presents OpenVoice\u2014an open-source voice cloning tool that offers instant results and customizable options.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "The perfect clone \ud83d\udce6 In an effort to promote further development in AI research, MyShell proudly presents OpenVoice\u2014an open-source voice cloning tool that offers instant results and customizable options. #ai https://venturebeat.com/ai/open-source-ai-voice-cloning-arrives-with-myshells-new-openvoice-model/"
+                },
+                {
+                    "Title": "AI goes on the race",
+                    "Link": "https://interestingengineering.com/transportation/toyota-unveils-ai-enhanced-gr-supra-worlds-first-self-drifting-car",
+                    "Description": "Toyota is planning to introduce the world's first self-drifting GR Supra, merging racing and AI to amplify human driving abilities through algorithms that can transform automated driving.",
+                    "Time": "2",
+                    "Hashtag": "toyota",
+                    "Tweet": "AI goes on the race \ud83d\udce6 Toyota is planning to introduce the world's first self-drifting GR Supra, merging racing and AI to amplify human driving abilities through algorithms that can transform automated driving. #toyota https://interestingengineering.com/transportation/toyota-unveils-ai-enhanced-gr-supra-worlds-first-self-drifting-car"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "We will see it happen?",
+                    "Link": "https://www.theverge.com/2024/1/2/24022803/apple-vision-pro-jony-ive-zoom-eyes-sunglasses-patent",
+                    "Description": "A recent patent granted to Apple gives insights into the Vision Pro ahead of its launch. Coming from Jony Ive's creativity, it features an external display that showcases the wearer's perspective.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "We will see it happen? \ud83d\udce6 A recent patent granted to Apple gives insights into the Vision Pro ahead of its launch. Coming from Jony Ive's creativity, it features an external display that showcases the wearer's perspective. #apple https://www.theverge.com/2024/1/2/24022803/apple-vision-pro-jony-ive-zoom-eyes-sunglasses-patent"
+                },
+                {
+                    "Title": "Don't break the bank",
+                    "Link": "https://www.engadget.com/metas-quest-2-headset-is-about-to-get-even-cheaper-090433083.html",
+                    "Description": "If you've been eyeing Meta's Quest 2 VR headset for a while but didn't want to stretch your budget, now is a great time to get it, as Meta is committing to affordability by dropping the price tag.",
+                    "Time": "1",
+                    "Hashtag": "meta",
+                    "Tweet": "Don't break the bank \ud83d\udce6 If you've been eyeing Meta's Quest 2 VR headset for a while but didn't want to stretch your budget, now is a great time to get it, as Meta is committing to affordability by dropping the price tag. #meta https://www.engadget.com/metas-quest-2-headset-is-about-to-get-even-cheaper-090433083.html"
+                },
+                {
+                    "Title": "Prepare for Samsung",
+                    "Link": "https://gizmodo.com/samsung-galaxy-unpacked-where-to-watch-s24-ai-1851134461",
+                    "Description": "After several leaks, we can finally confirm that Samsung's Galaxy Unpacked event is officially set to happen on January 17. The only question remaining is how many AI features they'll unveil.",
+                    "Time": "2",
+                    "Hashtag": "samsung",
+                    "Tweet": "Prepare for Samsung \ud83d\udce6 After several leaks, we can finally confirm that Samsung's Galaxy Unpacked event is officially set to happen on January 17. The only question remaining is how many AI features they'll unveil. #samsung https://gizmodo.com/samsung-galaxy-unpacked-where-to-watch-s24-ai-1851134461"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "A peek into Mars",
+                    "Link": "https://www.engadget.com/nasas-curiosity-rover-snapped-this-dreamy-timelapse-of-a-martian-day-175701537.html",
+                    "Description": "During its time off work due to the solar conjunction, NASA's Curiosity rover took the chance to capture a stunning 12-hour sequence, showing us how a Martian day goes.",
+                    "Time": "1",
+                    "Hashtag": "NASA",
+                    "Tweet": "A peek into Mars \ud83d\udce6 During its time off work due to the solar conjunction, NASA's Curiosity rover took the chance to capture a stunning 12-hour sequence, showing us how a Martian day goes. #NASA https://www.engadget.com/nasas-curiosity-rover-snapped-this-dreamy-timelapse-of-a-martian-day-175701537.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A new leader",
+                    "Link": "https://electrek.co/2024/01/02/byd-overtakes-tesla-battery-electric-vehicle-volume/",
+                    "Description": "The EV market doesn't stop shifting, so automakers keep trying to stay ahead. A surprising twist emerges as BYD takes the lead, surpassing Tesla in electric vehicle volume for Q4.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "A new leader \ud83d\udce6 The EV market doesn't stop shifting, so automakers keep trying to stay ahead. A surprising twist emerges as BYD takes the lead, surpassing Tesla in electric vehicle volume for Q4. #tesla https://electrek.co/2024/01/02/byd-overtakes-tesla-battery-electric-vehicle-volume/"
+                },
+                {
+                    "Title": "All about improvement",
+                    "Link": "https://electrek.co/2024/01/02/hyundai-patent-all-solid-state-ev-battery-system/",
+                    "Description": "Hyundai continues to foster EV adoption by developing cutting-edge technologies aimed at improving their performance. The company presented a patent for a pressurized all-solid-state battery system.",
+                    "Time": "2",
+                    "Hashtag": "hyundai",
+                    "Tweet": "All about improvement \ud83d\udce6 Hyundai continues to foster EV adoption by developing cutting-edge technologies aimed at improving their performance. The company presented a patent for a pressurized all-solid-state battery system. #hyundai https://electrek.co/2024/01/02/hyundai-patent-all-solid-state-ev-battery-system/"
+                }
+            ]
+        }
+    ],
+    "title": "A new frontier awaits Starlink, 2024: The year of exploration, BYD takes the throne",
+    "date": "2024/01/03",
+    "description": "SpaceX is all set to test out some new capabilities with the launch of Starlink satellites designed to link up with smartphones. Get ready for a different kind of connection! And speaking of space, 2024 is bringing us a bunch of interesting missions that will totally leave us in awe. My personal fave? Artemis II. Lastly, BYD officially outpaced Tesla in electric vehicle volume in Q4. Looks like we're witnessing the birth of a new giant!"
+}
