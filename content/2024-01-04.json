@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The LLM course",
+                    "Link": "https://github.com/mlabonne/llm-course",
+                    "Description": "Ever wondered how large language models work, or are you curious about creating one that can meet your needs? Whatever the case, there's a comprehensive LLM course that will guide you through it.",
+                    "Time": "14",
+                    "Hashtag": "ai",
+                    "Tweet": "The LLM course \ud83d\udce6 Ever wondered how large language models work, or are you curious about creating one that can meet your needs? Whatever the case, there's a comprehensive LLM course that will guide you through it. #ai https://github.com/mlabonne/llm-course"
+                },
+                {
+                    "Title": "A key to success?",
+                    "Link": "https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/",
+                    "Description": "Microsoft's commitment to AI is so serious that after nearly 30 years, they're considering a makeover. The company has announced its plan to add a Copilot key to its future PC keyboards.",
+                    "Time": "2",
+                    "Hashtag": "microsoft",
+                    "Tweet": "A key to success? \ud83d\udce6 Microsoft's commitment to AI is so serious that after nearly 30 years, they're considering a makeover. The company has announced its plan to add a Copilot key to its future PC keyboards. #microsoft https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/"
+                },
+                {
+                    "Title": "Intel presents Articul8",
+                    "Link": "https://techcrunch.com/2024/01/03/intel-spins-out-a-new-enterprise-focused-gen-ai-software-company/",
+                    "Description": "Intel continues to forge its path into the AI market, with the announcement of a generative AI company called Articul8, which will offer enterprise solutions, with a focus on speed and security.",
+                    "Time": "2",
+                    "Hashtag": "intel",
+                    "Tweet": "Intel presents Articul8 \ud83d\udce6 Intel continues to forge its path into the AI market, with the announcement of a generative AI company called Articul8, which will offer enterprise solutions, with a focus on speed and security. #intel https://techcrunch.com/2024/01/03/intel-spins-out-a-new-enterprise-focused-gen-ai-software-company/"
+                },
+                {
+                    "Title": "Hidden in plain sight",
+                    "Link": "https://www.engadget.com/google-bard-advanced-is-coming-but-it-likely-wont-be-free-142653282.html",
+                    "Description": "A slight change in code signals that we may be getting closer to Google Bard Advanced. Users have shared snippets that tease a three-month free offer for the Gemini-powered chatbot.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Hidden in plain sight \ud83d\udce6 A slight change in code signals that we may be getting closer to Google Bard Advanced. Users have shared snippets that tease a three-month free offer for the Gemini-powered chatbot. #google https://www.engadget.com/google-bard-advanced-is-coming-but-it-likely-wont-be-free-142653282.html"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Mapping the unseen",
+                    "Link": "https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil",
+                    "Description": "The sea is a vast unknown, and traditional tracking methods sometimes fail to grasp its extent. Thanks to AI, Global Fishing Watch has generated a map that reveals the amount of human activity in it.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Mapping the unseen \ud83d\udce6 The sea is a vast unknown, and traditional tracking methods sometimes fail to grasp its extent. Thanks to AI, Global Fishing Watch has generated a map that reveals the amount of human activity in it. #ai https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Next stop is Apophis",
+                    "Link": "https://gizmodo.com/nasa-apophis-sun-osiris-apex-asteroid-sample-return-1851137275",
+                    "Description": "A new route demands a new name. That's why after performing one of the many solar flybys needed to head toward asteroid Apophis, NASA's former OSIRIS-Rex is now OSIRIS-APEX.",
+                    "Time": "3",
+                    "Hashtag": "NASA",
+                    "Tweet": "Next stop is Apophis \ud83d\udce6 A new route demands a new name. That's why after performing one of the many solar flybys needed to head toward asteroid Apophis, NASA's former OSIRIS-Rex is now OSIRIS-APEX. #NASA https://gizmodo.com/nasa-apophis-sun-osiris-apex-asteroid-sample-return-1851137275"
+                },
+                {
+                    "Title": "History in the making",
+                    "Link": "https://www.space.com/astrobotic-peregrine-private-moon-lander-risks-reward",
+                    "Description": "January 8 is a decisive day for Astrobotic as the company gears up to launch its Peregrine lunar lander. If successful, this feat will make history as the first private lander to touch down on the moon.",
+                    "Time": "5",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "History in the making \ud83d\udce6 January 8 is a decisive day for Astrobotic as the company gears up to launch its Peregrine lunar lander. If successful, this feat will make history as the first private lander to touch down on the moon. #rocketscience https://www.space.com/astrobotic-peregrine-private-moon-lander-risks-reward"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Who will be the opponent?",
+                    "Link": "https://www.cnbc.com/2024/01/04/qualcomm-announces-snapdragon-xr2-gen-2-chip-for-ar-headsets.html",
+                    "Description": "As the Vision Pro launch approaches, tech giants focus on the next big thing in mixed reality. Qualcomm's Snapdragon XR2+ Gen 2 chip has arrived to boost Samsung's and Google's goals.",
+                    "Time": "1",
+                    "Hashtag": "qualcomm",
+                    "Tweet": "Who will be the opponent? \ud83d\udce6 As the Vision Pro launch approaches, tech giants focus on the next big thing in mixed reality. Qualcomm's Snapdragon XR2+ Gen 2 chip has arrived to boost Samsung's and Google's goals. #qualcomm https://www.cnbc.com/2024/01/04/qualcomm-announces-snapdragon-xr2-gen-2-chip-for-ar-headsets.html"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "A glitch on the road",
+                    "Link": "https://electrek.co/2024/01/03/more-bad-buzz-for-chevy-blazer-evs-software-glitches-doors-that-fly-open/",
+                    "Description": "Unfortunately, Chevy's efforts to make strides in the EV industry are being eclipsed by constant glitches and a safety recall for its long-awaited Chevy Blazer EV.",
+                    "Time": "2",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "A glitch on the road \ud83d\udce6 Unfortunately, Chevy's efforts to make strides in the EV industry are being eclipsed by constant glitches and a safety recall for its long-awaited Chevy Blazer EV. #electricvehicles https://electrek.co/2024/01/03/more-bad-buzz-for-chevy-blazer-evs-software-glitches-doors-that-fly-open/"
+                },
+                {
+                    "Title": "Taking the lead",
+                    "Link": "https://electrek.co/2024/01/03/kia-ev9-outsold-toyota-ev-first-us-sales-month/",
+                    "Description": "As the adoption of EVs continues to grow, certain automakers are more ready to deal with the demand than others. It's the case with Kia, whose current EV9 electric SUV has outsold Toyota's bZ4X.",
+                    "Time": "3",
+                    "Hashtag": "kia",
+                    "Tweet": "Taking the lead \ud83d\udce6 As the adoption of EVs continues to grow, certain automakers are more ready to deal with the demand than others. It's the case with Kia, whose current EV9 electric SUV has outsold Toyota's bZ4X. #kia https://electrek.co/2024/01/03/kia-ev9-outsold-toyota-ev-first-us-sales-month/"
+                }
+            ]
+        }
+    ],
+    "title": "All about LLMs, Microsoft's key plan, Bard Advanced is coming",
+    "date": "2024/01/04",
+    "description": "Navigating through the sea of information about large language models can be confusing. I get it, I've been there. But fear not, we've stumbled upon a comprehensive course that might help you clear your doubts. When it comes to AI, Microsoft isn't messing around, so it's no surprise that they're planning to make it a \"key\" piece of their upcoming PCs. Plus, you've witnessed the magic Gemini brings, right? Well, it's making its appearance in Bard sooner than you think."
+}
