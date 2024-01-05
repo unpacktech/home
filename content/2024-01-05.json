@@ -1,0 +1,117 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The GPT Store is opening soon!",
+                    "Link": "https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/",
+                    "Description": "An email sent to developers working on GPTs has revealed that OpenAI's long-awaited GPT Store is finally launching next week, following a series of delays due to the company's upheaval last November.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "The GPT Store is opening soon! \ud83d\udce6 An email sent to developers working on GPTs has revealed that OpenAI's long-awaited GPT Store is finally launching next week, following a series of delays due to the company's upheaval last November. #ai https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A treasure within",
+                    "Link": "https://interestingengineering.com/culture/instruments-bitcoin-dna-peregrine-lunar-lander",
+                    "Description": "Astrobotic's upcoming launch is not only remarkable for the possibility of making history but also for the variety of the Peregrine lander's cargo, from NASA instruments to physical Bitcoin.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A treasure within \ud83d\udce6 Astrobotic's upcoming launch is not only remarkable for the possibility of making history but also for the variety of the Peregrine lander's cargo, from NASA instruments to physical Bitcoin. #rocketscience https://interestingengineering.com/culture/instruments-bitcoin-dna-peregrine-lunar-lander"
+                },
+                {
+                    "Title": "Reaching new heights",
+                    "Link": "https://spacenews.com/china-completes-new-commercial-launch-pad-to-boost-access-to-space/",
+                    "Description": "Looking to expand its reach in space exploration, China has completed a new launch pad that will serve as a space gateway for both national and commercial ventures.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Reaching new heights \ud83d\udce6 Looking to expand its reach in space exploration, China has completed a new launch pad that will serve as a space gateway for both national and commercial ventures. #rocketscience https://spacenews.com/china-completes-new-commercial-launch-pad-to-boost-access-to-space/"
+                },
+                {
+                    "Title": "Be part of the journey",
+                    "Link": "https://www.digitaltrends.com/space/fly-your-name-to-the-moon-as-part-of-historic-nasa-mission/",
+                    "Description": "Psst! Want a boarding pass for NASA's VIPER mission? You're in luck\u2014the space agency is offering a fun opportunity to launch your name to the moon aboard the groundbreaking rover.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Be part of the journey \ud83d\udce6 Psst! Want a boarding pass for NASA's VIPER mission? You're in luck\u2014the space agency is offering a fun opportunity to launch your name to the moon aboard the groundbreaking rover. #space https://www.digitaltrends.com/space/fly-your-name-to-the-moon-as-part-of-historic-nasa-mission/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Unified energy",
+                    "Link": "https://electrek.co/2024/01/05/tesla-annouces-partnership-samsung-energy-connectivity/",
+                    "Description": "Tesla and Samsung team up to merge their ecosystem for energy connectivity. Tesla's latest API update, now with Powerwall and solar integration, supports Samsung's SmartThings Energy app.",
+                    "Time": "1",
+                    "Hashtag": "samsung",
+                    "Tweet": "Unified energy \ud83d\udce6 Tesla and Samsung team up to merge their ecosystem for energy connectivity. Tesla's latest API update, now with Powerwall and solar integration, supports Samsung's SmartThings Energy app. #samsung https://electrek.co/2024/01/05/tesla-annouces-partnership-samsung-energy-connectivity/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Google presents AutoRT",
+                    "Link": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
+                    "Description": "As robots become increasingly integrated into our daily lives, Google DeepMind is actively working to ensure their functionality while promoting safety and a better understanding of tasks.",
+                    "Time": "2",
+                    "Hashtag": "robotics",
+                    "Tweet": "Google presents AutoRT \ud83d\udce6 As robots become increasingly integrated into our daily lives, Google DeepMind is actively working to ensure their functionality while promoting safety and a better understanding of tasks. #robotics https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1"
+                },
+                {
+                    "Title": "Without a bang",
+                    "Link": "https://www.space.com/nasa-x-59-quiet-supersonic-jet-rollout-livestream",
+                    "Description": "Are we closer to a Sonic revival? NASA and Lockheed Martin are gearing up to unveil the X-59 Quesst, a supersonic jet that aims to be quietly powerful while breaking the sound barrier.",
+                    "Time": "2",
+                    "Hashtag": "NASA",
+                    "Tweet": "Without a bang \ud83d\udce6 Are we closer to a Sonic revival? NASA and Lockheed Martin are gearing up to unveil the X-59 Quesst, a supersonic jet that aims to be quietly powerful while breaking the sound barrier. #NASA https://www.space.com/nasa-x-59-quiet-supersonic-jet-rollout-livestream"
+                },
+                {
+                    "Title": "Precise and sophisticated",
+                    "Link": "https://interestingengineering.com/innovation/chinese-humanoid-robot-fight-tesla-optimus",
+                    "Description": "With more companies entering the humanoid robot arena, Tesla's Optimus still has work to do. China's Kepler recently unveiled Forerunner, emerging as a strong competitor with its advanced movements.",
+                    "Time": "3",
+                    "Hashtag": "robotics",
+                    "Tweet": "Precise and sophisticated \ud83d\udce6 With more companies entering the humanoid robot arena, Tesla's Optimus still has work to do. China's Kepler recently unveiled Forerunner, emerging as a strong competitor with its advanced movements. #robotics https://interestingengineering.com/innovation/chinese-humanoid-robot-fight-tesla-optimus"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "A real tech extravaganza",
+                    "Link": "https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect",
+                    "Description": "Las Vegas is set to become a giant tech party at CES 2024. From January 9th to 12th, we have front-row tickets to a bunch of launches. In fact, they have already started.",
+                    "Time": "8",
+                    "Hashtag": "tech",
+                    "Tweet": "A real tech extravaganza \ud83d\udce6 Las Vegas is set to become a giant tech party at CES 2024. From January 9th to 12th, we have front-row tickets to a bunch of launches. In fact, they have already started. #tech https://www.theverge.com/2024/1/5/24025489/ces-2024-tv-transportation-laptops-smart-home-what-to-expect"
+                }
+            ]
+        },
+        {
+            "category": "Miscellaneous \ud83c\udf10",
+            "stories": [
+                {
+                    "Title": "Bye bye cookies!",
+                    "Link": "https://www.engadget.com/google-has-started-disabling-third-party-cookies-for-chrome-users-060955481.html",
+                    "Description": "Third-party cookies are a thing of the past for nearly 30 million Chrome users. This move comes from Google's Privacy Sandbox project, aimed at enhancing security during browsing.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Bye bye cookies! \ud83d\udce6 Third-party cookies are a thing of the past for nearly 30 million Chrome users. This move comes from Google's Privacy Sandbox project, aimed at enhancing security during browsing. #google https://www.engadget.com/google-has-started-disabling-third-party-cookies-for-chrome-users-060955481.html"
+                }
+            ]
+        }
+    ],
+    "title": "GPT Store is coming, Astrobotic\u2019s lunar cargo, A trip with NASA\u2019s VIPER",
+    "date": "2024/01/05",
+    "description": "Your number-one destination for customized GPTs is about to open! After a little delay thanks to OpenAI\u2019s rollercoaster, all signs point to the launch happening next week. You've probably heard about Astrobotic\u2019s Peregrine lander set for a lunar journey on January 8th. Well, there's a bunch of cool stuff going with it\u2014scientific gear, souvenirs, and even Bitcoin! Also, if you want to jump on the lunar bandwagon, NASA is giving you a chance to put your name on the VIPER mission. I've already got my ticket!"
+}
