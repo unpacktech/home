@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Just a little sugar, please",
+                    "Link": "https://twitter.com/Figure_robot/status/1743985067989352827?s=20",
+                    "Description": "It's exciting to see humanoid robots making progress and AI being leveraged to help them learn behaviors. Figure recently shared footage of its Figure 01 model making a cup of coffee.",
+                    "Time": "1",
+                    "Hashtag": "robotics",
+                    "Tweet": "Just a little sugar, please \ud83d\udce6 It's exciting to see humanoid robots making progress and AI being leveraged to help them learn behaviors. Figure recently shared footage of its Figure 01 model making a cup of coffee. #robotics https://twitter.com/Figure_robot/status/1743985067989352827?s=20"
+                },
+                {
+                    "Title": "Unveiling hidden wonders",
+                    "Link": "https://interestingengineering.com/science/nasas-xrism-mission-to-unveil-unseen-universe-with-x-ray-vision",
+                    "Description": "NASA, JAXA, and ESA have recently shared insights into XRISM, the cutting-edge mission that intends to reveal a different side of the cosmos through X-rays. Its first snapshot shows a galaxy cluster.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Unveiling hidden wonders \ud83d\udce6 NASA, JAXA, and ESA have recently shared insights into XRISM, the cutting-edge mission that intends to reveal a different side of the cosmos through X-rays. Its first snapshot shows a galaxy cluster. #space https://interestingengineering.com/science/nasas-xrism-mission-to-unveil-unseen-universe-with-x-ray-vision"
+                },
+                {
+                    "Title": "Shades of blue",
+                    "Link": "https://www.digitaltrends.com/space/neptune-uranus-true-colors/",
+                    "Description": "Next time you're making a solar system model, make sure to paint Neptune in the right shade. Recent studies have revealed that the planet has a pale baby blue hue similar to Uranus.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Shades of blue \ud83d\udce6 Next time you're making a solar system model, make sure to paint Neptune in the right shade. Recent studies have revealed that the planet has a pale baby blue hue similar to Uranus. #space https://www.digitaltrends.com/space/neptune-uranus-true-colors/"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Not as easy as it seems",
+                    "Link": "https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai",
+                    "Description": "The rapid growth of the AI industry faces challenges related to the use of copyrighted material in training. OpenAI highlights the crucial role of accessing this content for advancing technology.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Not as easy as it seems \ud83d\udce6 The rapid growth of the AI industry faces challenges related to the use of copyrighted material in training. OpenAI highlights the crucial role of accessing this content for advancing technology. #ai https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai"
+                },
+                {
+                    "Title": "GPT on the road",
+                    "Link": "https://www.engadget.com/volkswagen-thinks-chatgpt-integration-will-make-its-in-car-voice-assistant-good-160033466.html",
+                    "Description": "Volkswagen plans to revamp its upcoming vehicles with a touch of AI. The automaker's strategy includes integrating ChatGPT to improve its voice assistant for more intuitive interaction.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "GPT on the road \ud83d\udce6 Volkswagen plans to revamp its upcoming vehicles with a touch of AI. The automaker's strategy includes integrating ChatGPT to improve its voice assistant for more intuitive interaction. #ai https://www.engadget.com/volkswagen-thinks-chatgpt-integration-will-make-its-in-car-voice-assistant-good-160033466.html"
+                },
+                {
+                    "Title": "Everything about Gemini",
+                    "Link": "https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/",
+                    "Description": "A lot has been said about Google's upcoming Gemini. We're aware of its power and the controversy of its \"staged\" performance video. Still, there's much more to learn about what's coming.",
+                    "Time": "9",
+                    "Hashtag": "google",
+                    "Tweet": "Everything about Gemini \ud83d\udce6 A lot has been said about Google's upcoming Gemini. We're aware of its power and the controversy of its \"staged\" performance video. Still, there's much more to learn about what's coming. #google https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Up to great things",
+                    "Link": "https://spacenews.com/vulcan-centaur-launches-peregrine-lunar-lander-on-inaugural-mission/",
+                    "Description": "United Launch Alliance and Astrobotic are together on a remarkable journey. The first has successfully completed its maiden flight, and the second is now en route to a historic moon mission.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Up to great things \ud83d\udce6 United Launch Alliance and Astrobotic are together on a remarkable journey. The first has successfully completed its maiden flight, and the second is now en route to a historic moon mission. #rocketscience https://spacenews.com/vulcan-centaur-launches-peregrine-lunar-lander-on-inaugural-mission/"
+                },
+                {
+                    "Title": "Off to study the sun",
+                    "Link": "https://spacenews.com/indias-aditya-l1-solar-observatory-enters-orbit-around-lagrange-point/",
+                    "Description": "A trip that began in September has reached its destination, carrying the ambitions of an entire country. India's solar observatory Aditya-L1 now orbits Sun-Earth Lagrange point 1.",
+                    "Time": "2",
+                    "Hashtag": "space",
+                    "Tweet": "Off to study the sun \ud83d\udce6 A trip that began in September has reached its destination, carrying the ambitions of an entire country. India's solar observatory Aditya-L1 now orbits Sun-Earth Lagrange point 1. #space https://spacenews.com/indias-aditya-l1-solar-observatory-enters-orbit-around-lagrange-point/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Mark your calendar",
+                    "Link": "https://techcrunch.com/2024/01/08/apple-vision-pro-goes-on-sale-feb-2/",
+                    "Description": "After several rumors and leaks, we finally have an official date for the Vision Pro release. Apple has chosen February 2 as the big day, so be sure to start saving for this revolutionary device.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Mark your calendar \ud83d\udce6 After several rumors and leaks, we finally have an official date for the Vision Pro release. Apple has chosen February 2 as the big day, so be sure to start saving for this revolutionary device. #apple https://techcrunch.com/2024/01/08/apple-vision-pro-goes-on-sale-feb-2/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Coming to Europe",
+                    "Link": "https://electrek.co/2024/01/08/volvo-ex30-best-seller-first-evs-eu-buyers/",
+                    "Description": "Volvo is committed to making strides in the EV market by bringing the compact EX30 to European buyers, claiming it is set to become a best-seller in the future.",
+                    "Time": "3",
+                    "Hashtag": "volvo",
+                    "Tweet": "Coming to Europe \ud83d\udce6 Volvo is committed to making strides in the EV market by bringing the compact EX30 to European buyers, claiming it is set to become a best-seller in the future. #volvo https://electrek.co/2024/01/08/volvo-ex30-best-seller-first-evs-eu-buyers/"
+                }
+            ]
+        }
+    ],
+    "title": "Figure makes progress, ULA launches Peregrine, VW's AI integration",
+    "date": "2024/01/08",
+    "description": "It's me again, telling you that the mix of AI and robotics will bring amazing things to our future. Check out Figure's humanoid robot\u2014it's on its way to becoming an awesome barista! ULA and Astrobotic nailed their launch, and now it's the Peregrine lander's turn to make history. Plus, Volkswagen is giving its vehicles an upgrade with a buddy we all know\u2014ChatGPT. Road talks are about to get a whole lot more interesting."
+}
