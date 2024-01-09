@@ -1,0 +1,102 @@
+{
+    "content": [
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A twist in the plot",
+                    "Link": "https://www.space.com/astrobotic-peregrine-lander-time-running-out-fuel-leak",
+                    "Description": "There's an unfortunate end to what seemed to be a remarkable journey in history. Astrobotic's Peregrine Lander has suffered a fuel leak, making its journey to the moon very unlikely.",
+                    "Time": "3",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "A twist in the plot \ud83d\udce6 There's an unfortunate end to what seemed to be a remarkable journey in history. Astrobotic's Peregrine Lander has suffered a fuel leak, making its journey to the moon very unlikely. #rocketscience https://www.space.com/astrobotic-peregrine-lander-time-running-out-fuel-leak"
+                },
+                {
+                    "Title": "Smart missions",
+                    "Link": "https://spacenews.com/china-launches-lobster-eye-einstein-probe-to-unveil-mysteries-of-x-ray-universe/",
+                    "Description": "China's space ambitions are soaring into a brilliant flight with the Einstein Probe, designed to uncover cosmic phenomena through the use of X-rays and cutting-edge \"lobster-eye\" optics.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Smart missions \ud83d\udce6 China's space ambitions are soaring into a brilliant flight with the Einstein Probe, designed to uncover cosmic phenomena through the use of X-rays and cutting-edge \"lobster-eye\" optics. #rocketscience https://spacenews.com/china-launches-lobster-eye-einstein-probe-to-unveil-mysteries-of-x-ray-universe/"
+                },
+                {
+                    "Title": "Collaborative efforts",
+                    "Link": "https://gizmodo.com/nasa-uae-lunar-gateway-airlock-artemis-contract-1851149864",
+                    "Description": "The United Arab Emirates is adding its grain of sand to NASA's Artemis program with the construction of an airlock module for the Gateway Space Station, fostering deep space exploration.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Collaborative efforts \ud83d\udce6 The United Arab Emirates is adding its grain of sand to NASA's Artemis program with the construction of an airlock module for the Gateway Space Station, fostering deep space exploration. #rocketscience https://gizmodo.com/nasa-uae-lunar-gateway-airlock-artemis-contract-1851149864"
+                }
+            ]
+        },
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Another way out",
+                    "Link": "https://www.theverge.com/2024/1/8/24030283/openai-nyt-lawsuit-fair-use-ai-copyright",
+                    "Description": "OpenAI and The New York Times are still in the midst of a lawsuit involving copyright infringement. The company behind ChatGPT states that it is open to making things work with the media outlet.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Another way out \ud83d\udce6 OpenAI and The New York Times are still in the midst of a lawsuit involving copyright infringement. The company behind ChatGPT states that it is open to making things work with the media outlet. #ai https://www.theverge.com/2024/1/8/24030283/openai-nyt-lawsuit-fair-use-ai-copyright"
+                },
+                {
+                    "Title": "Perfect for creators",
+                    "Link": "https://venturebeat.com/ai/getty-is-adding-an-ai-image-generator-to-istock-with-legal-protections-for-users/",
+                    "Description": "Bringing generative AI on a responsible path for commercial use, Getty Images has recently launched Generative AI by iStock, a text-to-image generator with legal protections and usage rights.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Perfect for creators \ud83d\udce6 Bringing generative AI on a responsible path for commercial use, Getty Images has recently launched Generative AI by iStock, a text-to-image generator with legal protections and usage rights. #ai https://venturebeat.com/ai/getty-is-adding-an-ai-image-generator-to-istock-with-legal-protections-for-users/"
+                },
+                {
+                    "Title": "The next search engine",
+                    "Link": "https://gizmodo.com/jeff-bezos-is-betting-this-ai-startup-will-dethrone-goo-1851149484",
+                    "Description": "Jeff Bezos is interested in a more straightforward way to search the web. That's why the entrepreneur has invested in Perplexity, a startup that plans to take on Google's search dominance by using AI.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "The next search engine \ud83d\udce6 Jeff Bezos is interested in a more straightforward way to search the web. That's why the entrepreneur has invested in Perplexity, a startup that plans to take on Google's search dominance by using AI. #ai https://gizmodo.com/jeff-bezos-is-betting-this-ai-startup-will-dethrone-goo-1851149484"
+                },
+                {
+                    "Title": "All about numbers",
+                    "Link": "https://interestingengineering.com/innovation/google-backed-mathgpt-beats-chatgpt",
+                    "Description": "MathGPT, a model developed by Asia's QANDA, has achieved a new world record in math, surpassing earlier benchmarks from OpenAI and Microsoft.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "All about numbers \ud83d\udce6 MathGPT, a model developed by Asia's QANDA, has achieved a new world record in math, surpassing earlier benchmarks from OpenAI and Microsoft. #ai https://interestingengineering.com/innovation/google-backed-mathgpt-beats-chatgpt"
+                },
+                {
+                    "Title": "Rolling out again",
+                    "Link": "https://techcrunch.com/2024/01/08/samsung-brings-back-ballie-its-home-robot-at-ces-2024-with-a-few-upgrades/",
+                    "Description": "After going a bit unnoticed at CES 2020, Samsung is trying again this year with Ballie, the funny-looking spherical home robot, now armed with a 1080p projector and AI enhancements.",
+                    "Time": "2",
+                    "Hashtag": "samsung",
+                    "Tweet": "Rolling out again \ud83d\udce6 After going a bit unnoticed at CES 2020, Samsung is trying again this year with Ballie, the funny-looking spherical home robot, now armed with a 1080p projector and AI enhancements. #samsung https://techcrunch.com/2024/01/08/samsung-brings-back-ballie-its-home-robot-at-ces-2024-with-a-few-upgrades/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "This one sounds cool",
+                    "Link": "https://www.engadget.com/apple-tells-developers-not-to-call-their-ar-and-vr-apps-ar-or-vr-apps-085136127.html",
+                    "Description": "Ahead of the Vision Pro launch, we're getting insights into Apple's specific demands for app development. One of them? Pushing the term \"spatial computing apps\" instead of AR or VR.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "This one sounds cool \ud83d\udce6 Ahead of the Vision Pro launch, we're getting insights into Apple's specific demands for app development. One of them? Pushing the term \"spatial computing apps\" instead of AR or VR. #apple https://www.engadget.com/apple-tells-developers-not-to-call-their-ar-and-vr-apps-ar-or-vr-apps-085136127.html"
+                },
+                {
+                    "Title": "Live from CES",
+                    "Link": "https://www.engadget.com/ces-2024-live-all-the-tech-announcements-and-gadgets-from-the-show-floor-in-las-vegas-000021768.html",
+                    "Description": "Directly from Las Vegas, stay up to date with all the announcements at CES 2024, where major players in the tech world are showcasing the best of the best in innovation.",
+                    "Time": "1",
+                    "Hashtag": "tech",
+                    "Tweet": "Live from CES \ud83d\udce6 Directly from Las Vegas, stay up to date with all the announcements at CES 2024, where major players in the tech world are showcasing the best of the best in innovation. #tech https://www.engadget.com/ces-2024-live-all-the-tech-announcements-and-gadgets-from-the-show-floor-in-las-vegas-000021768.html"
+                }
+            ]
+        }
+    ],
+    "title": "Bad news from Peregrine, OpenAI's copyright dispute, Apple's guidelines",
+    "date": "2024/01/09",
+    "description": "I hate to be the one bringing the sad news, but that awesome mission we were all hyped about? Well, turns out a fuel leak is stealing its thunder. Astrobotic\u2019s Peregrine won\u2019t make it to the moon after all. The OpenAI vs. The New York Times discussion gets more intricate as the days go by, with OpenAI claiming they\u2019re not being completely honest with their statement (though saying they aim to make things work). And, as usual, Apple is all about exclusivity; they want developers to ditch the whole VR/AR term for their fancy new Vision Pro apps."
+}
