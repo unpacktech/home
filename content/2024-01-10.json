@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "All in one place",
+                    "Link": "https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date",
+                    "Description": "The R1 by Rabbit is a multifaceted assistant that brings back some memories of the '90s when you look at it. This AI-powered gadget won't replace smartphones entirely, but it is a good complement.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "All in one place \ud83d\udce6 The R1 by Rabbit is a multifaceted assistant that brings back some memories of the '90s when you look at it. This AI-powered gadget won't replace smartphones entirely, but it is a good complement. #ai https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date"
+                },
+                {
+                    "Title": "Partners in discovery",
+                    "Link": "https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai",
+                    "Description": "Displaying AI's potential in material discovery, Microsoft and the Pacific Northwest National Laboratory uncovered a solid-state electrolyte that could reduce lithium usage in batteries.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Partners in discovery \ud83d\udce6 Displaying AI's potential in material discovery, Microsoft and the Pacific Northwest National Laboratory uncovered a solid-state electrolyte that could reduce lithium usage in batteries. #ai https://www.theverge.com/24027031/microsoft-new-solid-state-battery-material-ai"
+                },
+                {
+                    "Title": "It\u2019s humans all the way down",
+                    "Link": "https://blog.jim-nielsen.com/2024/humans-all-the-way-down/",
+                    "Description": "In the era of AI, one of the biggest misconceptions is the belief that it might replace us all. However, as much as automation seems inevitable, human interaction will prevail over any technology.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "It\u2019s humans all the way down \ud83d\udce6 In the era of AI, one of the biggest misconceptions is the belief that it might replace us all. However, as much as automation seems inevitable, human interaction will prevail over any technology. #ai https://blog.jim-nielsen.com/2024/humans-all-the-way-down/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "A little more waiting time",
+                    "Link": "https://arstechnica.com/space/2024/01/citing-crew-safety-nasa-delays-upcoming-artemis-missions-by-about-a-year/",
+                    "Description": "Sadly, for all of us eager to see NASA's Artemis program in action this year, it will be a while yet. The agency has rescheduled its roadmap to prioritize crew safety and spacecraft development..",
+                    "Time": "4",
+                    "Hashtag": "nasa",
+                    "Tweet": "A little more waiting time \ud83d\udce6 Sadly, for all of us eager to see NASA's Artemis program in action this year, it will be a while yet. The agency has rescheduled its roadmap to prioritize crew safety and spacecraft development.. #nasa https://arstechnica.com/space/2024/01/citing-crew-safety-nasa-delays-upcoming-artemis-missions-by-about-a-year/"
+                },
+                {
+                    "Title": "Shattered expectations",
+                    "Link": "https://www.space.com/astrobotic-peregrine-moon-lander-anomaly-valve",
+                    "Description": "Following the announcement that its lunar journey seemed unlikely, Astrobotic has now shared insights into what they believe went wrong with the Peregrine lander, citing a valve failure.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Shattered expectations \ud83d\udce6 Following the announcement that its lunar journey seemed unlikely, Astrobotic has now shared insights into what they believe went wrong with the Peregrine lander, citing a valve failure. #rocketscience https://www.space.com/astrobotic-peregrine-moon-lander-anomaly-valve"
+                },
+                {
+                    "Title": "The star of the show",
+                    "Link": "https://spacenews.com/spacex-targets-february-for-third-starship-test-flight/",
+                    "Description": "Get ready, everyone! SpaceX has recently announced that the third integrated test flight for the marvelous Starship is set to happen in February.",
+                    "Time": "4",
+                    "Hashtag": "spacex",
+                    "Tweet": "The star of the show \ud83d\udce6 Get ready, everyone! SpaceX has recently announced that the third integrated test flight for the marvelous Starship is set to happen in February. #spacex https://spacenews.com/spacex-targets-february-for-third-starship-test-flight/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Far far away",
+                    "Link": "https://interestingengineering.com/science/nasas-telescope-detects-aurora-on-failed-star",
+                    "Description": "The James Webb Space Telescope doesn't stop captivating us with unprecedented discoveries, revealing aurora-like signals from a brown dwarf named W1935.",
+                    "Time": "3",
+                    "Hashtag": "nasa",
+                    "Tweet": "Far far away \ud83d\udce6 The James Webb Space Telescope doesn't stop captivating us with unprecedented discoveries, revealing aurora-like signals from a brown dwarf named W1935. #nasa https://interestingengineering.com/science/nasas-telescope-detects-aurora-on-failed-star"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Chrome for EVs",
+                    "Link": "https://www.digitaltrends.com/cars/google-expanding-ev-features-maps-bringing-chrome-to-cars/",
+                    "Description": "Google's latest feature brings even more power to EVs. Android Auto users can now enjoy a revamped Maps experience and, soon enough, Chrome browsing directly from their cars.",
+                    "Time": "1",
+                    "Hashtag": "google",
+                    "Tweet": "Chrome for EVs \ud83d\udce6 Google's latest feature brings even more power to EVs. Android Auto users can now enjoy a revamped Maps experience and, soon enough, Chrome browsing directly from their cars. #google https://www.digitaltrends.com/cars/google-expanding-ev-features-maps-bringing-chrome-to-cars/"
+                },
+                {
+                    "Title": "Directly to the street",
+                    "Link": "https://techcrunch.com/2024/01/10/tesla-refreshed-model-3-highland-us-sales/",
+                    "Description": "Just as we were expecting, Tesla has started selling a revamped version of its acclaimed Model 3 in the US, just a few months after its debut in China and Europe.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Directly to the street \ud83d\udce6 Just as we were expecting, Tesla has started selling a revamped version of its acclaimed Model 3 in the US, just a few months after its debut in China and Europe. #tesla https://techcrunch.com/2024/01/10/tesla-refreshed-model-3-highland-us-sales/"
+                },
+                {
+                    "Title": "Starting from 0",
+                    "Link": "https://electrek.co/2024/01/09/honda-unveils-two-radical-looking-ev-concepts-and-new-h-logo-ces-2024/",
+                    "Description": "Honda has committed to an all-electric lineup, kicking off 2024 with this ambitious goal in mind. The automaker unveiled its \"0 Series\" with two EV concepts at CES.",
+                    "Time": "4",
+                    "Hashtag": "honda",
+                    "Tweet": "Starting from 0 \ud83d\udce6 Honda has committed to an all-electric lineup, kicking off 2024 with this ambitious goal in mind. The automaker unveiled its \"0 Series\" with two EV concepts at CES. #honda https://electrek.co/2024/01/09/honda-unveils-two-radical-looking-ev-concepts-and-new-h-logo-ces-2024/"
+                }
+            ]
+        }
+    ],
+    "title": "R1 by Rabbit, Microsoft's material discovery, Beyond AI's misconceptions",
+    "date": "2024/01/10",
+    "description": "Rabbit just dropped this cool gadget, the R1. It's not a smartphone; it looks like a gaming device, but trust me, it's way more than that. It's super versatile. Microsoft continues to harness AI for groundbreaking discoveries, uncovering a material that could reduce lithium use in batteries. Plus, I stumbled upon this post that shares something I truly believe in: AI needs us humans to shine. So, no worries about it taking over everything!"
+}
