@@ -6,62 +6,68 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.conf42.com/</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2023-06-01.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
   <priority>0.25</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-02.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.3333333333333333</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.325</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-03.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.41666666666666663</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.4</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-04.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.5</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.475</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-05.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.5833333333333333</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.55</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-08.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.6666666666666667</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.625</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-09.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.75</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.7</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-10.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.8333333333333334</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.775</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/2024-01-11.html</loc>
-  <lastmod>2024-01-11T18:37:36.649333+00:00</lastmod>
-  <priority>0.9166666666666666</priority>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+
+<url>
+  <loc>https://www.conf42.com/2024-01-12.html</loc>
+  <lastmod>2024-01-12T17:25:19.858398+00:00</lastmod>
+  <priority>0.925</priority>
 </url>
 
 </urlset>
