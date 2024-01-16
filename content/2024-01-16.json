@@ -1,0 +1,112 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Your opinion matters",
+                    "Link": "https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/",
+                    "Description": "OpenAI is committed to creating AI models that excel at transparency and responsibility. That's why they recently announced the Collective Alignment team to involve public input into their products.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Your opinion matters \ud83d\udce6 OpenAI is committed to creating AI models that excel at transparency and responsibility. That's why they recently announced the Collective Alignment team to involve public input into their products. #ai https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/"
+                },
+                {
+                    "Title": "Bring on the Pro",
+                    "Link": "https://techcrunch.com/2024/01/15/microsoft-launches-a-pro-plan-for-copilot/",
+                    "Description": "Copilot is one of Microsoft's most important innovations at the moment. To sustain its growth, they're introducing Copilot Pro, a paid plan for customers who want to enhance their experience.",
+                    "Time": "4",
+                    "Hashtag": "microsoft",
+                    "Tweet": "Bring on the Pro \ud83d\udce6 Copilot is one of Microsoft's most important innovations at the moment. To sustain its growth, they're introducing Copilot Pro, a paid plan for customers who want to enhance their experience. #microsoft https://techcrunch.com/2024/01/15/microsoft-launches-a-pro-plan-for-copilot/"
+                },
+                {
+                    "Title": "A sharp focus",
+                    "Link": "https://www.axios.com/2024/01/16/davos-ai-lila-ibrahim-google-deepmind-technologies",
+                    "Description": "Science is among the fields that have seen significant developments thanks to AI. Lila Ibrahim from Google DeepMind states that this technology brings a new understanding of everything.",
+                    "Time": "1",
+                    "Hashtag": "science",
+                    "Tweet": "A sharp focus \ud83d\udce6 Science is among the fields that have seen significant developments thanks to AI. Lila Ibrahim from Google DeepMind states that this technology brings a new understanding of everything. #science https://www.axios.com/2024/01/16/davos-ai-lila-ibrahim-google-deepmind-technologies"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Talk about fast",
+                    "Link": "https://electrek.co/2024/01/15/harvard-solid-state-battery-charges-in-minutes/",
+                    "Description": "Advanced studies on materials such as lithium metal bring great expectations for the EV future. Researchers at Harvard are working on a solid-state battery capable of charging in 10 minutes.",
+                    "Time": "3",
+                    "Hashtag": "electricvehicles",
+                    "Tweet": "Talk about fast \ud83d\udce6 Advanced studies on materials such as lithium metal bring great expectations for the EV future. Researchers at Harvard are working on a solid-state battery capable of charging in 10 minutes. #electricvehicles https://electrek.co/2024/01/15/harvard-solid-state-battery-charges-in-minutes/"
+                }
+            ]
+        },
+        {
+            "category": "Science \u2697\ufe0f",
+            "stories": [
+                {
+                    "Title": "Need help with your laundry?",
+                    "Link": "https://www.teslarati.com/tesla-optimus-folding-shirt-laundry-video/",
+                    "Description": "Tesla continues to make steady progress on Optimus. In footage shared recently, we can witness the humanoid bot tackling a highly overwhelming household chore: folding clothes.",
+                    "Time": "2",
+                    "Hashtag": "tesla",
+                    "Tweet": "Need help with your laundry? \ud83d\udce6 Tesla continues to make steady progress on Optimus. In footage shared recently, we can witness the humanoid bot tackling a highly overwhelming household chore: folding clothes. #tesla https://www.teslarati.com/tesla-optimus-folding-shirt-laundry-video/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Trying to catch up",
+                    "Link": "https://www.cnbc.com/2024/01/15/apple-offers-rare-iphone-discount-in-china-as-demand-fears-rise.html",
+                    "Description": "Apple is exploring ways to increase sales in a key market. The company is now offering a discount on its iPhone 15 line in China due to concerns over the lack of demand and competition.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "Trying to catch up \ud83d\udce6 Apple is exploring ways to increase sales in a key market. The company is now offering a discount on its iPhone 15 line in China due to concerns over the lack of demand and competition. #apple https://www.cnbc.com/2024/01/15/apple-offers-rare-iphone-discount-in-china-as-demand-fears-rise.html"
+                },
+                {
+                    "Title": "Evading the ban",
+                    "Link": "https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision",
+                    "Description": "Apple is exploring ways to increase sales in a key market. The company is now offering a discount on its iPhone 15 line in China due to concerns about the lack of demand and competition.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Evading the ban \ud83d\udce6 Apple is exploring ways to increase sales in a key market. The company is now offering a discount on its iPhone 15 line in China due to concerns about the lack of demand and competition. #apple https://www.theverge.com/2024/1/15/24034324/apple-watch-ban-us-customs-decision"
+                },
+                {
+                    "Title": "When will it go global?",
+                    "Link": "https://9to5mac.com/2024/01/16/apple-vision-pro-international-launch/",
+                    "Description": "The days until Apple's Vision Pro arrives are numbered. However, we only know its US launch date. Analyst Ming-Chi Kuo suggests international dates will be announced before WWDC.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": "When will it go global? \ud83d\udce6 The days until Apple's Vision Pro arrives are numbered. However, we only know its US launch date. Analyst Ming-Chi Kuo suggests international dates will be announced before WWDC. #apple https://9to5mac.com/2024/01/16/apple-vision-pro-international-launch/"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Cutting-edge work",
+                    "Link": "https://spacenews.com/vulcan-launch-demonstrates-new-solid-rocket-boosters/",
+                    "Description": "The successful launch of the ULA Vulcan rocket is proof of the meticulous work behind its new solid rocket booster, the GEM 63XL from Northrop Grumman.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Cutting-edge work \ud83d\udce6 The successful launch of the ULA Vulcan rocket is proof of the meticulous work behind its new solid rocket booster, the GEM 63XL from Northrop Grumman. #rocketscience https://spacenews.com/vulcan-launch-demonstrates-new-solid-rocket-boosters/"
+                },
+                {
+                    "Title": "Ready for it",
+                    "Link": "https://www.digitaltrends.com/space/axiom-crewed-mission-to-iss-needs-good-weather-for-launch/",
+                    "Description": "SpaceX and Axiom Space are gearing up for a very exciting launch tomorrow. The Axiom 3 crewed mission is hoping for clear skies as it prepares to reach orbit.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Ready for it \ud83d\udce6 SpaceX and Axiom Space are gearing up for a very exciting launch tomorrow. The Axiom 3 crewed mission is hoping for clear skies as it prepares to reach orbit. #rocketscience https://www.digitaltrends.com/space/axiom-crewed-mission-to-iss-needs-good-weather-for-launch/"
+                }
+            ]
+        }
+    ],
+    "title": "OpenAI's collective alignment, Copilot goes Pro, Optimus does laundry",
+    "date": "2024/01/16",
+    "description": "I've got details from all our favorites! OpenAI is still on it, making sure its models stand for responsible AI, that's the meaning behind its recent Collective Alignment team. Microsoft's got some cool news too, Copilot's got a new Pro plan, and it's all about making work life a walk in the park. Oh, and Tesla? They're teaching Optimus to handle the boring stuff for us, like folding clothes."
+}
