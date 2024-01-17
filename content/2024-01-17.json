@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "Olympiad-level problem solving",
+                    "Link": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
+                    "Description": "According to Google DeepMind, the key to developing more robust AI systems in the future lies in them excelling at mathematical reasoning. AlphaGeometry serves as proof of this statement.",
+                    "Time": "3",
+                    "Hashtag": "google",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Based on you",
+                    "Link": "https://www.axios.com/2024/01/17/sam-altman-davos-ai-future-interview",
+                    "Description": "Sam Altman stated in a recent interview that the continuous development of AI might lead to \"uncomfortable\" decisions as the technology transitions into a more customizable tool.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Inspired by nature",
+                    "Link": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+                    "Description": "Sakana, a Japanese startup, has proudly raised $30 million to boost its ideas. Their focus is on small AI models that can work together seamlessly, bypassing the need for gigantic models.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "As seen on TV",
+                    "Link": "https://techcrunch.com/2024/01/17/amazon-brings-its-ai-powered-image-generator-to-fire-tv/",
+                    "Description": "Amazon is providing a creative gateway for its Fire TV users in the US. Fueled by the Titan Image Generator, they can now create stunning TV backgrounds with AI.",
+                    "Time": "1",
+                    "Hashtag": "amazon",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Great news from Stability AI",
+                    "Link": "https://venturebeat.com/programming-development/stability-ai-releases-stable-code-3b-to-fill-in-blanks-of-ai-powered-code-generation/",
+                    "Description": "Stability AI has unveiled Stable Code 3B, a model that, despite its compact size, can outperform larger rivals like Meta's CodeLLaMA 7B with its capabilities for code completion.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Just a few moments away",
+                    "Link": "https://spacenews.com/japans-slim-spacecraft-lowers-orbit-ahead-of-friday-moon-landing-attempt/",
+                    "Description": "Japan is getting ready for a close encounter with the moon as the SLIM lander begins to enter a lower, near-circular lunar orbit for its landing attempt this Friday.",
+                    "Time": "2",
+                    "Hashtag": "rocketscience",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Next stop, the ISS",
+                    "Link": "https://www.space.com/spacex-ax-3-astronaut-mission-go-for-launch",
+                    "Description": "Although everything was already set for Axiom Space's Ax-3 crewed mission, it has been announced that the launch has been delayed until tomorrow. Stay tuned for details!",
+                    "Time": "2",
+                    "Hashtag": "spacex",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Taking the lead",
+                    "Link": "https://www.engadget.com/apple-ends-samsungs-decade-plus-as-global-smartphone-shipment-leader-121413711.html",
+                    "Description": "It's been a rollercoaster lately for Apple; however, there's something to celebrate as the company has surpassed Samsung for the first time in global shipments, with 234.6 million units in 2023.",
+                    "Time": "1",
+                    "Hashtag": "apple",
+                    "Tweet": ""
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Another one, please!",
+                    "Link": "https://electrek.co/2024/01/16/mazda-nacs-adoption-tesla-superchargers/",
+                    "Description": "Mazda is the latest automaker to embrace Tesla's charging standard. This move differs from other announcements as they haven't stated a specific date for it, since Mazda is yet to offer EVs in the US.",
+                    "Time": "1",
+                    "Hashtag": "mazda",
+                    "Tweet": ""
+                },
+                {
+                    "Title": "Going with the flow",
+                    "Link": "https://electrek.co/2024/01/17/tesla-joins-vw-and-byd-in-cutting-prices-in-germany/",
+                    "Description": "In an effort to stay competitive with the constant changes in the EV market, Tesla has cut prices for its Model Y in Europe.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": ""
+                }
+            ]
+        }
+    ],
+    "title": "DeepMind presents AlphaGeometry, Sam Altman's vision for AI, Apple takes the lead",
+    "date": "2024/01/17",
+    "description": "Google is always pushing AI boundaries, and in their own words, mathematical reasoning is the next big thing for AI development. Following that vibe, Sam Altman considers that AI development might make us \"uncomfortable\" at some point because of how customizable it may get to every individual. Plus, a big shout-out to Apple! They've officially knocked Samsung off its long-standing throne in global shipments. Cheers to that!"
+}
