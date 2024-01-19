@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The future is in your pocket",
+                    "Link": "https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers",
+                    "Description": "Rabbit's R1 continues to position itself as the gadget of the moment. With over 50,000 preorders after its launch, the company has revealed that it's partnering with Perplexity to boost its capabilities.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "The future is in your pocket \ud83d\udce6 Rabbit's R1 continues to position itself as the gadget of the moment. With over 50,000 preorders after its launch, the company has revealed that it's partnering with Perplexity to boost its capabilities. #ai https://www.theverge.com/2024/1/18/24043490/rabbit-r1-ai-perplexity-pro-live-search-info-answers"
+                },
+                {
+                    "Title": "The pursuit of AGI",
+                    "Link": "https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview",
+                    "Description": "Major names in the AI industry are behind the goal of achieving AGI, and now Mark Zuckerberg is joining its ranks, claiming that the products he envisions must be built with this technology in mind.",
+                    "Time": "7",
+                    "Hashtag": "meta",
+                    "Tweet": "The pursuit of AGI \ud83d\udce6 Major names in the AI industry are behind the goal of achieving AGI, and now Mark Zuckerberg is joining its ranks, claiming that the products he envisions must be built with this technology in mind. #meta https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview"
+                },
+                {
+                    "Title": "A fellow student",
+                    "Link": "https://techcrunch.com/2024/01/19/openai-signs-up-its-first-higher-education-customer-arizona-state/",
+                    "Description": "ChatGPT is going to the university, quite literally. OpenAI and Arizona State University have shared plans to use the chatbot as a tool to improve student success, research, and administrative functions.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A fellow student \ud83d\udce6 ChatGPT is going to the university, quite literally. OpenAI and Arizona State University have shared plans to use the chatbot as a tool to improve student success, research, and administrative functions. #ai https://techcrunch.com/2024/01/19/openai-signs-up-its-first-higher-education-customer-arizona-state/"
+                },
+                {
+                    "Title": "Perfect for your TikTok",
+                    "Link": "https://techcrunch.com/2024/01/19/tiktok-is-experimenting-with-a-feature-that-uses-ai-to-create-songs-based-on-prompts/",
+                    "Description": "As the trend for generative AI grows, more platforms are willing to give it a try. That's the case for TikTok which is currently testing a feature that allows users to create songs using text prompts.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Perfect for your TikTok \ud83d\udce6 As the trend for generative AI grows, more platforms are willing to give it a try. That's the case for TikTok which is currently testing a feature that allows users to create songs using text prompts. #ai https://techcrunch.com/2024/01/19/tiktok-is-experimenting-with-a-feature-that-uses-ai-to-create-songs-based-on-prompts/"
+                },
+                {
+                    "Title": "It's AI news",
+                    "Link": "https://www.engadget.com/your-google-news-feed-is-likely-filled-with-ai-generated-articles-194654896.html",
+                    "Description": "As AI proliferates online, there's a slight chance that some Google News results may be AI-generated. Nonetheless, Google assures it's infrequent as they prioritize valuable and original content.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "It's AI news \ud83d\udce6 As AI proliferates online, there's a slight chance that some Google News results may be AI-generated. Nonetheless, Google assures it's infrequent as they prioritize valuable and original content. #ai https://www.engadget.com/your-google-news-feed-is-likely-filled-with-ai-generated-articles-194654896.html"
+                }
+            ]
+        },
+        {
+            "category": "Rocket science \ud83d\ude80",
+            "stories": [
+                {
+                    "Title": "Are you there SLIM?",
+                    "Link": "https://www.space.com/japan-moon-landing-success-slim-spacecraft",
+                    "Description": "Japan's historic touchdown on the moon happened. However, not everything is going according to plan as JAXA has just revealed an issue with SLIM's solar panels.",
+                    "Time": "4",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Are you there SLIM? \ud83d\udce6 Japan's historic touchdown on the moon happened. However, not everything is going according to plan as JAXA has just revealed an issue with SLIM's solar panels. #rocketscience https://www.space.com/japan-moon-landing-success-slim-spacecraft"
+                },
+                {
+                    "Title": "Off to space",
+                    "Link": "https://arstechnica.com/space/2024/01/all-european-crew-takes-aim-on-international-space-station/",
+                    "Description": "Axiom Space's Ax-3 is heading to the ISS after a successful launch at the hands of SpaceX. A crew of four astronauts is gearing up for two weeks of space research.",
+                    "Time": "6",
+                    "Hashtag": "rocketscience",
+                    "Tweet": "Off to space \ud83d\udce6 Axiom Space's Ax-3 is heading to the ISS after a successful launch at the hands of SpaceX. A crew of four astronauts is gearing up for two weeks of space research. #rocketscience https://arstechnica.com/space/2024/01/all-european-crew-takes-aim-on-international-space-station/"
+                }
+            ]
+        },
+        {
+            "category": "Big tech \ud83c\udf1f",
+            "stories": [
+                {
+                    "Title": "Get ready!",
+                    "Link": "https://www.engadget.com/apple-vision-pro-pre-orders-are-now-open-130056024.html",
+                    "Description": "The moment of truth is inching closer as pre-orders for Apple's Vision Pro are now available. Keep in mind that this is a tailored experience, requiring you to scan your face to ensure the perfect fit.",
+                    "Time": "2",
+                    "Hashtag": "apple",
+                    "Tweet": "Get ready! \ud83d\udce6 The moment of truth is inching closer as pre-orders for Apple's Vision Pro are now available. Keep in mind that this is a tailored experience, requiring you to scan your face to ensure the perfect fit. #apple https://www.engadget.com/apple-vision-pro-pre-orders-are-now-open-130056024.html"
+                },
+                {
+                    "Title": "Alexa\u2019s upcoming revamp",
+                    "Link": "https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/",
+                    "Description": "Amazon is looking for ways to keep its famous voice assistant afloat. Rumors suggest the company wants to launch a subscription-only generative AI version of Alexa to boost revenue and attract users.",
+                    "Time": "4",
+                    "Hashtag": "amazon",
+                    "Tweet": "Alexa\u2019s upcoming revamp \ud83d\udce6 Amazon is looking for ways to keep its famous voice assistant afloat. Rumors suggest the company wants to launch a subscription-only generative AI version of Alexa to boost revenue and attract users. #amazon https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/"
+                }
+            ]
+        },
+        {
+            "category": "Electric cars \ud83d\ude97",
+            "stories": [
+                {
+                    "Title": "Let\u2019s go to China!",
+                    "Link": "https://electrek.co/2024/01/18/tesla-cybertruck-chinese-tour-available/",
+                    "Description": "Tesla is bringing a treat for its fans in China. The Cybertruck is going on a tour for everyone who wants to witness its power in person. A heads up, though: it isn't currently available in the country.",
+                    "Time": "1",
+                    "Hashtag": "tesla",
+                    "Tweet": "Let\u2019s go to China! \ud83d\udce6 Tesla is bringing a treat for its fans in China. The Cybertruck is going on a tour for everyone who wants to witness its power in person. A heads up, though: it isn't currently available in the country. #tesla https://electrek.co/2024/01/18/tesla-cybertruck-chinese-tour-available/"
+                }
+            ]
+        }
+    ],
+    "title": "Rabbit and Perplexity join forces, ChatGPT\u2019s academic journey, Meta turns to AGI",
+    "date": "2024/01/19",
+    "description": "Rabbit's R1 gadget is still stealing the spotlight, teaming up with Perplexity to give users instant answers\u2014talk about futuristic vibes! Picture this: a friendly chatbot could be your sidekick in class, thanks to OpenAI and Arizona State University teaming up to bring ChatGPT to their campus. And just when we thought the AGI scene was getting dull, enter Mark Zuckerberg, thinking up all future Meta products powered by this game-changing tech."
+}
