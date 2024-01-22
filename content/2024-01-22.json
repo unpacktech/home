@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "That's what we call ambition...",
+                    "Link": "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip",
+                    "Description": "Sam Altman is taking matters into his own hands in a move that could reshape the AI landscape. Reports suggest the CEO aims to venture into chip-making, seeking backing from major investors and Taiwan's TSMC. If successful, Altman is set to defy Nvidia's dominance.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "That's what we call ambition... \ud83d\udce6 Sam Altman is taking matters into his own hands in a move that could reshape the AI landscape. Reports suggest the CEO aims to venture into chip-making, seeking backing from major investors and Taiwan's TSMC. If successful, Altman is set to defy Nvidia's dominance. #ai https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
+                },
+                {
+                    "Title": "Efficient and fast",
+                    "Link": "https://www.marktechpost.com/2024/01/21/researchers-from-the-university-of-washington-and-allen-institute-for-ai-present-proxy-tuning-an-efficient-alternative-to-finetuning-large-language-models/",
+                    "Description": "In an effort to simplify the customization process, researchers from the University of Washington and the Allen Institute for AI have developed proxy-tuning, an algorithm that fine-tunes language models without tweaking internal parameters.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Efficient and fast \ud83d\udce6 In an effort to simplify the customization process, researchers from the University of Washington and the Allen Institute for AI have developed proxy-tuning, an algorithm that fine-tunes language models without tweaking internal parameters. #ai https://www.marktechpost.com/2024/01/21/researchers-from-the-university-of-washington-and-allen-institute-for-ai-present-proxy-tuning-an-efficient-alternative-to-finetuning-large-language-models/"
+                },
+                {
+                    "Title": "Watch out for the Mamba",
+                    "Link": "https://interestingengineering.com/innovation/can-mamba-bite-chatgpt",
+                    "Description": "From the minds of Princeton and Carnegie Mellon, Mamba has emerged to revolutionize machine learning. This Structured State Model claims to be 5x faster than Transformers, potentially outshining LLMs like ChatGPT.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Watch out for the Mamba \ud83d\udce6 From the minds of Princeton and Carnegie Mellon, Mamba has emerged to revolutionize machine learning. This Structured State Model claims to be 5x faster than Transformers, potentially outshining LLMs like ChatGPT. #ai https://interestingengineering.com/innovation/can-mamba-bite-chatgpt"
+                },
+                {
+                    "Title": "The smaller the better",
+                    "Link": "https://venturebeat.com/ai/stability-ai-unveils-smaller-more-efficient-1-6b-language-model-as-part-of-ongoing-innovation/",
+                    "Description": "Stability AI continues to favor smaller models, as they sometimes yield better results than older and larger ones. The company has recently introduced Stable LM 2 1.6B, whose capabilities aim to enhance developers' work in the gen-AI field.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "The smaller the better \ud83d\udce6 Stability AI continues to favor smaller models, as they sometimes yield better results than older and larger ones. The company has recently introduced Stable LM 2 1.6B, whose capabilities aim to enhance developers' work in the gen-AI field. #ai https://venturebeat.com/ai/stability-ai-unveils-smaller-more-efficient-1-6b-language-model-as-part-of-ongoing-innovation/"
+                },
+                {
+                    "Title": "A poisonous outcome",
+                    "Link": "https://venturebeat.com/ai/nightshade-the-free-tool-that-poisons-ai-models-is-now-available-for-artists-to-use/",
+                    "Description": "Artists looking to protect their work from AI training can now use \"Nightshade,\" a tool developed by the Glaze Project. This software alters pixels in an image, providing AI programs with a completely different outcome.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "A poisonous outcome \ud83d\udce6 Artists looking to protect their work from AI training can now use \"Nightshade,\" a tool developed by the Glaze Project. This software alters pixels in an image, providing AI programs with a completely different outcome. #ai https://venturebeat.com/ai/nightshade-the-free-tool-that-poisons-ai-models-is-now-available-for-artists-to-use/"
+                },
+                {
+                    "Title": "A sigh of relief",
+                    "Link": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
+                    "Description": "Nowadays, the fear that AI might take everyone's jobs continues to haunt plenty of workplaces. However, a study from MIT has come to ease those concerns, revealing that most of the positions at risk aren't as viable for automation as expected.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "A sigh of relief \ud83d\udce6 Nowadays, the fear that AI might take everyone's jobs continues to haunt plenty of workplaces. However, a study from MIT has come to ease those concerns, revealing that most of the positions at risk aren't as viable for automation as expected. #ai https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/"
+                },
+                {
+                    "Title": "Let's not get political",
+                    "Link": "https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html",
+                    "Description": "OpenAI remains firm in its stance of not allowing the use of its technology for political purposes, suspending a developer who created a chatbot to impersonate one of the US presidential candidates.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Let's not get political \ud83d\udce6 OpenAI remains firm in its stance of not allowing the use of its technology for political purposes, suspending a developer who created a chatbot to impersonate one of the US presidential candidates. #ai https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html"
+                },
+                {
+                    "Title": "AI is not meant for artists?",
+                    "Link": "https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/",
+                    "Description": "The ongoing debate on whether it is right for an artist to leverage AI for their works brings multiple opinions. Kimberley Gordon from the viral brand Selkie has received backlash for its use; nonetheless, she doesn't see it as a bad thing.",
+                    "Time": "6",
+                    "Hashtag": "ai",
+                    "Tweet": "AI is not meant for artists? \ud83d\udce6 The ongoing debate on whether it is right for an artist to leverage AI for their works brings multiple opinions. Kimberley Gordon from the viral brand Selkie has received backlash for its use; nonetheless, she doesn't see it as a bad thing. #ai https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/"
+                },
+                {
+                    "Title": "Free for as long as possible",
+                    "Link": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
+                    "Description": "We are still at the beginning of the AI era, with many of the developments being brand new and, therefore, free to use. However, there's a possibility of this changing in the future due to the high cost of running AI models.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Free for as long as possible \ud83d\udce6 We are still at the beginning of the AI era, with many of the developments being brand new and, therefore, free to use. However, there's a possibility of this changing in the future due to the high cost of running AI models. #ai https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1"
+                },
+                {
+                    "Title": "AI's role in healthcare",
+                    "Link": "https://www.axios.com/2024/01/22/ai-health-care-industry-medicine-hospitals-cost",
+                    "Description": "AI can transform various fields. While the technology itself won't completely overhaul the current healthcare system, it can streamline processes and enhance the patient-doctor relationship.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "AI's role in healthcare \ud83d\udce6 AI can transform various fields. While the technology itself won't completely overhaul the current healthcare system, it can streamline processes and enhance the patient-doctor relationship. #ai https://www.axios.com/2024/01/22/ai-health-care-industry-medicine-hospitals-cost"
+                }
+            ]
+        }
+    ],
+    "title": "Sam Altman\u2019s chip venture, OpenAI's Stance, AI won\u2019t take your job",
+    "date": "2024/01/22",
+    "description": "We're kicking off the week with some major moves from Sam Altman. You know he's got huge plans for AI, and guess what plays a big role in it? Chips. So, what's better for the main character in the industry right now than to stop relying on others (*looks at NVIDIA*) and jump into the chip-making game? Moving on to OpenAI, they're laying down the rules: no messing with political campaigns or lobbying for candidates. So, before you use their tech for that, think twice. Lastly, don't stress about automation \u2013 chances are your job won't change much, even with AI in the mix."
+}
