@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "What would happen?",
+                    "Link": "https://dcgross.com/agitrades",
+                    "Description": "While GPT-4 excels at various tasks, there is still room for improvement in its development. The main focus of this post is to explore potential scenarios if it were to achieve human-level proficiency.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "What would happen? \ud83d\udce6 While GPT-4 excels at various tasks, there is still room for improvement in its development. The main focus of this post is to explore potential scenarios if it were to achieve human-level proficiency. #ai https://dcgross.com/agitrades"
+                },
+                {
+                    "Title": "Ready to set expectations",
+                    "Link": "https://the-decoder.com/google-aims-to-deliver-worlds-most-advanced-ai-in-2024-and-it-certainly-has-a-long-way-to-go/",
+                    "Description": "Just like the rest of us at the beginning of the year, Google has just laid down its resolutions (or corporate goals) for 2024. The leaked list has AI as its starting point, revealing the company's commitment to developing the most advanced version of the technology.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Ready to set expectations \ud83d\udce6 Just like the rest of us at the beginning of the year, Google has just laid down its resolutions (or corporate goals) for 2024. The leaked list has AI as its starting point, revealing the company's commitment to developing the most advanced version of the technology. #ai https://the-decoder.com/google-aims-to-deliver-worlds-most-advanced-ai-in-2024-and-it-certainly-has-a-long-way-to-go/"
+                },
+                {
+                    "Title": "Meet the new unicorn",
+                    "Link": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
+                    "Description": "ElevenLabs, an AI startup known for using machine learning to clone voices, has announced that they've reached $80 million in funding, leading to a remarkable valuation of $1.1 billion only two years after its creation.",
+                    "Time": "5",
+                    "Hashtag": "ai",
+                    "Tweet": "Meet the new unicorn \ud83d\udce6 ElevenLabs, an AI startup known for using machine learning to clone voices, has announced that they've reached $80 million in funding, leading to a remarkable valuation of $1.1 billion only two years after its creation. #ai https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
+                },
+                {
+                    "Title": "A nice talk",
+                    "Link": "https://www.fastcompany.com/91014735/new-ai-tech-video-game-npcs-convai",
+                    "Description": "NPCs will no longer have a secondary role in video games, thanks to Convai's approach, which uses AI to enable more natural conversations, making the gaming experience richer.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A nice talk \ud83d\udce6 NPCs will no longer have a secondary role in video games, thanks to Convai's approach, which uses AI to enable more natural conversations, making the gaming experience richer. #ai https://www.fastcompany.com/91014735/new-ai-tech-video-game-npcs-convai"
+                },
+                {
+                    "Title": "Better ways to teach",
+                    "Link": "https://www.marktechpost.com/2024/01/22/this-ai-paper-from-meta-and-nyu-introduces-self-rewarding-language-models-that-are-capable-of-self-alignment-via-judging-and-training-on-their-own-generations/",
+                    "Description": "Researchers are constantly exploring new ways to improve model training. Meta and New York University have presented a method called \"Self-Rewarding Language Models,\" which allows models to update their learning guides based on their performance.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Better ways to teach \ud83d\udce6 Researchers are constantly exploring new ways to improve model training. Meta and New York University have presented a method called \"Self-Rewarding Language Models,\" which allows models to update their learning guides based on their performance. #ai https://www.marktechpost.com/2024/01/22/this-ai-paper-from-meta-and-nyu-introduces-self-rewarding-language-models-that-are-capable-of-self-alignment-via-judging-and-training-on-their-own-generations/"
+                },
+                {
+                    "Title": "Not much assistance but some jokes",
+                    "Link": "https://www.digitaltrends.com/computing/ai-chatbot-goes-rogue-during-customer-service-exchange/",
+                    "Description": "A glitch in a system update has made a customer-service chatbot go rogue. DPD, the international delivery firm, has issued a statement claiming it is working toward fixing the situation.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Not much assistance but some jokes \ud83d\udce6 A glitch in a system update has made a customer-service chatbot go rogue. DPD, the international delivery firm, has issued a statement claiming it is working toward fixing the situation. #ai https://www.digitaltrends.com/computing/ai-chatbot-goes-rogue-during-customer-service-exchange/"
+                },
+                {
+                    "Title": "Sorry, wrong number",
+                    "Link": "https://the-decoder.com/new-hampshire-voters-receive-ai-generated-biden-robocalls-urging-them-to-skip-the-primary/",
+                    "Description": "The political panorama ahead of the US presidential election presents a potential scenario for the surge of deep fakes. Voters in New Hampshire have reported receiving AI-generated calls with the voice of President Biden.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Sorry, wrong number \ud83d\udce6 The political panorama ahead of the US presidential election presents a potential scenario for the surge of deep fakes. Voters in New Hampshire have reported receiving AI-generated calls with the voice of President Biden. #ai https://the-decoder.com/new-hampshire-voters-receive-ai-generated-biden-robocalls-urging-them-to-skip-the-primary/"
+                },
+                {
+                    "Title": "Is it really an AI PC?",
+                    "Link": "https://www.fastcompany.com/91013245/intel-ai-pc-apple",
+                    "Description": "With the outburst of AI, Intel has made its way through the frenzy, claiming its latest processors are set to transform computing. However, many argue that the company is just trying to keep up with Apple's chip improvements.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Is it really an AI PC? \ud83d\udce6 With the outburst of AI, Intel has made its way through the frenzy, claiming its latest processors are set to transform computing. However, many argue that the company is just trying to keep up with Apple's chip improvements. #ai https://www.fastcompany.com/91013245/intel-ai-pc-apple"
+                },
+                {
+                    "Title": "In time for the earnings season",
+                    "Link": "https://www.institutionalinvestor.com/article/2cqjgsulkx3md4n3ox2ps/portfolio/bloombergs-first-generative-ai-tool-hits-the-terminal",
+                    "Description": "Bloomberg has recently introduced a Gen-AI tool that empowers its terminal users with summaries and analysis of company performance, highlighting key points and assisting them in unlocking deeper insights.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "In time for the earnings season \ud83d\udce6 Bloomberg has recently introduced a Gen-AI tool that empowers its terminal users with summaries and analysis of company performance, highlighting key points and assisting them in unlocking deeper insights. #ai https://www.institutionalinvestor.com/article/2cqjgsulkx3md4n3ox2ps/portfolio/bloombergs-first-generative-ai-tool-hits-the-terminal"
+                },
+                {
+                    "Title": "Here comes Grok 1.5",
+                    "Link": "https://twitter.com/elonmusk/status/1749481112076751120",
+                    "Description": "A recent post by Elon Musk on X hints at an enhanced version of Grok coming to us next month. Exciting times!",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Here comes Grok 1.5 \ud83d\udce6 A recent post by Elon Musk on X hints at an enhanced version of Grok coming to us next month. Exciting times! #ai https://twitter.com/elonmusk/status/1749481112076751120"
+                }
+            ]
+        }
+    ],
+    "title": "How AI would impact us?, Google's 2024 goal, Grok 1.5 is coming",
+    "date": "2024/01/23",
+    "description": "Ever thought about how the upgrades to GPT-4 could shake up our world? Came across this post with some cool questions about that. Google's 2024 resolutions are devoted to AI \u2013 their roadmap just leaked, and they're aiming for the best, most responsible, and safest AI. Pretty ambitious, huh? Also, Elon Musk is dropping hints about new updates for Grok. Let's see what tricks the coolest chatbot in the game has for us next month."
+}
