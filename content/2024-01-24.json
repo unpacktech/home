@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "End of the contract",
+                    "Link": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+                    "Description": "The fast-paced development of the AI industry sometimes results in unexpected turns, even for leading companies. Alphabet has decided to cut ties with Appen, the AI data firm that has taken part in several Google products, including Bard.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "End of the contract \ud83d\udce6 The fast-paced development of the AI industry sometimes results in unexpected turns, even for leading companies. Alphabet has decided to cut ties with Appen, the AI data firm that has taken part in several Google products, including Bard. #ai https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
+                },
+                {
+                    "Title": "Chrome gets enhanced",
+                    "Link": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+                    "Description": "With the goal of simplifying online browsing, Chrome has been revamped with three new Gen-AI features. Leveraging AI to help you organize your tabs, write on the web, and even craft unique themes.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Chrome gets enhanced \ud83d\udce6 With the goal of simplifying online browsing, Chrome has been revamped with three new Gen-AI features. Leveraging AI to help you organize your tabs, write on the web, and even craft unique themes. #ai https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
+                },
+                {
+                    "Title": "The power of Lumiere",
+                    "Link": "https://lumiere-video.github.io/",
+                    "Description": "Google Research has introduced Lumiere, an innovative text-to-video approach. This AI model uses a Space-Time U-Net architecture that surpasses the limitations of current methods, yielding incredibly realistic results.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "The power of Lumiere \ud83d\udce6 Google Research has introduced Lumiere, an innovative text-to-video approach. This AI model uses a Space-Time U-Net architecture that surpasses the limitations of current methods, yielding incredibly realistic results. #ai https://lumiere-video.github.io/"
+                },
+                {
+                    "Title": "The cheaper the better",
+                    "Link": "https://the-decoder.com/generative-ai-is-expensive-and-microsoft-needs-to-cut-costs/",
+                    "Description": "Groundbreaking technology like AI comes with a high cost, prompting even major players in the field to seek ways to reduce it. This is evident with Microsoft, as reports reveal a shift in their development efforts toward \"small language models.\"",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "The cheaper the better \ud83d\udce6 Groundbreaking technology like AI comes with a high cost, prompting even major players in the field to seek ways to reduce it. This is evident with Microsoft, as reports reveal a shift in their development efforts toward \"small language models.\" #ai https://the-decoder.com/generative-ai-is-expensive-and-microsoft-needs-to-cut-costs/"
+                },
+                {
+                    "Title": "A hub for AI",
+                    "Link": "https://techcrunch.com/2024/01/24/eu-supercomputers-for-ai-2/",
+                    "Description": "Acknowledging the strategic role of AI in our current era and striving to keep up with the competition, the EU is committed to assisting homegrown AI startups and scale-ups with the \"AI Innovation Package.\"",
+                    "Time": "11",
+                    "Hashtag": "ai",
+                    "Tweet": "A hub for AI \ud83d\udce6 Acknowledging the strategic role of AI in our current era and striving to keep up with the competition, the EU is committed to assisting homegrown AI startups and scale-ups with the \"AI Innovation Package.\" #ai https://techcrunch.com/2024/01/24/eu-supercomputers-for-ai-2/"
+                },
+                {
+                    "Title": "Forget the retro look",
+                    "Link": "https://www.theverge.com/2024/1/22/24046916/nvidia-rtx-remix-open-beta-ray-tracing",
+                    "Description": "Nvidia has harnessed AI to give a new look to classic games. The RTX Remix tool allows modders to enhance texture and lighting, giving a more realistic feel to old graphics.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Forget the retro look \ud83d\udce6 Nvidia has harnessed AI to give a new look to classic games. The RTX Remix tool allows modders to enhance texture and lighting, giving a more realistic feel to old graphics. #ai https://www.theverge.com/2024/1/22/24046916/nvidia-rtx-remix-open-beta-ray-tracing"
+                },
+                {
+                    "Title": "Gemini to the rescue",
+                    "Link": "https://the-decoder.com/google-ads-now-lets-you-generate-search-campaigns-using-a-gemini-chatbot/",
+                    "Description": "Gemini is set to elevate the conversational experience in Google Ads. A recent report from Google highlighted how the integration of AI is driving improvements in search campaigns, streamlining advertisers' workflows.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Gemini to the rescue \ud83d\udce6 Gemini is set to elevate the conversational experience in Google Ads. A recent report from Google highlighted how the integration of AI is driving improvements in search campaigns, streamlining advertisers' workflows. #ai https://the-decoder.com/google-ads-now-lets-you-generate-search-campaigns-using-a-gemini-chatbot/"
+                },
+                {
+                    "Title": "Scoring a goal",
+                    "Link": "https://interestingengineering.com/culture/ibm-ai-help-soccer-pick-players-sevillafc",
+                    "Description": "AI is going to play a role on the game field. Spain's soccer team, Sevilla FC, has agreed with IBM to use its watsonx AI platform to improve the process of identifying and evaluating potential talent for acquisition.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Scoring a goal \ud83d\udce6 AI is going to play a role on the game field. Spain's soccer team, Sevilla FC, has agreed with IBM to use its watsonx AI platform to improve the process of identifying and evaluating potential talent for acquisition. #ai https://interestingengineering.com/culture/ibm-ai-help-soccer-pick-players-sevillafc"
+                },
+                {
+                    "Title": "A defense mechanism",
+                    "Link": "https://venturebeat.com/ai/kin-art-launches-to-defend-artists-entire-portfolios-from-ai-scraping/",
+                    "Description": "As more artists are eager to protect their work from AI training, there's a surge of potential solutions. Kin.art is a tool that combines several machine learning methods to safeguard images uploaded to its servers.",
+                    "Time": "8",
+                    "Hashtag": "ai",
+                    "Tweet": "A defense mechanism \ud83d\udce6 As more artists are eager to protect their work from AI training, there's a surge of potential solutions. Kin.art is a tool that combines several machine learning methods to safeguard images uploaded to its servers. #ai https://venturebeat.com/ai/kin-art-launches-to-defend-artists-entire-portfolios-from-ai-scraping/"
+                },
+                {
+                    "Title": "All about the Galaxy S24",
+                    "Link": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-every-galaxy-ai-feature-you-can-use/",
+                    "Description": "Yes, we're all incredibly amazed by Samsung's latest Galaxy S24. We know AI completely powers it, but there's more than meets the eye, including live translation, editing, and even custom emojis.",
+                    "Time": "7",
+                    "Hashtag": "ai",
+                    "Tweet": "All about the Galaxy S24 \ud83d\udce6 Yes, we're all incredibly amazed by Samsung's latest Galaxy S24. We know AI completely powers it, but there's more than meets the eye, including live translation, editing, and even custom emojis. #ai https://www.digitaltrends.com/mobile/samsung-galaxy-s24-every-galaxy-ai-feature-you-can-use/"
+                }
+            ]
+        }
+    ],
+    "title": "Chrome's AI boost, Introducing: Lumiere, AI scores a goal",
+    "date": "2024/01/24",
+    "description": "Today's newsletter is all about Google, and come on, could it be anyone else? They recently told us they're totally into AI. So, to keep up with their AI love affair, they've got some nice things in store for us. First up, Chrome shows off new AI features, and then Google Research drops Lumiere, a game-changer in text-to-video models. By the way, any soccer fans here? Guess who's becoming a Spanish team's scouting advisor? It starts with an \"A\" and ends with an \"I.\""
+}
