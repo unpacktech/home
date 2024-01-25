@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "AI for your iPhone",
+                    "Link": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/",
+                    "Description": "Apple is diligently working on AI, as evidenced by research papers, job listing changes, and past acquisitions. According to insiders, this hints at a potential breakthrough in AI expected to be revealed with the arrival of iOS 18.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "AI for your iPhone \ud83d\udce6 Apple is diligently working on AI, as evidenced by research papers, job listing changes, and past acquisitions. According to insiders, this hints at a potential breakthrough in AI expected to be revealed with the arrival of iOS 18. #ai https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/"
+                },
+                {
+                    "Title": "Made for businesses",
+                    "Link": "https://finance.yahoo.com/news/nvidia-equinix-team-offer-ai-140623424.html",
+                    "Description": "Privacy and security concerns are primary considerations for businesses entering the AI landscape. That's why Equinix and Nvidia have teamed up to offer the latter's supercomputing systems to corporate clients, enabling better control of their data.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Made for businesses \ud83d\udce6 Privacy and security concerns are primary considerations for businesses entering the AI landscape. That's why Equinix and Nvidia have teamed up to offer the latter's supercomputing systems to corporate clients, enabling better control of their data. #ai https://finance.yahoo.com/news/nvidia-equinix-team-offer-ai-140623424.html"
+                },
+                {
+                    "Title": "If AI were conscious, how would we know? ",
+                    "Link": "https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we",
+                    "Description": "It's a bit of a challenge to determine whether AI might be able to exhibit true consciousness. How can one be sure? Are the current methods we're using enough to answer these kinds of questions? The overall idea of what consciousness is comes with a lot of reflection.",
+                    "Time": "10",
+                    "Hashtag": "ai",
+                    "Tweet": "If AI were conscious, how would we know?  \ud83d\udce6 It's a bit of a challenge to determine whether AI might be able to exhibit true consciousness. How can one be sure? Are the current methods we're using enough to answer these kinds of questions? The overall idea of what consciousness is comes with a lot of reflection. #ai https://suzitravis.substack.com/p/if-ai-were-conscious-how-would-we"
+                },
+                {
+                    "Title": "Energy challenges ahead",
+                    "Link": "https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea",
+                    "Description": "A recent report from the International Energy Agency highlights a surge in energy consumption in data centers, driven by the growing impact of AI and cryptocurrencies. Addressing these challenges might require a parallel focus on enhancing efficiency.",
+                    "Time": "3",
+                    "Hashtag": "ai",
+                    "Tweet": "Energy challenges ahead \ud83d\udce6 A recent report from the International Energy Agency highlights a surge in energy consumption in data centers, driven by the growing impact of AI and cryptocurrencies. Addressing these challenges might require a parallel focus on enhancing efficiency. #ai https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea"
+                },
+                {
+                    "Title": "All together for AI research",
+                    "Link": "https://the-decoder.com/us-government-and-ai-industry-collaborate-on-national-ai-research-resource-pilot/",
+                    "Description": "Intending to foster responsible AI innovation, the US introduces the National Artificial Intelligence Research Resource, providing advanced technology access to researchers and educators in collaboration with key players like OpenAI, Google, and Microsoft.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "All together for AI research \ud83d\udce6 Intending to foster responsible AI innovation, the US introduces the National Artificial Intelligence Research Resource, providing advanced technology access to researchers and educators in collaboration with key players like OpenAI, Google, and Microsoft. #ai https://the-decoder.com/us-government-and-ai-industry-collaborate-on-national-ai-research-resource-pilot/"
+                },
+                {
+                    "Title": "A hugging collaboration",
+                    "Link": "https://www.reuters.com/technology/google-cloud-partners-with-hugging-face-attract-ai-developers-2024-01-25/",
+                    "Description": "Google Cloud is teaming up with Hugging Face to simplify AI software development, anticipating the growing interest companies are showing in deploying AI for various purposes.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A hugging collaboration \ud83d\udce6 Google Cloud is teaming up with Hugging Face to simplify AI software development, anticipating the growing interest companies are showing in deploying AI for various purposes. #ai https://www.reuters.com/technology/google-cloud-partners-with-hugging-face-attract-ai-developers-2024-01-25/"
+                },
+                {
+                    "Title": "Introducing: You\u2019s AI Modes",
+                    "Link": "https://venturebeat.com/ai/another-search-breakthrough-you-com-debuts-ai-that-can-answer-multi-step-questions/",
+                    "Description": "As AI leads us into a new era where web searching becomes more intuitive, You.com, the pioneering AI assistant, introduces its \"AI Modes,\" reducing the need for intricate prompts while effortlessly addressing complex and multi-step queries.",
+                    "Time": "4",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: You\u2019s AI Modes \ud83d\udce6 As AI leads us into a new era where web searching becomes more intuitive, You.com, the pioneering AI assistant, introduces its \"AI Modes,\" reducing the need for intricate prompts while effortlessly addressing complex and multi-step queries. #ai https://venturebeat.com/ai/another-search-breakthrough-you-com-debuts-ai-that-can-answer-multi-step-questions/"
+                },
+                {
+                    "Title": "Getting better at prompting",
+                    "Link": "https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts-in-5-steps/",
+                    "Description": "Mastering the art of prompting takes time and patience. However, there's always a helpful trick you can use to enhance your AI experience: start by talking to your favorite chatbot just like you would to anyone else!",
+                    "Time": "12",
+                    "Hashtag": "ai",
+                    "Tweet": "Getting better at prompting \ud83d\udce6 Mastering the art of prompting takes time and patience. However, there's always a helpful trick you can use to enhance your AI experience: start by talking to your favorite chatbot just like you would to anyone else! #ai https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts-in-5-steps/"
+                },
+                {
+                    "Title": "Quick and simple",
+                    "Link": "https://twitter.com/MishaalRahman/status/1749544500374966640",
+                    "Description": "There's a recent update that makes it easy for Android users to talk to ChatGPT. Simply add it as a shortcut in Quick Settings and run the assistant from any screen!",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Quick and simple \ud83d\udce6 There's a recent update that makes it easy for Android users to talk to ChatGPT. Simply add it as a shortcut in Quick Settings and run the assistant from any screen! #ai https://twitter.com/MishaalRahman/status/1749544500374966640"
+                },
+                {
+                    "Title": "Easy video translation",
+                    "Link": "https://twitter.com/elevenlabsio/status/1749863738570690692",
+                    "Description": "ElevenLabs proudly introduces DubbingStudio, utilizing AI to streamline video translation and automate the dubbing process in over 29 languages.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Easy video translation \ud83d\udce6 ElevenLabs proudly introduces DubbingStudio, utilizing AI to streamline video translation and automate the dubbing process in over 29 languages. #ai https://twitter.com/elevenlabsio/status/1749863738570690692"
+                }
+            ]
+        }
+    ],
+    "title": "Apple's AI pursuit, Equinix and Nvidia join forces, Improve your prompting!",
+    "date": "2024/01/25",
+    "description": "Many thought Apple was falling behind in the AI race, but guess what\u2014they've been cooking up some surprises! Looks like the goods we've been waiting for might drop at WWDC in June. Nvidia and Equinix are teaming up for a move aimed at businesses wanting to dive into AI with full control over their data, and Nvidia's supercomputers are right in the mix. Lastly, I've shared a comprehensive article that will turn you into a prompting magician. Enjoy!"
+}
