@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "category": "AI \ud83e\udd16",
+            "stories": [
+                {
+                    "Title": "The state of dreaming",
+                    "Link": "https://twitter.com/PropheticAI/status/1750534355242418300",
+                    "Description": "Have you ever wondered how taking control of your dreams would feel? Well, AI is making this a reality. Neurotech company Prophetic has introduced MORPHEUS-1, a multi-modal transformer model prompted by brain states that helps you induce lucid dreams.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "The state of dreaming \ud83d\udce6 Have you ever wondered how taking control of your dreams would feel? Well, AI is making this a reality. Neurotech company Prophetic has introduced MORPHEUS-1, a multi-modal transformer model prompted by brain states that helps you induce lucid dreams. #ai https://twitter.com/PropheticAI/status/1750534355242418300"
+                },
+                {
+                    "Title": "On the road",
+                    "Link": "https://twitter.com/WholeMarsBlog/status/1750687901913137245",
+                    "Description": "Recent footage of Tesla's Full Self-Driving Beta 12 showcases the automaker's improvement in autonomous driving, with AI playing a significant role as the use of end-to-end neural nets enhances many of its behavioral responses.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "On the road \ud83d\udce6 Recent footage of Tesla's Full Self-Driving Beta 12 showcases the automaker's improvement in autonomous driving, with AI playing a significant role as the use of end-to-end neural nets enhances many of its behavioral responses. #ai https://twitter.com/WholeMarsBlog/status/1750687901913137245"
+                },
+                {
+                    "Title": "Introducing: Yi-VL-34B",
+                    "Link": "https://01.ai/",
+                    "Description": "Chinese startup 01.AI has introduced Yi-VL-34B, an open-source multimodal model whose impressive benchmarks are causing a stir on Hugging Face's leaderboard. This bilingual model effortlessly enables recognition and discussion of visual content.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Introducing: Yi-VL-34B \ud83d\udce6 Chinese startup 01.AI has introduced Yi-VL-34B, an open-source multimodal model whose impressive benchmarks are causing a stir on Hugging Face's leaderboard. This bilingual model effortlessly enables recognition and discussion of visual content. #ai https://01.ai/"
+                },
+                {
+                    "Title": "A chemical robot",
+                    "Link": "https://interestingengineering.com/innovation/robochem-autonomous-ai-chemical-synthesis",
+                    "Description": "From the University of Amsterdam comes RoboChem, a blend of robotics and AI that autonomously conducts chemical synthesis and reactions with minimal waste, streamlining the work of researchers and offering the potential for production scalability.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "A chemical robot \ud83d\udce6 From the University of Amsterdam comes RoboChem, a blend of robotics and AI that autonomously conducts chemical synthesis and reactions with minimal waste, streamlining the work of researchers and offering the potential for production scalability. #ai https://interestingengineering.com/innovation/robochem-autonomous-ai-chemical-synthesis"
+                },
+                {
+                    "Title": "No more lazy work",
+                    "Link": "https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/",
+                    "Description": "Good news for developers using OpenAI's API: the company has made some adjustments to its prices and released updates for its main models, including the long-awaited fix for GPT-4 Turbo's alleged \"laziness.\"",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "No more lazy work \ud83d\udce6 Good news for developers using OpenAI's API: the company has made some adjustments to its prices and released updates for its main models, including the long-awaited fix for GPT-4 Turbo's alleged \"laziness.\" #ai https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/"
+                },
+                {
+                    "Title": "AI for drug development",
+                    "Link": "https://www.engadget.com/ai-is-coming-for-big-pharma-150045224.html",
+                    "Description": "While AI is steadily becoming a part of every aspect of our lives, one notable field for groundbreaking changes is drug development, potentially leading to new treatments and accelerating the testing process to address diseases.",
+                    "Time": "8",
+                    "Hashtag": "ai",
+                    "Tweet": "AI for drug development \ud83d\udce6 While AI is steadily becoming a part of every aspect of our lives, one notable field for groundbreaking changes is drug development, potentially leading to new treatments and accelerating the testing process to address diseases. #ai https://www.engadget.com/ai-is-coming-for-big-pharma-150045224.html"
+                },
+                {
+                    "Title": "In search of partnerships",
+                    "Link": "https://www.reuters.com/technology/openais-altman-meet-chipmakers-samsung-sk-hynix-execs-friday-sources-2024-01-25/",
+                    "Description": "Sam Altman's quest to transform the AI industry continues as reports reveal the CEO is in South Korea for discussions with leading chipmakers Samsung Electronics and SK Hynix.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "In search of partnerships \ud83d\udce6 Sam Altman's quest to transform the AI industry continues as reports reveal the CEO is in South Korea for discussions with leading chipmakers Samsung Electronics and SK Hynix. #ai https://www.reuters.com/technology/openais-altman-meet-chipmakers-samsung-sk-hynix-execs-friday-sources-2024-01-25/"
+                },
+                {
+                    "Title": "Paypal\u2019s AI enhancement",
+                    "Link": "https://techcrunch.com/2024/01/25/paypal-pilot-ai-powered-features-including-cash-back-tool-smart-receipts/",
+                    "Description": "PayPal is trialing a couple of features that harness AI to improve the customer experience. Both \"CashPass\" and \"Smart Receipts\" will offer customized suggestions based on shopper behavior data.",
+                    "Time": "2",
+                    "Hashtag": "ai",
+                    "Tweet": "Paypal\u2019s AI enhancement \ud83d\udce6 PayPal is trialing a couple of features that harness AI to improve the customer experience. Both \"CashPass\" and \"Smart Receipts\" will offer customized suggestions based on shopper behavior data. #ai https://techcrunch.com/2024/01/25/paypal-pilot-ai-powered-features-including-cash-back-tool-smart-receipts/"
+                },
+                {
+                    "Title": "Ernie\u2019s time to shine",
+                    "Link": "https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai",
+                    "Description": "As Samsung's Galaxy S24 lineup arrives in China, its AI-powered features are set to be enhanced by Baidu's Ernie bot capabilities for understanding and generation.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "Ernie\u2019s time to shine \ud83d\udce6 As Samsung's Galaxy S24 lineup arrives in China, its AI-powered features are set to be enhanced by Baidu's Ernie bot capabilities for understanding and generation. #ai https://www.theverge.com/2024/1/26/24051509/samsung-galaxy-s24-china-launch-baidu-ernie-artificial-intelligence-ai"
+                },
+                {
+                    "Title": "For the artsy mind",
+                    "Link": "https://www.creativebloq.com/news/google-art-selfie",
+                    "Description": "Google's latest Art Selfie 2 can add a unique touch to your selfies while also educating you on art history. A fun mix of AI, creativity, and knowledge if you have a few minutes to spare.",
+                    "Time": "1",
+                    "Hashtag": "ai",
+                    "Tweet": "For the artsy mind \ud83d\udce6 Google's latest Art Selfie 2 can add a unique touch to your selfies while also educating you on art history. A fun mix of AI, creativity, and knowledge if you have a few minutes to spare. #ai https://www.creativebloq.com/news/google-art-selfie"
+                }
+            ]
+        }
+    ],
+    "title": "Prophetic's dream world, Tesla's autonomous power, Sam Altman's journey continues",
+    "date": "2024/01/26",
+    "description": "Every time there's a new AI breakthrough, we're like, \"Whoa!\" But this one? It's straight out of a sci-fi movie. Prophetic, a neurotech company, plans to launch a device powered by AI to make lucid dreaming happen. Seriously, WHAT? In other news, Tesla has shown off its latest self-driving wonder, and you know it's making waves. Also, Sam Altman appears to be serious about shaking up the AI game with chipmaking. Currently, he is searching for partners in South Korea as we speak."
+}
